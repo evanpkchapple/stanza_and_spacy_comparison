@@ -1,0 +1,797 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q36180"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAuschwitzConcentrationCampVictims"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromFlorence"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Citizen109923673"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Civilian109924742"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/National109625401"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatItalianCiviliansKilledInWorldWarII"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatItalianPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatItalianPeopleWhoDiedInAuschwitzConcentrationCamp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Writer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Unfortunate109630641"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Victim110752093"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleWhoDiedInTheHolocaust"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Riccardo Reuven Pacifici"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Riccardo Pacifici"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Riccardo Pacifici"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Riccardo Pacifici"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Riccardo Reuven Pacifici (Florencia, 18 de febrero de 1904-Auschwitz, 12 de diciembre de 1943)\u200b fue un rabino italiano, v\u00edctima del Holocausto."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Riccardo Reuven Pacifici (18. Februar 1904 in Florenz \u2013 12. Dezember 1943 in Auschwitz) war ein italienischer Rabbiner."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Riccardo Reuven Pacifici (18 February 1904 \u2014 12 December 1943 ) was a rabbi from an Italian Jewish family of ancient Sephardic origins, with roots in the Jewish Spanish and rabbinical traditions. Together with his wife, he was murdered in Auschwitz."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Riccardo Reuven Pacifici (Firenze, 18 febbraio 1904 \u2013 Auschwitz, 12 dicembre 1943) \u00e8 stato un rabbino italiano, vittima dell'Olocausto."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Riccardo Reuven Pacifici"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Riccardo Reuven Pacifici"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Florence"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Auschwitz_concentration_camp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Occupation_of_Poland_(1939\u20131945)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Auschwitz_concentration_camp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Occupation_of_Poland_(1939\u20131945)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1943-12-12"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Florence"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1904-02-18"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Italian_people_who_died_in_Auschwitz_concentration_camp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1904_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1943_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Italian_civilians_killed_in_World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Sephardi_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Italian_Sephardi_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Clergy_from_Florence"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "20294592"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1072452257"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calabria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian_people_who_died_in_Auschwitz_concentration_camp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhodes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Florence"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venezia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venice"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cosenza"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chief_Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Genoa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Livorno"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Auschwitz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Auschwitz_concentration_camp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1904_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1943_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tuscany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian_civilians_killed_in_World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Essayist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ferramonti_di_Tarsia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Florence"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Italian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Sephardi_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian_Sephardi_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Clergy_from_Florence"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Teacher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Classics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nazism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Occupation_of_Poland_(1939\u20131945)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Umberto_Cassuto"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sephardic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liceo_Classico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Midrashim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Comunit\u00e0_Israelitica_di_Genova"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elia_Samuele_Artom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emanuele_Pacifici"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbinical_College_of_Florence"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbinical_College_of_Rhodes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shemuel_Zvi_Margulies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.torah.it"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://maps.google.com/maps%3Fhl=en&q=Largo+Riccardo+Pacifici,+Genoa&ie=UTF8&ll=44.41395,8.942099&spn=0.007081,0.013733&z=16&g=Largo+Riccardo+Pacifici,+Genoa&iwloc=addr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.04zyzb5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.europa.eu/euodp/jrc-names/Riccardo_Pacifici"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Riccardo_Pacifici"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/78624417"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1215049730"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q824780"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0631\u064a\u0643\u0627\u0631\u062f\u0648_\u0628\u0627\u0633\u064a\u0641\u064a\u0643\u0649"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Riccardo_Reuven_Pacifici"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Riccardo_Pacifici"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05e8\u05d9\u05e7\u05e8\u05d3\u05d5_\u05e4\u05e6'\u05d9\u05e4\u05d9\u05e6'\u05d9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Riccardo_Pacifici"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4ybLK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_writer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:More_citations_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Italy-rabbi-stub"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1904-02-18"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1943-12-12"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/genre",
+        "object": "http://dbpedia.org/resource/Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/genre",
+        "object": "http://dbpedia.org/resource/Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/genre",
+        "object": "http://dbpedia.org/resource/History"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Essayist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Teacher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Wanda Abenaim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Riccardo Reuven Pacifici (Florencia, 18 de febrero de 1904-Auschwitz, 12 de diciembre de 1943)\u200b fue un rabino italiano, v\u00edctima del Holocausto."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Riccardo Reuven Pacifici (18. Februar 1904 in Florenz \u2013 12. Dezember 1943 in Auschwitz) war ein italienischer Rabbiner."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Riccardo Reuven Pacifici (18 February 1904 \u2014 12 December 1943 ) was a rabbi from an Italian Jewish family of ancient Sephardic origins, with roots in the Jewish Spanish and rabbinical traditions. Together with his wife, he was murdered in Auschwitz."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Riccardo Reuven Pacifici (Firenze, 18 febbraio 1904 \u2013 Auschwitz, 12 dicembre 1943) \u00e8 stato un rabbino italiano, vittima dell'Olocausto."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/78624417"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Riccardo_Pacifici?oldid=1072452257&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "5415"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/genre",
+        "object": "http://dbpedia.org/resource/Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/genre",
+        "object": "http://dbpedia.org/resource/Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/genre",
+        "object": "http://dbpedia.org/resource/History"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/nationality",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Essayist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Teacher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Riccardo_Pacifici>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Riccardo_Pacifici"
+    }
+]

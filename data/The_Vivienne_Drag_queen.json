@@ -1,0 +1,897 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "The Vivienne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "The Vivienne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "The Vivienne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "James Lee Williams (Colwyn Bay, 12 de abril de 1992\u200b), conocido por el nombre art\u00edstico The Vivienne, es una drag queen galesa. Fue nombrada la primera embajadora de RuPaul's Drag Race en el Reino Unido en 2015,\u200b y en 2019, gan\u00f3 la primera temporada de RuPaul's Drag Race UK.\u200b The Vivienne recibi\u00f3 como premio ser protagonista de su propia serie web, m\u00e1s tarde titulada 'The Vivienne Takes in Hollywood. La serie se estren\u00f3 el 9 de abril de 2020 en BBC Three y sigue a la drag queen en su aventura a Hollywood para producir un video musical.\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "James Lee Williams, plus connu sous le nom de sc\u00e8ne The Vivienne, est une drag queen galloise principalement connue pour sa participation \u00e0 la premi\u00e8re saison de RuPaul's Drag Race UK et \u00e0 la septi\u00e8me saison de RuPaul's Drag Race All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "James Lee Williams (born 12 April 1992), better known by the stage name The Vivienne, is a Welsh drag queen, known for being appointed the first UK RuPaul's Drag Race ambassador in 2015, winning the first series of RuPaul's Drag Race UK in 2019, and later returning to compete in the seventh season of RuPaul's Drag Race All Stars in 2022. As part of her victory, she was awarded her own online television series, later titled The Vivienne Takes on Hollywood. The series premiered on 9 April 2020 on BBC Three and follows her trip to Hollywood to produce her own music video."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "The Vivienne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "The Vivienne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_with_All_Stars_7_Contestants_at_LA_DragCon_2022_by_dvsross_(crop_-_The_Vivienne).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Colwyn_Bay"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Wales"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Colwyn_Bay"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Wales"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1992-04-12"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1992_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Welsh_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Colwyn_Bay"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_UK_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_educated_at_Rydal_Penrhos"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Wales"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "61574467"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123658917"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BBC_1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romani_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_12)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_8)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_7)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK_(series_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK_(series_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK_(series_4)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hunted_(2015_TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/VH1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vivienne_Westwood"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1992_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colwyn_Bay"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cosmopolitan_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rydal_Penrhos"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Welsh_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Year's_Eve"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emmerdale"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Entertainment_Weekly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gemma_Collins"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glamour_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/God_Shave_the_Queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_View_(talk_show)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Weakest_Link"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/This_Is_Going_to_Hurt_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ant_&_Dec"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liverpool"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steen_Raskopoulos"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Streaming_media"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sum_Ting_Wong_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hot_Dance/Electronic_Songs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BBC_Three_(online)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/British_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Celebrity_Juice"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Celebrity_Karaoke_Club"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Celebrity_Mastermind"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tia_Kofi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UK_Singles_Chart"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/WOW_Presents_Plus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wales"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Welsh_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Absolutely_Fabulous:_The_Movie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alyssa_Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dancing_on_Ice"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dancing_on_Ice_(series_15)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Colwyn_Bay"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/North_Wales"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_UK_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_download"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Internet_Movie_Database"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jaguar_Cars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baga_Chipz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Big_Fat_Quiz_of_the_Year"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Great_British_Sewing_Bee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snatch_Game"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Attitude_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cheryl_Hole"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_educated_at_Rydal_Penrhos"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Wales"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jingle_Bell_Rock"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Just_Tattoo_of_Us"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lawrence_Chaney"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Margaret_Thatcher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ITV_(TV_network)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/I_Like_to_Watch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Krystal_Versace"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Netflix"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK_(season_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/You_Spin_Me_Round"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ant_and_Dec's_Saturday_Night_Takeaway"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Vivienne_Takes_on_Hollywood"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.imdb.com/name/nm7909393/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/59f8aa67-2831-4813-9950-88d46c203cb7"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q67185184"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0630\u0627_\u0641\u064a\u0641\u064a\u0627\u0646"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/The_Vivienne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/The_Vivienne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/AmKi4"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/A"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Pp-pc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Small"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Tooltip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_British_English"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Won"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_with_All_Stars_7_Contestants_at_LA_DragCon_2022_by_dvsross_(crop_-_The_Vivienne).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1992-04-12"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "James Lee Williams"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "The Vivienne at RuPaul's DragCon LA, 2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/Rydal_Penrhos"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "http://dbpedia.org/resource/British_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "http://dbpedia.org/resource/Welsh_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "2019"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "David Ludford"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "Dancing on Ice"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race All Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "James Lee Williams (Colwyn Bay, 12 de abril de 1992\u200b), conocido por el nombre art\u00edstico The Vivienne, es una drag queen galesa. Fue nombrada la primera embajadora de RuPaul's Drag Race en el Reino Unido en 2015,\u200b y en 2019, gan\u00f3 la primera temporada de RuPaul's Drag Race UK.\u200b The Vivienne recibi\u00f3 como premio ser protagonista de su propia serie web, m\u00e1s tarde titulada 'The Vivienne Takes in Hollywood. La serie se estren\u00f3 el 9 de abril de 2020 en BBC Three y sigue a la drag queen en su aventura a Hollywood para producir un video musical.\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "James Lee Williams, plus connu sous le nom de sc\u00e8ne The Vivienne, est une drag queen galloise principalement connue pour sa participation \u00e0 la premi\u00e8re saison de RuPaul's Drag Race UK et \u00e0 la septi\u00e8me saison de RuPaul's Drag Race All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "James Lee Williams (born 12 April 1992), better known by the stage name The Vivienne, is a Welsh drag queen, known for being appointed the first UK RuPaul's Drag Race ambassador in 2015, winning the first series of RuPaul's Drag Race UK in 2019, and later returning to compete in the seventh season of RuPaul's Drag Race All Stars in 2022. As part of her victory, she was awarded her own online television series, later titled The Vivienne Takes on Hollywood. The series premiered on 9 April 2020 on BBC Three and follows her trip to Hollywood to produce her own music video."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/The_Vivienne?oldid=1123658917&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "24951"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/stateOfOrigin",
+        "object": "http://dbpedia.org/resource/British_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/stateOfOrigin",
+        "object": "http://dbpedia.org/resource/Welsh_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "James Lee Williams"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1992"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Rydal_Penrhos"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/nationality",
+        "object": "http://dbpedia.org/resource/British_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/nationality",
+        "object": "http://dbpedia.org/resource/Welsh_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/The_Vivienne__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/The_Vivienne>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/The_Vivienne"
+    }
+]

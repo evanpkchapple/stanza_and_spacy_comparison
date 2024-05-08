@@ -1,0 +1,1837 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Honey Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "James Heath-Clark (born August 13, 1985), known professionally as Honey Davenport, is an American drag performer, singer, songwriter, actor and activist. Davenport was a longtime fixture of the New York City nightlife scene and came to international attention as a contestant on season 11 of RuPaul's Drag Race. Born in West Philadelphia, Heath-Clark attended college for musical theatre in New York, where he began his career as a backup dancer for Peppermint. He later established his own dance group, The Hunties. After taking up drag, Davenport became active in the pageant circuit of that community, winning 18 titles between 2013 and 2018. In 2013, she and her band, Electrohoney, released an eponymous album and starred in a live rock opera called The Electric Highway. She also performed in t"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Honey Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Honey Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dragcon2-SAT-63_(47937169937).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Honey_Davenport_Leopard_Print-107_1_cr.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Honey_davenport_lip_sync.png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52073260051).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/West_Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "West Philadelphia, Pennsylvania, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1985-08-13"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1985_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Articles_containing_video_clips"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_African-American_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_anti-racism_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_African_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_DJs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Singers_from_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:African-American_DJs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Entertainers_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Pansexual_non-binary_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Singers_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "59758523"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1121354683"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cairns"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Precious_(film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prostitution"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_10)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_11)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_6)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_7)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_9)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_4)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eponym"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beyonc\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bianca_Del_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billboard_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_the_Drag_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boxing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hollywood_(film_industry)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Houston_Chronicle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonny_McGovern"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jujubee_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peppermint_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Person_of_color"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DNA_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/VH1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Veganism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vice_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vivacious_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dystopia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Instinct_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Not_safe_for_work"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1985_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Articles_containing_video_clips"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cosmopolitan_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meatpacking_District,_Manhattan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sahara_Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_City_News"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_bar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rock_opera"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Ones"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Club_Cumming"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electronic_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Empire_(2015_TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Entertainment_Weekly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fuerza_Bruta"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_pride"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Floyd_protests_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miss'd_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miss_Coco_Peru"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monique_Heart"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monster's_Ball"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mon\u00e9t_X_Change"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Musical_theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_Pride"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Neon_(Erasure_album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Neon_(album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Orion_Experience"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Root_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Broadway_(theatre)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_culture_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2018_United_States_elections"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2020_United_States_presidential_election"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anxiety"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lee_Daniels"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lower_East_Side"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manhattan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_African-American_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shuga_Cain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stonewall_Inn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yuhua_Hamasaki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yvie_Oddly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_of_Xtravaganza"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Draw_the_Blood_clip.ogv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Podcast"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trans_woman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_anti-racism_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_African_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/COVID-19_pandemic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_DJs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Singers_from_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transsexual"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trayvon_Martin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trustpilot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Twitch_(service)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Watch_What_Happens_Live_with_Andy_Cohen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whitney_Houston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Widow_Von'Du"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Will_Sheridan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_pageantry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glam_rock"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Off-Broadway"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A'keria_C._Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Academy_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adam_Barta"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aja_(entertainer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Musical_and_Dramatic_Academy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Society_of_Composers,_Authors_and_Publishers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African-American_DJs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Entertainers_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_(clothing)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erasure"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eureka_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Extended_play"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fire_Island"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Floetry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ball_culture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Broadway_Cares/Equity_Fights_AIDS"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Broadway_theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Non-binary_gender"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/OutTV_(Canadian_TV_channel)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pansexuality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paradise_(nightclub)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cazwell"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chroma_key"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Disc_jockey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Subsidized_housing_in_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_LGBT_people_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_download"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Science_fiction"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rapping"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/HIV/AIDS"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hairspray_(musical)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harlem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hartley_House_(New_York_City)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harvey_Fierstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Headgum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hell's_Kitchen,_Manhattan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Here_Lies_Love"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jackie_Cox_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jan_Sport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jasmine_Masters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Androgynous"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tammie_Brown"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Boulet_Brothers'_Dragula"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pennsylvania_Governor's_School_for_the_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Asbury_Park,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Pansexual_non-binary_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Singers_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Advertising_campaign"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chew_Fu"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chita_Rivera"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jinkx_Monsoon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Junior_Reserve_Officers'_Training_Corps"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kennedy_Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kevin_Aviance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Key_West"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LaLa_Ri"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lady_Gaga"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Laurie_Beechman_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billboard"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spoken_word"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Disco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manila_Luzon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marti_Gould_Cummings"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philadelphia_Gay_News"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Phylicia_Rashad"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ITunes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Zealand"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Old_City,_Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ra'Jah_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Racism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raven_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reggaeton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sherry_Vine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/YouTube"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gene_Frankel_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mashup_(video)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Round_table_(discussion)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Web_series"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gun_violence_in_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Social_justice"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Off-off-Broadway"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transgender_sex_worker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Voice_(U.S._season_13)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/First_Friday_(public_event)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Synth-pop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pineapple_Support"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Police_brutality_in_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Painted_Bride_Art_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Village"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Voice_(U.S._TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transgender_rights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gender_and_sexuality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Dragcon2-SAT-63_(47937169937).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Honey_davenport_lip_sync.png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:RuPaul_DragCon_2022_(52073260051).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://officialhoneyd.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.grizzlykiki.com/podcast/podcast/sir-honey-davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://podcasts.apple.com/us/podcast/episode-13-honey-davenport/id1488674751%3Fi=1000478687641"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://podcasts.apple.com/us/podcast/s13-ep-5-disco-mentary-w-honey-davenport-oscar-montoya/id1446912346%3Fi=1000508161553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.hit.com.au/story/honey-davenport-reveals-the-amazing-reason-she-is-here-in-australia-143455"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.theroot.com/rupauls-drag-race-contestant-honey-davenport-shares-why-1835271989"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://omny.fm/shows/not-too-deep-with-grace-helbig/honey-davenport-aja-music-friendship"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20190325020851/https:/www.youtube.com/watch%3Fv=m9Zab3EMU2w"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20190403231104/https:/www.youtube.com/watch%3Fv=GvZ2RttFoNU"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20190607003126/https:/www.theroot.com/rupauls-drag-race-contestant-honey-davenport-shares-why-1835271989"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20190608230633/https:/www.grizzlykiki.com/podcast/podcast/sir-honey-davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20191023232353/https:/www.hit.com.au/story/honey-davenport-reveals-the-amazing-reason-she-is-here-in-australia-143455"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20200131073503/https:/www.youtube.com/watch%3Fv=sIYJCBCiBNg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20200131080756/https:/www.youtube.com/watch%3Fv=Dr5Akr2icug"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20200201051503/https:/www.youtube.com/watch%3Fv=V4CJhmYYlLg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20200618134049/https:/omny.fm/shows/not-too-deep-with-grace-helbig/honey-davenport-aja-music-friendship"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20200704035954/https:/podcasts.apple.com/us/podcast/episode-13-honey-davenport/id1488674751%3Fi=1000478687641"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20210214061023/https:/podcasts.apple.com/us/podcast/s13-ep-5-disco-mentary-w-honey-davenport-oscar-montoya/id1446912346%3Fi=1000508161553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.youtube.com/watch%3Fv=Dr5Akr2icug"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.youtube.com/watch%3Fv=GvZ2RttFoNU"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.youtube.com/watch%3Fv=V4CJhmYYlLg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.youtube.com/watch%3Fv=m9Zab3EMU2w"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.youtube.com/watch%3Fv=sIYJCBCiBNg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q62287294"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/9GUGs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:'"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:'s"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:As_of"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Blockquote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Circa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_AV_media"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_news"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Good_article"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_musical_artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Listen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nbsp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:No"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Quote_box"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Refbegin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Refend"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Sic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:URL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Yes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:YouTube"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_podcast"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Honey_Davenport_Leopard_Print-107_1_cr.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/quoted",
+        "object": "true"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/alias",
+        "object": "Sir Honey Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/align",
+        "object": "right"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/alt",
+        "object": "Honey Davenport in a studio photo shoot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/bgcolor",
+        "object": "#E5F1FE"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1985-08-13"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "James Clark"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Davenport in 2020"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/description",
+        "object": "Clip of \"Indestructible\", released as a single off Electrohoney's 2013 album"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/description",
+        "object": "Clip of \"Cocoa Butter\", the penultimate track on Raw and Unfiltered"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/filename",
+        "object": "Cocoa Butter, by Honey Davenport.ogg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/filename",
+        "object": "Indestructible, by Electrohoney.ogg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "disc jockey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/pos",
+        "object": "left"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/quote",
+        "object": "What I wish I had more opportunity to do was show the world that my drag is not just about being beautiful or ferocious. It's really social commentary. I create things that speak to the world I wanna see."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/quote",
+        "object": "Philly is such a musical place. I remember growing there. I went to the schools where I took classes from people like Floetry. When I first started writing, I used to go to First Fridays in Old City and do spoken word at the Painted Bride when I was in high school. That helped me develop as a songwriter, too, because poetry transfers into my songwriting. Philly, I was made there, so it has a lot to do with everything that is great about me."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/relatives",
+        "object": "http://dbpedia.org/resource/Lee_Daniels"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/salign",
+        "object": "right"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/source",
+        "object": "\u2013Heath-Clark, in an interview with Philadelphia Gay News"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/source",
+        "object": "\u2013Davenport, in an interview with the Houston Chronicle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "2012-12-31"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "John Heath-Clark"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/title",
+        "object": "\"Cocoa Butter\""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/title",
+        "object": "\"Indestructible\""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/width",
+        "object": "33.0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2008"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "James Heath-Clark (born August 13, 1985), known professionally as Honey Davenport, is an American drag performer, singer, songwriter, actor and activist. Davenport was a longtime fixture of the New York City nightlife scene and came to international attention as a contestant on season 11 of RuPaul's Drag Race. Born in West Philadelphia, Heath-Clark attended college for musical theatre in New York, where he began his career as a backup dancer for Peppermint. He later established his own dance group, The Hunties. After taking up drag, Davenport became active in the pageant circuit of that community, winning 18 titles between 2013 and 2018. In 2013, she and her band, Electrohoney, released an eponymous album and starred in a live rock opera called The Electric Highway. She also performed in two off-Broadway shows, The Orion Experience (2013) and Trinkets (2017\u20132018). In the latter, she played the leading role. While her season of Drag Race aired in 2019, Davenport released singles and music videos off of her debut EP, Raw and Unfiltered. Since then, she has launched a solo musical career; embarked on domestic and international tours; and appeared as both a host and a guest on web series about drag, culture and current events. In the second half of 2019, she starred in two off-off-Broadway shows: Raw and Unfiltered, a live adaptation of her EP, and Stocking Stuffer: A Christmas Show with Balls, a holiday-themed performance. In early 2020, she and Aja released \"Draw the Blood\", a song whose accompanying music video marked her first directorial credit. Since the start of the COVID-19 pandemic, Davenport has produced songs, music videos and web content, sometimes in remote collaboration with other artists. Her second EP, Love Is God, was released in January 2022. She is set to co-star in an upcoming feature-length film called God Save the Queens. Davenport centers most of her art on social justice themes. She was motivated to take up political activism for a number of reasons: losing family and friends to gun violence as a child, being the victim of police brutality as a young adult, and experiencing incidents of racism throughout life. She has also been vocal about transgender rights, especially within the drag community. In October 2018, Davenport attracted national media attention for quitting her longtime job as a show host at The Monster, a Manhattan gay bar, in protest of racism she encountered there."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Honey_Davenport?oldid=1121354683&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "138220"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2008"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "James Clark"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1985"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Disc_jockey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Honey_Davenport__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/relative",
+        "object": "http://dbpedia.org/resource/Lee_Daniels"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://dbpedia.org/ontology/soundRecording",
+        "object": "http://dbpedia.org/resource/Honey_Davenport__Sound__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Honey_Davenport>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Honey_Davenport"
+    }
+]

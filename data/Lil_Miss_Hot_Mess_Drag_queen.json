@@ -1,0 +1,442 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Lil Miss Hot Mess"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Lil Miss Hot Mess (born c. 1984) is an American drag queen, activist, and children\u2019s book author, known for her work with the #MyNameIs campaign and Drag Queen Story Hour."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Lil Miss Hot Mess"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "https://www.lilmisshotmess.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Lil Miss Hot Mess"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Lil_Miss_Hot_Mess.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_uncertain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_LGBT_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_women_children's_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rights_activists_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Pseudonymous_women_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1980s_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "71465060"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1119509314"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saturday_Night_Live"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scarlet_Envy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salon_(website)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_uncertain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Running_Press"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sister_Roma"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Stud_(bar)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_women_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_LGBT_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_women_children's_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rights_activists_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Pseudonymous_women_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brita_Filter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn_Public_Library"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/America_the_Beautiful"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Queen_Story_Hour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PBS"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/HBO"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Ellen_DeGeneres_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1980s_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jesse_Tyler_Ferguson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katy_Perry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marco_Rubio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Indya_Moore"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_of_Contemporary_Art,_Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Facebook_real-name_policy_controversy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NYU"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vivacious"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.runningpress.com/contributor/lil-miss-hot-mess/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.lilmisshotmess.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/19161209005839860758"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/20159610651140542175"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q114207469"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/GiPwT"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Blockquote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Official"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Over-quotation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Lil_Miss_Hot_Mess.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/property/alt",
+        "object": "Drag queen Lil Miss Hot Mess smiles at the camera, posing with her chin resting on her finger. She has light red curly hair, and ironically wears a silver sequin dress with red-white-and-blue sequin stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Lil Miss Hot Mess headshot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "drag activism, Drag Queen Story Hour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/property/notableWorks",
+        "object": "The Hips on the Drag Queen Go Swish, Swish, Swish; If You're a Drag Queen and You Know It"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "drag queen, professor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/property/website",
+        "object": "https://www.lilmisshotmess.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Lil Miss Hot Mess (born c. 1984) is an American drag queen, activist, and children\u2019s book author, known for her work with the #MyNameIs campaign and Drag Queen Story Hour."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Lil_Miss_Hot_Mess?oldid=1119509314&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "14400"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/Drag_Queen_Story_Hour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Lil_Miss_Hot_Mess__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Lil_Miss_Hot_Mess>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Lil_Miss_Hot_Mess"
+    }
+]

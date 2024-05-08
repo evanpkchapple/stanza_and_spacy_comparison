@@ -1,0 +1,477 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Heinemann Vogelstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Heinemann Vogelstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Heinemann Vogelstein (February 13, 1841 - August 4, 1911) was a German rabbi and leader of Reform Judaism in Germany."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Heinemann Vogelstein (geboren am 13. Februar 1841 in Lage/Lippe; gestorben am 4. August 1911 in St. Moritz w\u00e4hrend einer Reise) war ein deutscher liberaler Rabbiner. Er war zu seiner Zeit der anerkannte F\u00fchrer der religi\u00f6s-liberalen Bewegung im deutschen Judentum. Heinemann Vogelstein war der Sohn von Israel Vogelstein und der Julie Adler. 1928 wurde in Stettin eine Stra\u00dfe nach ihm benannt. Heinemann Vogelstein war der Vater von Hermann, Ludwig und Theodor Vogelstein sowie von Julie Braun-Vogelstein."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/HVogel.png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Lage,_North_Rhine-Westphalia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/St._Moritz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "St. Moritz, Switzerland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1911-08-04"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Lage,_North_Rhine-Westphalia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1841-02-13"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1911_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Anti-Zionist_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1841_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:German_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Lippe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "56173341"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1108940770"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deutsche_Biographische_Enzyklop\u00e4die"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1911_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Anti-Zionist_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1841_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walther_Killy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Theological_Seminary_of_Breslau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julie_Braun-Vogelstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ezekiel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ludwig_Vogelstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lage,_North_Rhine-Westphalia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Szczecin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hochschule_f\u00fcr_die_Wissenschaft_des_Judentums"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salomon_Wininger"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zionism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Lippe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plze\u0148"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St._Moritz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lippe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudolf_Vierhaus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Wroclaw"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hermann_Vogelstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theodor_Vogelstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/40326686"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/125000111"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q1596058"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0647\u0627\u064a\u0646\u0645\u0627\u0646_\u0641\u0648\u062c\u0644\u0634\u062a\u0627\u064a\u0646"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Heinemann_Vogelstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05d4\u05d9\u05d9\u05e0\u05de\u05df_\u05e4\u05d5\u05d2\u05dc\u05e9\u05d8\u05d9\u05d9\u05df"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/ahwg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:ISBN"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Expand_Hebrew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/HVogel.png?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1841-02-13"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Heinemann Vogelstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Rabbi Vogelstein during his tenure in Pilsen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "http://dbpedia.org/resource/Hermann_Vogelstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "Julie Braun-Vogelstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "Ludwig Vogelstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "Theodor Vogelstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1911-08-04"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/property/parents",
+        "object": "Israel Vogelstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/property/parents",
+        "object": "Julie Adler Vogelstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Heinemann Vogelstein (geboren am 13. Februar 1841 in Lage/Lippe; gestorben am 4. August 1911 in St. Moritz w\u00e4hrend einer Reise) war ein deutscher liberaler Rabbiner. Er war zu seiner Zeit der anerkannte F\u00fchrer der religi\u00f6s-liberalen Bewegung im deutschen Judentum. Heinemann Vogelstein war der Sohn von Israel Vogelstein und der Julie Adler. Er studierte ab November 1859 an der Universit\u00e4t Breslau sowie am J\u00fcdisch-Theologischen Seminar Breslau (dort 1865 Promotion zum Dr. phil. mit seiner Dissertation Die Alexandersage bei den Orientalen). W\u00e4hrend seines Studiums wurde er 1861 Mitglied der Burschenschaft Germania Breslau, Breslauer Burschenschaft Arminia. Er war Rabbiner in Pilsen (1868\u20131880) und Stettin (von 1880 bis zu seinem Tod), Gr\u00fcnder und bis zu seinem Tod Vorsitzender der Vereinigung der liberalen Rabbiner und stellvertretender Vorsitzender der Vereinigung f\u00fcr das Liberale Judentum in Deutschland. 1894 bis 1896 gab er in zwei B\u00e4nden ein Gebetbuch heraus, in dem alle Hinweise auf j\u00fcdischen Nationalismus eliminiert worden waren. Als Gegner des Zionismus schloss er sich 1897 den Protestrabbinern an und ver\u00f6ffentlichte 1906 ein Pamphlet: Der Zionismus, eine Gefahr f\u00fcr die gedeihliche Entwickelung des Judentums. 1889 hatte er ein Werk mit dem Titel Kampf zwischen Priestern und Leviten seit den Tagen Ezechiels verfasst. 1928 wurde in Stettin eine Stra\u00dfe nach ihm benannt. Heinemann Vogelstein war der Vater von Hermann, Ludwig und Theodor Vogelstein sowie von Julie Braun-Vogelstein."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Heinemann Vogelstein (February 13, 1841 - August 4, 1911) was a German rabbi and leader of Reform Judaism in Germany."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/40326686"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Heinemann_Vogelstein?oldid=1108940770&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "4324"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Heinemann Vogelstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1841"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1911"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/child",
+        "object": "http://dbpedia.org/resource/Julie_Braun-Vogelstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/child",
+        "object": "http://dbpedia.org/resource/Ludwig_Vogelstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/child",
+        "object": "http://dbpedia.org/resource/Hermann_Vogelstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/child",
+        "object": "http://dbpedia.org/resource/Theodor_Vogelstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Heinemann_Vogelstein__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heinemann_Vogelstein>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Heinemann_Vogelstein"
+    }
+]

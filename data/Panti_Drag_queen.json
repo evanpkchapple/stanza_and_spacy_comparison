@@ -1,0 +1,842 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTPeopleFromIreland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTRightsActivistsFromIreland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromCountyMayo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Aristocrat109807754"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Atheist109820044"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Disbeliever110015897"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Disputant109615465"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/FemaleAristocrat110083823"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Militant110315837"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/NonreligiousPerson109625789"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Queen110499355"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Reformer110515194"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIrishAtheists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIrishDragQueens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Panti Bliss"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Panti (drag queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Panti"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Panti"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Panti"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Panti Bliss (* 1968 in Ballinrobe, b\u00fcrgerlich Rory O\u2019Neill) ist eine irische Dragqueen und LGBT-Aktivistin."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rory O'Neill, m\u00e1s conocido por su nombre art\u00edstico, Panti o Panti Bliss, es una drag queen y activista a favor de los derechos de gay de Ballinrobe (Condado de Mayo) en Irlanda.\u200b\u200b\u200b \u2039Panti\u203a es un diminutivo para \u2039Pandora Panti Bliss\u203a.\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rory O'Neill, n\u00e9 le 16 novembre 1968, \u00e9galement connu sous son nom de sc\u00e8ne Panti ou Panti Bliss et Pandora Panti Bliss est une drag queen et un activiste des droits des gays de Ballinrobe, dans le comt\u00e9 de Mayo, en Irlande."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Is banr\u00edon draig agus gn\u00edomha\u00ed ar son cearta na ndaoine aerach \u00e9 Rory O'Neill, (a rugadh i 1968), ar a dtugtar freisin mar ainm st\u00e1itse Panti n\u00f3 Panti Bliss n\u00f3 Pandora Panti Bliss. Is as Baile an R\u00f3ba, Contae Mhaigh Eo, \u00c9ire \u00e9."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rory O'Neill (born 16 November 1968), also known by his stage names Panti, Panti Bliss and Pandora Panti Bliss, is a drag queen and gay rights activist from Ballinrobe, County Mayo, Ireland."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+        "object": "http://dbpedia.org/resource/Same-sex_marriage"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+        "object": "http://dbpedia.org/resource/The_Republic_of_Ireland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Panti"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Panti"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/PANTIBAR_ON_CAPEL_STREET_-A_PUB_OWNED_BY_PANTI_BLISS--148688_(46952044511).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Panti_Bliss_(20922291612).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Republic_of_Ireland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/County_Mayo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Ballinrobe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Republic_of_Ireland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/County_Mayo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Ballinrobe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1968-11-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Irish_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1968_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Irish_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Irish_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rights_activists_from_Ireland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Irish_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_County_Mayo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_entertainers_from_Ireland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "2395587"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1101209125"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Capel_Street"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BeLonG_To"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brendan_O'Connor_(media_personality)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Murphy_(Irish_politician)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pet_Shop_Boys"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Republic_of_Ireland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Veterinary_physician"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Irish_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/County_Mayo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stage_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graham_Norton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conor_Horgan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Mario_Rosenstock_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Saturday_Night_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aoibhinn_N\u00ed_Sh\u00failleabh\u00e1in"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madonna"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Fry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ballinrobe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1968_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Irish_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Irish_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rights_activists_from_Ireland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dublin_Gay_Theatre_Festival"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abbey_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Irish_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cyndi_Lauper"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dan_Savage"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dublin_Pride"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/D\u00fan_Laoghaire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alternative_Miss_Ireland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Panti"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Iona_Institute"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ireland_in_the_Eurovision_Song_Contest_2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Japan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Clinic_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_George,_Dublin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_County_Mayo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_entertainers_from_Ireland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Homophobia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Phantom_FM"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Museum_of_Ireland_\u2013_Decorative_Arts_and_History"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oireachtas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RT\u00c9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RT\u00c9_Radio_1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raw_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Noble_Call"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fintan_O'Toole"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_rights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Queen_of_Ireland_(film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shirley_Temple_Bar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Maury_Povich_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:PANTIBAR_ON_CAPEL_STREET_-A_PUB_OWNED_BY_PANTI_BLISS--148688_(46952044511).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.07937p"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/c0216f6e-b69c-4c60-a849-b98480e86608"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/c186260d-6cf0-413f-ae26-230ecb529eb7"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q7131846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Panti_Bliss"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Panti_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Panti"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ga.dbpedia.org/resource/Panti"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4t6Vc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/315698808"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Panti"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:As_of"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Other_uses"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:See_also"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_Hiberno-English"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Panti_Bliss_(20922291612).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1968-11-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Rory O'Neill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Panti in 2015"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/property/imagesize",
+        "object": "200"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Panti Bliss (* 1968 in Ballinrobe, b\u00fcrgerlich Rory O\u2019Neill) ist eine irische Dragqueen und LGBT-Aktivistin."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rory O'Neill, m\u00e1s conocido por su nombre art\u00edstico, Panti o Panti Bliss, es una drag queen y activista a favor de los derechos de gay de Ballinrobe (Condado de Mayo) en Irlanda.\u200b\u200b\u200b \u2039Panti\u203a es un diminutivo para \u2039Pandora Panti Bliss\u203a.\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rory O'Neill, n\u00e9 le 16 novembre 1968, \u00e9galement connu sous son nom de sc\u00e8ne Panti ou Panti Bliss et Pandora Panti Bliss est une drag queen et un activiste des droits des gays de Ballinrobe, dans le comt\u00e9 de Mayo, en Irlande."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Is banr\u00edon draig agus gn\u00edomha\u00ed ar son cearta na ndaoine aerach \u00e9 Rory O'Neill, (a rugadh i 1968), ar a dtugtar freisin mar ainm st\u00e1itse Panti n\u00f3 Panti Bliss n\u00f3 Pandora Panti Bliss. Is as Baile an R\u00f3ba, Contae Mhaigh Eo, \u00c9ire \u00e9."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rory O'Neill (born 16 November 1968), also known by his stage names Panti, Panti Bliss and Pandora Panti Bliss, is a drag queen and gay rights activist from Ballinrobe, County Mayo, Ireland."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/315698808"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Panti?oldid=1101209125&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "29925"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Rory O'Neill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1968"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Panti__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Panti>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Panti"
+    }
+]

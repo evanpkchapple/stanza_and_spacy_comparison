@@ -1,0 +1,597 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDropsieCollegeAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Simon Greenberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0633\u064a\u0645\u0648\u0646 \u063a\u0631\u064a\u0646\u0628\u064a\u0631\u063a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0633\u064a\u0645\u0648\u0646 \u063a\u0631\u064a\u0646\u0628\u064a\u0631\u063a \u0647\u0648 \u062d\u0627\u062e\u0627\u0645 \u0631\u0648\u0633\u064a\u060c \u0648\u0644\u062f \u0641\u064a 1901 \u0641\u064a \u0631\u0648\u0633\u064a\u0627\u060c \u0648\u062a\u0648\u0641\u064a \u0641\u064a 26 \u064a\u0648\u0644\u064a\u0648 1993 \u0641\u064a \u0627\u0644\u0642\u062f\u0633 \u0641\u064a \u0625\u0633\u0631\u0627\u0626\u064a\u0644."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Simon Greenberg, (1901 \u2013 July 26, 1993) was a Russian born American Conservative rabbi and scholar. Greenberg was part of the senior management of many Jewish organizations in America. He helped to found a number of institutions, including the American Jewish University, of which he was the first President. At the time of his death he was vice chancellor emeritus of the Jewish Theological Seminary of America. Greenberg has been called \"one of the most important leaders of the Conservative movement\"."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Simon Greenberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Simon Greenberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Russia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Horoshen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Jerusalem, Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1993-07-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Horoshen, Russia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1993_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Pennsylvania_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_University_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Dropsie_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1901_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_University_of_Jerusalem_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Minnesota_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Theological_Seminary_of_America_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "14205948"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1105559758"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Jewish_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Minnesota"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/McCarran_Internal_Security_Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1993_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/City_College_of_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Pennsylvania_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_University_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservative_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Dropsie_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1901_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_University_of_Jerusalem_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Minnesota_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dropsie_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daniel_Greenberg_(educator)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moshe_Greenberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_University_of_Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Temple_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Theological_Seminary_of_America_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Theological_Seminary_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_Zionist_Organization"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Synagogue_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Akiba_Hebrew_Academy_(Merion,_Pennsylvania)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Horoshen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Har_Zion_Temple"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20100129233941/http:/www.jtsa.edu/x5107.xml"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20100624171934/http:/www.ajula.edu/Content/ContentUnit.asp%3FCID=815&u=3463&t=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.03cxs24"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.europa.eu/euodp/jrc-names/Simon_Greenberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/268726340"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/54259747"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Simon_Greenberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1011798573"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q7518875"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p070412448"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0633\u064a\u0645\u0648\u0646_\u063a\u0631\u064a\u0646\u0628\u064a\u0631\u063a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0633\u064a\u0645\u0648\u0646_\u062c\u0631\u064a\u0646\u0628\u064a\u0631\u062c"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4v8iA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:One_source"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1901"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "http://dbpedia.org/resource/Daniel_Greenberg_(educator)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "http://dbpedia.org/resource/Moshe_Greenberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1993-07-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, Scholar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Betty Greenberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0633\u064a\u0645\u0648\u0646 \u063a\u0631\u064a\u0646\u0628\u064a\u0631\u063a \u0647\u0648 \u062d\u0627\u062e\u0627\u0645 \u0631\u0648\u0633\u064a\u060c \u0648\u0644\u062f \u0641\u064a 1901 \u0641\u064a \u0631\u0648\u0633\u064a\u0627\u060c \u0648\u062a\u0648\u0641\u064a \u0641\u064a 26 \u064a\u0648\u0644\u064a\u0648 1993 \u0641\u064a \u0627\u0644\u0642\u062f\u0633 \u0641\u064a \u0625\u0633\u0631\u0627\u0626\u064a\u0644."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Simon Greenberg, (1901 \u2013 July 26, 1993) was a Russian born American Conservative rabbi and scholar. Greenberg was part of the senior management of many Jewish organizations in America. He helped to found a number of institutions, including the American Jewish University, of which he was the first President. At the time of his death he was vice chancellor emeritus of the Jewish Theological Seminary of America. Greenberg has been called \"one of the most important leaders of the Conservative movement\"."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/54259747"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Simon_Greenberg?oldid=1105559758&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "7192"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1901"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1993"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/child",
+        "object": "http://dbpedia.org/resource/Daniel_Greenberg_(educator)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/child",
+        "object": "http://dbpedia.org/resource/Moshe_Greenberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Simon_Greenberg__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Greenberg>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Simon_Greenberg"
+    }
+]

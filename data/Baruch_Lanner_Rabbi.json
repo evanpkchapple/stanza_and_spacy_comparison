@@ -1,0 +1,642 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q2159907"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeopleConvictedOfChildSexualAbuse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromElizabeth,NewJersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/BadPerson109831962"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Criminal109977660"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Principal110474950"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wrongdoer109633969"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Criminal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://umbel.org/umbel/rc/Criminal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Baruch Lanner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Baruch Lanner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Baruch S. Lanner (born October 20, 1949) is an American former Orthodox rabbi who was convicted of child sexual abuse."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Baruch S. Lanner (n\u00e9 le 20 octobre 1949) est un ancien rabbin orthodoxe am\u00e9ricain reconnu coupable d'abus sexuels sur des enfants."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Baruch Lanner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Baruch Lanner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Baruch_Lanner.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1949-10-20"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1949_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_criminals"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_convicted_of_child_sexual_abuse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Elizabeth,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Child_sexual_abuse_scandals_in_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_convicted_of_crimes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_criminals"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_members_of_the_clergy_convicted_of_crimes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Criminals_from_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_clergy_convicted_of_rape"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Modern_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Religious_figures_convicted_of_child_sexual_abuse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "14344494"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1110523063"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Din"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Joel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Investigative_journalism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1949_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_criminals"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Child_sexual_abuse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Conference_of_Synagogue_Youth"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Jewish_Week"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mordechai_Willig"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emotional_abuse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ayelet_Shaked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_convicted_of_child_sexual_abuse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Elizabeth,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Child_sexual_abuse_scandals_in_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_convicted_of_crimes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Law_of_Return"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_criminals"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_members_of_the_clergy_convicted_of_crimes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Criminals_from_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_clergy_convicted_of_rape"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Modern_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Religious_figures_convicted_of_child_sexual_abuse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ocean_Township,_Monmouth_County,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Union"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sexual_abuse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yosef_Blau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Physical_abuse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Principal_(school)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hillel_Foundation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.03d14v9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Baruch_Lanner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q4865861"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0628\u0627\u0631\u0648\u062e_\u0644\u0627\u0646\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Baruch_Lanner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05d1\u05e8\u05d5\u05da_\u05dc\u05d0\u05e0\u05e8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://vi.dbpedia.org/resource/Baruch_Lanner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4WQNy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_criminal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Baruch_Lanner.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/property/alias",
+        "object": "Bernard S. Lanner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1949-10-20"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/property/conviction",
+        "object": "Child sexual abuse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/property/convictionPenalty",
+        "object": "Seven years in prison, paroled for four years"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/property/convictionStatus",
+        "object": "On parole"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/property/imageCaption",
+        "object": "Mug shot of Lanner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/property/imageName",
+        "object": "Baruch Lanner.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Former rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Baruch S. Lanner (born October 20, 1949) is an American former Orthodox rabbi who was convicted of child sexual abuse."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Baruch S. Lanner (n\u00e9 le 20 octobre 1949) est un ancien rabbin orthodoxe am\u00e9ricain reconnu coupable d'abus sexuels sur des enfants."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Baruch_Lanner?oldid=1110523063&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "10135"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/alias",
+        "object": "Bernard S. Lanner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Lanner>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Baruch_Lanner"
+    }
+]

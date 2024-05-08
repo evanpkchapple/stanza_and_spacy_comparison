@@ -1,0 +1,627 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Shuga Cain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Shuga Cain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Shuga Cain, nombre art\u00edstico de Jesus Martinez (nacida el 20 de noviembre de 1977), es una drag queen y panadera estadounidense qui\u00e9n recibi\u00f3 atenci\u00f3n internacional por participar en la und\u00e9cima temporada de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Shuga Cain is the stage name of Jesus Martinez (born November 20, 1977), an American drag queen and baker who came to international attention on the eleventh season of RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Shuga Cain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Shuga Cain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52072217862).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Oakland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Oakland, California, U.S"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1977-11-20"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1977_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_Hispanic_and_Latino_American_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "59759021"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1115737207"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_11)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scholastic_Corporation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_the_Drag_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DePaul_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apache"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Honey_Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peppermint_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Wisconsin\u2013Eau_Claire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vanessa_Vanjie_Mateo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/El_Salvador"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thorgy_Thor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_culture_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yuhua_Hamasaki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tales_of_the_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whitney_Houston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willam_Belli"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1977_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nina_West"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/No_More_Drama_(song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Northern_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kahanna_Montrese"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_LGBT_people_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snatch_Game"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Asia_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_Hispanic_and_Latino_American_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chi_Chi_DeVayne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lady_Bunny"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Latrice_Royale"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Xanadu_(musical)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manila_Luzon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mary_J._Blige"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul\u2019s_DragCon_NYC"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Engaged"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/I'm_Your_Baby_Tonight_(song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/IMDb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oakland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Master_of_Music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shea_Coulee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.shugssweetshop.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.imdb.com/name/nm10565975/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q67566572"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Shuga_Cain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/Aduc8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nbsp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Tooltip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:URL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52072217862).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1977-11-20"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Jesus Martinez"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Cain at RuPaul\u2019s DragCon, 2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "baker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Shuga Cain, nombre art\u00edstico de Jesus Martinez (nacida el 20 de noviembre de 1977), es una drag queen y panadera estadounidense qui\u00e9n recibi\u00f3 atenci\u00f3n internacional por participar en la und\u00e9cima temporada de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Shuga Cain is the stage name of Jesus Martinez (born November 20, 1977), an American drag queen and baker who came to international attention on the eleventh season of RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Shuga_Cain?oldid=1115737207&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "14460"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Jesus Martinez"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1977"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Baker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Shuga_Cain__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shuga_Cain>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Shuga_Cain"
+    }
+]

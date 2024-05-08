@@ -1,0 +1,542 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jackie Cox (drag queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jackie Cox (drag queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Darius Rose, m\u00e1s conocido por su nombre art\u00edstico Jackie Cox, (nacido el 10 de abril de 1985) es un drag queen canadiense con sede en la ciudad de Nueva York, conocido por competir en la duod\u00e9cima temporada de RuPaul's Drag Race, donde qued\u00f3 en el quinto lugar en la competencia."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jackie Cox is the stage name of Darius Rose, (born April 10, 1985) a Canadian drag queen based in New York City, known for being a competitor on the twelfth season of RuPaul's Drag Race and ultimately placing fourth in the competition."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Jackie Cox"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Jackie Cox"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52073260701).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Halifax,_Nova_Scotia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Halifax, Nova Scotia, Canada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1985-04-10"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1985_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_people_of_Iranian_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:UCLA_Film_School_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Halifax,_Nova_Scotia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "62908106"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1115728751"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canadian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_12)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santa_Ana,_CA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Days_of_Our_Lives"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Days_of_Our_Lives:_Beyond_Salem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1985_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grace_Gaustad"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Misogyny"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Muslims"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_culture_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_rights_opposition"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madonna:_The_Unauthorized_Rusical"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_people_of_Iranian_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UCLA_School_of_Theater,_Film_and_Television"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Watch_What_Happens_Live_with_Andy_Cohen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/What_Would_You_Do%3F_(2008_TV_program)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Broadcasting_Company"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Firework_(song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_LGBT_people_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halifax,_Nova_Scotia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hedwig_and_the_Angry_Inch_(musical)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hijab"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Iranian_diaspora"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeff_Goldblum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:UCLA_Film_School_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Halifax,_Nova_Scotia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katy_Perry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_World_Stages"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bring_Back_My_Ghouls"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.facebook.com/JackieCoxNYC"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q95684601"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Jackie_Cox_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/C2ZBr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Portal_bar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Tooltip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52073260701).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1985-04-10"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Darius Rose"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Jackie Cox at RuPaul's DragCon LA, 2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "University of California, Los Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/id",
+        "object": "11425379"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen, entertainer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2009"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Darius Rose, m\u00e1s conocido por su nombre art\u00edstico Jackie Cox, (nacido el 10 de abril de 1985) es un drag queen canadiense con sede en la ciudad de Nueva York, conocido por competir en la duod\u00e9cima temporada de RuPaul's Drag Race, donde qued\u00f3 en el quinto lugar en la competencia."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jackie Cox is the stage name of Darius Rose, (born April 10, 1985) a Canadian drag queen based in New York City, known for being a competitor on the twelfth season of RuPaul's Drag Race and ultimately placing fourth in the competition."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Jackie_Cox_(drag_queen)?oldid=1115728751&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "12146"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2009"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Darius Rose"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1985"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/imdbId",
+        "object": "11425379"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/University_of_California,_Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Jackie_Cox_(drag_queen)__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jackie_Cox_(drag_queen)>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Jackie_Cox_(drag_queen)"
+    }
+]

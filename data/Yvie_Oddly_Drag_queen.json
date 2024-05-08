@@ -1,0 +1,1207 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u064a\u0641\u064a \u0627\u0648\u062f\u0644\u064a\u062a\u0633"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Yvie Oddly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Yvie Oddly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Yvie Oddly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u062c\u0648\u0641\u0627\u0646 \u0627\u0648\u062f\u0644\u064a \u0627\u0644\u0645\u0634\u0647\u0648\u0631\u0629 \u0628\u00ab\u064a\u0641\u064a \u0627\u0648\u062f\u0644\u064a\u00bb \u0647\u064a \u0645\u0645\u062b\u0644\u0629 \u0628\u0644\u0628\u0627\u0633 \u0627\u0645\u0631\u0623\u0629 \u0648\u0645\u0635\u0645\u0645\u0629 \u0623\u0632\u064a\u0627\u0621 \u0648\u0645\u0642\u062f\u0645\u0629 \u0628\u0631\u0627\u0645\u062c \u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0627\u0644\u062c\u0646\u0633\u064a\u0629 \u0645\u0646 \u062f\u0646\u0641\u0631 \u0643\u0648\u0644\u0627\u0631\u0644\u062f\u0648 \u0648\u0623\u0635\u0628\u062d\u062a \u0645\u062d\u0637 \u0627\u0644\u0627\u0646\u0638\u0627\u0631 \u0641\u064a \u0639\u0627\u0645 2019 \u0639\u0646\u062f\u0645\u0627 \u0641\u0627\u0632\u062a \u0628\u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u062d\u0627\u062f\u064a \u0639\u0634\u0631 \u0645\u0646 \u0628\u0631\u0646\u0627\u0645\u062c \u0631\u0648\u0628\u0648\u0644 \u0644\u0644\u0645\u0645\u062b\u0644\u064a\u0646 \u0627\u0644\u062f\u0631\u0627\u0642. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0627\u0644\u0641\u064a\u062f\u064a\u0648\u0647\u0627\u062a \u0627\u0644\u0645\u0648\u0633\u064a\u0642\u064a\u0629 \u0648\u0627\u0644\u0639\u0631\u0648\u0636 \u0644\u0642\u062f \u0627\u0643\u062a\u0634\u0641\u062a \u0645\u0627 \u062a\u0631\u0627\u0647 \u0642\u0648\u0629 \u062a\u062d\u0648\u064a\u0644\u064a\u0629 \u0644\u0644\u0645\u0645\u062b\u0644 \u0639\u0646 \u0637\u0631\u064a\u0642 \u0639\u0645\u0644 \u0645\u062a\u062d\u0641 \u064a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u0641\u0646 \u0642\u0627\u0628\u0644 \u0644\u0644\u0627\u0631\u062a\u062f\u0627\u0621 \u0641\u064a \u0628\u0631\u0646\u0627\u0645\u062c \u00ab\u064a\u0641\u064a \u0627\u0648\u062f\u0644\u064a\u062a\u0633\u00bb \u0639\u0644\u0649 \u0645\u0646\u0635\u0629 \u00ab\u0648\u0623\u0648 \u0628\u0631\u0632\u064a\u0646\u062a \u0628\u0644\u0633\u00bb."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jovan Bridges\u200b (Denver, Colorado; 22 de agosto de 1993) conocido con su nombre art\u00edstico Yvie Oddly, es una drag queen estadounidense, int\u00e9rprete, dise\u00f1adora de moda y cantante de Denver que lleg\u00f3 a la atenci\u00f3n internacional en 2019 cuando compiti\u00f3 y gan\u00f3 la und\u00e9cima temporada de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jovan Bridges, plus connu sous le nom de sc\u00e8ne Yvie Oddly, est un artiste, styliste et drag queen am\u00e9ricain qui conna\u00eet le succ\u00e8s en 2019 apr\u00e8s avoir particip\u00e9 \u00e0 la onzi\u00e8me saison de l'\u00e9mission RuPaul's Drag Race, dont il ressort vainqueur."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jovan Jordan Bridges (born August 22, 1993), known by the stage name Yvie Oddly, is an American drag queen, performer, fashion designer, rapper, and recording artist from Denver, Colorado who came to international attention in 2019 when she won the eleventh season of RuPaul's Drag Race. She later returned to compete on the seventh season of RuPaul's Drag Race All Stars, an all-winners season, in 2022. Oddly has been on the worldwide Werq the World drag concert tour since 2019. In addition to music videos and performances, she explores what she sees as a transformative power of drag by making thrift store finds into wearable art in Yvie Oddly's Oddities series on WOW Presents Plus. She released her debut album, Drag Trap, in 2020."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Yvie Oddly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://www.oddlyyvie.com/%7Cname=www.OddlyYvie.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Yvie Oddly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dragcon-25_(47937194866).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Denver,_Colorado"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Denver, Colorado, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1993-08-22"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rappers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_Native_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1993_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_African_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_with_Ehlers\u2013Danlos_syndrome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_LGBT_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Denver"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Colorado"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "59759308"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1121582882"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prostitute"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Vegas_Revue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_11)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_12)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_14)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_5)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_7)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_Live!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_U"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scarlet_Envy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Schei\u00dfe_(song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BeBe_Zahara_Benet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_Panther_Party"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bournemouth"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Demi_Lovato"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denver"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Honey_Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Penultimate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rihanna"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/VH1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Valentine's_Day"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vanessa_Vanjie_Mateo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venus_D-Lite"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/India_Ferrah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Invisible_disability"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rappers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colorism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Match_Game"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SOS_(Rihanna_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_bar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orpheum_Theatre_(Los_Angeles)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stage_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ehlers-Danlos_syndrome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ehlers\u2013Danlos_syndromes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gender_role"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gold_Derby"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Musical_theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mya_(singer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Connective_tissue_disease"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Convention_(norm)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Creativity"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Morning_Show_(Canadian_TV_program)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_View_(talk_show)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thierry_Mugler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aquaria_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_Native_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silky_Nutmeg_Ganache"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stay-at-home_order"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stonewall_50_\u2013_WorldPride_NYC_2019"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denver,_Colorado"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Female_impersonator"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halloween"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Taboo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1993_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_African_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooke_Lynn_Hytes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/COVID-19_pandemic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caucasian_race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Todrick_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transgender"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trump:_The_Rusical"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/WOW_Presents_Plus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Waze_&_Odyssey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Werq_the_World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willow_Pill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_pageantry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leather_subculture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lip_sync"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PrideFest_(Denver)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A'keria_Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adore_Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_McQueen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ali_Forney_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Trap"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/East_High_School_(Denver,_Colorado)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Flamingo_Las_Vegas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_with_Ehlers\u2013Danlos_syndrome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nina_Flowers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Out_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cazwell"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fake_fur"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fashion_design"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Found_object"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_NYC"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reality_television"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gymnastics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haute_couture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jaida_Essence_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Terrorism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Edge_of_Glory"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Kelly_Clarkson_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hypermobility_(joints)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snatch_Game"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Social_distancing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_LGBT_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Denver"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aesthetics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Colorado"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jinkx_Monsoon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lady_Gaga"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Collagen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zebra_(medicine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Auraria_Campus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sorry_Not_Sorry_(Demi_Lovato_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Immigration_Equality_(organization)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michelle_Visage"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Native_Americans_in_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Race_(human_categorization)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sharon_Needles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christeene_Vale"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Long_take"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Services_&_Advocacy_for_GLBT_Elders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Selfie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shea_Coulee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Extracurricular_activity"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Racism_in_the_LGBT_community"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thrift_store"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_pride_parade"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hypermobile_Ehlers-Danlos_syndrome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ehlers-Danlos_syndrome,_type_3"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queens_Everywhere_(RuPaul_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queer_culture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Widow_Von_Du"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/People_of_Color"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thrift_stores"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stuffed_animals_toys"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.oddlyyvie.com/%7Cname=www.OddlyYvie.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/4a5a89d4-d402-43b1-b0d0-2895ab877131"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q64009078"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u064a\u0641\u064a_\u0627\u0648\u062f\u0644\u064a\u062a\u0633"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Yvie_Oddly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u0648\u0627\u06cc\u0648\u06cc_\u0627\u0648\u062f\u0644\u06cc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Yvie_Oddly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/9S6Qs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Blockquote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category-inline"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Efn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Notes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Small"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dragcon-25_(47937194866).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1993-08-22"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Jovan Jordan Bridges"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Oddly at RuPaul's DragCon LA, 2019"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "rapper"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "fashion designer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "recording artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/predecessor",
+        "object": "http://dbpedia.org/resource/Aquaria_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/successor",
+        "object": "http://dbpedia.org/resource/Jaida_Essence_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/website",
+        "object": "http://www.oddlyyvie.com/%7Cname=www.OddlyYvie.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2012"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race All Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u062c\u0648\u0641\u0627\u0646 \u0627\u0648\u062f\u0644\u064a \u0627\u0644\u0645\u0634\u0647\u0648\u0631\u0629 \u0628\u00ab\u064a\u0641\u064a \u0627\u0648\u062f\u0644\u064a\u00bb \u0647\u064a \u0645\u0645\u062b\u0644\u0629 \u0628\u0644\u0628\u0627\u0633 \u0627\u0645\u0631\u0623\u0629 \u0648\u0645\u0635\u0645\u0645\u0629 \u0623\u0632\u064a\u0627\u0621 \u0648\u0645\u0642\u062f\u0645\u0629 \u0628\u0631\u0627\u0645\u062c \u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0627\u0644\u062c\u0646\u0633\u064a\u0629 \u0645\u0646 \u062f\u0646\u0641\u0631 \u0643\u0648\u0644\u0627\u0631\u0644\u062f\u0648 \u0648\u0623\u0635\u0628\u062d\u062a \u0645\u062d\u0637 \u0627\u0644\u0627\u0646\u0638\u0627\u0631 \u0641\u064a \u0639\u0627\u0645 2019 \u0639\u0646\u062f\u0645\u0627 \u0641\u0627\u0632\u062a \u0628\u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u062d\u0627\u062f\u064a \u0639\u0634\u0631 \u0645\u0646 \u0628\u0631\u0646\u0627\u0645\u062c \u0631\u0648\u0628\u0648\u0644 \u0644\u0644\u0645\u0645\u062b\u0644\u064a\u0646 \u0627\u0644\u062f\u0631\u0627\u0642. \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0627\u0644\u0641\u064a\u062f\u064a\u0648\u0647\u0627\u062a \u0627\u0644\u0645\u0648\u0633\u064a\u0642\u064a\u0629 \u0648\u0627\u0644\u0639\u0631\u0648\u0636 \u0644\u0642\u062f \u0627\u0643\u062a\u0634\u0641\u062a \u0645\u0627 \u062a\u0631\u0627\u0647 \u0642\u0648\u0629 \u062a\u062d\u0648\u064a\u0644\u064a\u0629 \u0644\u0644\u0645\u0645\u062b\u0644 \u0639\u0646 \u0637\u0631\u064a\u0642 \u0639\u0645\u0644 \u0645\u062a\u062d\u0641 \u064a\u062d\u062a\u0648\u064a \u0639\u0644\u0649 \u0641\u0646 \u0642\u0627\u0628\u0644 \u0644\u0644\u0627\u0631\u062a\u062f\u0627\u0621 \u0641\u064a \u0628\u0631\u0646\u0627\u0645\u062c \u00ab\u064a\u0641\u064a \u0627\u0648\u062f\u0644\u064a\u062a\u0633\u00bb \u0639\u0644\u0649 \u0645\u0646\u0635\u0629 \u00ab\u0648\u0623\u0648 \u0628\u0631\u0632\u064a\u0646\u062a \u0628\u0644\u0633\u00bb."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jovan Bridges\u200b (Denver, Colorado; 22 de agosto de 1993) conocido con su nombre art\u00edstico Yvie Oddly, es una drag queen estadounidense, int\u00e9rprete, dise\u00f1adora de moda y cantante de Denver que lleg\u00f3 a la atenci\u00f3n internacional en 2019 cuando compiti\u00f3 y gan\u00f3 la und\u00e9cima temporada de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jovan Bridges, plus connu sous le nom de sc\u00e8ne Yvie Oddly, est un artiste, styliste et drag queen am\u00e9ricain qui conna\u00eet le succ\u00e8s en 2019 apr\u00e8s avoir particip\u00e9 \u00e0 la onzi\u00e8me saison de l'\u00e9mission RuPaul's Drag Race, dont il ressort vainqueur."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jovan Jordan Bridges (born August 22, 1993), known by the stage name Yvie Oddly, is an American drag queen, performer, fashion designer, rapper, and recording artist from Denver, Colorado who came to international attention in 2019 when she won the eleventh season of RuPaul's Drag Race. She later returned to compete on the seventh season of RuPaul's Drag Race All Stars, an all-winners season, in 2022. Oddly has been on the worldwide Werq the World drag concert tour since 2019. In addition to music videos and performances, she explores what she sees as a transformative power of drag by making thrift store finds into wearable art in Yvie Oddly's Oddities series on WOW Presents Plus. She released her debut album, Drag Trap, in 2020."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Yvie_Oddly?oldid=1121582882&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "54000"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2012"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Jovan Jordan Bridges"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1993"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Yvie_Oddly__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/predecessor",
+        "object": "http://dbpedia.org/resource/Aquaria_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://dbpedia.org/ontology/successor",
+        "object": "http://dbpedia.org/resource/Jaida_Essence_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yvie_Oddly>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Yvie_Oddly"
+    }
+]

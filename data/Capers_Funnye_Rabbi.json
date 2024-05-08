@@ -1,0 +1,827 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatConvertsToJudaismFromMethodism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromChicago,Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Convert109962414"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ReligiousLeader110519494"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ReligiousPerson109628382"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHowardUniversityAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAfrican-AmericanPeopleByOccupation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAfrican-AmericanReligiousLeaders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Capers Funnye"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Capers Funnye"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Capers C. Funnye Jr. (/f\u0259\u02c8ne\u026a/; born April 14, 1952) is an African-American rabbi, who leads the 200-member Beth Shalom B'nai Zaken Ethiopian Hebrew Congregation of Chicago, Illinois, assisted by rabbis Avraham Ben Israel and Joshua V. Salter. Born in Georgetown, South Carolina, he moved with his family to Chicago. He became interested in Judaism while in college at Howard University and has gone through two conversion rituals. He has led efforts to coordinate with both Black Hebrew Israelite groups and mainline Judaism."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Capers C. Funnye Junior est un Juif afro-am\u00e9ricain, rabbin de la communaut\u00e9 \"Shalom B\u2019nai Zaken Ethiopian Hebrew\" de Chicago (\u00c9tats-Unis), dont la tr\u00e8s grande majorit\u00e9 des 200 membres est afro-am\u00e9ricaine. C'est le premier rabbin noir du \"Comit\u00e9 des Rabbins de Chicago\", qui est membre du bureau du Jewish Council pour les Affaires urbaines et de l' American Jewish Congress du Midwest. Il est aussi actif \u00e0 l'Institute for Jewish and Community Research (Institut de recherche juive et communautaire), qui s'occupe des communaut\u00e9s juives noires hors des \u00c9tats-Unis, telles que les Beta Israel en \u00c9thiopie et les Juifs Igbo au Nigeria."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://www.bethshalombz.org"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Georgetown,_South_Carolina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Georgetown,_South_Carolina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1952-04-14"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Converts_to_Conservative_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Obama_family"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:International_Israelite_Board_of_Rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1952_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Black_Hebrew_Israelite_religious_leaders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Howard_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:African-American_religious_leaders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:African-American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Spertus_Institute_of_Jewish_Studies_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Michelle_Obama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Converts_to_Judaism_from_Methodism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "16342077"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1112453977"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beta_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Shalom_B'nai_Zaken_Ethiopian_Hebrew_Congregation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_nationalism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bombay"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alliance_of_Black_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Converts_to_Conservative_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Obama_family"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howard_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:International_Israelite_Board_of_Rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1952_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Master_of_Science"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/South_Carolina_Lowcountry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Washington"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Circumcision"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georgetown,_South_Carolina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mumbai"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservative_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Black_Hebrew_Israelite_religious_leaders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ashkenazi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Choir"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Commandment_Keepers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spertus_Institute"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Howard_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African-American_religious_leaders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Council_on_Urban_Affairs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/African-American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Jewish_Congress"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African-American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ethiopia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/First_Lady_of_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/First_inauguration_of_Barack_Obama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nigeria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Spertus_Institute_of_Jewish_Studies_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hispanic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harlem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Islam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Michelle_Obama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/African_Methodist_Episcopal_Church"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_Hebrew_Israelites"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/White_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modern_Orthodox"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Converts_to_Judaism_from_Methodism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spirituals"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Great_Migration_(African_American)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Igbo_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/India"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michelle_Obama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marquette_Park_(Chicago)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_Luther_King_Jr._Day"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sea_Islands"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gullah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wentworth_Arthur_Matthew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/South_Side_(Chicago)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_African-Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Arts_degree"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mikvah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_of_Israel_Congregation_(Chicago)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.ushmm.org/confront-antisemitism/antisemitism-podcast/capers-funnye-jr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.nytimes.com/2009/04/05/magazine/05rabbi-t.html"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.bethshalombz.org"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.03wh8lm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q2895259"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Capers_Funnye"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05e7\u05d9\u05d9\u05e4\u05e8\u05e1_\u05e4\u05d5\u05e0\u05d9\u05d9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2gew9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Capers_Funnye"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IPAc-en"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Family_of_Michelle_Robinson_Obama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1952-04-14"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Capers C. Funnye Jr."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/property/relatives",
+        "object": "http://dbpedia.org/resource/Michelle_Obama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Mary White"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/property/state",
+        "object": "collapsed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Capers C. Funnye Jr. (/f\u0259\u02c8ne\u026a/; born April 14, 1952) is an African-American rabbi, who leads the 200-member Beth Shalom B'nai Zaken Ethiopian Hebrew Congregation of Chicago, Illinois, assisted by rabbis Avraham Ben Israel and Joshua V. Salter. Born in Georgetown, South Carolina, he moved with his family to Chicago. He became interested in Judaism while in college at Howard University and has gone through two conversion rituals. He has led efforts to coordinate with both Black Hebrew Israelite groups and mainline Judaism."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Capers C. Funnye Junior est un Juif afro-am\u00e9ricain, rabbin de la communaut\u00e9 \"Shalom B\u2019nai Zaken Ethiopian Hebrew\" de Chicago (\u00c9tats-Unis), dont la tr\u00e8s grande majorit\u00e9 des 200 membres est afro-am\u00e9ricaine. C'est le premier rabbin noir du \"Comit\u00e9 des Rabbins de Chicago\", qui est membre du bureau du Jewish Council pour les Affaires urbaines et de l' American Jewish Congress du Midwest. Il est aussi actif \u00e0 l'Institute for Jewish and Community Research (Institut de recherche juive et communautaire), qui s'occupe des communaut\u00e9s juives noires hors des \u00c9tats-Unis, telles que les Beta Israel en \u00c9thiopie et les Juifs Igbo au Nigeria. La communaut\u00e9 a \u00e9t\u00e9 fond\u00e9e par Funnye en 1985 comme une ramification de \"Commandment Keepers\", une secte juive fond\u00e9e par le rabbin noir nig\u00e9rian Wentworth Arthur Matthew, mais jamais reconnue officiellement par les autorit\u00e9s juives. Funnye a \u00e9t\u00e9 ordonn\u00e9 rabbin par l'Acad\u00e9mie rabbinique isra\u00e9lite en 1985. En 1996, Funnye \u00e9tait le seul rabbin officiel noir de la r\u00e9gion de Chicago \u00e0 \u00eatre reconnu par les communaut\u00e9s juives. Il est Bachelor of Arts en \u00e9tudes juives et a obtenu un master en Gestion des relations humaines de l'Institut d'\u00e9tudes juives Spertus de Chicago. Comme la plupart des membres de sa communaut\u00e9, le rabbin Funnye n'est pas de famille juive. Il est d'abord chr\u00e9tien m\u00e9thodiste, mais insatisfait de cette religion, il a compar\u00e9 plusieurs religions, y compris l'islam, avant de d\u00e9cider de se convertir au juda\u00efsme, sentant dans cette religion un sens de lib\u00e9ration intellectuelle et spirituelle dans l'interrogation permanente qu'elle encourage. En plus des membres afro-am\u00e9ricains, la communaut\u00e9 comprend aussi quelques hispaniques et des blancs, n\u00e9s juifs ou qui se sont convertis au juda\u00efsme. Comme le juda\u00efsme ne pousse pas les non-juifs \u00e0 se convertir, les membres non-juifs de la communaut\u00e9 doivent au pr\u00e9alable \u00e9tudier le juda\u00efsme pendant au moins une ann\u00e9e avant d'entamer la proc\u00e9dure de conversion traditionnelle qui n\u00e9cessite la circoncision rituelle des hommes et l'immersion rituelle des femmes dans un mikv\u00e9. La synagogue a une position situ\u00e9e entre le juda\u00efsme conservateur et le juda\u00efsme orthodoxe moderne avec des influences afro-am\u00e9ricaines; tandis que les hommes et les femmes sont s\u00e9par\u00e9s comme dans une synagogue orthodoxe, un ch\u0153ur chante des spirituals au son d'un tambour. La synagogue de la communaut\u00e9 est actuellement une ancienne synagogue ashk\u00e9naze situ\u00e9e dans les environs de Marquette Park au sud-ouest de la ville. Bien que l'id\u00e9e de Juifs afro-am\u00e9ricains est parfois accueillie avec scepticisme, le rabbin Funnye affirme: \u00ab Je suis un Juif, et cela franchit toutes les barri\u00e8res de couleurs et de races. \u00bb Le rabbin Funnye est cofondateur avec Michelle Stein-Evers et Robin Washington, de l'Alliance of Black Jews (Alliance des Juifs noirs), form\u00e9e en 1995. Funnye croit que les H\u00e9breux de la Bible \u00e9taient des Noirs. Il d\u00e9clare qu'il ne fait aucune discrimination contre les blancs, mais reconna\u00eet que certains juifs blancs sont racistes, ce qui entra\u00eene quelques juifs noirs \u00e0 avoir un comportement raciste anti-blanc. Il estime que c'est ce type de discrimination qui a conduit \u00e0 la cr\u00e9ation de groupes noirs ultranationalistes et racistes comme la Nation of Yahweh. Funnye critique Louis Farrakhan pour ses commentaires contre les juifs."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/property/navbox",
+        "object": "yes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Capers_Funnye?oldid=1112453977&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "13178"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Capers C. Funnye Jr."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1952"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Capers_Funnye__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://dbpedia.org/ontology/relative",
+        "object": "http://dbpedia.org/resource/Michelle_Obama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Capers_Funnye>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Capers_Funnye"
+    }
+]

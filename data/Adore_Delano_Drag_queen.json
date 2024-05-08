@@ -1,0 +1,1242 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanBloggers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanInternetCelebrities"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTMusiciansFromTheUnitedStates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatVideoBloggers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatRuPaul'sDragRaceContestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Aristocrat109807754"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Blogger109860415"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Celebrity109903153"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Contestant109613191"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/FemaleAristocrat110083823"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ImportantPerson110200781"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Musician110339966"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Queen110499355"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDragQueens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Adore Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Adore Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Adore Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Adore Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Adore Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\uc5b4\ub3c4\uc5b4 \ub378\ub77c\ub178"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Adore Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Adore Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Daniel Anthony \"Danny\" Noriega (Azusa, 29 de setembre de 1989), m\u00e9s conegut pel seu nom art\u00edstic Adore Delano, \u00e9s un drag queen i cantant estatunidenc. Delano va apar\u00e8ixer com a concursant en la setena temporada d'American Idol el 2008 com a Danny Noriega. Adore Delano va competir en la sisena temporada del programa de RuPaul's Drag Race, on va arribar a les tres finals. El 2014 va llan\u00e7ar el seu primer \u00e0lbum d'estudi Till Death Do Us Party, i el 2016 va publicar After Party."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Daniel Anthony Noriega, (born September 29, 1989) better known under the stage name Adore Delano, is an American drag queen, singer-songwriter, and television personality. Noriega appeared as a contestant on the seventh season of American Idol in 2008 and later competed as Adore Delano on the sixth season of RuPaul's Drag Race, placing in the final three. Delano then went on to compete on the second season of RuPaul's Drag Race All Stars, placing ninth after voluntarily leaving the competition. Delano has recorded and released three studio albums: Till Death Do Us Party (2014), After Party (2016), Whatever (2017), and one EP Dirty Laundry (2021)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Adore Delano (geboren 29. September 1989 in Azusa als Daniel Anthony Noriega) ist eine US-amerikanische Dragqueen und Singer-Songwriterin. Bekannt wurde Delano vor allem (unter ihrem Realnamen ohne Drag) als Kandidat der siebten Staffel von American Idol sowie Finalistin der sechsten Staffel von RuPaul\u2019s Drag Race. Im Juni 2019 erreichte Delano auf einer Liste der New York der zwanzig einflussreichsten Dragqueens der Vereinigten Staaten den sechsten Platz."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Daniel Anthony Noriega (Azusa, California; 29 de septiembre de 1989)\u200b conocido como Adore Delano, es una drag queen, cantautor, youtuber y actor estadounidense.\u200b Apareci\u00f3 como concursante en la s\u00e9ptima temporada de American Idol en 2008 como Danny Noriega. Tambi\u00e9n compiti\u00f3 en la sexta temporada de RuPaul s Drag Race, convirti\u00e9ndose en la favorita entre los aficionados logrando ser finalista del concurso.\u200b Lanz\u00f3 su primer \u00e1lbum de estudio, Till Death Do Us Party, en 2014, seguido de After Party (2016) y Whatever (2017)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Daniel Anthony \u00ab Danny \u00bb Noriega, aussi connu sous le nom de sc\u00e8ne Adore Delano, est une drag queen et chanteur am\u00e9ricain. Il appara\u00eet pour la premi\u00e8re fois \u00e0 la t\u00e9l\u00e9vision dans la saison 7 de American Idol en 2008. Il finit par la suite dans le top trois de la sixi\u00e8me saison de RuPaul's Drag Race, et sort dans la foul\u00e9e son premier album Till Death Do Us Party en 2014."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\uc5b4\ub3c4\uc5b4 \ub378\ub77c\ub178(Adore Delano, 1989\ub144 9\uc6d4 29\uc77c ~ )\ub294 \ubbf8\uad6d\uc758 \ub4dc\ub798\uadf8 \ud038, \uc2f1\uc5b4\uc1a1\ub77c\uc774\ud130\uc774\ub2e4. \u300a\ub8e8\ud3f4\uc758 \ub4dc\ub798\uadf8 \ub808\uc774\uc2a4\u300b \uc2dc\uc98c 6\uc5d0 \ucd9c\uc5f0\ud558\uba74\uc11c \uc774\ub984\uc744 \uc54c\ub838\ub2e4. \uc74c\uc545 \uacbd\uc5f0 \ud504\ub85c\uadf8\ub7a8 \u300a\uc544\uba54\ub9ac\uce78 \uc544\uc774\ub3cc\u300b \uc2dc\uc98c 7\uc5d0 \ucc38\uac00\ud55c \uacbd\ub825\uc774 \uc788\ub2e4."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Daniel Anthony \"Danny\" Noriega, mais conhecido pelo nome art\u00edstico Adore Delano, (Azusa, 29 de setembro de 1989) \u00e9 um cantor, compositor, drag queen e personalidade de televis\u00e3o mexicano-americano. Noriega apareceu como um concorrente na s\u00e9tima temporada do American Idol em 2008 e depois competiu como Adore Delano na sexta temporada de RuPaul's Drag Race, tornando-se um favorito entre os f\u00e3s e, finalmente, chegando aos tr\u00eas finalistas. Delano gravou e lan\u00e7ou tr\u00eas \u00e1lbuns de est\u00fadio: Till Death Do Us Party em 2014, After Party em 2016 e Whatever em 2017. Adore \u00e9 uma pessoa n\u00e3o bin\u00e1ria e usa qualquer pronome."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Daniel Anthony \"Danny\" Noriega, mer k\u00e4nd under sitt artistnamn Adore Delano, f\u00f6dd 29 september 1989 i Azusa, Kalifornien, \u00e4r en amerikansk tv-k\u00e4ndis, s\u00e5ngare, och dragqueen. Hen \u00e4r k\u00e4nd fr\u00e5n att ha deltagit i sjunde s\u00e4songen av American Idol och sj\u00e4tte s\u00e4songen av RuPauls dragrace."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Adore Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://www.adoredelano.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Adore Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Adore_Delano.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Adore_Delano_Pizza.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/DannyNoriegaAndKadyMalloy.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1989-09-29"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_musicians_of_Mexican_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Idol_participants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rights_activists_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Singers_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:YouTube_vloggers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1989_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Music_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_male_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_gay_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_Hispanic_and_Latino_American_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Actors_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Azusa,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:YouTubers_who_make_LGBT-related_content"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "40881998"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123021906"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Producer_Entertainment_Group"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Proud_Mary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosie_O'Donnell"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_11)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_5)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_6)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bianca_Del_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billboard_200"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_YouTube_personalities"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Came_out"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delaney_&_Bonnie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Independent_Albums"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_musicians_of_Mexican_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Courtney_Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Creedence_Clearwater_Revival"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stage_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Crocker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellen_DeGeneres"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elvis_Presley"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_Times"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gloria_Jones"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mon\u00e9t_X_Change"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_View_(talk_show)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dance/Electronic_Albums"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dance/Electronic_Songs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/When_I_Need_You"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Logo_TV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simon_Cowell"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Azusa,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Idol_participants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rights_activists_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Singers_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:YouTube_vloggers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Till_Death_Do_Us_Party"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whatever_(Adore_Delano_album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_Hammond"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Idol"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Idol_(season_7)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1989_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Music_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Darienne_Lake"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ex_on_the_Beach:_Peak_of_Love"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ex_on_the_Beach_(American_TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nina_West"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Non-binary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jailhouse_Rock_(song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Taylor_Swift"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Ellen_DeGeneres_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_gay_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_Hispanic_and_Latino_American_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Actors_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Azusa,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:YouTubers_who_make_LGBT-related_content"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chasing_Life"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/After_Party_(Adore_Delano_album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kain_O'Keeffe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Superstar_(Delaney_and_Bonnie_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tainted_Love"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_All_Stars_Drag_Race_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_All_Stars_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/IMDb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaska_5000"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raven_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/You_Need_to_Calm_Down"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles_Fashion_Week"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/KTLA_5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Adore_Delano_Pizza.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:DannyNoriegaAndKadyMalloy.JPG"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.imdb.com/name/nm2924001/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0zn0g8f"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Adore_Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/963d27ce-6be2-4f77-aca7-e490b1200f93"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q5798973"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0627\u062f\u0648\u0631_\u062f\u064a\u0644\u0627\u0646\u0648"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ca.dbpedia.org/resource/Adore_Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Adore_Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Adore_Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u0622\u062f\u0648\u0631\u0647_\u062f\u0644\u0627\u0646\u0648"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Adore_Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05d0\u05d3\u05d5\u05e8_\u05d3\u05dc\u05d0\u05e0\u05d5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ko.dbpedia.org/resource/\uc5b4\ub3c4\uc5b4_\ub378\ub77c\ub178"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pt.dbpedia.org/resource/Adore_Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://simple.dbpedia.org/resource/Adore_Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sv.dbpedia.org/resource/Adore_Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4mdPW"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Awards_table"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:BLP_unsourced_section"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Clear"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Discogs_artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Main"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Official_website"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Primary_source_inline"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Tooltip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Unreliable_sources"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Url"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Won"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_YouTube_personality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Adore_Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Adore_Delano.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1989-09-29"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Daniel Anthony Noriega"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Adore Delano performing in 2014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2008"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Daniel Anthony \"Danny\" Noriega (Azusa, 29 de setembre de 1989), m\u00e9s conegut pel seu nom art\u00edstic Adore Delano, \u00e9s un drag queen i cantant estatunidenc. Delano va apar\u00e8ixer com a concursant en la setena temporada d'American Idol el 2008 com a Danny Noriega. Adore Delano va competir en la sisena temporada del programa de RuPaul's Drag Race, on va arribar a les tres finals. El 2014 va llan\u00e7ar el seu primer \u00e0lbum d'estudi Till Death Do Us Party, i el 2016 va publicar After Party."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Daniel Anthony Noriega, (born September 29, 1989) better known under the stage name Adore Delano, is an American drag queen, singer-songwriter, and television personality. Noriega appeared as a contestant on the seventh season of American Idol in 2008 and later competed as Adore Delano on the sixth season of RuPaul's Drag Race, placing in the final three. Delano then went on to compete on the second season of RuPaul's Drag Race All Stars, placing ninth after voluntarily leaving the competition. Delano has recorded and released three studio albums: Till Death Do Us Party (2014), After Party (2016), Whatever (2017), and one EP Dirty Laundry (2021)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Adore Delano (geboren 29. September 1989 in Azusa als Daniel Anthony Noriega) ist eine US-amerikanische Dragqueen und Singer-Songwriterin. Bekannt wurde Delano vor allem (unter ihrem Realnamen ohne Drag) als Kandidat der siebten Staffel von American Idol sowie Finalistin der sechsten Staffel von RuPaul\u2019s Drag Race. Im Juni 2019 erreichte Delano auf einer Liste der New York der zwanzig einflussreichsten Dragqueens der Vereinigten Staaten den sechsten Platz."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Daniel Anthony Noriega (Azusa, California; 29 de septiembre de 1989)\u200b conocido como Adore Delano, es una drag queen, cantautor, youtuber y actor estadounidense.\u200b Apareci\u00f3 como concursante en la s\u00e9ptima temporada de American Idol en 2008 como Danny Noriega. Tambi\u00e9n compiti\u00f3 en la sexta temporada de RuPaul s Drag Race, convirti\u00e9ndose en la favorita entre los aficionados logrando ser finalista del concurso.\u200b Lanz\u00f3 su primer \u00e1lbum de estudio, Till Death Do Us Party, en 2014, seguido de After Party (2016) y Whatever (2017)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Daniel Anthony \u00ab Danny \u00bb Noriega, aussi connu sous le nom de sc\u00e8ne Adore Delano, est une drag queen et chanteur am\u00e9ricain. Il appara\u00eet pour la premi\u00e8re fois \u00e0 la t\u00e9l\u00e9vision dans la saison 7 de American Idol en 2008. Il finit par la suite dans le top trois de la sixi\u00e8me saison de RuPaul's Drag Race, et sort dans la foul\u00e9e son premier album Till Death Do Us Party en 2014."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\uc5b4\ub3c4\uc5b4 \ub378\ub77c\ub178(Adore Delano, 1989\ub144 9\uc6d4 29\uc77c ~ )\ub294 \ubbf8\uad6d\uc758 \ub4dc\ub798\uadf8 \ud038, \uc2f1\uc5b4\uc1a1\ub77c\uc774\ud130\uc774\ub2e4. \u300a\ub8e8\ud3f4\uc758 \ub4dc\ub798\uadf8 \ub808\uc774\uc2a4\u300b \uc2dc\uc98c 6\uc5d0 \ucd9c\uc5f0\ud558\uba74\uc11c \uc774\ub984\uc744 \uc54c\ub838\ub2e4. \uc74c\uc545 \uacbd\uc5f0 \ud504\ub85c\uadf8\ub7a8 \u300a\uc544\uba54\ub9ac\uce78 \uc544\uc774\ub3cc\u300b \uc2dc\uc98c 7\uc5d0 \ucc38\uac00\ud55c \uacbd\ub825\uc774 \uc788\ub2e4."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Daniel Anthony \"Danny\" Noriega, mais conhecido pelo nome art\u00edstico Adore Delano, (Azusa, 29 de setembro de 1989) \u00e9 um cantor, compositor, drag queen e personalidade de televis\u00e3o mexicano-americano. Noriega apareceu como um concorrente na s\u00e9tima temporada do American Idol em 2008 e depois competiu como Adore Delano na sexta temporada de RuPaul's Drag Race, tornando-se um favorito entre os f\u00e3s e, finalmente, chegando aos tr\u00eas finalistas. Delano gravou e lan\u00e7ou tr\u00eas \u00e1lbuns de est\u00fadio: Till Death Do Us Party em 2014, After Party em 2016 e Whatever em 2017. Adore \u00e9 uma pessoa n\u00e3o bin\u00e1ria e usa qualquer pronome."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Daniel Anthony \"Danny\" Noriega, mer k\u00e4nd under sitt artistnamn Adore Delano, f\u00f6dd 29 september 1989 i Azusa, Kalifornien, \u00e4r en amerikansk tv-k\u00e4ndis, s\u00e5ngare, och dragqueen. Hen \u00e4r k\u00e4nd fr\u00e5n att ha deltagit i sjunde s\u00e4songen av American Idol och sj\u00e4tte s\u00e4songen av RuPauls dragrace."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Adore_Delano?oldid=1123021906&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "31239"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2008"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Daniel Anthony Noriega"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1989"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Adore_Delano__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adore_Delano>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Adore_Delano"
+    }
+]

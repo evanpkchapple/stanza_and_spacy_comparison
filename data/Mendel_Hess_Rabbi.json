@@ -1,0 +1,507 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromSaxe-Weimar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat19th-centuryGermanPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromStadtlengsfeld"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mendel Hess"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mendel Hess"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Mendel Hess, auch Mendel He\u00df, (geb. 17. M\u00e4rz 1807 in Lengsfeld, gest. 21. September 1871 in Eisenach) war ein Rabbiner und Autor. Er war von 1839 bis 1848 Herausgeber der Wochenzeitung Der Israelit des neunzehnten Jahrhunderts."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rabbi Mendel Hess (March 17, 1807, (now Stadtlengsfeld), Saxe-Weimar - September 21, 1871, Eisenach) was a German rabbi."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Mendel Hess"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Mendel Hess"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1871-08-21"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1807-03-17"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Wartburgkreis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1807_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1871_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Chief_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_German_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Saxe-Weimar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "11482170"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1087372953"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Holdheim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saxe-Weimar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bibl._Jud."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Breslau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_education"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eisenach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stadtlengsfeld"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Wartburgkreis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julius_F\u00fcrst"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abraham_Geiger"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbinical_Conference_of_Brunswick"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1807_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1871_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Chief_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_German_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chief_rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Saxe-Weimar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talmud"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Day_of_Atonement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frankfort-on-the-Main"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_theologian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allg._Zeit._des_Jud."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grand_duchy_of_Weimar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J\u00fcd._Zeit."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lengsfeld"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.jewishencyclopedia.com/view.jsp%3Fartid=679&letter=H%7Ctitle=HESS,"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.02rf9n1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Mendel_Hess"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/141374365"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q6816567"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p393458555"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0645\u0646\u062f\u0644_\u0647\u064a\u0633"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Mendel_Hess"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4rhEv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/97902225"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Germany-rabbi-stub"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:JewishEncyclopedia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1807-03-17"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1871-08-21"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "http://dbpedia.org/resource/Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/property/url",
+        "object": "http://www.jewishencyclopedia.com/view.jsp?artid=679&letter=H|title=HESS, MENDEL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Mendel Hess, auch Mendel He\u00df, (geb. 17. M\u00e4rz 1807 in Lengsfeld, gest. 21. September 1871 in Eisenach) war ein Rabbiner und Autor. Er war von 1839 bis 1848 Herausgeber der Wochenzeitung Der Israelit des neunzehnten Jahrhunderts."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rabbi Mendel Hess (March 17, 1807, (now Stadtlengsfeld), Saxe-Weimar - September 21, 1871, Eisenach) was a German rabbi."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/97902225"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Mendel_Hess?oldid=1087372953&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "3316"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/stateOfOrigin",
+        "object": "http://dbpedia.org/resource/Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1807"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1871"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/nationality",
+        "object": "http://dbpedia.org/resource/Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Mendel_Hess__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mendel_Hess>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Mendel_Hess"
+    }
+]

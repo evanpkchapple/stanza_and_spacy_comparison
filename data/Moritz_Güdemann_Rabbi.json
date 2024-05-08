@@ -1,0 +1,657 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAustrianPeopleOfGermanDescent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromBadenBeiWien"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromHildesheim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat19th-centuryAustrianPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat19th-centuryGermanPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat20th-centuryAustrianPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Moritz G\u00fcdemann"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Moritz G\u00fcdemann"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Moritz G\u00fcdemann"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0413\u044e\u0434\u0435\u043c\u0430\u043d, \u041c\u043e\u0440\u0438\u0446"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Moritz G\u00fcdemann (geboren 19. Februar 1835 in Hildesheim; gestorben 5. August 1918 in Baden bei Wien) war ein j\u00fcdischer Gelehrter, Verfasser zahlreicher wissenschaftlicher Arbeiten und langj\u00e4hriger Rabbiner in Wien. Er war Mitbegr\u00fcnder der Oesterreichisch-Israelitischen Union und der Israelitisch-Theologischen Lehranstalt. Als sein bedeutendstes Werk gilt seine Geschichte des Erziehungswesens und der Cultur der abendl\u00e4ndischen Juden w\u00e4hrend des Mittelalters und der neueren Zeit."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Moritz G\u00fcdemann (n\u00e9 le 19 f\u00e9vrier 1835 \u00e0 Hildesheim; d\u00e9c\u00e9d\u00e9 le 5 ao\u00fbt 1918 \u00e0 Baden bei Wien) est un \u00e9rudit juif, auteur de nombreux articles scientifiques et un rabbin de Vienne. Il cofonde l'Oesterreichisch-Israelitischen Union (Union isra\u00e9lite autrichienne), et l'Israelitisch-Theologischen Lehranstalt (Institution d'enseignement th\u00e9ologique isra\u00e9lite). Son \u0153uvre la plus importante est son Geschichte des Erziehungswesens und der Cultur der abendl\u00e4ndischen Juden w\u00e4hrend des Mittelalters und der neueren Zeit (Histoire de l'\u00e9ducation et de la culture des Juifs occidentaux au cours du Moyen \u00c2ge et des Temps modernes)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Moritz G\u00fcdemann (Hebrew: \u05de\u05e9\u05d4 \u05d2\u05d9\u05d3\u05de\u05df; 19 February 1835 \u2013 5 August 1918) was an Austrian rabbi and historian. He served as chief rabbi of Vienna."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u041c\u043e\u0440\u0438\u0446 \u0413\u044e\u0434\u0435\u043c\u0430\u043d (\u043d\u0435\u043c. Moritz G\u00fcdemann; 19 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 1835, \u0425\u0438\u043b\u044c\u0434\u0435\u0441\u0445\u0430\u0439\u043c, \u041d\u0438\u0436\u043d\u044f\u044f \u0421\u0430\u043a\u0441\u043e\u043d\u0438\u044f \u2014 5 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1918, \u0411\u0430\u0434\u0435\u043d, \u041d\u0438\u0436\u043d\u044f\u044f \u0410\u0432\u0441\u0442\u0440\u0438\u044f) \u2014 \u0430\u0432\u0441\u0442\u0440\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0432\u0432\u0438\u043d \u0438 \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u0438\u0439 \u0438\u0441\u0442\u043e\u0440\u0438\u043a, \u043f\u0438\u0441\u0430\u0432\u0448\u0438\u0439 \u043d\u0430 \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0435."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Moritz G\u00fcdemann"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Moritz G\u00fcdemann"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/MoritzG\u00fcdemannPortrait.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/German_Confederation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Hildesheim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Austria-Hungary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Baden_bei_Wien"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Austria-Hungary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Baden_bei_Wien"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1918-08-05"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/German_Confederation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Hildesheim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1835-02-19"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1835_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1918_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Chief_rabbis_of_Austria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Chief_rabbis_of_Vienna"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Austrian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Austro-Hungarian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_German_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Hildesheim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "11411074"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1090855601"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Breslau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Der_Judenstaat"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holy_Land"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vienna"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German_Confederation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theodor_Herzl"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Magdeburg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Austria-Hungary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Austrians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baden_bei_Wien"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1835_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1918_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Chief_rabbis_of_Austria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Chief_rabbis_of_Vienna"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Theological_Seminary_of_Breslau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wissenschaft_des_Judentums"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isidore_Singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hildesheim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Austrian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Austro-Hungarian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_German_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Hildesheim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zionist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leo_Baeck_Institute,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ludwig_Blau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://findingaids.cjh.org/%3FpID=1568973"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://access.cjh.org/1078471"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://access.cjh.org/431045"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://archive.today/20130415154145/http:/leobaeck.oxfordjournals.org/content/11/1/42"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.jewishencyclopedia.com/view.jsp%3Fartid=477&letter=G"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.jewishencyclopedia.com/view.jsp%3Fartid=477&letter=G%7Carticle=G%C3%BCdemann,"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.02rblb5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/116909234"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/334464"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q876134"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p071179143"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0645\u0648\u0631\u064a\u062a\u0632_\u062c\u0648\u062f\u0645\u0627\u0646"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Moritz_G\u00fcdemann"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Moritz_G\u00fcdemann"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05de\u05e9\u05d4_\u05d2\u05d9\u05d3\u05de\u05df"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u0413\u044e\u0434\u0435\u043c\u0430\u043d,_\u041c\u043e\u0440\u0438\u0446"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/52NHQ"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:JewishEncyclopedia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/MoritzG\u00fcdemannPortrait.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/property/author",
+        "object": "http://dbpedia.org/resource/Isidore_Singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/property/author",
+        "object": "http://dbpedia.org/resource/Ludwig_Blau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1835-02-19"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Portrait of Moritz G\u00fcdemann"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1918-08-05"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "Austrian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi and historian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/property/url",
+        "object": "http://www.jewishencyclopedia.com/view.jsp?artid=477&letter=G|article=G\u00fcdemann, Moritz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Moritz G\u00fcdemann (geboren 19. Februar 1835 in Hildesheim; gestorben 5. August 1918 in Baden bei Wien) war ein j\u00fcdischer Gelehrter, Verfasser zahlreicher wissenschaftlicher Arbeiten und langj\u00e4hriger Rabbiner in Wien. Er war Mitbegr\u00fcnder der Oesterreichisch-Israelitischen Union und der Israelitisch-Theologischen Lehranstalt. Als sein bedeutendstes Werk gilt seine Geschichte des Erziehungswesens und der Cultur der abendl\u00e4ndischen Juden w\u00e4hrend des Mittelalters und der neueren Zeit."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Moritz G\u00fcdemann (n\u00e9 le 19 f\u00e9vrier 1835 \u00e0 Hildesheim; d\u00e9c\u00e9d\u00e9 le 5 ao\u00fbt 1918 \u00e0 Baden bei Wien) est un \u00e9rudit juif, auteur de nombreux articles scientifiques et un rabbin de Vienne. Il cofonde l'Oesterreichisch-Israelitischen Union (Union isra\u00e9lite autrichienne), et l'Israelitisch-Theologischen Lehranstalt (Institution d'enseignement th\u00e9ologique isra\u00e9lite). Son \u0153uvre la plus importante est son Geschichte des Erziehungswesens und der Cultur der abendl\u00e4ndischen Juden w\u00e4hrend des Mittelalters und der neueren Zeit (Histoire de l'\u00e9ducation et de la culture des Juifs occidentaux au cours du Moyen \u00c2ge et des Temps modernes)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Moritz G\u00fcdemann (Hebrew: \u05de\u05e9\u05d4 \u05d2\u05d9\u05d3\u05de\u05df; 19 February 1835 \u2013 5 August 1918) was an Austrian rabbi and historian. He served as chief rabbi of Vienna."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u041c\u043e\u0440\u0438\u0446 \u0413\u044e\u0434\u0435\u043c\u0430\u043d (\u043d\u0435\u043c. Moritz G\u00fcdemann; 19 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 1835, \u0425\u0438\u043b\u044c\u0434\u0435\u0441\u0445\u0430\u0439\u043c, \u041d\u0438\u0436\u043d\u044f\u044f \u0421\u0430\u043a\u0441\u043e\u043d\u0438\u044f \u2014 5 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1918, \u0411\u0430\u0434\u0435\u043d, \u041d\u0438\u0436\u043d\u044f\u044f \u0410\u0432\u0441\u0442\u0440\u0438\u044f) \u2014 \u0430\u0432\u0441\u0442\u0440\u0438\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0432\u0432\u0438\u043d \u0438 \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u0438\u0439 \u0438\u0441\u0442\u043e\u0440\u0438\u043a, \u043f\u0438\u0441\u0430\u0432\u0448\u0438\u0439 \u043d\u0430 \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0435."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Moritz_G\u00fcdemann?oldid=1090855601&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "4831"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/stateOfOrigin",
+        "object": "http://dbpedia.org/resource/Austrians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1835"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1918"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/nationality",
+        "object": "http://dbpedia.org/resource/Austrians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Moritz_G\u00fcdemann__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moritz_G\u00fcdemann>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Moritz_G\u00fcdemann"
+    }
+]

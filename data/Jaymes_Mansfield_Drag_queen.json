@@ -1,0 +1,527 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jaymes Mansfield"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "James Jeffrey Wirth (born February 19, 1990), better known as Jaymes Mansfield, is an American drag queen and TV personality, best known for competing on the ninth season of RuPaul's Drag Race and playing the part of Delia Von Whitewoman in the film The Bitch Who Stole Christmas."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Jaymes Mansfield"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "https://www.jaymesmansfieldbeauty.com/%7Cjaymesmansfieldbeauty.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Jaymes Mansfield"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52073258001).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Milwaukee,_Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Milwaukee, Wisconsin, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1990-02-19"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1990_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Madison,_Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "53495548"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1121573816"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_10)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_11)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_14)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_9)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peppermint_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Valentina_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Love_Shack"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yuhua_Hamasaki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trixie_Motel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Watch_What_Happens_Live_with_Andy_Cohen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/AJ_and_the_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexis_Michelle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1990_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_St._James"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_B-52's"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Bitch_Who_Stole_Christmas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Madison,_Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kimora_Blac"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Soju_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milwaukee,_Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tempest_DuJour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/TV_personality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camp_Wannakiki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.jaymesmansfieldbeauty.com/%7Cjaymesmansfieldbeauty.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q64748191"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pa.dbpedia.org/resource/\u0a1c\u0a47\u0a2e\u0a38_\u0a2e\u0a48\u0a28\u0a38\u0a2b\u0a40\u0a32\u0a21"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/9Hmci"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Won"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_YouTube_personality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52073258001).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1990-02-19"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "James Jeffrey Wirth"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Jaymes Mansfield at RuPaul's DragCon LA, 2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/property/website",
+        "object": "https://www.jaymesmansfieldbeauty.com/%7Cjaymesmansfieldbeauty.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2013"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "James Jeffrey Wirth (born February 19, 1990), better known as Jaymes Mansfield, is an American drag queen and TV personality, best known for competing on the ninth season of RuPaul's Drag Race and playing the part of Delia Von Whitewoman in the film The Bitch Who Stole Christmas."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Jaymes_Mansfield?oldid=1121573816&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "18450"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2013"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "James Jeffrey Wirth"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1990"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_9)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Jaymes_Mansfield__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaymes_Mansfield>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Jaymes_Mansfield"
+    }
+]

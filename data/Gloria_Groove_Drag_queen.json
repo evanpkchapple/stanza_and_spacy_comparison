@@ -1,0 +1,947 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Gloria Groove"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Gloria Groove"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Gloria Groove"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\uae00\ub85c\ub9ac\uc544 \uadf8\ub8e8\ube0c"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Gloria Groove"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Gloria Groove, pseudonimo di Daniel Garcia Felicione Napole\u00e3o (San Paolo, 18 gennaio 1995), \u00e8 un rapper, compositore, attore e doppiatore brasiliano diventato famoso nel mondo dello spettacolo soprattutto come drag queen."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\uae00\ub85c\ub9ac\uc544 \uadf8\ub8e8\ube0c(Gloria Groove, 1995\ub144 1\uc6d4 18\uc77c ~ )\ub294 \ube0c\ub77c\uc9c8\uc758 \uc2f1\uc5b4\uc1a1\ub77c\uc774\ud130, \ub798\ud37c, \ubc30\uc6b0, \ub4dc\ub798\uadf8 \ud038\uc774\ub2e4."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Daniel Garcia Felicione Napole\u00e3o (S\u00e3o Paulo, 18 de janeiro de 1995), mais conhecido por seu nome art\u00edstico Gloria Groove, \u00e9 um cantor, rapper, compositor, drag queen e dublador brasileiro. Iniciou sua carreira em 2002 no grupo Galera do Bal\u00e3o, nova vers\u00e3o da Turma do Bal\u00e3o M\u00e1gico. Em 2006, foi finalista do quadro de calouros Jovens Talentos, no Programa Raul Gil, pelo qual ganhou um convite para atuar na telenovela Bicho do Mato, na RecordTV, como filho de Beatriz Segall. Na sequ\u00eancia, iniciou uma vasta carreira na dublagem, onde se tornou um dos principais nomes do mercado brasileiro.Em 2016, retornou \u00e0 m\u00fasica como drag queen com a faixa \"Dona\", emplacando outros sucessos como \"Imp\u00e9rio\", \"Catuaba\", \"Gloriosa\", \"Muleke Brasileiro\", \"Bumbum de Ouro\", \"Arrasta\" e \"Coisa Boa\"."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Daniel Garcia Felicione Napole\u00e3o (born January 18, 1995), known professionally as Gloria Groove (Portuguese pronunciation: [\u02c8\u0261l\u0254\u027ej\u0250 \u02c8\u0261\u027euvi]), is a Brazilian singer, rapper, songwriter, actor, voice actor, and drag queen. Napole\u00e3o's singing career began when he was 7 years old, as a member of children's musical group Turma do Bal\u00e3o M\u00e1gico. During his childhood, Groove starred in the RecordTV telenovela Savage, and began work as a voice actor. After a period working in theatre as a teenager, Napole\u00e3o adopted the drag persona \"Gloria Groove\" in 2014. Two years later, he started gaining prominence by appearing in the TV Globo reality show Amor & Sexo."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Gloria Groove"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://gloriagroove.com.br/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Gloria Groove"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Gloria_Groove_in_September_2022_(2).png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/S\u00e3o_Paulo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "S\u00e3o Paulo, Brazil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1995-01-18"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_voice_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Actors_from_S\u00e3o_Paulo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Brazilian_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_rappers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1995_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_voice_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_in_Latin_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_Brazil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_non-binary_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "59763168"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1124357272"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carlinhos_Brown"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Preta_Gil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Programa_Raul_Gil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hymns"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_voice_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Universo_Online"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Usher_(musician)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vogue_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Actors_from_S\u00e3o_Paulo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/O_Povo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_Pride_Month"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Garc\u00eda_(surname)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Missy_Elliott"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sorriso_Maroto"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anitta_(singer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lexa_(singer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lia_Clark"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lil'_Kim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Linn_da_Quebrada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Show_das_Poderosas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Show_dos_Famosos"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Show_dos_Famosos_(season_4)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coming_out"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Funk_carioca"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Brazilian_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_rappers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Warner_Music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amor_e_Sexo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1995_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Extended_play"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brazilian_Carnival"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicki_Minaj"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Non-binary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PAW_Patrol"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pabllo_Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_voice_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rapping"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hair_(musical)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hannah_Montana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hip_hop_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Iza_(singer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jair_Bolsonaro"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Telenovela"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Telephone_(song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_in_Latin_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_Brazil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Justin_Bieber"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Justin_Bieber:_Never_Say_Never"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karol_Conk\u00e1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lady_Gaga"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lay's"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/S\u00e3o_Paulo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/TV_Globo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trap_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Digimon_Fusion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Margaret_Mead"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marina_Sena"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_non-binary_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pop_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spotify"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Groove_(music)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Globo.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Igreja_Renascer_em_Cristo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ONErpm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orange_Is_the_New_Black"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/R&B"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RecordTV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rede_Record"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reggaeton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Soul_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Turma_do_Bal\u00e3o_M\u00e1gico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pagode"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/AmfAR,_The_Foundation_for_AIDS_Research"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ra\u00e7a_Negra"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Power_Rangers:_Megaforce"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ax\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://gloriagroove.com.br/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/30af9387-037c-4f4f-9a81-17c6d9f5a26e"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q30933614"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u062c\u0644\u0648\u0631\u064a\u0627_\u062c\u0631\u0648\u06a4"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ca.dbpedia.org/resource/Gloria_Groove"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Gloria_Groove"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ko.dbpedia.org/resource/\uae00\ub85c\ub9ac\uc544_\uadf8\ub8e8\ube0c"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://mk.dbpedia.org/resource/Gloria_Groove"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pt.dbpedia.org/resource/Gloria_Groove"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2sHDe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Portuguese_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Efn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Ill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_musical_artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:No"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Notelist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Small"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Yes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Height"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IPA-pt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Gloria_Groove_in_September_2022_(2).png?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1995-01-18"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Daniel Garcia Felicione Napole\u00e3o"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Gloria Groove in 2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "songwriter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "voice actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "drag queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/otherNames",
+        "object": "Daniel Garcia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/website",
+        "object": "http://gloriagroove.com.br/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "A Queen Is Born"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Daniel Garcia Felicione Napole\u00e3o (born January 18, 1995), known professionally as Gloria Groove (Portuguese pronunciation: [\u02c8\u0261l\u0254\u027ej\u0250 \u02c8\u0261\u027euvi]), is a Brazilian singer, rapper, songwriter, actor, voice actor, and drag queen. Napole\u00e3o's singing career began when he was 7 years old, as a member of children's musical group Turma do Bal\u00e3o M\u00e1gico. During his childhood, Groove starred in the RecordTV telenovela Savage, and began work as a voice actor. After a period working in theatre as a teenager, Napole\u00e3o adopted the drag persona \"Gloria Groove\" in 2014. Two years later, he started gaining prominence by appearing in the TV Globo reality show Amor & Sexo. Gloria Groove's singing career launched with the release of the single \"Dona\" in January 2016. After its success, Groove released \"Imp\u00e9rio\", and was featured in Carnival hit \"Catuaba\" by Aretuza Lovi. Groove's first album, O Proceder, was released in February 2017 and was followed by the singles \"Gloriosa\" and \"Muleke Brasileiro\". At the end of 2017, Groove released one of the most successful singles of her career, \"Bumbum de Ouro\". It was followed by peer recognition, which led the singer to feature in several singles such as \"Joga Bunda\", along with Lovi and Pabllo Vittar, \"Arrasta\" with L\u00e9o Santana, a remix version of Anitta's \"Show das Poderosas\", and Lexa's \"Provocar\"."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Gloria Groove, pseudonimo di Daniel Garcia Felicione Napole\u00e3o (San Paolo, 18 gennaio 1995), \u00e8 un rapper, compositore, attore e doppiatore brasiliano diventato famoso nel mondo dello spettacolo soprattutto come drag queen."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\uae00\ub85c\ub9ac\uc544 \uadf8\ub8e8\ube0c(Gloria Groove, 1995\ub144 1\uc6d4 18\uc77c ~ )\ub294 \ube0c\ub77c\uc9c8\uc758 \uc2f1\uc5b4\uc1a1\ub77c\uc774\ud130, \ub798\ud37c, \ubc30\uc6b0, \ub4dc\ub798\uadf8 \ud038\uc774\ub2e4."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Daniel Garcia Felicione Napole\u00e3o (S\u00e3o Paulo, 18 de janeiro de 1995), mais conhecido por seu nome art\u00edstico Gloria Groove, \u00e9 um cantor, rapper, compositor, drag queen e dublador brasileiro. Iniciou sua carreira em 2002 no grupo Galera do Bal\u00e3o, nova vers\u00e3o da Turma do Bal\u00e3o M\u00e1gico. Em 2006, foi finalista do quadro de calouros Jovens Talentos, no Programa Raul Gil, pelo qual ganhou um convite para atuar na telenovela Bicho do Mato, na RecordTV, como filho de Beatriz Segall. Na sequ\u00eancia, iniciou uma vasta carreira na dublagem, onde se tornou um dos principais nomes do mercado brasileiro.Em 2016, retornou \u00e0 m\u00fasica como drag queen com a faixa \"Dona\", emplacando outros sucessos como \"Imp\u00e9rio\", \"Catuaba\", \"Gloriosa\", \"Muleke Brasileiro\", \"Bumbum de Ouro\", \"Arrasta\" e \"Coisa Boa\"."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Gloria_Groove?oldid=1124357272&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/Person/height",
+        "object": "172.0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "56183"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/alias",
+        "object": "Daniel Garcia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Daniel Garcia Felicione Napole\u00e3o"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1995"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/height",
+        "object": "1.72"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Gloria_Groove__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gloria_Groove>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Gloria_Groove"
+    }
+]

@@ -1,0 +1,922 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromLivorno"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Emigrant110051975"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Migrant110314952"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatItalianEmigrantsToTheUnitedStates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Traveler109629752"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sabato Morais"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sabato Morais"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sabato Morais"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u041c\u043e\u0440\u0435\u0439\u0441, \u0421\u0430\u0431\u0430\u0442\u043e"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sabato Morais (Hebrew: \u05e9\u05d1\u05ea\u05d0\u05d9 \u05de\u05d5\u05e8\u05d0\u05d9\u05e1; April 13, 1823 \u2013 November 11, 1897) was an Italian-American rabbi, leader of Mikveh Israel Synagogue in Philadelphia, pioneer of Italian Jewish Studies in America, and founder of the Jewish Theological Seminary, which initially acted as a center of education for Orthodox Rabbis."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sabato Morais (h\u00e9breu : \u05e9\u05d1\u05ea\u05d0\u05d9 \u05de\u05d5\u05e8\u05d0\u05d9\u05e1 Shabbeta\u00ef Mora\u00efs) est un dirigeant communautaire italo-am\u00e9ricain du XIXe si\u00e8cle (Livourne, 1823 - Philadelphie, 1897). Bien que d\u00e9pourvu du titre de rabbin, il en assume les fonctions de 1851 jusqu\u2019\u00e0 sa mort. Partisan d\u2019un juda\u00efsme orthodoxe sensible \u00e0 l\u2019\u00e9volution des m\u0153urs de l\u2019\u00e9poque, il est l\u2019un des pionniers des \u00e9tudes du juda\u00efsme italien en Am\u00e9rique et des fondateurs du Jewish Theological Seminary of America avant que celui-ci ne devienne le fer de lance du juda\u00efsme conservative."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sabato Morais (in ebraico: \u05e9\u05d1\u05ea\u05d0\u05d9 \u05de\u05d5\u05e8\u05d0\u05d9\u05e1\u200e?; Livorno, 13 aprile 1823 \u2013 Filadelfia, 11 novembre 1897) \u00e8 stato un rabbino, teologo e educatore italiano naturalizzato statunitense, di fede ebrea ortodossa. Leader italo-americano della Sinagoga , fu pioniere degli studi ebraici italiani in America, e fondatore del Jewish Theological Seminary (JTS) a New York."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0421\u0430\u0431\u0430\u0442\u043e \u041c\u043e\u0440\u0435\u0439\u0441 (\u0430\u043d\u0433\u043b. Sabato Morais; \u0440\u043e\u0434. \u0432 \u041b\u0438\u0432\u043e\u0440\u043d\u043e \u0432 1823 \u0433., \u0443\u043c\u0435\u0440 \u0432 \u0424\u0438\u043b\u0430\u0434\u0435\u043b\u044c\u0444\u0438\u0438 \u0432 1897 \u0433.) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0432\u0432\u0438\u043d \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044f, \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0432 \u0424\u0438\u043b\u0430\u0434\u0435\u043b\u044c\u0444\u0438\u0438, \u043f\u0438\u043e\u043d\u0435\u0440 \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u043e\u0439 \u0438\u0443\u0434\u0430\u0438\u043a\u0438 \u0432 \u0410\u043c\u0435\u0440\u0438\u043a\u0435 (Italian Jewish Studies) \u0438 \u043e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u0415\u0432\u0440\u0435\u0439\u0441\u043a\u043e\u0439 \u0431\u043e\u0433\u043e\u0441\u043b\u043e\u0432\u0441\u043a\u043e\u0439 \u0441\u0435\u043c\u0438\u043d\u0430\u0440\u0438\u0438, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e \u0431\u044b\u043b\u0430 \u0446\u0435\u043d\u0442\u0440\u043e\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0434\u043b\u044f \u043e\u0440\u0442\u043e\u0434\u043e\u043a\u0441\u0430\u043b\u044c\u043d\u044b\u0445 \u0440\u0430\u0432\u0432\u0438\u043d\u043e\u0432."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+        "object": "http://dbpedia.org/resource/Morais"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Rabbi Sabato Morais"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Rabbi Sabato Morais"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Sabato_morais.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Livorno"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1897-11-11"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Livorno"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1823-04-13"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_Italian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_Italian_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1823_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1897_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Italian_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Sephardic_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Portuguese-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hazzans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Livornese_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Italian_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "8284553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1120886901"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_Italian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Project_MUSE"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bible"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_Italian_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhode_Island"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Congregation_Mikveh_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Posek"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gentiles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gratz_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aramaic_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Livorno"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1823_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1897_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hazzan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isaac_Husik"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_history"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alliance_Isra\u00e9lite_Universelle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Civil_War"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Europe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PDF"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isaac_Leeser"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italian_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Sephardic_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Portuguese-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hazzans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Livornese_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Theological_Seminary_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Samuel_Morais"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Mazzini"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Book_of_Jeremiah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portugal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portuguese_Inquisition"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spanish_and_Portuguese_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spanish_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/H.S._Morais"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mikveh_Israel_Cemetery_(11th_and_Federal)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cantor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/S._D._Luzzatto"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doctor_of_Laws"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talmud"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italian-American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_slavery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mikve_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baron_de_Hirsch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russian_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kahal_Kadosh_Mikveh_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Orient"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Publication_Society_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Quarterly_Review"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pittsburg_Conference"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carmel_Colony"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chevalier_Emanuel_Felice_Veneziani"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maimonides_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salvatore_de_Benedetti"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://muse.jhu.edu/article/582246"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://digitalcommons.libraries.columbia.edu/dissertations/AAI9930740/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://jewishencyclopedia.com/articles/10978-morais-sabato"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20071022081024/http:/digitalcommons.libraries.columbia.edu/dissertations/AAI9930740/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.jewishencyclopedia.com/view.jsp%3Fartid=759&letter=M&search=Sabato%20Morais"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.library.upenn.edu/cajs/morais.html"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.026y_z2"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Sabato_Morais"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/24466831"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/116834641X"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q3460489"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p213612925"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0633\u0627\u0628\u0627\u062a\u0648_\u0645\u0648\u0631\u0627\u064a\u0633"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Sabato_Morais"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05e9\u05d1\u05ea\u05d0\u05d9_\u05de\u05d5\u05e8\u05d0\u05d9\u05e1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Sabato_Morais"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u041c\u043e\u0440\u0435\u0439\u0441,_\u0421\u0430\u0431\u0430\u0442\u043e"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/3C36u"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_document"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_encyclopedia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_journal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_web"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:See_also"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Which"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Sabato_morais.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/restingPlace",
+        "object": "http://dbpedia.org/resource/Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/restingPlace",
+        "object": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/restingPlace",
+        "object": "http://dbpedia.org/resource/Mikveh_Israel_Cemetery_(11th_and_Federal)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1823-04-13"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Sabato Morais, Jewish Encyclopedia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1897-11-11"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/imageSize",
+        "object": "200"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Posek"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Sabato Morais (Hebrew: \u05e9\u05d1\u05ea\u05d0\u05d9 \u05de\u05d5\u05e8\u05d0\u05d9\u05e1; April 13, 1823 \u2013 November 11, 1897) was an Italian-American rabbi, leader of Mikveh Israel Synagogue in Philadelphia, pioneer of Italian Jewish Studies in America, and founder of the Jewish Theological Seminary, which initially acted as a center of education for Orthodox Rabbis."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Sabato Morais (h\u00e9breu : \u05e9\u05d1\u05ea\u05d0\u05d9 \u05de\u05d5\u05e8\u05d0\u05d9\u05e1 Shabbeta\u00ef Mora\u00efs) est un dirigeant communautaire italo-am\u00e9ricain du XIXe si\u00e8cle (Livourne, 1823 - Philadelphie, 1897). Bien que d\u00e9pourvu du titre de rabbin, il en assume les fonctions de 1851 jusqu\u2019\u00e0 sa mort. Partisan d\u2019un juda\u00efsme orthodoxe sensible \u00e0 l\u2019\u00e9volution des m\u0153urs de l\u2019\u00e9poque, il est l\u2019un des pionniers des \u00e9tudes du juda\u00efsme italien en Am\u00e9rique et des fondateurs du Jewish Theological Seminary of America avant que celui-ci ne devienne le fer de lance du juda\u00efsme conservative."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Sabato Morais (in ebraico: \u05e9\u05d1\u05ea\u05d0\u05d9 \u05de\u05d5\u05e8\u05d0\u05d9\u05e1\u200e?; Livorno, 13 aprile 1823 \u2013 Filadelfia, 11 novembre 1897) \u00e8 stato un rabbino, teologo e educatore italiano naturalizzato statunitense, di fede ebrea ortodossa. Leader italo-americano della Sinagoga , fu pioniere degli studi ebraici italiani in America, e fondatore del Jewish Theological Seminary (JTS) a New York."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0421\u0430\u0431\u0430\u0442\u043e \u041c\u043e\u0440\u0435\u0439\u0441 (\u0430\u043d\u0433\u043b. Sabato Morais; \u0440\u043e\u0434. \u0432 \u041b\u0438\u0432\u043e\u0440\u043d\u043e \u0432 1823 \u0433., \u0443\u043c\u0435\u0440 \u0432 \u0424\u0438\u043b\u0430\u0434\u0435\u043b\u044c\u0444\u0438\u0438 \u0432 1897 \u0433.) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0432\u0432\u0438\u043d \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044f, \u0440\u0443\u043a\u043e\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c \u0432 \u0424\u0438\u043b\u0430\u0434\u0435\u043b\u044c\u0444\u0438\u0438, \u043f\u0438\u043e\u043d\u0435\u0440 \u0438\u0442\u0430\u043b\u044c\u044f\u043d\u0441\u043a\u043e\u0439 \u0438\u0443\u0434\u0430\u0438\u043a\u0438 \u0432 \u0410\u043c\u0435\u0440\u0438\u043a\u0435 (Italian Jewish Studies) \u0438 \u043e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u0415\u0432\u0440\u0435\u0439\u0441\u043a\u043e\u0439 \u0431\u043e\u0433\u043e\u0441\u043b\u043e\u0432\u0441\u043a\u043e\u0439 \u0441\u0435\u043c\u0438\u043d\u0430\u0440\u0438\u0438, \u043a\u043e\u0442\u043e\u0440\u0430\u044f \u0438\u0437\u043d\u0430\u0447\u0430\u043b\u044c\u043d\u043e \u0431\u044b\u043b\u0430 \u0446\u0435\u043d\u0442\u0440\u043e\u043c \u043e\u0431\u0440\u0430\u0437\u043e\u0432\u0430\u043d\u0438\u044f \u0434\u043b\u044f \u043e\u0440\u0442\u043e\u0434\u043e\u043a\u0441\u0430\u043b\u044c\u043d\u044b\u0445 \u0440\u0430\u0432\u0432\u0438\u043d\u043e\u0432."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/24466831"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Sabato_Morais?oldid=1120886901&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "11814"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/restingPlace",
+        "object": "http://dbpedia.org/resource/Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/restingPlace",
+        "object": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/restingPlace",
+        "object": "http://dbpedia.org/resource/Mikveh_Israel_Cemetery_(11th_and_Federal)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1823"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1897"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Sabato_Morais__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Posek"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sabato_Morais>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Sabato_Morais"
+    }
+]

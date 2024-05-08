@@ -1,0 +1,922 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatColumbiaUniversityAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromBrooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromGreaterBoston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Philosopher110423589"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishAmericanWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishTheologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Theologian110705615"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPhilosophersOfJudaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatProcessTheologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0647\u0627\u0631\u0648\u0644\u062f \u0643\u0648\u0634\u0646\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Harold Kushner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Harold Samuel Kushner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Harold Kushner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Harold Kushner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Harold Kushner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Harold Kushner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Harold Kushner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Harold Kushner (* 1935 Brooklyn, New York) je americk\u00fd rab\u00edn, p\u0159edstavitel progresivn\u00edho k\u0159\u00eddla rekonstruktivn\u00edho judaismu.[zdroj?!]"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0647\u0627\u0631\u0648\u0644\u062f \u0643\u0648\u0634\u0646\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Harold Kushner)\u200f \u0647\u0648 \u0643\u0627\u062a\u0628 \u0648\u062d\u0627\u062e\u0627\u0645 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 1935 \u0641\u064a \u0628\u0631\u0648\u0643\u0644\u064a\u0646 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Harold Samuel Kushner (born April 3, 1935) is a prominent American rabbi and author. He is a member of the Rabbinical Assembly of Conservative Judaism and served as the congregational rabbi of Temple Israel of Natick, in Natick, Massachusetts, for 24 years. His 14 books include the best-sellers When Bad Things Happen to Good People and Living a Life That Matters: Resolving the Conflict Between Conscience and Success."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Harold Samuel Kushner (Brooklyn, 3 aprile 1935) \u00e8 un rabbino, teologo e scrittore statunitense.Appartiene alla corrente dell'Ebraismo conservatore ed \u00e8 un noto autore di libri sociologici e religiosi."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Harold S. Kushner \u00e9 um conhecido rabino norte-americano, alinhado com a ala progressiva do Juda\u00edsmo Conservador, tamb\u00e9m conhecido como Masorti. Nasceu em 1935, no Brooklyn. A experi\u00eancia com a morte de seu filho, v\u00edtima de progeria, o motivou a escrever seu livro mais conhecido, Quando coisas ruins acontecem \u00e0s pessoas boas (ISBN 8521305656, ISBN 9788521305651) ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Harold Samuel Kushner adalah seorang penulis dan rabi Yahudi terkemuka yang tinggal di Amerika. Ia lahir di Brooklyn dan menempuh studi di Columbia University. Kemudian ia mendapatkan tahbisan menjadi rabi setelah menjalani proses studi di pada tahun 1960. Institusi yang sama menganugerahkan ia gelar doktoral Alkitab pada tahun 1972. Kusher juga belajar di Hebrew University of Jerusalem dan mengajar di dan Sekolah Rabinik di Jewish Theological Seminary dan memperoleh enam gelar doktoral lainnya."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Harold S. Kushner (Brooklyn, New York, 3 april 1935) is een Amerikaanse rabbijn behorend tot de conservatief-joodse richting waarbinnen hij tot de progressieve vleugel behoort. Hij is als emeritus rabbijn verbonden aan de synagoge Temple Israel in de plaats Natick. Samen met rabbijn-schrijver Chaim Potok heeft Harold Kushner in 2001 eveneens een werk over de Thora het licht doen zien dat geldt als het nieuwe offici\u00eble Thora-commentaar van de conservatief-joodse richting."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Harold S. Kushner (ur. 1935 w Nowym Jorku) \u2013 ameryka\u0144ski rabin zwi\u0105zany z post\u0119powym skrzyd\u0142em judaizmu konserwatywnego. Urodzi\u0142 si\u0119 na Brooklinie, studiowa\u0142 w Columbia University i w Jewish Theological Seminary (JTS), gdzie w roku 1960 zosta\u0142 ordynowany na rabina. R\u00f3wnie\u017c tam obroni\u0142 prac\u0119 doktorsk\u0105 na temat Biblii w 1972 roku. Studiowa\u0142 tak\u017ce w , wyk\u0142ada\u0142 w oraz w Szkole Rabinicznej JTS. Sze\u015bciokrotnie odbiera\u0142 tytu\u0142 doctora honoris causa."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Harold Samuel Kushner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Harold Samuel Kushner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Harold_Kushner.gif"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Brooklyn,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Brooklyn, New York, U. S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1935-04-03"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Process_theologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1935_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Columbia_College_(New_York)_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_University_of_Jerusalem_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_humanists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Greater_Boston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Theological_Seminary_of_America_semikhah_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_theologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_humanists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Erasmus_Hall_High_School_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Humanistic_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "13992"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1097926498"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Problem_of_evil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Progeria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Psalm_23"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Omnipotence"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Death_and_State_Funeral_of_Ronald_Reagan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Process_theologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lifetime_Achievement_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1935_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Overcoming_Life's_Disappointments"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clark_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/God"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservative_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Sunflower:_On_the_Possibilities_and_Limits_of_Forgiveness"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harold_J._Kushner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Columbia_College_(New_York)_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_University_of_Jerusalem_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_humanists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Greater_Boston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Washington_National_Cathedral"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_University_of_Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Bible"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Theological_Seminary_of_America_semikhah_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_theologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_humanists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Erasmus_Hall_High_School_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chaim_Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Book_Council"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Publication_Society"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Theological_Seminary_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Natick,_Massachusetts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbinical_Assembly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theodicy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Humanistic_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/When_All_You've_Ever_Wanted_Isn't_Enough"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/When_Bad_Things_Happen_to_Good_People"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/To_Life:_A_Celebration_of_Jewish_Being_and_Thinking"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Practice_Random_Acts_of_Kindness:_Bring_More_Peace,_Love,_And_Compassion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Honorary_doctorates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conquering_Fear:_Living_Boldly_in_an_Uncertain_World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Faith_&_Family:_Favorite_Sermons_of_Rabbi_Harold_S._Kushner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/How_Good_Do_We_Have_to_Be%3F_A_New_Understanding_of_Guilt_and_Forgiveness"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Living_a_Life_That_Matters:_Resolving_the_Conflict_Between_Conscience_and_Success"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Book_of_Job:_When_Bad_Things_Happened_to_a_Good_Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Lord_Is_My_Shepherd:_Healing_Wisdom_of_the_23rd_Psalm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/When_Children_Ask_aAbout_God:_A_Guide_for_Parents_Who_Don't_Always_Have_All_the_Answers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Who_Needs_God"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.tiofnatick.org/Rabbi-Laureate-Harold-Kushner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.youtube.com/watch%3Fv=EAPsacYunYg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.youtube.com/watch%3Fv=TQW6xvmREx4"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.youtube.com/watch%3Fv=mFZlLvdcpGo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20081006040825/http:/fora.tv/fora/showthread.php%3Ft=457"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.03mvm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/77052106"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Harold_Kushner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/115725032"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q1826749"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p069378541"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0647\u0627\u0631\u0648\u0644\u062f_\u0643\u0648\u0634\u0646\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0647\u0627\u0631\u0648\u0644\u062f_\u0643\u0648\u0634\u0646\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://cs.dbpedia.org/resource/Harold_Kushner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://id.dbpedia.org/resource/Harold_Samuel_Kushner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Harold_Kushner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nl.dbpedia.org/resource/Harold_Kushner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pl.dbpedia.org/resource/Harold_Kushner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pt.dbpedia.org/resource/Harold_Kushner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yi.dbpedia.org/resource/\u05d4\u05e2\u05e8\u05d0\u05dc\u05d3_\u05e7\u05d5\u05e9\u05e0\u05e2\u05e8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/krQS"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_web"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Hatnote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Harold_Kushner.gif?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1935-04-03"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/property/notableWorks",
+        "object": "When Bad Things Happen to Good People, When All You've Ever Wanted Isn't Enough"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, author"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Harold Kushner (* 1935 Brooklyn, New York) je americk\u00fd rab\u00edn, p\u0159edstavitel progresivn\u00edho k\u0159\u00eddla rekonstruktivn\u00edho judaismu.[zdroj?!]"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0647\u0627\u0631\u0648\u0644\u062f \u0643\u0648\u0634\u0646\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Harold Kushner)\u200f \u0647\u0648 \u0643\u0627\u062a\u0628 \u0648\u062d\u0627\u062e\u0627\u0645 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 1935 \u0641\u064a \u0628\u0631\u0648\u0643\u0644\u064a\u0646 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Harold Samuel Kushner (born April 3, 1935) is a prominent American rabbi and author. He is a member of the Rabbinical Assembly of Conservative Judaism and served as the congregational rabbi of Temple Israel of Natick, in Natick, Massachusetts, for 24 years. His 14 books include the best-sellers When Bad Things Happen to Good People and Living a Life That Matters: Resolving the Conflict Between Conscience and Success."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Harold Samuel Kushner adalah seorang penulis dan rabi Yahudi terkemuka yang tinggal di Amerika. Ia lahir di Brooklyn dan menempuh studi di Columbia University. Kemudian ia mendapatkan tahbisan menjadi rabi setelah menjalani proses studi di pada tahun 1960. Institusi yang sama menganugerahkan ia gelar doktoral Alkitab pada tahun 1972. Kusher juga belajar di Hebrew University of Jerusalem dan mengajar di dan Sekolah Rabinik di Jewish Theological Seminary dan memperoleh enam gelar doktoral lainnya. Ia merasa lebih banyak mendapat pengaruh dari pandangan Mormon daripada pandangan Yahudi sendiri. Ia merasa bahwa gereja Mormon memiliki pandangan yang baik mengenai kewajiban manusia untuk mewujudkan kemahamampuan Allah. Ini berarti juga memperhatikan mereka yang menjadi tanggung jawab Allah, seperti anak retardasi mental, banjir, gempa bumi, dan segala sesuatu yang terjadi di bumi. Mereka berusaha untuk memutar segala hal yang buruk ini dari sudut pandang teologis dan mengatakan bagaimana hal yang buruk itu adalah baik."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Harold S. Kushner (Brooklyn, New York, 3 april 1935) is een Amerikaanse rabbijn behorend tot de conservatief-joodse richting waarbinnen hij tot de progressieve vleugel behoort. Hij is als emeritus rabbijn verbonden aan de synagoge Temple Israel in de plaats Natick. Kushner is zowel binnen als buiten het jodendom zeer bekend geworden door een aantal boeken die hij schreef. Vooral zijn boek Als het kwaad goede mensen treft maakte veel los. Het is geschreven voor mensen die verdriet te verwerken krijgen en hoe dit zich verhoudt ten opzichte van de almacht en de rechtvaardigheid van God. Kushner weet waarover hij praat want zijn zoontje stierf aan een weinig voorkomende ziekte, progeria (een zeer snel verouderingsproces). Ook gaat hij in op wat de Joden tijdens de Shoah (Holocaust) hebben moeten doorstaan. Samen met rabbijn-schrijver Chaim Potok heeft Harold Kushner in 2001 eveneens een werk over de Thora het licht doen zien dat geldt als het nieuwe offici\u00eble Thora-commentaar van de conservatief-joodse richting."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Harold Samuel Kushner (Brooklyn, 3 aprile 1935) \u00e8 un rabbino, teologo e scrittore statunitense.Appartiene alla corrente dell'Ebraismo conservatore ed \u00e8 un noto autore di libri sociologici e religiosi."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Harold S. Kushner (ur. 1935 w Nowym Jorku) \u2013 ameryka\u0144ski rabin zwi\u0105zany z post\u0119powym skrzyd\u0142em judaizmu konserwatywnego. Urodzi\u0142 si\u0119 na Brooklinie, studiowa\u0142 w Columbia University i w Jewish Theological Seminary (JTS), gdzie w roku 1960 zosta\u0142 ordynowany na rabina. R\u00f3wnie\u017c tam obroni\u0142 prac\u0119 doktorsk\u0105 na temat Biblii w 1972 roku. Studiowa\u0142 tak\u017ce w , wyk\u0142ada\u0142 w oraz w Szkole Rabinicznej JTS. Sze\u015bciokrotnie odbiera\u0142 tytu\u0142 doctora honoris causa. Jako sta\u0142y rabin przepracowa\u0142 24 lata w synagodze Temple Israel of Natick, w Natick w stanie Massachusetts, USA. By\u0142 r\u00f3wnie\u017c cz\u0142onkiem Rabbinical Assembly. Jest autorem wielu ksi\u0105\u017cek, w tym bestsellera po\u015bwi\u0119conemu problemowi istnienia z\u0142a - When Bad Things Happen to Good People (Gdy z\u0142e rzeczy zdarzaj\u0105 si\u0119 dobrym ludziom). Kushner napisa\u0142 j\u0105 tu\u017c po \u015bmierci syna. Zadaje w niej pytania dotycz\u0105ce sensu ludzkiego cierpienia, teodycei, istnienia Boga i jego omnipotencji. W\u015br\u00f3d innych jego prac znajduj\u0105 si\u0119 m.in. popularne ksi\u0105\u017cki teologiczne How Good Do We Have to Be? (Jak dobrzy powinni\u015bmy by\u0107), To Life! (Za \u017cycie!). Wraz z Chaimem Potokiem by\u0142 wsp\u00f3\u0142edytorem Etz Hayim: A Torah Commentary, the new official Torah commentary of the Conservative movement (Drzewo \u017cycia: Komentarz do Tory, nowy oficjalny komentarz od Tory ruchu Konserwatywnego), wydanej wsp\u00f3lnie przez Rabbinical Assembly oraz Jewish Publication Society w roku 2001. Jego Living a Life That Matters (\u017by\u0107, \u017ceby \u017cycie mia\u0142o sens) sta\u0142o si\u0119 bestsellerem jesieni\u0105 2001 roku. Lord Is My Shepherd (Pan jest moim Pasterzem), to medytacja na temat Psalmu 23 opublikowana w 2003 roku. Odpowiada\u0142 r\u00f3wnie\u017c na pytania stawiane przez Szymona Wiesenthala w ksi\u0105\u017cce o przebaczeniu The Sunflower: On the Possibilities and Limits of Forgiveness (S\u0142onecznik, O mo\u017cliwo\u015bciach i ograniczeniach przebaczenia)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Harold S. Kushner \u00e9 um conhecido rabino norte-americano, alinhado com a ala progressiva do Juda\u00edsmo Conservador, tamb\u00e9m conhecido como Masorti. Nasceu em 1935, no Brooklyn. A experi\u00eancia com a morte de seu filho, v\u00edtima de progeria, o motivou a escrever seu livro mais conhecido, Quando coisas ruins acontecem \u00e0s pessoas boas (ISBN 8521305656, ISBN 9788521305651) ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/77052106"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Harold_Kushner?oldid=1097926498&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "7004"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1935"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Harold_Kushner__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Harold_Kushner>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Harold_Kushner"
+    }
+]

@@ -1,0 +1,692 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Theodore Friedman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Theodore Tuvia Zvi Friedman (January 11, 1908 \u2013 December 18, 1992) was an American and Israeli conservative rabbi, spiritual leader, and author. From 1962 to 1964, he served as the president of The Rabbinical Assembly, the international association of Conservative rabbis. During his tenure, he supported the African-American Civil Rights Movement."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Theodore Tuvia Zvi Friedman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Theodore Tuvia Zvi Friedman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/\u05d8\u05d5\u05d1\u05d9\u05d4_\u05d8\u05d9\u05d0\u05d5\u05d3\u05d5\u05e8_\u05e4\u05e8\u05d9\u05d3\u05de\u05df.png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Stamford,_Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Jerusalem, Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1992-12-18"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Stamford, Connecticut, United States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1908-01-11"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_magazine_editors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1908_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1992_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_columnists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_corporate_directors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_magazine_editors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:City_College_of_New_York_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Columbia_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_columnists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_corporate_directors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Theological_Seminary_of_America_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Stamford,_Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "67862538"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1110541743"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Birmingham,_Alabama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aliyah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_din"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vassar_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University_Medical_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/City_College_of_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Civil_rights_movement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gideon_Hausner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservative_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservative_Judaism_(journal)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_magazine_editors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stamford,_Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Committee_on_Jewish_Law_and_Standards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1908_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1992_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_columnists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_corporate_directors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_magazine_editors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:City_College_of_New_York_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Columbia_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Buenos_Aires"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_columnists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agunah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tisha_B'Av"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mincha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Gordis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halakha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_corporate_directors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Theological_Seminary_of_America_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Stamford,_Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/African-American_Civil_Rights_Movement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Agency_for_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Theological_Seminary_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kfar_Saba"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacob_B._Agus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mitzvah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dirty_War"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marshall_Meyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Soviet_Jewry_Movement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greater_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Idolatry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Order_of_the_Liberator_General_San_Mart\u00edn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbinical_Assembly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shabbat"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Schechter_Institute_of_Jewish_Studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Seminario_Rab\u00ednico_Latinoamericano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mitzvot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halakhically"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_City_College_of_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.nytimes.com/1992/12/21/obituaries/theodore-friedman-judaic-scholar-84.html"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.co.il/books%3Fid=cffYUkXFVvAC&pg=PA92&lpg=PA92&dq=theodore+friedman+rabbi+the+civil+rights+movement&source=bl&ots=3tVRCHp3dz&sig=ACfU3U0rx-XeemmB_6fJt0uLo4VZvsQPOw&hl=iw&sa=X&ved=2ahUKEwjKusjHrJvxAhWLDxQKHUeJD_kQ6AEwCHoECAgQAw%23v=onepage&q=theodore%20friedman%20rabbi%20the%20civil%20rights%20movement&f=false"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.bjpa.org/content/upload/bjpa/jose/Joselit-Jewish%20leadership.pdf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://schechter.ac.il/book/beer-tuvia-from-the-writings-of-rabbi-tuvia-friedman/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/adler-morris"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/friedman-theodore"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/9040303"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q107100329"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05d8\u05d5\u05d1\u05d9\u05d4_\u05d8\u05d9\u05d0\u05d5\u05d3\u05d5\u05e8_\u05e4\u05e8\u05d9\u05d3\u05de\u05df"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/FtyCo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:About"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Improve_categories"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/\u05d8\u05d5\u05d1\u05d9\u05d4_\u05d8\u05d9\u05d0\u05d5\u05d3\u05d5\u05e8_\u05e4\u05e8\u05d9\u05d3\u05de\u05df.png?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1908-01-11"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/property/burialPlace",
+        "object": "Jerusalem, Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1992-12-18"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/City_College_of_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/Jewish_Theological_Seminary_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, author"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/property/otherNames",
+        "object": "Teddy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Theodore Tuvia Zvi Friedman (January 11, 1908 \u2013 December 18, 1992) was an American and Israeli conservative rabbi, spiritual leader, and author. From 1962 to 1964, he served as the president of The Rabbinical Assembly, the international association of Conservative rabbis. During his tenure, he supported the African-American Civil Rights Movement."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Theodore_Friedman?oldid=1110541743&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "28034"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/alias",
+        "object": "Teddy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1908"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1992"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/City_College_of_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Jewish_Theological_Seminary_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Theodore_Friedman__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Theodore_Friedman>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Theodore_Friedman"
+    }
+]

@@ -1,0 +1,737 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanActivists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeopleOfUkrainian-JewishDescent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSovietEmigrantsToTheUnitedStates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Disputant109615465"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Emigrant110051975"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Migrant110314952"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Militant110315837"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Reformer110515194"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Traveler109629752"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromTaunton,Massachusetts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Baruch Korff"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0628\u0627\u0631\u0648\u062e \u0643\u0648\u0631\u0641"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Baruch Korff"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0628\u0627\u0631\u0648\u062e \u0643\u0648\u0631\u0641 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Baruch Korff)\u200f (\u0648. 1914 \u2013 1995 \u0645)\u0647\u0648 \u062d\u0627\u062e\u0627\u0645 \u0645\u0646 \u0625\u0633\u0631\u0627\u0626\u064a\u0644 . \u0648\u0644\u062f \u0641\u064a \u0623\u0648\u0643\u0631\u0627\u0646\u064a\u0627 . \u062a\u0648\u0641\u064a \u0641\u064a \u0628\u0631\u0648\u0641\u064a\u062f\u0646\u0633\u060c \u0631\u0648\u062f \u0622\u064a\u0644\u0627\u0646\u062f ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Baruch Korff (July 4, 1914 \u2013 July 26, 1995) was an American Orthodox rabbi. He was a longtime Jewish community activist who was associated with the Irgun and Lehi groups. Korff was a close political confidant of Richard Nixon, and was known as \"Nixon's rabbi.\""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Baruch Korff (4 luglio 1914 \u2013 26 luglio 1995) \u00e8 stato un attivista israeliano. Fu politicamente vicino a Richard Nixon, motivo per cui era conosciuto come \"il Rabbino di Nixon.\""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Baruch Korff"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Baruch Korff"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Russian_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Novohrad-Volynskyi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1995-07-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Russian_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Novohrad-Volynskyi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1914-07-04"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Lehi_(militant_group)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Richard_Nixon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1995_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1914_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Ukrainian-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_pancreatic_cancer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Taunton,_Massachusetts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Zionists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Soviet_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "12644102"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1109019412"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lehi_(militant_group)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Providence,_Rhode_Island"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Richard_Nixon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Nixon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ukraine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Army_Air_Forces"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1995_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Menachem_Begin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russian_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Golda_Meir"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1948_Palestine_war"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anti-Semitism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lehi_(militant_group)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mandatory_Palestine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bar_mitzvah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1914_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Ukrainian-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_pancreatic_cancer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brown_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Taunton,_Massachusetts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Watergate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbis'_march_(1943)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Foreign,_Commonwealth_and_Development_Office"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Novohrad-Volynskyi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prophets_in_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Irgun"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Taunton,_Massachusetts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Zionists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Soviet_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/La_Sant\u00e9_Prison"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zionist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portsmouth,_New_Hampshire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nazism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi_Isaac_Elchanan_Theological_Seminary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chaplain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Second_Polish_Republic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yitzhak_Aharon_Korff"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yitzhak_Rabin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scotland_Yard"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Union_of_Orthodox_Rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/War_Refugee_Board"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pogroms_in_the_Russian_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Firebombing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Exodus_(ship)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://library.brown.edu/collatoz/info.php%3Fid=224"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20070609145529/http:/www.time.com/time/magazine/article/0,9171,911439,00.html"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20070928212448/http:/www.paulgassfamily.com/section3/iii3/iii3_001.htm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.02wz9sq"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/35903809"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Baruch_Korff"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q3635479"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0628\u0627\u0631\u0648\u062e_\u0643\u0648\u0631\u0641"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0628\u0627\u0631\u0648\u062e_\u0643\u0648\u0631\u0641"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Baruch_Korff"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/3Mb8C"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1914-07-04"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1995-07-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "\"Nixon's rabbi\""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Rebecca Marshall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Naomi Ruth Sternburg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0628\u0627\u0631\u0648\u062e \u0643\u0648\u0631\u0641 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Baruch Korff)\u200f (\u0648. 1914 \u2013 1995 \u0645)\u0647\u0648 \u062d\u0627\u062e\u0627\u0645 \u0645\u0646 \u0625\u0633\u0631\u0627\u0626\u064a\u0644 . \u0648\u0644\u062f \u0641\u064a \u0623\u0648\u0643\u0631\u0627\u0646\u064a\u0627 . \u062a\u0648\u0641\u064a \u0641\u064a \u0628\u0631\u0648\u0641\u064a\u062f\u0646\u0633\u060c \u0631\u0648\u062f \u0622\u064a\u0644\u0627\u0646\u062f ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Baruch Korff (July 4, 1914 \u2013 July 26, 1995) was an American Orthodox rabbi. He was a longtime Jewish community activist who was associated with the Irgun and Lehi groups. Korff was a close political confidant of Richard Nixon, and was known as \"Nixon's rabbi.\""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Baruch Korff (4 luglio 1914 \u2013 26 luglio 1995) \u00e8 stato un attivista israeliano. Fu politicamente vicino a Richard Nixon, motivo per cui era conosciuto come \"il Rabbino di Nixon.\""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Activist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/35903809"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Baruch_Korff?oldid=1109019412&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "12750"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1914"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1995"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Baruch_Korff__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Korff>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Baruch_Korff"
+    }
+]

@@ -1,0 +1,1012 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanMaleFilmActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanMaleStageActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeopleOfEnglishDescent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTEntertainersFromTheUnitedStates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatMaleActorsFromParis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleEducatedAtEtonCollege"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Actor109765278"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Aristocrat109807754"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Entertainer109616922"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/FemaleAristocrat110083823"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Performer110415638"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Queen110499355"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGayActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat20th-centuryAmericanMaleActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAlumniOfTheUniversityOfOxford"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDragQueens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://umbel.org/umbel/rc/Actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://umbel.org/umbel/rc/Artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bunny Breckinridge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bunny Breckinridge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bunny Breckinridge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Cabell \"Bunny\" Breckinridge (August 6, 1903 \u2013 November 5, 1996) was an American actor and drag queen, best known for his role as \"The Ruler\" in Ed Wood's film Plan 9 from Outer Space, his only film appearance."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "John Cabell Breckinridge, dit Bunny Breckinridge, est un millionnaire am\u00e9ricain, n\u00e9 le 6 ao\u00fbt 1903 \u00e0 Paris et mort le 5 novembre 1996 \u00e0 Monterey."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Bunny Breckinridge, pseudonimo di John Cabell Breckinridge (Parigi, 6 agosto 1903 \u2013 San Francisco, 5 novembre 1996), \u00e8 stato un attore statunitense, noto soprattutto per la sua amicizia e collaborazione con il regista di b-movies Edward D. Wood Jr."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Bunny Breckinridge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Bunny Breckinridge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "John \"Bunny\" Breckinridge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Bunny_Breckinridge_(cropped).png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/PlanNine_03.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Paris"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Monterey,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Monterey, California, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1996-11-05"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Paris, France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1903-08-06"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1903_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_male_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_male_film_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_male_stage_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1996_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Oxford"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_expatriates_in_England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_educated_at_Eton_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Breckinridge_family"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_expatriates_in_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Male_actors_from_Paris"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "2287914"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1118767623"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carmel,_CA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_burlesque"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Murray"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biopic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_films_considered_the_worst"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Marco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cult_following"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vagrancy_(people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Publicity"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1903_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_male_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_film_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_stage_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Confederate_States_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Obituary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_Jorgensen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elvis_Presley"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Free_love"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gore_Vidal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monterey,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lloyd_Tevis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1996_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_of_Oxford"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_expatriates_in_England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_educated_at_Eton_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Breckinridge_family"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tim_Burton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ed_Sullivan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ed_Wood"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ed_Wood_(film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eton_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/No\u00ebl_Coward"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paris"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prasad"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hippie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Atascadero_State_Hospital"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J._Edgar_Hoover"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Count"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_expatriates_in_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Male_actors_from_Paris"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_C._Breckinridge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Las_Vegas_Strip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Divorce"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plan_9_from_Outer_Space"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_closet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mexico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/N\u00e9e"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Myra_Breckinridge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nursing_home"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sex_reassignment_surgery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wells_Fargo_Bank"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Lark_(play)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Breckinridge_(1760\u20131806)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oxford_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Socialite"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princess_Margaret"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/B-movie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roselle_du_Val_de_Dampierre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:PlanNine_03.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lionel_de_Bruchard"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marie_du_Val_de_Dampierre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Henri_du_Val_de_Dampierre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Solange_Breckinridge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20051104121334/http:/garnet.acns.fsu.edu/~lflynn/BUNNY.htm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.07129q"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/2172147665811360670008"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Bunny_Breckinridge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q1402270"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0628\u0648\u0646\u0649_\u0628\u0631\u064a\u0643\u064a\u0646\u0631\u064a\u062f\u062c"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Bunny_Breckinridge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Bunny_Breckinridge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://simple.dbpedia.org/resource/Bunny_Breckinridge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/RCGT"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:'"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Who%3F"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Kentucky_Breckinridges"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Bunny_Breckinridge_(cropped).png?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/Oxford_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1903-08-06"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/birthname",
+        "object": "John Cabell Breckinridge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Breckinridge in Plan 9 from Outer Space"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1996-11-05"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/id",
+        "object": "106559"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "drag queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "1927"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "1929"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "div"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Roselle du Val de Dampierre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "John Cabell \"Bunny\" Breckinridge (August 6, 1903 \u2013 November 5, 1996) was an American actor and drag queen, best known for his role as \"The Ruler\" in Ed Wood's film Plan 9 from Outer Space, his only film appearance."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "John Cabell Breckinridge, dit Bunny Breckinridge, est un millionnaire am\u00e9ricain, n\u00e9 le 6 ao\u00fbt 1903 \u00e0 Paris et mort le 5 novembre 1996 \u00e0 Monterey."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Bunny Breckinridge, pseudonimo di John Cabell Breckinridge (Parigi, 6 agosto 1903 \u2013 San Francisco, 5 novembre 1996), \u00e8 stato un attore statunitense, noto soprattutto per la sua amicizia e collaborazione con il regista di b-movies Edward D. Wood Jr."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/2172147665811360670008"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/property/wordnet_type",
+        "object": "http://www.w3.org/2006/03/wn/wn20/instances/synset-actor-noun-1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Bunny_Breckinridge?oldid=1118767623&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "9853"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "John Cabell Breckinridge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1903"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1996"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/imdbId",
+        "object": "0106559"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/Oxford_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Bunny_Breckinridge__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://dbpedia.org/ontology/spouse",
+        "object": "http://dbpedia.org/resource/Roselle_du_Val_de_Dampierre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bunny_Breckinridge>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Bunny_Breckinridge"
+    }
+]

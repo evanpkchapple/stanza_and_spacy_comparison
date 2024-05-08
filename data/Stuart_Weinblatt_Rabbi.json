@@ -1,0 +1,367 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Stuart Weinblatt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Stuart Weinblatt is an ordained rabbi and the President of the Rabbinic Cabinet of the Jewish Federations of North America. He is the senior rabbi of Congregation B\u2019nai Tzedek in Potomac, Maryland. He and his wife founded the Conservative synagogue in 1988 with only a handful of families. The congregation\u2019s membership is now over 650 families. Rabbi Weinblatt also served as Director of Israel Policy and Advocacy for the Rabbinical Assembly starting in 2009 and was tapped by the Jewish National Fund to head up and organize their \"Rabbis for Israel\" affinity group."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Stuart Weinblatt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Stuart Weinblatt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Stuart_Weinblatt.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_Union_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Maryland,_College_Park_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Potomac,_Maryland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "45484569"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1114951080"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Potomac,_Maryland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Senate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Who's_Who_Among_Students_in_American_Universities_and_Colleges"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shalom_Hartman_Institute"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_Union_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Maryland,_College_Park_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Community_Relations_Council"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Potomac,_Maryland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Federations_of_North_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_National_Fund"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wesley_Theological_Seminary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbinical_Assembly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_ORT"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Washington_Jewish_Week"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Maryland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/U.S._House_of_Representatives"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.012w4dtx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Stuart_Weinblatt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q20687561"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/xRn1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:ISBN"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Undisclosed_paid"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Stuart_Weinblatt.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/University_of_Maryland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Stuart Weinblatt is an ordained rabbi and the President of the Rabbinic Cabinet of the Jewish Federations of North America. He is the senior rabbi of Congregation B\u2019nai Tzedek in Potomac, Maryland. He and his wife founded the Conservative synagogue in 1988 with only a handful of families. The congregation\u2019s membership is now over 650 families. Rabbi Weinblatt also served as Director of Israel Policy and Advocacy for the Rabbinical Assembly starting in 2009 and was tapped by the Jewish National Fund to head up and organize their \"Rabbis for Israel\" affinity group."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Stuart_Weinblatt?oldid=1114951080&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "8452"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/University_of_Maryland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Stuart_Weinblatt__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stuart_Weinblatt>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Stuart_Weinblatt"
+    }
+]

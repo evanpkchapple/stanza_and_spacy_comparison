@@ -1,0 +1,1672 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAustralianFemaleImpersonators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAustralianIdolParticipants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAustralianPopSingers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatRuPaul'sDragRaceContestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Aristocrat109807754"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Associate109816771"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/BadPerson109831962"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Contestant109613191"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Deceiver109998101"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Entertainer109616922"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/FemaleAristocrat110083823"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Impersonator110200365"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Musician110339966"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Musician110340312"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Participant110401829"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Peer109626238"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Performer110415638"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Queen110499355"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wrongdoer109633969"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Singer110599806"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDragQueens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Courtney Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Courtney Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Courtney Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Courtney Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\ucf54\ud2b8\ub2c8 \uc561\ud2b8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Courtney Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Courtney Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Courtney Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Courtney Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Courtney Act, B\u00fchnenname von Shane Jenek (* 18. Februar 1982 in Brisbane, Queensland als Shane Gilberto Jenek) ist eine australische Pops\u00e4ngerin, Entertainerin, Dragqueen und Reality-TV-Pers\u00f6nlichkeit."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Shane Jenek (n\u00e9 le 18 f\u00e9vrier 1982 ; plus connu sous son nom de sc\u00e8ne Courtney Act) est une drag queen et chanteur australien. En tant que Courtney Act, Jenek termine en demi-finale de Australian Idol en 2003 et devient le troisi\u00e8me chanteur de la comp\u00e9tition \u00e0 sortir un single solo officiel, apr\u00e8s Guy Sebastian et Shannon Noll. Le single Rub Me Wrong sort en 2004, et se classe \u00e0 la vingt-neuvi\u00e8me position de l'ARIA Singles Chart. Act participe \u00e9galement \u00e0 la sixi\u00e8me saison de RuPaul's Drag Race o\u00f9 elle \u00e9choue en finale avec Adore Delano contre Bianca Del Rio. Plus r\u00e9cemment, Shane/Courtney participe \u00e0 l'\u00e9mission de t\u00e9l\u00e9-r\u00e9alit\u00e9 britannique Celebrity Big Brother qu'elle remporte en f\u00e9vrier 2018."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\ucf54\ud2b8\ub2c8 \uc561\ud2b8(Courtney Act, 1982\ub144 2\uc6d4 18\uc77c ~ )\ub294 \uc624\uc2a4\ud2b8\ub808\uc77c\ub9ac\uc544\uc758 \ub4dc\ub798\uadf8 \ud038, \uac00\uc218, \uc0ac\uc5c5\uac00, \ub9ac\uc5bc\ub9ac\ud2f0 \ubc29\uc1a1 \uc720\uba85\uc778\uc774\ub2e4. 2003\ub144 \u300a\uc624\uc2a4\ud2b8\ub808\uc77c\ub9ac\uc548 \uc544\uc774\ub3cc\u300b\uc5d0 \ucc38\uac00\ud574 \ucd5c\uc885 3\uc704\ub97c \ud588\uc73c\uba70, 2004\ub144 \uc2f1\uae00 \"Rub Me Wrong\"\uc744 \ubc1c\ub9e4\ud574, \uace1\uc740 ARIA \uc2f1\uae00 \ucc28\ud2b8 29\uc704\uc5d0 \uc624\ub974\uae30\ub3c4 \ud588\ub2e4. \u300a\ub8e8\ud3f4\uc758 \ub4dc\ub798\uadf8 \ub808\uc774\uc2a4\u300b \uc2dc\uc98c 6\uc5d0 \ucc38\uac00\ud574 TOP 3\uae4c\uc9c0 \uc62c\ub790\ub2e4. \ub610\ud55c \uc820\ub354\ud034\uc5b4\uc815\uccb4\uc131\uc744 \uac00\uc9c4 \ud3f4\ub9ac\uc544\ubaa8\ub9ac\uc2a4\ud2b8\uc774\uae30\ub3c4 \ud558\ub2e4."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Shane Jenek (f\u00f6dd 18 februari 1982; mer k\u00e4nd under sitt artistnamn Courtney Act) \u00e4r en australisk dragqueen, pops\u00e5ngare och underh\u00e5llare. Som Courtney Act tog sig Jenek till semifinal i Australian Idol 2003 och var den tredje s\u00e5ngaren i t\u00e4vlingen att sl\u00e4ppa en solosingel, efter Guy Sebastian och . Singeln, \"Rub Me Wrong\", sl\u00e4pptes 2004 och n\u00e5dde plats 29 p\u00e5 ARIA:s singellista. Courtney Act var \u00e4ven en av finalisterna i sj\u00e4tte s\u00e4songen av RuPauls dragrace j\u00e4mte Adore Delano, d\u00e4r Bianca Del Rio tog hem vinsten."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Courtney Act \u2013 australijska drag queen, w kt\u00f3r\u0105 wciela si\u0119 Shane Jenek (ur. 18 lutego 1982 w Brisbane), piosenkarz i osobowo\u015b\u0107 medialna. Jego pseudonim artystyczny jest gr\u0105 s\u0142\u00f3w Caught in the act (pol. z\u0142apany/z\u0142apana na gor\u0105cym uczynku)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Shane Gilberto Jenek (born 18 February 1982), better known under the stage name Courtney Act, is an Australian drag queen, singer and television personality. Courtney first came to prominence competing on the first season of Australian Idol in 2003. After the show, she signed to BMG Australia (now Sony Music Australia), and she released her debut single, \"Rub Me Wrong\", which peaked at No. 29 on the ARIA Singles Chart and eventually gained a gold certification. While auditioning for Australian Idol, she also became the first LGBTQ contestant to openly appear on a reality TV talent show. In 2014, Courtney was one of the runners-up in season six of RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Shane Gilberto Jenek\u200b (Brisbane; 18 de febrero de 1982),\u200b mejor conocido bajo el nombre art\u00edstico de Courtney Act, es una drag queen australiana, cantante de pop, animadora y personalidad de televisi\u00f3n.\u200b Jenek se destac\u00f3 por primera vez, como Courtney, compitiendo en la primera temporada de Australian Idol en 2003. Despu\u00e9s del show, lanz\u00f3 su primer sencillo, \" Rub Me Wrong \", que alcanz\u00f3 el puesto n\u00famero 29 en la lista de singles de ARIA.\u200b\u200b En 2003, mientras audicionaba para Australian Idol, tambi\u00e9n se convirti\u00f3 en el primer concursante LGBT en aparecer abiertamente en un reality show de talentos de televisi\u00f3n.\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Shane Gilberto Jenek (Brisbane, 18 februari 1982), beter bekend onder zijn artiestennaam Courtney Act, is een Australisch dragqueen, zanger, entertainer en reality-tv-persoonlijkheid. Janek verwierf voor het eerst bekendheid door het optreden als Courtney in het eerste seizoen van Australian Idol. In 2003, na afloop van de show, bracht ze haar debuutsingle Rub Me Wrong uit. Dat nummer stond als nr. 29 in de ARIA Singles Chart. Janek was de eerste LGBT-deelnemer die openlijk homoseksueel was die in een reality-tv-show verscheen."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Shane Gilberto Jenek (Brisbane, 18 de fevereiro de 1982), mais conhecido pelo nome art\u00edstico de Courtney Act, \u00e9 uma drag queen, cantora, animadora e apresentadora australiana. Jenek primeiro ganhou destaque como Courtney, competindo na primeira temporada do Australian Idol em 2003. Ap\u00f3s o programa ela lan\u00e7ou seu single de estreia, \"Rub Me Wrong\", que chegou ao 29\u00ba lugar na ARIA Singles Chart. Em 2003, enquanto fazia audi\u00e7\u00f5es para o Australian Idol, ele tamb\u00e9m se tornou o primeiro candidato gay a aparecer abertamente em um reality/talent show. Em 2014, Jenek foi um dos vice-campe\u00f5es da sexta temporada de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+        "object": "http://dbpedia.org/resource/The_AAA_Girls"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Courtney Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://courtneyact.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Courtney Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/AAAGroup2_DenverOct2017.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Courtney_Act_2017_MTV_International.png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Brisbane,_Queensland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Brisbane, Queensland, Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1982-02-18"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Polyamorous_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1982_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Australian_pop_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Australian_expatriates_in_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Australian_Idol_participants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Pansexual_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Big_Brother_(British_TV_series)_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Pansexual_non-binary_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Reality_show_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Australian_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "613336"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1124764741"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Capital_Cities_(band)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Power_(Little_Mix_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queens_for_the_Night"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_6)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rub_Me_Wrong"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santino_Rice"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Harding"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Non-rhotic_accent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baz_Luhrmann"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bianca_Del_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denmark"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonny_McGovern"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joslyn_Fox"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Polyamorous_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Little_Mix"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rob_Beckett"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charitable_organization"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Veganism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christmas_song"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/10_Play_(Network_Ten)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1982_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mastermind_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melanie_C"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ryan_Thomas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(production_company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stage_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Australian_pop_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fullscreen_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_Star_News"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Genderqueer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georgia_Holt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moulin_Rouge!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2017_Women's_March"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ann_Widdecombe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anus_(album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Applause_(Lady_Gaga_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leona_Lewis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lesley_Gore"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lisa_Origliasso"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Logo_TV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lorraine_Kelly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Single_(music)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sleek_Geeks"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stormzy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Compilation_album"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zero_Gravity_(Kate_Miller-Heidke_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Television_pilot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Australian_Broadcasting_Corporation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Australian_English"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Australian_Idol"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Australian_Idol_(season_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ballando_con_le_Stelle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Australian_expatriates_in_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brisbane"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Australian_Idol_participants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Pansexual_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Celebrity_Big_Brother_(British_TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Celebrity_Big_Brother_(British_series_21)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Titanium_(song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UNHhhh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Hollywood,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willam_Belli"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/AACTA_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ABC_News_(Australia)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/AC/DC"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Access_All_Areas_Tour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adelaide_Fringe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adore_Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaska_Thunderfuck_5000"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Apparel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Big_Brother_(British_TV_series)_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dancing_with_the_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dancing_with_the_Stars_(Australian_TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dancing_with_the_Stars_(Australian_season_16)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dancing_with_the_Stars_(Australian_season_19)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Darienne_Lake"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_(clothing)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/E!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/E!_(European_TV_channel)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eurovision_-_Australia_Decides"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eurovision_Song_Contest_2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eve_(rapper)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Extended_play"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fight_for_Love_(Courtney_Act_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran_Drescher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pansexuality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kaleidoscope_(Courtney_Act_EP)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Veronicas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Groom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Helen_Reddy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hillary_Clinton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Bi_Life"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Courtney_Act_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Are_You_There,_Chelsea%3F"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Attitude_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ARIA_Charts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Pansexual_non-binary_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Reality_show_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chandelier_(song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chaz_Bono"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cheyenne_Jackson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jessica_Origliasso"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Junkee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kate_Miller-Heidke"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBTQ"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lady_Gaga"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Layton_Williams"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billboard_charts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sydney"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sydney_Gay_and_Lesbian_Mardi_Gras"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/We_Will_Rock_You_(musical)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_AAA_Girls"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTV_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diamonds_(Rihanna_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Australian_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Australia_in_the_Eurovision_Song_Contest_2019"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marcia_Hines"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Holden"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marnie_Simpson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Polyamory"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sony_Music_Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ITV_(TV_network)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/I_Will_Survive_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ian_Dickson_(TV_personality)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/InStyle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Instagram"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neighbours"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Network_10"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/One_Plus_One_(TV_Program)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/One_Plus_One_(TV_program)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shartistry_in_Motion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christmas_Queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/You_Don't_Own_Me"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/You_Shook_Me_All_Night_Long"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Medicine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Video_on_demand"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Twelve_Days_of_Christmas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/I_Am_Woman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brisbane,_Queensland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matter_Of_Fact_With_Stan_Grant"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Official_song"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oh_No_She_Betta_Don't!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Symphony_Orchestra"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BMG_Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Celebrity_Come_Dine_with_Me"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Australian_accent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhotic_accent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glamazon_by_Colorevolution"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/US_Presidential_election_2016"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Match_Game"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:AAAGroup2_DenverOct2017.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brenda!_Call_Me"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Courtney's_Closet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ecstasy_(Courtney_Act_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vanity_Faire_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.youtube.com/watch%3Fv=tFpBZUjksYQ&t=35s"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.02wlk3"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Courtney_Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/ac2dbeb9-bfc2-4173-a2bc-98660b830046"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q5178572"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://azb.dbpedia.org/resource/\u06a9\u0648\u0631\u062a\u0646\u06cc_\u0627\u06a9\u062a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Courtney_Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Courtney_Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u06a9\u0648\u0631\u062a\u0646\u06cc_\u0627\u06a9\u062a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Courtney_Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05e7\u05d5\u05e8\u05d8\u05e0\u05d9_\u05d0\u05e7\u05d8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ko.dbpedia.org/resource/\ucf54\ud2b8\ub2c8_\uc561\ud2b8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nl.dbpedia.org/resource/Courtney_Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pl.dbpedia.org/resource/Courtney_Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pt.dbpedia.org/resource/Courtney_Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sv.dbpedia.org/resource/Courtney_Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4iP6D"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Discogs_artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:External_media"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Ill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/A"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Official_website"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Rquote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:S-end"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:S-start"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:See_also"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Small"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Succession_box"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Tooltip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:URL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_Australian_English"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Big_Brother_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Australian_Idol"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Courtney_Act_2017_MTV_International.png?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/after",
+        "object": "http://dbpedia.org/resource/Ryan_Thomas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/before",
+        "object": "http://dbpedia.org/resource/Sarah_Harding"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1982-02-18"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Shane Gilberto Jenek"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Courtney in 2017"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "television personality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/title",
+        "object": "Celebrity Big Brother UK winner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/years",
+        "object": "http://dbpedia.org/resource/Celebrity_Big_Brother_(British_series_21)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2000"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Courtney Act, B\u00fchnenname von Shane Jenek (* 18. Februar 1982 in Brisbane, Queensland als Shane Gilberto Jenek) ist eine australische Pops\u00e4ngerin, Entertainerin, Dragqueen und Reality-TV-Pers\u00f6nlichkeit."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Shane Gilberto Jenek (born 18 February 1982), better known under the stage name Courtney Act, is an Australian drag queen, singer and television personality. Courtney first came to prominence competing on the first season of Australian Idol in 2003. After the show, she signed to BMG Australia (now Sony Music Australia), and she released her debut single, \"Rub Me Wrong\", which peaked at No. 29 on the ARIA Singles Chart and eventually gained a gold certification. While auditioning for Australian Idol, she also became the first LGBTQ contestant to openly appear on a reality TV talent show. In 2014, Courtney was one of the runners-up in season six of RuPaul's Drag Race. In 2014, Courtney returned to recording music and released the extended play Kaleidoscope (2015), which included the title-track which was the official song for the 2016 Sydney Gay and Lesbian Mardi Gras. Courtney began performing in drag girl-group, The AAA Girls, released several singles and embarked on the North American, Access All Areas Tour (2015). In January 2018, Courtney appeared on season 21 of Celebrity Big Brother UK and ultimately won the series with 49.43% of the final public vote. She began branching into a hosting career, hosting The Bi Life, the UK's first bisexual reality dating show, on E! and her own television special, The Courtney Act Show. Courtney released \"Fight for Love\" in late 2018 for the Eurovision - Australia Decides final; she finished in fourth place.In 2019, Courtney competed and was runner-up on season 16 of the Australian version of Dancing with the Stars, where she was paired with Joshua Keefe. This made Courtney and Keefe the first same-sex pairing in the history of the Australian version, as well as the second same-sex pairing on any version of the show. Courtney/Jenek uses the pronoun she when referring to Courtney and he when referring to Jenek. In 2022, it was announced that Act would be a judge on the ITV reality competition series, Queens for the Night."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Shane Gilberto Jenek\u200b (Brisbane; 18 de febrero de 1982),\u200b mejor conocido bajo el nombre art\u00edstico de Courtney Act, es una drag queen australiana, cantante de pop, animadora y personalidad de televisi\u00f3n.\u200b Jenek se destac\u00f3 por primera vez, como Courtney, compitiendo en la primera temporada de Australian Idol en 2003. Despu\u00e9s del show, lanz\u00f3 su primer sencillo, \" Rub Me Wrong \", que alcanz\u00f3 el puesto n\u00famero 29 en la lista de singles de ARIA.\u200b\u200b En 2003, mientras audicionaba para Australian Idol, tambi\u00e9n se convirti\u00f3 en el primer concursante LGBT en aparecer abiertamente en un reality show de talentos de televisi\u00f3n.\u200b En 2014, Courtney Act fue una de las finalistas en la sexta temporada de RuPaul's Drag Race. En enero de 2018, Jenek apareci\u00f3 en la temporada veintiuno de Celebrity Big Brother UK y finalmente gan\u00f3 la serie con el 49.43% del voto p\u00fablico final.\u200b Jenek tambi\u00e9n comenz\u00f3 a presentar The Bi Life, el primer reality show bisexual de citas en el Reino Unido, en E!. En 2019, Courtney Act compiti\u00f3 y qued\u00f3 en segundo lugar en la temporada 16 de la versi\u00f3n australiana de Dancing with the Stars, donde estuvo emparejada con Joshua Keefe. Esto hizo que Act y Keefe fueran la primera pareja del mismo sexo en la historia de la versi\u00f3n australiana, as\u00ed como la segunda pareja del mismo sexo en cualquier versi\u00f3n del programa.\u200b Courtney/Jenek utiliza el pronombre ella cuando se refiere a Courtney y \u00e9l cuando se refiere a Jenek.\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Shane Jenek (n\u00e9 le 18 f\u00e9vrier 1982 ; plus connu sous son nom de sc\u00e8ne Courtney Act) est une drag queen et chanteur australien. En tant que Courtney Act, Jenek termine en demi-finale de Australian Idol en 2003 et devient le troisi\u00e8me chanteur de la comp\u00e9tition \u00e0 sortir un single solo officiel, apr\u00e8s Guy Sebastian et Shannon Noll. Le single Rub Me Wrong sort en 2004, et se classe \u00e0 la vingt-neuvi\u00e8me position de l'ARIA Singles Chart. Act participe \u00e9galement \u00e0 la sixi\u00e8me saison de RuPaul's Drag Race o\u00f9 elle \u00e9choue en finale avec Adore Delano contre Bianca Del Rio. Plus r\u00e9cemment, Shane/Courtney participe \u00e0 l'\u00e9mission de t\u00e9l\u00e9-r\u00e9alit\u00e9 britannique Celebrity Big Brother qu'elle remporte en f\u00e9vrier 2018."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\ucf54\ud2b8\ub2c8 \uc561\ud2b8(Courtney Act, 1982\ub144 2\uc6d4 18\uc77c ~ )\ub294 \uc624\uc2a4\ud2b8\ub808\uc77c\ub9ac\uc544\uc758 \ub4dc\ub798\uadf8 \ud038, \uac00\uc218, \uc0ac\uc5c5\uac00, \ub9ac\uc5bc\ub9ac\ud2f0 \ubc29\uc1a1 \uc720\uba85\uc778\uc774\ub2e4. 2003\ub144 \u300a\uc624\uc2a4\ud2b8\ub808\uc77c\ub9ac\uc548 \uc544\uc774\ub3cc\u300b\uc5d0 \ucc38\uac00\ud574 \ucd5c\uc885 3\uc704\ub97c \ud588\uc73c\uba70, 2004\ub144 \uc2f1\uae00 \"Rub Me Wrong\"\uc744 \ubc1c\ub9e4\ud574, \uace1\uc740 ARIA \uc2f1\uae00 \ucc28\ud2b8 29\uc704\uc5d0 \uc624\ub974\uae30\ub3c4 \ud588\ub2e4. \u300a\ub8e8\ud3f4\uc758 \ub4dc\ub798\uadf8 \ub808\uc774\uc2a4\u300b \uc2dc\uc98c 6\uc5d0 \ucc38\uac00\ud574 TOP 3\uae4c\uc9c0 \uc62c\ub790\ub2e4. \ub610\ud55c \uc820\ub354\ud034\uc5b4\uc815\uccb4\uc131\uc744 \uac00\uc9c4 \ud3f4\ub9ac\uc544\ubaa8\ub9ac\uc2a4\ud2b8\uc774\uae30\ub3c4 \ud558\ub2e4."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Shane Gilberto Jenek (Brisbane, 18 februari 1982), beter bekend onder zijn artiestennaam Courtney Act, is een Australisch dragqueen, zanger, entertainer en reality-tv-persoonlijkheid. Janek verwierf voor het eerst bekendheid door het optreden als Courtney in het eerste seizoen van Australian Idol. In 2003, na afloop van de show, bracht ze haar debuutsingle Rub Me Wrong uit. Dat nummer stond als nr. 29 in de ARIA Singles Chart. Janek was de eerste LGBT-deelnemer die openlijk homoseksueel was die in een reality-tv-show verscheen. In 2014 nam Janek deel aan het zesde seizoen van RuPaul's Drag Race, waar hij een van de runners-up was. In januari 2018 verscheen Janek in het 21ste seizoen van het Britse televisieprogramma , dat hij uiteindelijk ook won met 49,43% van de publieksstemmen. Daarnaast trad Janek op als presentator bij , het eerste Britse realitydatingprogramma voor biseksuelen, dat te zien was op E!. In 2019 nam Janek deel aan het zestiende seizoen van de Australische versie van Dancing with the Stars als Courtney, waar ze werd gekoppeld aan . Act en Keefe waren daardoor het eerste same-sexkoppel in de geschiedenis van de Australische versie, en het tweede same-sexkoppel in de algehele geschiedenis van het programma."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Shane Jenek (f\u00f6dd 18 februari 1982; mer k\u00e4nd under sitt artistnamn Courtney Act) \u00e4r en australisk dragqueen, pops\u00e5ngare och underh\u00e5llare. Som Courtney Act tog sig Jenek till semifinal i Australian Idol 2003 och var den tredje s\u00e5ngaren i t\u00e4vlingen att sl\u00e4ppa en solosingel, efter Guy Sebastian och . Singeln, \"Rub Me Wrong\", sl\u00e4pptes 2004 och n\u00e5dde plats 29 p\u00e5 ARIA:s singellista. Courtney Act var \u00e4ven en av finalisterna i sj\u00e4tte s\u00e4songen av RuPauls dragrace j\u00e4mte Adore Delano, d\u00e4r Bianca Del Rio tog hem vinsten."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Courtney Act \u2013 australijska drag queen, w kt\u00f3r\u0105 wciela si\u0119 Shane Jenek (ur. 18 lutego 1982 w Brisbane), piosenkarz i osobowo\u015b\u0107 medialna. Jego pseudonim artystyczny jest gr\u0105 s\u0142\u00f3w Caught in the act (pol. z\u0142apany/z\u0142apana na gor\u0105cym uczynku)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Shane Gilberto Jenek (Brisbane, 18 de fevereiro de 1982), mais conhecido pelo nome art\u00edstico de Courtney Act, \u00e9 uma drag queen, cantora, animadora e apresentadora australiana. Jenek primeiro ganhou destaque como Courtney, competindo na primeira temporada do Australian Idol em 2003. Ap\u00f3s o programa ela lan\u00e7ou seu single de estreia, \"Rub Me Wrong\", que chegou ao 29\u00ba lugar na ARIA Singles Chart. Em 2003, enquanto fazia audi\u00e7\u00f5es para o Australian Idol, ele tamb\u00e9m se tornou o primeiro candidato gay a aparecer abertamente em um reality/talent show. Em 2014, Jenek foi um dos vice-campe\u00f5es da sexta temporada de RuPaul's Drag Race. Em janeiro de 2018, Jenek apareceu na vig\u00e9simo primeira temporada do Celebrity Big Brother e finalmente ganhou o reality com 49,43% da vota\u00e7\u00e3o final do p\u00fablico. Jenek tamb\u00e9m come\u00e7ou a apresentar o The Bi Life, o primeiro reality show bisexual do Reino Unido, no E!. Em 2019, Act se tornou a vice-campe\u00e3 da vers\u00e3o australiana doDancing With The Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Courtney_Act?oldid=1124764741&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "52449"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2000"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Shane Gilberto Jenek"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1982"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Courtney_Act__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Courtney_Act>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Courtney_Act"
+    }
+]

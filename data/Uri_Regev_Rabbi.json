@@ -1,0 +1,467 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Uri Regev"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Uri Regev is a lawyer and rabbi of the Reform movement of Judaism in Israel, and an active civil rights and religious pluralism advocate. Currently he serves as the President and CEO of \u201cHiddush \u2013 For Freedom of Religion and Equality\u201d, a trans-denominational nonprofit organization aimed at promoting religious freedom and equality in Israel, a partnership between Israeli Jews and World Jewry, founded in 2009."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Uri Regev"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Uri Regev"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/UriRegev2010.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Tel_Aviv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Tel_Aviv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1951_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Israeli_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_lawyers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Tel_Aviv_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Tel_Aviv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "31057396"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1091803047"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1951_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/B'Tselem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Israeli_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_lawyers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nonprofit_organization"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel_Religious_Action_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbis_for_Human_Rights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tel_Aviv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tel_Aviv_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Jewish_Daily_Forward"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_for_Civil_Rights_in_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Tel_Aviv_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Tel_Aviv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Agency"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_religious_movements"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lawyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hiddush"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_Union_for_Progressive_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_Zionist_Organization"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israeli_Defense_Force"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.forward.com/articles/129689/%7C"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0gg4grb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Uri_Regev"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q7900535"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0627\u0631\u0649_\u0631\u064a\u062c\u064a\u06a4"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05d0\u05d5\u05e8\u05d9_\u05e8\u05d2\u05d1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4wDHZ"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_news"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/UriRegev2010.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "Tel Aviv University Law School and the Hebrew Union College-Institute of Religion in Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1951"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Lawyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Uri Regev is a lawyer and rabbi of the Reform movement of Judaism in Israel, and an active civil rights and religious pluralism advocate. Currently he serves as the President and CEO of \u201cHiddush \u2013 For Freedom of Religion and Equality\u201d, a trans-denominational nonprofit organization aimed at promoting religious freedom and equality in Israel, a partnership between Israeli Jews and World Jewry, founded in 2009."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Lawyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Uri_Regev?oldid=1091803047&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "4135"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1951"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/Tel_Aviv_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Lawyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Uri_Regev__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Regev>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Uri_Regev"
+    }
+]

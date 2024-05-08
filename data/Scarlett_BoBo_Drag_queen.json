@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Scarlett BoBo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Scarlett BoBo is the stage name of Matthew Cameron (born December 1, 1989), a Canadian television personality and drag queen most noted as a finalist in the first season of the reality competition series Canada's Drag Race in 2020."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Scarlett BoBo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Scarlett BoBo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Scarlett_Bobo_by_Gage_Skidmore.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1989-12-01"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1989_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Musicians_from_Toronto"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Humber_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Musicians_from_Ottawa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canada's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_Canada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "63958646"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123729867"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada's_Drag_Race_(season_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Priyanka_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Diego_Comic-Con"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bianca_Del_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Humber_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rita_Baga"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Life_in_a_Year"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/COVID-19_pandemic_in_Canada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toronto"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drive-in"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1989_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Musicians_from_Toronto"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fiert\u00e9_Montr\u00e9al"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ottawa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/OutTV_(Canadian_TV_channel)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/HIV/AIDS"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Han_Dong_(politician)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/So_Fierce_Music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Social_distancing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Humber_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Musicians_from_Ottawa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canada's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_Canada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aerial_silks"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jimbo_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Just_Like_Fire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Just_for_Laughs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/TIFF_Bell_Lightbox"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pink_(singer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Circus_school"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ontario"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orlando_nightclub_shooting"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rainbow_Railroad"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fire_eating"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.scarlettbobo.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q104224102"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/FN95A"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Url"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Canada's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Scarlett_Bobo_by_Gage_Skidmore.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1989-12-01"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Matthew Cameron"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Scarlett BoBo at the 2021 San Diego Comic-Con"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "Humber College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "drag queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "13"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Scarlett BoBo is the stage name of Matthew Cameron (born December 1, 1989), a Canadian television personality and drag queen most noted as a finalist in the first season of the reality competition series Canada's Drag Race in 2020."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/property/partner",
+        "object": "Pete Maragos"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Scarlett_BoBo?oldid=1123729867&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "9594"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsEndYear",
+        "object": "0013"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "0013"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Matthew Cameron"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1989"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Humber_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Scarlett_BoBo__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_BoBo>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Scarlett_BoBo"
+    }
+]

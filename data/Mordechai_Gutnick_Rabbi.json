@@ -1,0 +1,652 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAustralianArmyChaplains"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAustralianMilitaryChaplains"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Chaplain109908508"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Clergyman109927451"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/MilitaryChaplain110316527"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/SpiritualLeader109505153"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mordechai Gutnick"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rabbi Mordechai Zev Gutnick AM (Hebrew: \u05de\u05e8\u05d3\u05db\u05d9 \u05d6\u05d0\u05d1 \u05d4\u05db\u05d4\u05df \u05d2\u05d5\u05d8\u05e0\u05d9\u05e7) is a prominent Orthodox Jewish rabbi in Australia. Gutnick has served as a member of rabbinical courts in Melbourne and Sydney and various Australian rabbinical associations. He is associated with the Chabad-Lubavitch Hasidic movement; he is the eldest son of the late Rabbi Chaim Gutnick."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Mordechai_Gutnick.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Australian_military_chaplains"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Australian_Army_chaplains"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Clergy_from_Sydney"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Australian_people_of_Ukrainian-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Religious_leaders_from_Melbourne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_Order_of_Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Australian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Chabad-Lubavitch_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_in_the_military"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Australian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Australian_Hasidic_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gutnick_family"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "25570443"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1121669335"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canberra"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Menachem_Mendel_Schneerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mizrachi_(religious_Zionism)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melbourne_Beth_Din"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Australian_military_chaplains"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_din"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Australian_Army_chaplains"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Clergy_from_Sydney"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melbourne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Committee_for_the_Furtherance_of_Jewish_Education"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbinical_Council_of_Victoria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Australian_people_of_Ukrainian-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elwood_Talmud_Torah_Hebrew_Congregation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holocaust_survivor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Religious_leaders_from_Melbourne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Australian_Army"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_Order_of_Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_wedding"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kashrut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parliament_House,_Canberra"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Captain_(armed_forces)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Gutnick"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kosher_Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moshe_Gutnick"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halakha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hasidic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Australian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Chabad-Lubavitch_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_in_the_military"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chabad"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kevin_Rudd"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sydney"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sydney,_Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doncaster,_Victoria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pinchas_Hirschprung"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Danby"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Order_of_Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Australian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Australian_Hasidic_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gutnick_family"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chaim_Gutnick"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Machon_Chana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Semikhah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shaliach_(Chabad)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Military_Chaplain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melbourne_Ports"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Mordechai_Gutnick.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Strathfield_and_District_Hebrew_Congregation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0b6f4z2"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Mordechai_Gutnick"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q6909653"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4sD2g"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Chabad_(Rebbes_and_Chasidim)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Chabad_footer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Post-nominals"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Mordechai_Gutnick.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/property/parents",
+        "object": "Rabbi Chaim Gutnick"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/property/relatives",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/property/relatives",
+        "object": "Joseph Gutnick"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/property/relatives",
+        "object": "Moshe Gutnick"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rabbi Mordechai Zev Gutnick AM (Hebrew: \u05de\u05e8\u05d3\u05db\u05d9 \u05d6\u05d0\u05d1 \u05d4\u05db\u05d4\u05df \u05d2\u05d5\u05d8\u05e0\u05d9\u05e7) is a prominent Orthodox Jewish rabbi in Australia. Gutnick has served as a member of rabbinical courts in Melbourne and Sydney and various Australian rabbinical associations. He is associated with the Chabad-Lubavitch Hasidic movement; he is the eldest son of the late Rabbi Chaim Gutnick."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Mordechai_Gutnick?oldid=1121669335&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "10022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Mordechai_Gutnick__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/parent",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/relative",
+        "object": "http://dbpedia.org/resource/Joseph_Gutnick"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://dbpedia.org/ontology/relative",
+        "object": "http://dbpedia.org/resource/Moshe_Gutnick"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mordechai_Gutnick>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Mordechai_Gutnick"
+    }
+]

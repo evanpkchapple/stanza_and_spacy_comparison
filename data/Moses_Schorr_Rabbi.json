@@ -1,0 +1,1627 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromPrzemy\u015bl"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSenatorsOfTheSecondPolishRepublic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Academician109759069"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Disputant109615465"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Educator110045713"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Exile110071139"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Expert109617867"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Foreigner110103485"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Historian110177150"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Lawgiver110249270"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Legislator110253995"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Militant110315837"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Orientalist110383689"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Politician110450303"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Politician110451263"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Professional110480253"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Reformer110515194"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHistorians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishOrientalists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJudaicScholars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJurisprudenceAcademics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Senator110578471"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Specialist110631941"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Traveler109629752"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat19th-centuryPolishPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat20th-centuryPolishPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleWhoDiedInTheGulag"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPolishActivists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPolishDeporteesToSovietUnion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPolishHistorians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPolishOrientalists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPolishPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPolishPeopleDetainedByTheNKVD"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPolishPeopleWhoDiedInSovietDetention"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPolishPoliticians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Moses Schorr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Moseo Schorr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Moses Schorr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Moj\u017cesz Schorr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0428\u043e\u0440, \u041c\u043e\u0439\u0448\u0435"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u041c\u043e\u0439\u0441\u0435\u0439 \u0428\u043e\u0440\u0440"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Moses Schorr (* 10. Mai 1874 in Przemy\u015bl, \u00d6sterreich-Ungarn; \u2020 8. Juli 1941 in Posty in der Usbekischen SSR) war ein polnischer Historiker, Orientalist, Rabbiner und Politiker j\u00fcdischer Herkunft. Schorr befasste sich als erster Historiker systematisch mit der Geschichte der Juden in Polen. Der Schwerpunkt seiner Forschung lag jedoch in Altertumswissenschaften, speziell in Geschichte und Sprachen Vorderasiens in vorchristlicher Zeit. Die polnische Namensform lautet: Moj\u017cesz Schorr."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Moj\u017cesz Schorr (ur. 10 maja 1874 w Przemy\u015blu, zm. 8 lipca 1941 w \u0142agrze w miejscowo\u015bci Posty w Uzbekistanie) \u2013 polski historyk orientalista o \u017cydowskim pochodzeniu, znawca prawa babilo\u0144skiego, semitolog, rabin, dzia\u0142acz polityczny, senator II RP IV kadencji, wiceprezydent B\u2019nai B\u2019rith, jeden z tw\u00f3rc\u00f3w historiografii polskich \u017byd\u00f3w."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u041c\u043e\u0439\u0448\u0435 \u0428\u043e\u0440 (\u043f\u043e\u043b\u044c\u0441\u043a. Moj\u017cesz Schorr \u2014 \u041c\u043e\u0439\u0436\u0435\u0448 \u0428\u043e\u0440\u0440), \u0432 \u0421\u0421\u0421\u0420 \u043d\u043e\u0441\u0438\u043b \u0438\u043c\u044f \u041c\u043e\u0438\u0441\u0435\u0439 \u041e\u0437\u0438\u044f\u0448\u043e\u0432\u0438\u0447 \u0428\u043e\u0440\u0440; (10 \u043c\u0430\u044f 1874, \u041f\u0448\u0435\u043c\u044b\u0441\u043b\u044c \u2014 8 \u0438\u044e\u043b\u044f 1941, \u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d) \u2014 \u0440\u0430\u0432\u0432\u0438\u043d \u0422\u043b\u043e\u043c\u0430\u0446\u043a\u043e\u0439 \u0445\u043e\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u0438\u043d\u0430\u0433\u043e\u0433\u0438 \u0432 \u0412\u0430\u0440\u0448\u0430\u0432\u0435, \u043f\u043e\u043b\u044c\u0441\u043a\u043e-\u0435\u0432\u0440\u0435\u0439\u0441\u043a\u0438\u0439 \u0438\u0441\u0442\u043e\u0440\u0438\u043a-\u043e\u0440\u0438\u0435\u043d\u0442\u0430\u043b\u0438\u0441\u0442, \u0430\u0441\u0441\u0438\u0440\u0438\u043e\u043b\u043e\u0433. \u0412 1918 \u0433\u043e\u0434\u0443 \u0438\u0437\u0431\u0440\u0430\u043d \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u0447\u043b\u0435\u043d\u043e\u043c \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u043d\u0430\u0443\u043a \u041f\u043e\u043b\u044c\u0448\u0438. \u0421\u0435\u043d\u0430\u0442\u043e\u0440 \u043f\u0430\u0440\u043b\u0430\u043c\u0435\u043d\u0442\u0430 \u041f\u043e\u043b\u044c\u0448\u0438 \u0432 1936\u20141938 \u0433\u0433. (\u0431\u044b\u043b \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u043e\u043c \u041f\u043e\u043b\u044c\u0448\u0438 \u0418. \u041c\u043e\u0441\u0446\u0438\u0446\u043a\u0438\u043c)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u041c\u043e\u0439\u0441\u0435\u0439 \u0428\u043e\u0440\u0440, \u0430\u0431\u043e \u041c\u043e\u0439\u0448\u0435 \u0428\u043e\u0440\u0440 (\u043f\u043e\u043b. Moj\u017cesz Schorr; 10 \u0442\u0440\u0430\u0432\u043d\u044f 1874, \u041f\u0435\u0440\u0435\u043c\u0438\u0448\u043b\u044c \u2014 8 \u043b\u0438\u043f\u043d\u044f 1941) \u2014 \u0454\u0432\u0440\u0435\u0439\u0441\u044c\u043a\u0438\u0439 \u0456\u0441\u0442\u043e\u0440\u0438\u043a, \u0444\u0456\u043b\u043e\u043b\u043e\u0433-\u0441\u0445\u043e\u0434\u043e\u0437\u043d\u0430\u0432\u0435\u0446\u044c, \u0433\u0440\u043e\u043c\u0430\u0434\u0441\u044c\u043a\u0438\u0439 \u0456 \u043f\u043e\u043b\u0456\u0442\u0438\u0447\u043d\u0438\u0439 \u0434\u0456\u044f\u0447, \u0440\u0430\u0431\u0438\u043d. \u041f\u0440\u043e\u0444\u0435\u0441\u043e\u0440 (1910). \u0414\u0456\u0439\u0441\u043d\u0438\u0439 \u0447\u043b\u0435\u043d \u0410\u041d \u0443 \u041a\u0440\u0430\u043a\u043e\u0432\u0456 (1918; \u0456\u0437 1919 \u2014 \u041f\u043e\u043b\u044c\u0441\u044c\u043a\u0430 \u0410\u041d)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Moseo SCHORR (pole Moj\u017cesz Schorr, hebree \u05de\u05e9\u05d4 \u05e9\u05d5\u05e8; naski\u011dis la 10-an de majo 1874 en Przemy\u015bl, mortis la 8-an de julio 1941 en gulago de NKVD en Uzbekujo) estis pola orientalisto, historiisto, konanto de babilona le\u011daro, rabeno, politika aganto, senatano de la Dua Pola Respubliko, vicprezidanto de B'nai B'rith kaj unu el kreintoj de la moderna historiografio de . De 1918 li estis membro de la Orientalistika Komisiono \u0109e la Akademio de Sciencoj. Tuj anta\u016d eksplodo de la milito li sin dedi\u0109is al defendo de la juda malplimulto en Pollando kontra\u016d komerca bojkoto."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Moses Schorr, Polish: Moj\u017cesz Schorr (May 10, 1874 \u2013 July 8, 1941) was a rabbi, Polish historian, politician, Bible scholar, assyriologist and orientalist. Schorr was one of the top experts on the history of the Jews in Poland. He was the first Jewish researcher of Polish archives, historical sources, and pinkasim. The president of the 13th district B'nai B'rith Poland, he was a humanist and modern rabbi who ministered the central synagogue of Poland during its last years before the Holocaust."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Moses Schorr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Moses Schorr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Schorr.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Schorr1.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Wielka_Synagoga_w_Warszawie.png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Przemy\u015bl"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Kingdom_of_Galicia_and_Lodomeria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Uzbek_Soviet_Socialist_Republic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Posty, Uzbek SSR, Soviet Union"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1941-07-08"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Przemy\u015bl, Galicia and Lodomeria, Austria-Hungary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1874-05-10"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Polish_Assyriologists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1941_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Social_leaders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Foreign_Gulag_detainees"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_Lw\u00f3w_Scientific_Society"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Przemy\u015bl"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_who_died_in_the_Gulag"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Polish_people_who_died_in_Soviet_detention"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Senators_of_the_Second_Polish_Republic_(1935\u20131938)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1874_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_Polish_scholars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Polish_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Austro-Hungarian_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jews_from_Galicia_(Eastern_Europe)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jurisprudence_academics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_the_Kingdom_of_Galicia_and_Lodomeria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_orientalists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Semiticists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Judaic_scholars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Polish_deportees_to_Soviet_Union"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Polish_orientalists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Polish_people_detained_by_the_NKVD"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "10261403"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1102692517"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President_of_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prussia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Przemy\u015bl"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Lauder"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Hirsch_Margulies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Polish_Assyriologists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ministry_for_State_Security_(Soviet_Union)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berlin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bible"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biblical_criticism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_the_Jews_in_Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holy_See"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rivne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Department_of_State"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Vienna"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Warsaw"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uzbek_Soviet_Socialist_Republic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uzbekistan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victor_Alter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vienna"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vittel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vassals_of_the_Kingdom_of_Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cordell_Hull"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Costa_Rica"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ancient_Near_East"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chevra_kadisha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Abraham_Pozna\u0144ski"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Qahal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franklin_D._Roosevelt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/General_Jewish_Labour_Bund"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gestapo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Golda_Meir"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NKVD"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Herbert_Langdon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anschluss"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antisemitism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anders_Army"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lw\u00f3w"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mandatory_Palestine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simon_Dubnow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanis\u0142aw_G\u0142\u0105bi\u0144ski"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9vian-les-Bains"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u0141\u00f3d\u017a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedrich_Delitzsch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franklin_Delano_Roosevelt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Privatdozent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Auschwitz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Austro-Hungarian_empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/B'nai_B'rith"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1941_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Social_leaders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Foreign_Gulag_detainees"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_Lw\u00f3w_Scientific_Society"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Przemy\u015bl"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_who_died_in_the_Gulag"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Polish_people_who_died_in_Soviet_detention"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Senators_of_the_Second_Polish_Republic_(1935\u20131938)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/T\u0142omackie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Warsaw"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Warsaw_ghetto"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Warsaw_ghetto_uprising"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drancy_internment_camp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duchy_of_the_Archipelago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Theological_Seminary_of_Breslau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Great_Synagogue,_Warsaw"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_von_Rothschild"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alsace"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amarna"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1874_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Florence"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ostr\u00f3g"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Nasi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ludwig_Gumplowicz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halych"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italian_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jakub_Goldberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jaros\u0142aw"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tel_Aviv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Holocaust"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_Polish_scholars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Polish_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Austro-Hungarian_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jews_from_Galicia_(Eastern_Europe)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jurisprudence_academics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_the_Kingdom_of_Galicia_and_Lodomeria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_orientalists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Semiticists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Judaic_scholars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Polish_deportees_to_Soviet_Union"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Polish_orientalists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Polish_people_detained_by_the_NKVD"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Historical_Institute"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jurisprudence"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Latin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jab\u0142onowski"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zionism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zionist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Assyriology"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/March_1933_German_federal_election"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pinkasim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Polish_Academy_of_Sciences"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Polish_government-in-exile"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Polish_history"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Endecja"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ignacy_Mo\u015bcicki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kingdom_of_Galicia_and_Lodomeria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/K\u00f6nigsberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Midrash"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nasz_Przegl\u0105d"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Party_(Poland)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nazi_Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicaragua"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Old_Polish_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Operation_Barbarossa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Red_Ruthenia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Selim_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Senate_of_Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/W\u0142adys\u0142aw_Sikorski"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/W\u0142adys\u0142aw_Broniewski"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marrano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Slavic_studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Voskhod_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pawiak"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gymnasium_(school)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wawelberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Exegesis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oriental_studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vaad"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9vian_Conference"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Galicia_(Central_Europe)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talmud"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wilno"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hammurabi_Code"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kreis_in_Prussia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Banker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_B\u00e1thory_of_Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Golden_Cross_of_Merit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lw\u00f3w_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Polish_Sejm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sigismund_August"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sigismund_II_August"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lubyanka_(KGB)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ludwik_Gumplowicz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ministry_of_Justice_of_Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hettites"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M._Balaban"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vsevolod_Nikolayevich_Merkulov"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meir_Friedman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u0141uck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Schorr1.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_of_Judaic_Sciences"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israelitisch_\u2013_Theologische_Lehranstalt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moshe_Altbauer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Wielka_Synagoga_w_Warszawie.PNG"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.personal.ceu.hu/students/97/Roman_Zakharii/schorr.doc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.02q6th3"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Moses_Schorr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/119354241"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/27115433"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q1388246"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p073339806"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0645\u0648\u0633\u0649_\u0634\u0648\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Moses_Schorr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://eo.dbpedia.org/resource/Moseo_Schorr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05de\u05e9\u05d4_\u05e9\u05d5\u05e8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pl.dbpedia.org/resource/Moj\u017cesz_Schorr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u0428\u043e\u0440,_\u041c\u043e\u0439\u0448\u0435"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://uk.dbpedia.org/resource/\u041c\u043e\u0439\u0441\u0435\u0439_\u0428\u043e\u0440\u0440"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/QN7i"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:In_lang"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:No_footnotes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Who"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Schorr.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/property/alt",
+        "object": "A middle aged man with glasses and a beard and moustache"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1874-05-10"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Moses Schorr, ca. 1921"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1941-07-08"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Senator of the 2nd Republic of Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "http://dbpedia.org/resource/Poles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, scholar, activist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/property/otherNames",
+        "object": "Moj\u017cesz Schorr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Moses Schorr (* 10. Mai 1874 in Przemy\u015bl, \u00d6sterreich-Ungarn; \u2020 8. Juli 1941 in Posty in der Usbekischen SSR) war ein polnischer Historiker, Orientalist, Rabbiner und Politiker j\u00fcdischer Herkunft. Schorr befasste sich als erster Historiker systematisch mit der Geschichte der Juden in Polen. Der Schwerpunkt seiner Forschung lag jedoch in Altertumswissenschaften, speziell in Geschichte und Sprachen Vorderasiens in vorchristlicher Zeit. Die polnische Namensform lautet: Moj\u017cesz Schorr."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Moseo SCHORR (pole Moj\u017cesz Schorr, hebree \u05de\u05e9\u05d4 \u05e9\u05d5\u05e8; naski\u011dis la 10-an de majo 1874 en Przemy\u015bl, mortis la 8-an de julio 1941 en gulago de NKVD en Uzbekujo) estis pola orientalisto, historiisto, konanto de babilona le\u011daro, rabeno, politika aganto, senatano de la Dua Pola Respubliko, vicprezidanto de B'nai B'rith kaj unu el kreintoj de la moderna historiografio de . En 1893 li studis historion kaj filozofion \u0109e la Universitato de Vieno, samtempe partoprenante rabenan altlernejon Israelitisch-Theologische Lehranstalt. Dum la studado li ekkonis kaj amiki\u011dis kun Maksymilian Gumplowicz, filo de la konata sociologo Ludwik Gumplowicz, kiu post sinmortiga foriro de la filo ekzorgis pri la juna Schorr, konsilante al li studi en Pollando, kion li faris en 1896 \u0109e Lvova Universitato. En 1899 Moseo Schorr defendis doktorecan diserta\u0135on sub la titolo Organizo de judoj en Pollando, kaj en 1900 akiris diplomon de rabeno. Eklo\u011dinte en Lvovo li vigle aktivis pedagogie kaj socie. En 1904 li i\u011dis prezidanto de la Asocio de Instruistoj pri la Mosea Religio de Popolaj kaj Mezgradaj Lernejoj en Galicio, fondis Zorgofakon de la Asocio por Apogi Judan Junularon de Mezgradaj Lernejoj kaj en la jaroj 1903-1905 estis prezidanto de la Asocio por Klerigado inter Judoj Toynbeehale en Lvovo. De 1918 li estis membro de la Orientalistika Komisiono \u0109e la Akademio de Sciencoj. Post transloki\u011do al Varsovio en 1923 li en 1925 i\u011dis profesoro de la Varsovia Universitato. Li apartenis al la kunkreintoj de la \u0109efurba Instituto de Judaistikaj Sciencoj. De 1923 li estis rabeno de la Granda Sinagogo \u0109e la strato T\u0142omackie en Varsovio, kie li konstruigis Judaistikan Bibliotekon. En 1935 Moseo Schorr estis elektita senatano en la senato de Pollando. Li enga\u011di\u011dis en \u0109iuspecajn humanismajn laborojn. Kiel adepto de setli\u011dado en Palestino li apartenis al la gvidantaro de la Juda Agentejo. Li plenumis meritan funkcion de la prezidanto de la pola Societo de Amikoj de la Hebrea Universitato de Jerusalemo, kaj en 1925 estis honora gasto dum la ceremonio de ina\u016dguro. Tuj anta\u016d eksplodo de la milito li sin dedi\u0109is al defendo de la juda malplimulto en Pollando kontra\u016d komerca bojkoto. Post komenco de la dua mondmilito Moseo Schorr estis arestita de sovetanoj kun ripro\u0109o de kontra\u016drevolucia agado kaj kiel socie dan\u011dera elemento estis deportita al gulago de NKVD en Uzbekujo. Pri lia liberigo sensukcese strebis ambasado de Usono, la\u016d peto de la pola generalo W\u0142adys\u0142aw Sikorski anka\u016d de Vatikanurbo kaj de la pola reprezentantaro en Sovetunio. Li mortis la 8-an de julio 1941. Lia tombo ne estas konata."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Moses Schorr, Polish: Moj\u017cesz Schorr (May 10, 1874 \u2013 July 8, 1941) was a rabbi, Polish historian, politician, Bible scholar, assyriologist and orientalist. Schorr was one of the top experts on the history of the Jews in Poland. He was the first Jewish researcher of Polish archives, historical sources, and pinkasim. The president of the 13th district B'nai B'rith Poland, he was a humanist and modern rabbi who ministered the central synagogue of Poland during its last years before the Holocaust. Schorr was the first historian to undertake the systematic study of Jewish history in Poland, and Galicia in particular. He made discoveries after finding and translating Babylonian, Assyrian, and Hittite legislative annals. As a scholar of the jurisprudence and civilizations of the Ancient Middle East, Schorr was a legal philosopher and sociologist of Ancient Middle Eastern societies. Schorr was appointed to the Polish Senate by Polish president Ignacy Mo\u015bcicki (1926\u20131939). Schorr did not belong to any political party, although he was inclined to Zionism. He was active in the social, public, and religious life of Polish Jews, and was often chosen by them to head public organisations and represent Polish Jewry to Polish and international powers, though he never sought the role for himself."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Moj\u017cesz Schorr (ur. 10 maja 1874 w Przemy\u015blu, zm. 8 lipca 1941 w \u0142agrze w miejscowo\u015bci Posty w Uzbekistanie) \u2013 polski historyk orientalista o \u017cydowskim pochodzeniu, znawca prawa babilo\u0144skiego, semitolog, rabin, dzia\u0142acz polityczny, senator II RP IV kadencji, wiceprezydent B\u2019nai B\u2019rith, jeden z tw\u00f3rc\u00f3w historiografii polskich \u017byd\u00f3w."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u041c\u043e\u0439\u0448\u0435 \u0428\u043e\u0440 (\u043f\u043e\u043b\u044c\u0441\u043a. Moj\u017cesz Schorr \u2014 \u041c\u043e\u0439\u0436\u0435\u0448 \u0428\u043e\u0440\u0440), \u0432 \u0421\u0421\u0421\u0420 \u043d\u043e\u0441\u0438\u043b \u0438\u043c\u044f \u041c\u043e\u0438\u0441\u0435\u0439 \u041e\u0437\u0438\u044f\u0448\u043e\u0432\u0438\u0447 \u0428\u043e\u0440\u0440; (10 \u043c\u0430\u044f 1874, \u041f\u0448\u0435\u043c\u044b\u0441\u043b\u044c \u2014 8 \u0438\u044e\u043b\u044f 1941, \u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d) \u2014 \u0440\u0430\u0432\u0432\u0438\u043d \u0422\u043b\u043e\u043c\u0430\u0446\u043a\u043e\u0439 \u0445\u043e\u0440\u0430\u043b\u044c\u043d\u043e\u0439 \u0441\u0438\u043d\u0430\u0433\u043e\u0433\u0438 \u0432 \u0412\u0430\u0440\u0448\u0430\u0432\u0435, \u043f\u043e\u043b\u044c\u0441\u043a\u043e-\u0435\u0432\u0440\u0435\u0439\u0441\u043a\u0438\u0439 \u0438\u0441\u0442\u043e\u0440\u0438\u043a-\u043e\u0440\u0438\u0435\u043d\u0442\u0430\u043b\u0438\u0441\u0442, \u0430\u0441\u0441\u0438\u0440\u0438\u043e\u043b\u043e\u0433. \u0412 1918 \u0433\u043e\u0434\u0443 \u0438\u0437\u0431\u0440\u0430\u043d \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u0442\u0435\u043b\u044c\u043d\u044b\u043c \u0447\u043b\u0435\u043d\u043e\u043c \u0410\u043a\u0430\u0434\u0435\u043c\u0438\u0438 \u043d\u0430\u0443\u043a \u041f\u043e\u043b\u044c\u0448\u0438. \u0421\u0435\u043d\u0430\u0442\u043e\u0440 \u043f\u0430\u0440\u043b\u0430\u043c\u0435\u043d\u0442\u0430 \u041f\u043e\u043b\u044c\u0448\u0438 \u0432 1936\u20141938 \u0433\u0433. (\u0431\u044b\u043b \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u043e\u043c \u041f\u043e\u043b\u044c\u0448\u0438 \u0418. \u041c\u043e\u0441\u0446\u0438\u0446\u043a\u0438\u043c)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u041c\u043e\u0439\u0441\u0435\u0439 \u0428\u043e\u0440\u0440, \u0430\u0431\u043e \u041c\u043e\u0439\u0448\u0435 \u0428\u043e\u0440\u0440 (\u043f\u043e\u043b. Moj\u017cesz Schorr; 10 \u0442\u0440\u0430\u0432\u043d\u044f 1874, \u041f\u0435\u0440\u0435\u043c\u0438\u0448\u043b\u044c \u2014 8 \u043b\u0438\u043f\u043d\u044f 1941) \u2014 \u0454\u0432\u0440\u0435\u0439\u0441\u044c\u043a\u0438\u0439 \u0456\u0441\u0442\u043e\u0440\u0438\u043a, \u0444\u0456\u043b\u043e\u043b\u043e\u0433-\u0441\u0445\u043e\u0434\u043e\u0437\u043d\u0430\u0432\u0435\u0446\u044c, \u0433\u0440\u043e\u043c\u0430\u0434\u0441\u044c\u043a\u0438\u0439 \u0456 \u043f\u043e\u043b\u0456\u0442\u0438\u0447\u043d\u0438\u0439 \u0434\u0456\u044f\u0447, \u0440\u0430\u0431\u0438\u043d. \u041f\u0440\u043e\u0444\u0435\u0441\u043e\u0440 (1910). \u0414\u0456\u0439\u0441\u043d\u0438\u0439 \u0447\u043b\u0435\u043d \u0410\u041d \u0443 \u041a\u0440\u0430\u043a\u043e\u0432\u0456 (1918; \u0456\u0437 1919 \u2014 \u041f\u043e\u043b\u044c\u0441\u044c\u043a\u0430 \u0410\u041d)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/27115433"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Moses_Schorr?oldid=1102692517&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "55651"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/stateOfOrigin",
+        "object": "http://dbpedia.org/resource/Poles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/alias",
+        "object": "Moj\u017cesz Schorr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1874"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1941"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/Senate_of_Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/nationality",
+        "object": "http://dbpedia.org/resource/Poles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Moses_Schorr__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Schorr>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Moses_Schorr"
+    }
+]

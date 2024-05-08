@@ -1,0 +1,512 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromAmsterdam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Abraham Tobias Boas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0625\u0628\u0631\u0627\u0647\u0627\u0645 \u062a\u0648\u0628\u064a\u0627\u0633 \u0628\u0648\u0627\u0633"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0625\u0628\u0631\u0627\u0647\u0627\u0645 \u062a\u0648\u0628\u064a\u0627\u0633 \u0628\u0648\u0627\u0633 (\u0628\u0627\u0644\u0647\u0648\u0644\u0646\u062f\u064a\u0629: Abraham Tobias Boas)\u200f \u0647\u0648 \u062d\u0627\u062e\u0627\u0645 \u0647\u0648\u0644\u0646\u062f\u064a\u060c \u0648\u0644\u062f \u0641\u064a 25 \u0646\u0648\u0641\u0645\u0628\u0631 1844 \u0641\u064a \u0623\u0645\u0633\u062a\u0631\u062f\u0627\u0645 \u0641\u064a \u0647\u0648\u0644\u0646\u062f\u0627\u060c \u0648\u062a\u0648\u0641\u064a \u0641\u064a 20 \u0641\u0628\u0631\u0627\u064a\u0631 1923."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Abraham Tobias Boas (25 November 1842 \u2013 20 February 1923) was a rabbi of a Hebrew congregation in Adelaide, South Australia."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Abraham Tobias Boas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Abraham Tobias Boas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Abraham_Tobias_Boas.jpeg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Amsterdam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1923-02-20"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Amsterdam, The Netherlands"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1842-11-25"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1844_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1923_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Australian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Burials_at_West_Terrace_Cemetery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Dutch_emigrants_to_Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Amsterdam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "9831095"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1101880311"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Australian_Dictionary_of_Biography"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1844_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1923_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Terrace_Cemetery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Shakespeare"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lionel_Boas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adelaide"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amsterdam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harold_Boas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Australian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Burials_at_West_Terrace_Cemetery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Dutch_emigrants_to_Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Amsterdam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Solomon_family"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/South_Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Southampton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Netherlands"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/YMCA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melbourne_University_Press"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.adb.online.anu.edu.au/biogs/A070336b.htm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.02ptdsk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Abraham_Tobias_Boas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q4669203"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0625\u0628\u0631\u0627\u0647\u0627\u0645_\u062a\u0648\u0628\u064a\u0627\u0633_\u0628\u0648\u0627\u0633"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0627\u0628\u0631\u0627\u0647\u0627\u0645_\u062a\u0648\u0628\u064a\u0627\u0633_\u0628\u0648\u0627\u0633"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4LKJu"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/shortlink",
+        "object": "0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:More_citations_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Dictionary_of_Australian_Biography"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Abraham_Tobias_Boas.jpeg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/accessdate",
+        "object": "2008-10-18"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1842-11-25"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "4"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1923-02-20"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "Amsterdam Theological Seminary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/first",
+        "object": "Abraham Tobias"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/last",
+        "object": "Boas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "Australian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/parents",
+        "object": "Eva Salomon  Levi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/parents",
+        "object": "Tobias Eliesar Boas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/relatives",
+        "object": "Isaac Solomon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Elizabeth  Boas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0625\u0628\u0631\u0627\u0647\u0627\u0645 \u062a\u0648\u0628\u064a\u0627\u0633 \u0628\u0648\u0627\u0633 (\u0628\u0627\u0644\u0647\u0648\u0644\u0646\u062f\u064a\u0629: Abraham Tobias Boas)\u200f \u0647\u0648 \u062d\u0627\u062e\u0627\u0645 \u0647\u0648\u0644\u0646\u062f\u064a\u060c \u0648\u0644\u062f \u0641\u064a 25 \u0646\u0648\u0641\u0645\u0628\u0631 1844 \u0641\u064a \u0623\u0645\u0633\u062a\u0631\u062f\u0627\u0645 \u0641\u064a \u0647\u0648\u0644\u0646\u062f\u0627\u060c \u0648\u062a\u0648\u0641\u064a \u0641\u064a 20 \u0641\u0628\u0631\u0627\u064a\u0631 1923."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Abraham Tobias Boas (25 November 1842 \u2013 20 February 1923) was a rabbi of a Hebrew congregation in Adelaide, South Australia."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Abraham_Tobias_Boas?oldid=1101880311&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "4101"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1842"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1923"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/child",
+        "object": "http://dbpedia.org/resource/Lionel_Boas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/child",
+        "object": "http://dbpedia.org/resource/Harold_Boas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Abraham_Tobias_Boas__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Tobias_Boas>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Abraham_Tobias_Boas"
+    }
+]

@@ -1,0 +1,607 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Coco Montrese"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Coco Montrese"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Coco Montrese (Miami, 2 de juliol de 1974), nom art\u00edstic de Martin Cooper, \u00e9s una drag-queen, artista i personalitat de televisi\u00f3 dels Estats Units. Montrese va donar-se a con\u00e8ixer despr\u00e9s de ser coronada Miss Gay America 2010 quan es va revocar el t\u00edtol d'Alyssa Edwards. Posteriorment, va apar\u00e8ixer amb Edwards a la temporada 5 de RuPaul's Drag Race i va aconseguir popularitat internacional. M\u00e9s endavant, Montrese va tornar al format RuPaul's Drag Race: All Stars, a la temporada 2."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Coco Montrese (born July 2, 1974) is the stage name of Lenwood Martin Cooper, an American drag queen, entertainer, and reality television personality. Montrese came into the spotlight after being crowned Miss Gay America 2010 when Alyssa Edwards' title was revoked. She subsequently appeared on RuPaul's Drag Race season 5 as well as RuPaul's Drag Race: All Stars Season 2."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Coco Montrese"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Coco Montrese"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Coco_Montrese_(cropped).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Miami"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Miami, Florida, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1974-07-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_African_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1974_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alabama_State_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_LGBT_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "39182771"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1121531758"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxxxy_Andrews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Vegas_Revue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_11)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_5)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_6)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_Live!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Derrick_Barry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detox_Icunt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pentecostal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Resorts_World_Las_Vegas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ginger_Minj"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miss_Gay_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lil'_Kim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_African_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walt_Disney_World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_mother"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2016_MTV_Video_Music_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alabama_State_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alyssa_Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1974_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alabama_State_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fantasmic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Flamingo_Las_Vegas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kahanna_Montrese"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Internet_memes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Janet_Jackson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_LGBT_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/KTNV-TV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katy_Perry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_Lives_Matter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Play_(concert_residency)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_All_Stars_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miami"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yara_Sofia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul_discography"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toddlers_and_Tiaras"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/bea61e6d-e4ef-44cc-b121-944e140bbe0f"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q30315610"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ca.dbpedia.org/resource/Coco_Montrese"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2p5J5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Tooltip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Coco_Montrese_(cropped).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1974-07-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Lenwood Martin Cooper"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Coco Montrese in 2014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "Alabama State University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race  \nRuPaul's Drag Race All Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Alfonzo Hestle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/property/title",
+        "object": "Miss Gay America 2010"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Coco Montrese (Miami, 2 de juliol de 1974), nom art\u00edstic de Martin Cooper, \u00e9s una drag-queen, artista i personalitat de televisi\u00f3 dels Estats Units. Montrese va donar-se a con\u00e8ixer despr\u00e9s de ser coronada Miss Gay America 2010 quan es va revocar el t\u00edtol d'Alyssa Edwards. Posteriorment, va apar\u00e8ixer amb Edwards a la temporada 5 de RuPaul's Drag Race i va aconseguir popularitat internacional. M\u00e9s endavant, Montrese va tornar al format RuPaul's Drag Race: All Stars, a la temporada 2."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Coco Montrese (born July 2, 1974) is the stage name of Lenwood Martin Cooper, an American drag queen, entertainer, and reality television personality. Montrese came into the spotlight after being crowned Miss Gay America 2010 when Alyssa Edwards' title was revoked. She subsequently appeared on RuPaul's Drag Race season 5 as well as RuPaul's Drag Race: All Stars Season 2."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/personFunction",
+        "object": "http://dbpedia.org/resource/Coco_Montrese__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Coco_Montrese?oldid=1121531758&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "16727"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Lenwood Martin Cooper"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1974"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/title",
+        "object": "Miss Gay America2010"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Alabama_State_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Coco_Montrese__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Coco_Montrese>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Coco_Montrese"
+    }
+]

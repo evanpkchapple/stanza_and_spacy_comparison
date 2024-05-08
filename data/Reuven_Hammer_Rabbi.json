@@ -1,0 +1,667 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromSyracuse,NewYork"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Reuven Hammer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Reuven Hammer (June 30, 1933 \u2013 August 12, 2019) was an American-Israeli Conservative rabbi, scholar of Jewish liturgy, author and lecturer who was born in New York. He was a founder of the \"Masorti\" (Conservative) movement in Israel and a president of the International Rabbinical Assembly. He served many years as head of the Masorti Beth Din in Israel. A prolific writer in both the Israeli and international press, he was a regular columnist for The Jerusalem Post's \"Tradition Today\" column. He lived in Jerusalem."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Reuven Hammer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Reuven Hammer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Syracuse,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Jerusalem, Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2019-08-12"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Syracuse, New York, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1933-06-30"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:The_Jerusalem_Post_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1933_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Religious_leaders_from_Syracuse,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2019_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_emigrants_to_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Theological_Seminary_of_America_semikhah_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_brain_cancer_in_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "20902678"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1087656073"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Jewish_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:The_Jerusalem_Post_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Din"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservative_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simon_Greenberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ziegler_School_of_Rabbinic_Studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1933_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jules_Harlow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Religious_leaders_from_Syracuse,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Northwestern_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haaretz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harold_Kushner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Forward"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Jerusalem_Post"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2019_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_emigrants_to_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Theological_Seminary_of_America_semikhah_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Book_Council"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Publication_Society"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Theological_Seminary_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_prayer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Syracuse,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_brain_cancer_in_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbinical_Assembly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shabbat"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Schocken_Books"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Semikhah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talmud"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Siddur_Sim_Shalom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_holiday"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brain_tumour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.haaretz.com/print-edition/opinion/the-pope-and-i-1.276102"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.jpost.com/LandedPages/SearchResults.aspx%3Fq=Hammer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://archive.org/details/classicmidrashta0000unse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://archive.org/details/jerusalemantholo0000unse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=8A9nCgAAQBAJ"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=BEO3_WVuF0AC&q=reuven+hammer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=E96RtAEACAAJ"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=F9b6fXsZiVgC"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=G7maHAAACAAJ&q=reuven+hammer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=arpqQgAACAAJ&q=reuven+hammer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=sO5oOgAACAAJ&q=reuven+hammer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=tuBQviuPidMC&q=reuven+hammer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=vlRO3-HErCIC&q=reuven+hammer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=xfFpvQEACAAJ"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.haaretz.com/misc/writers/WRITER-1.4968536"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.05b3m_v"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Reuven_Hammer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/12431129"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/102406851X"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q7317648"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p072965576"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://simple.dbpedia.org/resource/Reuven_Hammer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4u2jW"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:'s"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_book"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1933-06-30"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "2019-08-12"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, scholar, writer, lecturer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Reuven Hammer (June 30, 1933 \u2013 August 12, 2019) was an American-Israeli Conservative rabbi, scholar of Jewish liturgy, author and lecturer who was born in New York. He was a founder of the \"Masorti\" (Conservative) movement in Israel and a president of the International Rabbinical Assembly. He served many years as head of the Masorti Beth Din in Israel. A prolific writer in both the Israeli and international press, he was a regular columnist for The Jerusalem Post's \"Tradition Today\" column. He lived in Jerusalem."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/12431129"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Reuven_Hammer?oldid=1087656073&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "8592"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1933"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "2019"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Reuven_Hammer__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Reuven_Hammer>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Reuven_Hammer"
+    }
+]

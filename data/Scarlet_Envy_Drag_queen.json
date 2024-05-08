@@ -1,0 +1,562 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Scarlet Envy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Scarlet Envy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Scarlet Envy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jacob James (nacido el 26 de febrero de 1992), m\u00e1s conocido por su nombre art\u00edstico Scarlet Envy, es una drag queen, personalidad de telerrealidad, cantante e int\u00e9rprete estadounidense que salt\u00f3 a la fama internacional en la und\u00e9cima temporada de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jacob James, plus connu sous le nom de sc\u00e8ne Scarlet Envy, est une drag queen am\u00e9ricaine principalement connue pour sa participation \u00e0 la onzi\u00e8me saison de RuPaul's Drag Race et \u00e0 la sixi\u00e8me saison de RuPaul's Drag Race All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jacob James Grady (born February 26, 1992), better known by the stage name Scarlet Envy, is an American drag queen, reality television personality, singer, and performer who came to international attention on the eleventh season of RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Scarlet Envy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Scarlet Envy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dragcon2-SAT-70_(47937191071).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Scarlet_Envy_at_RuPaul's_DragCon_2017.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Louisville"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Kentucky"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Louisville, Kentucky, U.S"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1992-02-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1992_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Louisville,_Kentucky"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fashion_Institute_of_Technology_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "59758947"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123235451"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_11)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_6)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saturday_Night_Live"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pearl_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Us_Weekly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1992_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(production_company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stage_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ginger_Minj"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louisville"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louisville,_Kentucky"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yuhua_Hamasaki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yvie_Oddly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brita_Filter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lip_sync"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fashion_Institute_of_Technology"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Fine_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Louisville,_Kentucky"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fashion_Institute_of_Technology_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katy_Perry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kentucky"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Laurie_Beechman_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Swish_Swish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ICarly_(2021_TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/IMDb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ra'Jah_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yma_Sumac"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Scarlet_Envy_at_RuPaul's_DragCon_2017.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.imdb.com/name/nm10435379/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q64157592"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Scarlet_Envy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Scarlet_Envy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/9Fqxi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Tooltip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:URL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dragcon2-SAT-70_(47937191071).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1992-02-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Jacob James Grady"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Scarlet Envy at RuPaul's DragCon LA in 2019"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "Fashion Institute of Technology"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race All Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jacob James (nacido el 26 de febrero de 1992), m\u00e1s conocido por su nombre art\u00edstico Scarlet Envy, es una drag queen, personalidad de telerrealidad, cantante e int\u00e9rprete estadounidense que salt\u00f3 a la fama internacional en la und\u00e9cima temporada de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jacob James, plus connu sous le nom de sc\u00e8ne Scarlet Envy, est une drag queen am\u00e9ricaine principalement connue pour sa participation \u00e0 la onzi\u00e8me saison de RuPaul's Drag Race et \u00e0 la sixi\u00e8me saison de RuPaul's Drag Race All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jacob James Grady (born February 26, 1992), better known by the stage name Scarlet Envy, is an American drag queen, reality television personality, singer, and performer who came to international attention on the eleventh season of RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Scarlet_Envy?oldid=1123235451&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "18931"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Jacob James Grady"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1992"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Fashion_Institute_of_Technology"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Scarlet_Envy__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlet_Envy>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Scarlet_Envy"
+    }
+]

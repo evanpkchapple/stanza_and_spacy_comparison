@@ -1,0 +1,892 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Disputant109615465"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Migrant110314952"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Militant110315837"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Reformer110515194"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliActivists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliSettlers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishActivists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Settler110583387"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Traveler109629752"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatReligiousActivists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0645\u064a\u0646\u0627\u062e\u0645 \u0641\u0631\u0648\u0645\u0627\u0646"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Menachem Froman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Menachem Froman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0627\u0644\u062d\u0627\u062e\u0627\u0645 \u0645\u0646\u0627\u062d\u064a\u0645 \u0641\u0631\u0648\u0645\u0627\u0646\u060c \u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0628\u0627\u0644\u0639\u0628\u0631\u064a\u0629: \u05de\u05e0\u05d7\u05dd \u05e4\u05e8\u05d5\u05de\u05df \u0647\u0648 \u0645\u0646 \u0645\u0648\u0627\u0644\u064a\u062f \u0627\u0644\u062c\u0644\u064a\u0644 1945 \u0648\u0647\u0648 \u062d\u0627\u062e\u0627\u0645 \u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u0623\u0631\u062b\u0648\u0630\u0643\u0633\u064a\u060c \u0648 \u0635\u0627\u0646\u0639 \u0633\u0644\u0627\u0645 \u0648 \u0645\u0641\u0627\u0648\u0636 \u0644\u0647 \u0639\u0644\u0627\u0642\u0627\u062a \u0648 \u062b\u064a\u0642\u0629 \u0628\u0642\u064a\u0627\u062f\u0627\u062a \u062f\u064a\u0646\u064a\u0629 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629 \u0645\u0646 \u0645\u0646\u0638\u0645\u0629 \u0627\u0644\u062a\u062d\u0631\u064a\u0631 \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629 \u0648\u062d\u0631\u0643\u0629 \u062d\u0645\u0627\u0633 \u0648\u0647\u0648 \u0623\u064a\u0636\u0627 \u0639\u0636\u0648 \u0645\u0624\u0633\u0633 \u0641\u064a \u063a\u0648\u0634 \u0627\u064a\u0645\u0648\u0646\u064a\u0645. \u062d\u0627\u0644\u064a\u0627 \u064a\u062d\u0645\u0644 \u0644\u0642\u0628 \u0648 \u064a\u0645\u0627\u0631\u0633 \u062f\u0648\u0631\u0647 \u0627\u0644\u062d\u0627\u062e\u0627\u0645 \u0627\u0644\u0623\u0643\u0628\u0631 \u0644\u062a\u0642\u0648\u0639 \u0641\u064a \u0627\u0644\u0636\u0641\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629. \u064a\u0634\u062a\u0647\u0631 \u0627\u0644\u062d\u0627\u062e\u0627\u0645 \u0628\u062f\u0648\u0631\u0647 \u0641\u064a \u062a\u0634\u062c\u064a\u0639 \u0648\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u062d\u0648\u0627\u0631 \u0628\u064a\u0646 \u0627\u0644\u0623\u062f\u064a\u0627\u0646 \u0628\u064a\u0646 \u0627\u0644\u064a\u0647\u0648\u062f \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a\u064a\u0646 \u0648\u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u064a\u0646\u060c \u0645\u0639 \u0627\u0644\u062a\u0631\u0643\u064a\u0632 \u0639\u0644\u0649 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u062f\u064a\u0646 \u0643\u0623\u062f\u0627\u0629 \u0648\u0645\u0635\u062f\u0631 \u0644\u0644\u0627\u0639\u062a\u0631\u0627\u0641 \u0628\u0625\u0646\u0633\u0627\u0646\u064a\u0629 \u0648\u0643\u0631\u0627\u0645\u0629 \u062c\u0645\u064a\u0639 \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u064a\u0646. \u0628\u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0645\u0639 \u0635\u062d\u0641\u064a \u0645\u0642\u0631\u0628 \u0645\u0646 \u062d\u0645\u0627\u0633 \u0627\u0633\u062a\u0637\u0627\u0639 \u0627\u0644\u062d\u0627\u062e\u0627\u0645 \u0641\u0631\u0648\u0645\u0627\u0646 \u062a\u062d\u0636\u064a\u0631 \u0645\u0633\u0648\u062f\u0629 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0644\u0648\u0642\u0641 \u0627\u0637\u0644\u0627\u0642 \u0627\u0644\u0646\u0627\u0631 \u0628\u064a\u0646 \u0625\u0633\u0631\u0627\u0626\u064a\u0644 \u0648\u062d\u0643\u0648\u0645\u0629 \u062d\u0645\u0627\u0633 \u0641\u064a \u0642\u0637\u0627\u0639 \u063a\u0632\u0629\u060c \u0648\u0627\u0644\u0645\u0639\u0631\u0648\u0641\u0629 \u0628\u0627\u0633\u0645 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0641\u0631\u0648\u0645\u0627\u0646-\u0639\u0645\u0627\u064a\u0631\u0629. \u0648\u0642\u062f \u0627\u0633\u062a\u0637\u0627\u0639 \u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0627\u0644\u062a\u0623\u064a\u064a\u062f \u0644\u0647\u0630\u0647 \u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0645\u0646 \u0637\u0631\u0641 \u062d\u0643\u0648\u0645\u0629 \u062d\u0645\u0627\u0633 \u0644\u0643\u0646\u0647 \u0644\u0645 \u064a\u062a\u0644\u0642 \u0623\u064a \u0631\u062f \u0631\u0633\u0645\u064a \u0645\u0646 \u0627\u0644\u062d\u0643\u0648\u0645\u0629 \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a\u0629 \u0628\u0639\u062f."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rabbi Menachem Froman (juga disebut Menahem dan Fruman; bahasa Ibrani: \u05de\u05e0\u05d7\u05dd \u05e4\u05e8\u05d5\u05de\u05df\u200e\u200e; 1 Juni 1945 \u2013 4 Maret 2013) adalah seorang rabi Ortodoks Israel dan negosiator dengan hubungan dekat dengan para pemimpin agama Palestina. Sebagai anggota pendiri Gush Emunim, ia menjabat sebagai Tekoa di Tepi Barat. Ia dikenal karena mempromosikan dan memimpin dialog antar-agama antara Yahudi dan Arab, dengan fokus pada pemakaian agama sebagai alat dan sumber untuk mengakui kemanusiaan dan martabat semua orang. Bersama dengan seorang yang dekat dengan Hamas, Rabi Froman merancang sebuah perjanjian gencatan senjata antara pemerintah Israel dan Hamas di Jalur Gaza, yang dikenal sebagai . Perjanjian tersebut didukung oleh pemerintah Hamas, namun tak meraih tanggapan resmi apapun dari pemerintahan Israel."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rabbi Menachem Froman (also spelled Menahem and Fruman; Hebrew: \u05de\u05e0\u05d7\u05dd \u05e4\u05e8\u05d5\u05de\u05df\u200e; 1 June 1945 \u2013 4 March 2013) was an Israeli Orthodox rabbi, and a peacemaker and negotiator with close ties to Palestinian religious leaders. A founding member of Gush Emunim, he served as the chief rabbi of Tekoa in the West Bank. He was well known for promoting and leading interfaith dialogue between Jews and Arabs, focusing on using religion as a tool and source for recognizing the humanity and dignity of all people. Together with a Palestinian journalist close to Hamas, Rabbi Froman drafted a ceasefire agreement between Israel and the Hamas government in the Gaza Strip, known as the Froman-Amayreh Agreement. The agreement was endorsed by Hamas government, but it did not receive any official response from the Is"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Rabbi Menachem Froman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Rabbi Menachem Froman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Froman1.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Mandatory_Palestine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Galilee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/West_Bank"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Tekoa,_Gush_Etzion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/West_Bank"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Tekoa,_Gush_Etzion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2013-03-04"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Mandatory_Palestine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Galilee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1945-06-01"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1945_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2013_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_cancer_in_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_colorectal_cancer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_Orthodox_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_settlers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Haifa_District"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Religious_Zionist_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Mercaz_HaRav_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "12681732"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1112179877"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1945_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colorectal_cancer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Menachem_Froman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chief_Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oslo_Accords"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ganei_Tal,_Hof_Aza"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gaza_Strip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilad_Shalit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mahmoud_Abbas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mahmoud_al-Zahar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mandatory_Palestine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Froman-Amayreh_Agreement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Khalid_Amayreh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PLO"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Avraham_Shapira"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2013_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_cancer_in_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Bank"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Western_Wall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Galilee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Land_of_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dalai_Lama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palestinian_National_Authority"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israeli_disengagement_from_Gaza"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Qassam_rocket"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hadith"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hamas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tekoa,_Gush_Etzion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mahmoud_Al-Zahar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ateret_Cohanim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_colorectal_cancer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_Orthodox_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_settlers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Haifa_District"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Religious_Zionist_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hesder"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshivat_HaKotel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monotheistic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mercaz_HaRav_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palestinian_State"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palestinian_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Knesset"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Migdal_Oz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sderot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yasser_Arafat"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Machon_Meir"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shlomo_Goren"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gush_Emunim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gush_Katif"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Targeted_killing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mercaz_haRav"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Semicha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ahmad_Yassin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paratroopers_Brigade_(IDF)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Khaled_Meshal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israeli_government"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Otniel_(village)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sheikh_Ahmad_Yassin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://holylandfilm.com/portfolio/rabbi-mencahem-froman/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.haaretz.com/hasen/spages/954425.html"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20070426110735/http:/tekoa.org.il/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20111126112712/http:/jerusalempeacemakers.org/peacemakers/rabbi-menachem-froman/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.02x09wv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.europa.eu/euodp/jrc-names/Menachem_Froman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Menachem_Froman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/1716696"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1062797566"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q2911233"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0645\u064a\u0646\u0627\u062e\u0645_\u0641\u0631\u0648\u0645\u0627\u0646"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0645\u064a\u0646\u0627\u062e\u0645_\u0641\u0631\u0648\u0645\u0627\u0646"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05de\u05e0\u05d7\u05dd_\u05e4\u05e8\u05d5\u05de\u05df"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://id.dbpedia.org/resource/Menachem_Froman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://jv.dbpedia.org/resource/Menachem_Froman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2hKoq"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cquote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Froman1.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1945-06-01"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "10"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "2013-03-04"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Interfaith dialogue, including with PLO and Hamas members"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "Israeli"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Educator"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Negotiator"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Hadassah Froman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0627\u0644\u062d\u0627\u062e\u0627\u0645 \u0645\u0646\u0627\u062d\u064a\u0645 \u0641\u0631\u0648\u0645\u0627\u0646\u060c \u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0628\u0627\u0644\u0639\u0628\u0631\u064a\u0629: \u05de\u05e0\u05d7\u05dd \u05e4\u05e8\u05d5\u05de\u05df \u0647\u0648 \u0645\u0646 \u0645\u0648\u0627\u0644\u064a\u062f \u0627\u0644\u062c\u0644\u064a\u0644 1945 \u0648\u0647\u0648 \u062d\u0627\u062e\u0627\u0645 \u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a \u0623\u0631\u062b\u0648\u0630\u0643\u0633\u064a\u060c \u0648 \u0635\u0627\u0646\u0639 \u0633\u0644\u0627\u0645 \u0648 \u0645\u0641\u0627\u0648\u0636 \u0644\u0647 \u0639\u0644\u0627\u0642\u0627\u062a \u0648 \u062b\u064a\u0642\u0629 \u0628\u0642\u064a\u0627\u062f\u0627\u062a \u062f\u064a\u0646\u064a\u0629 \u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629 \u0645\u0646 \u0645\u0646\u0638\u0645\u0629 \u0627\u0644\u062a\u062d\u0631\u064a\u0631 \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629 \u0648\u062d\u0631\u0643\u0629 \u062d\u0645\u0627\u0633 \u0648\u0647\u0648 \u0623\u064a\u0636\u0627 \u0639\u0636\u0648 \u0645\u0624\u0633\u0633 \u0641\u064a \u063a\u0648\u0634 \u0627\u064a\u0645\u0648\u0646\u064a\u0645. \u062d\u0627\u0644\u064a\u0627 \u064a\u062d\u0645\u0644 \u0644\u0642\u0628 \u0648 \u064a\u0645\u0627\u0631\u0633 \u062f\u0648\u0631\u0647 \u0627\u0644\u062d\u0627\u062e\u0627\u0645 \u0627\u0644\u0623\u0643\u0628\u0631 \u0644\u062a\u0642\u0648\u0639 \u0641\u064a \u0627\u0644\u0636\u0641\u0629 \u0627\u0644\u063a\u0631\u0628\u064a\u0629. \u064a\u0634\u062a\u0647\u0631 \u0627\u0644\u062d\u0627\u062e\u0627\u0645 \u0628\u062f\u0648\u0631\u0647 \u0641\u064a \u062a\u0634\u062c\u064a\u0639 \u0648\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u062d\u0648\u0627\u0631 \u0628\u064a\u0646 \u0627\u0644\u0623\u062f\u064a\u0627\u0646 \u0628\u064a\u0646 \u0627\u0644\u064a\u0647\u0648\u062f \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a\u064a\u0646 \u0648\u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u064a\u0646\u060c \u0645\u0639 \u0627\u0644\u062a\u0631\u0643\u064a\u0632 \u0639\u0644\u0649 \u0627\u0633\u062a\u062e\u062f\u0627\u0645 \u0627\u0644\u062f\u064a\u0646 \u0643\u0623\u062f\u0627\u0629 \u0648\u0645\u0635\u062f\u0631 \u0644\u0644\u0627\u0639\u062a\u0631\u0627\u0641 \u0628\u0625\u0646\u0633\u0627\u0646\u064a\u0629 \u0648\u0643\u0631\u0627\u0645\u0629 \u062c\u0645\u064a\u0639 \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u064a\u0646. \u0628\u0627\u0644\u062a\u0639\u0627\u0648\u0646 \u0645\u0639 \u0635\u062d\u0641\u064a \u0645\u0642\u0631\u0628 \u0645\u0646 \u062d\u0645\u0627\u0633 \u0627\u0633\u062a\u0637\u0627\u0639 \u0627\u0644\u062d\u0627\u062e\u0627\u0645 \u0641\u0631\u0648\u0645\u0627\u0646 \u062a\u062d\u0636\u064a\u0631 \u0645\u0633\u0648\u062f\u0629 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0644\u0648\u0642\u0641 \u0627\u0637\u0644\u0627\u0642 \u0627\u0644\u0646\u0627\u0631 \u0628\u064a\u0646 \u0625\u0633\u0631\u0627\u0626\u064a\u0644 \u0648\u062d\u0643\u0648\u0645\u0629 \u062d\u0645\u0627\u0633 \u0641\u064a \u0642\u0637\u0627\u0639 \u063a\u0632\u0629\u060c \u0648\u0627\u0644\u0645\u0639\u0631\u0648\u0641\u0629 \u0628\u0627\u0633\u0645 \u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0641\u0631\u0648\u0645\u0627\u0646-\u0639\u0645\u0627\u064a\u0631\u0629. \u0648\u0642\u062f \u0627\u0633\u062a\u0637\u0627\u0639 \u0627\u0644\u062d\u0635\u0648\u0644 \u0639\u0644\u0649 \u0627\u0644\u062a\u0623\u064a\u064a\u062f \u0644\u0647\u0630\u0647 \u0627\u0644\u0627\u062a\u0641\u0627\u0642\u064a\u0629 \u0645\u0646 \u0637\u0631\u0641 \u062d\u0643\u0648\u0645\u0629 \u062d\u0645\u0627\u0633 \u0644\u0643\u0646\u0647 \u0644\u0645 \u064a\u062a\u0644\u0642 \u0623\u064a \u0631\u062f \u0631\u0633\u0645\u064a \u0645\u0646 \u0627\u0644\u062d\u0643\u0648\u0645\u0629 \u0627\u0644\u0625\u0633\u0631\u0627\u0626\u064a\u0644\u064a\u0629 \u0628\u0639\u062f."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rabbi Menachem Froman (also spelled Menahem and Fruman; Hebrew: \u05de\u05e0\u05d7\u05dd \u05e4\u05e8\u05d5\u05de\u05df\u200e; 1 June 1945 \u2013 4 March 2013) was an Israeli Orthodox rabbi, and a peacemaker and negotiator with close ties to Palestinian religious leaders. A founding member of Gush Emunim, he served as the chief rabbi of Tekoa in the West Bank. He was well known for promoting and leading interfaith dialogue between Jews and Arabs, focusing on using religion as a tool and source for recognizing the humanity and dignity of all people. Together with a Palestinian journalist close to Hamas, Rabbi Froman drafted a ceasefire agreement between Israel and the Hamas government in the Gaza Strip, known as the Froman-Amayreh Agreement. The agreement was endorsed by Hamas government, but it did not receive any official response from the Israeli government."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rabbi Menachem Froman (juga disebut Menahem dan Fruman; bahasa Ibrani: \u05de\u05e0\u05d7\u05dd \u05e4\u05e8\u05d5\u05de\u05df\u200e\u200e; 1 Juni 1945 \u2013 4 Maret 2013) adalah seorang rabi Ortodoks Israel dan negosiator dengan hubungan dekat dengan para pemimpin agama Palestina. Sebagai anggota pendiri Gush Emunim, ia menjabat sebagai Tekoa di Tepi Barat. Ia dikenal karena mempromosikan dan memimpin dialog antar-agama antara Yahudi dan Arab, dengan fokus pada pemakaian agama sebagai alat dan sumber untuk mengakui kemanusiaan dan martabat semua orang. Bersama dengan seorang yang dekat dengan Hamas, Rabi Froman merancang sebuah perjanjian gencatan senjata antara pemerintah Israel dan Hamas di Jalur Gaza, yang dikenal sebagai . Perjanjian tersebut didukung oleh pemerintah Hamas, namun tak meraih tanggapan resmi apapun dari pemerintahan Israel."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/1716696"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Menachem_Froman?oldid=1112179877&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "18604"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1945"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "2013"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/PLO"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/Hamas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Menachem_Froman__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menachem_Froman>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Menachem_Froman"
+    }
+]

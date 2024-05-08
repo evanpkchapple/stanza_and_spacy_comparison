@@ -1,0 +1,577 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLinguistsFromTheNetherlands"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Linguist110264437"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJudaicScholars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Joseph Wijnkoop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Joseph Wijnkoop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Joseph David Wijnkoop (Amsterdam, 14 August 1842 \u2013 Amsterdam, 1 October 1910) was a Dutch rabbi and scholar in Jewish studies. He was a pupil of Rabbi (1818-1898). Among the Jews of Amsterdam, he was known and respected for his liberal and practical ideas."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Joseph David Wijnkoop (Amsterdam, 14 augustus 1842 - aldaar, 1 oktober 1910) was een Nederlandse rabbijn en hebra\u00efcus. Hij was een leerling van rabbijn . Hij stond bekend om zijn liberale en praktische opvattingen."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Joseph Wijnkoop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Joseph Wijnkoop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Amsterdam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Netherlands"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Amsterdam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Amsterdam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1910-10-01"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Amsterdam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Netherlands"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1842-08-14"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1910_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1842_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Dutch_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Linguists_from_the_Netherlands"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Knights_of_the_Order_of_Orange-Nassau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Chief_rabbis_of_cities"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Amsterdam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Judaic_scholars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "34447497"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1116045268"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Wijnkoop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Hirsch_D\u00fcnner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Amsterdam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1910_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chief_Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1842_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Dutch_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Linguists_from_the_Netherlands"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lecturer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amsterdam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Retail"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ashkenazi_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Knights_of_the_Order_of_Orange-Nassau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Chief_rabbis_of_cities"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Amsterdam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Judaic_scholars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Classical_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Netherlands"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Order_of_Orange-Nassau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Hamidrasch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dutch_Israelite_Seminary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Etz_Chaim_(Amsterdam)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacob_Moses_Content"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nederlands-Isra\u00eblietische_Hoofdsynagoge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0h_f9t_"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Joseph_Wijnkoop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/261153505"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/139534091"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/31884474"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q1902047"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p110346750"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p273399454"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0686\u0648\u0632\u064a\u0641_\u0648\u064a\u062c\u0646\u0643\u0648\u0628"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nl.dbpedia.org/resource/Joseph_Wijnkoop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/pSGm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1842-08-14"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Joseph David Wijnkoop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "http://dbpedia.org/resource/David_Wijnkoop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1910-10-01"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "http://dbpedia.org/resource/Netherlands"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Lecturer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Dientje Nijburg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Joseph David Wijnkoop (Amsterdam, 14 August 1842 \u2013 Amsterdam, 1 October 1910) was a Dutch rabbi and scholar in Jewish studies. He was a pupil of Rabbi (1818-1898). Among the Jews of Amsterdam, he was known and respected for his liberal and practical ideas."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Joseph David Wijnkoop (Amsterdam, 14 augustus 1842 - aldaar, 1 oktober 1910) was een Nederlandse rabbijn en hebra\u00efcus. Hij was een leerling van rabbijn . Hij stond bekend om zijn liberale en praktische opvattingen."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/261153505"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Joseph_Wijnkoop?oldid=1116045268&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "6487"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/stateOfOrigin",
+        "object": "http://dbpedia.org/resource/Netherlands"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Joseph David Wijnkoop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1842"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1910"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/child",
+        "object": "http://dbpedia.org/resource/David_Wijnkoop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/nationality",
+        "object": "http://dbpedia.org/resource/Netherlands"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Joseph_Wijnkoop__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Lecturer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Wijnkoop>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Joseph_Wijnkoop"
+    }
+]

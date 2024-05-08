@@ -1,0 +1,1382 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanAnti\u2013IraqWarActivists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanAnti\u2013VietnamWarActivists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanAnti\u2013nuclearWeaponsActivists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanHistorians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanNon-fictionEnvironmentalWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPacifists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPoliticalWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanReligiousWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanTaxResisters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPennsylvaniaPoliticalActivists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromBaltimore,Maryland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CivilRightsLeader109924996"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Disputant109615465"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Historian110177150"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Militant110315837"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Obstructionist110349243"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Pacifist110390199"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Reformer110515194"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishAmericanWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishPacifists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJohnsHopkinsUniversityAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAfrican-Americans'CivilRightsActivists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Arthur Waskow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0622\u0631\u062b\u0631 \u0648\u0627\u0633\u0643\u0648"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Arthur Waskow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0622\u0631\u062b\u0631 \u0648\u0627\u0633\u0643\u0648 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Arthur Waskow)\u200f (\u0648. 1933 \u2013 \u0645) \u0647\u0648 \u062d\u0627\u062e\u0627\u0645\u060c \u0648\u0645\u0624\u0631\u062e\u060c \u0648\u0643\u0627\u062a\u0628 \u0639\u0645\u0648\u0645\u064a\u060c \u0648\u0643\u0627\u062a\u0628 \u0645\u0646 \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0648\u0644\u062f \u0641\u064a \u0628\u0627\u0644\u062a\u064a\u0645\u0648\u0631\u060c \u0645\u0627\u0631\u064a\u0644\u0627\u0646\u062f."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Arthur Ocean Waskow (born Arthur I. Waskow; 1933) is an American author, political activist, and rabbi associated with the Jewish Renewal movement."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Arthur Ocean Waskow (* 1933 in Baltimore, Maryland) ist ein US-amerikanischer Autor, Friedensaktivist und Rabbiner innerhalb der Jewish Renewal, einer j\u00fcdischen Reformbewegung."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Arthur Waskow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Arthur Waskow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Reb_Arthur_Waskow.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Baltimore,_Maryland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Baltimore,_Maryland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Renewal_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_male_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_male_non-fiction_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1933_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_historians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_historians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Activists_for_African-American_civil_rights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_anti\u2013Vietnam_War_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_political_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_tax_resisters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Johns_Hopkins_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_in_interfaith_dialogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Wisconsin\u2013Madison_College_of_Letters_and_Science_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_anti\u2013Iraq_War_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Historians_from_Maryland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_non-fiction_environmental_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_pacifists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Swarthmore_College_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Temple_University_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Vassar_College_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Baltimore"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_religious_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_pacifists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Political_activists_from_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_anti\u2013nuclear_weapons_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_Renewal_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "1282755"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1114207465"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Protest"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Election"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Book_of_Genesis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Democracy_Now!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Renewal_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apartheid"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_din"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peace_Research_Institute_Oslo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_F._Kennedy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Kastenmeier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Wisconsin\u2013Madison"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vassar_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vietnam_War"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Voter_suppression_in_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ALEPH:_Alliance_for_Jewish_Renewal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israelite"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_male_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_non-fiction_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conscription"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maryland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Civil_Rights_Movement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Global_warming"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Opposition_to_the_Iraq_War"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Slavery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zalman_Schachter-Shalomi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1968_Democratic_National_Convention"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baltimore,_Maryland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1933_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_historians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_historians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Activists_for_African-American_civil_rights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_anti\u2013Vietnam_War_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_political_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_tax_resisters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Johns_Hopkins_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_in_interfaith_dialogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Wisconsin\u2013Madison_College_of_Letters_and_Science_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_anti\u2013Iraq_War_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Historians_from_Maryland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doctor_of_Humane_Letters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doctor_of_Philosophy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hasidic_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Renewal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Laura_Geller"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abraham_Joshua_Heschel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Jewish_Historical_Society"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ancient_Egypt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drew_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Feminist_theology"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fracking"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nonviolence"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Passover"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judith_Plaskow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Green_Zionist_Alliance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ramparts_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reconstructionist_Rabbinical_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Temple_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Exodus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Forward"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Jewish_Daily_Forward"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_non-fiction_environmental_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_pacifists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Swarthmore_College_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Temple_University_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Vassar_College_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Baltimore"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_religious_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_pacifists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Political_activists_from_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_anti\u2013nuclear_weapons_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Theological_Seminary_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Swarthmore_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/District_of_Columbia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_Renewal_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marcus_Raskin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_Buber"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Soviet_Union"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Women's_movement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Institute_for_Policy_Studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newsweek"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Occupy_Wall_Street"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Racial_segregation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/T'ruah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Passover_Seder"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_Zionist_Congress"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Johns_Hopkins_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Phyllis_Berman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Barnet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sit-in"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Teach-in"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Writers_and_Editors_War_Tax_Protest"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Semicha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haggadah_of_Pesach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Channing_Phillips"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Refusenik_(Soviet_Union)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A_Call_to_Resist_Illegitimate_Authority"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Selma_March"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fabrangen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Max_Ticktin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shalom_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.google.com/books/edition/The_Rest_of_Creation/Se80vgAACAAJ%7Cyear=2016%7Cpublisher=Albion-Andalus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.humanmedia.org/catalog/program.php%3Fproducts_id=56"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.aleph.org"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.theshalomcenter.org"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.democracynow.org/2010/3/4/bds"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://archive.org/details/beforetherewasbe0000wask%7Cyear=1984%7Cpublisher=Adama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=27itDAEACAAJ%7Cdate=November"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=9aqr2Gx7r_8C%7Cyear=2013%7Cpublisher=OUP"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=Bz5gzWSAJ7IC%7Cyear=2007%7Cpublisher=Beacon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=G-FMAAAAIAAJ%7Cyear=1962%7Cpublisher=Doubleday"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=KPlCAAAAIAAJ%7Cyear=1965%7Cpublisher=Heath"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=M6XUzm9IzRIC%7Cyear=2000%7Cpublisher=Jewish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=MQ5Z4thHdukC%7Cyear=2000%7Cpublisher=Jewish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=N4DfAAAAMAAJ%7Cyear=1962%7Cpublisher=Ballantine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=QA0lHQAACAAJ%7Cdate=September"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=VlXsDwAAQBAJ%7Cyear=2020%7Cpublisher=Orbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=XOkBAAAACAAJ%7Cyear=1996%7Cpublisher=Jason"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=Xtw6vgAACAAJ%7Cyear=2016%7Cpublisher=Albion-Andalus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=ag4-AAAAIAAJ%7Cyear=1970%7Cpublisher=Herder"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=bdM6AAAAMAAJ%7Cyear=1966%7Cpublisher=Peter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=czfj6gVoSVwC%7Cyear=2011%7Cpublisher=Jewish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=dP8lAQAAIAAJ%7Cyear=1997%7Cpublisher=HarperCollins%7Cisbn=978-0-688-15127-0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=nsdpxRrp-yQC%7Cyear=1993%7Cpublisher=Simon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=rVkGvgEACAAJ%7Cyear=1970%7Cpublisher=Smith"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=tvYdiwmnDhAC%7Cyear=1990%7Cpublisher=Beacon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=xue1AAAAIAAJ%7Cauthor=Arthur"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.amazon.com/Burning-Radical-Judaism-Pharaohs-Superstate/dp/B000SIBXJQ%7Ctitle=The"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.amazon.com/God-Wrestling-Arthur-I-Waskow/dp/B00BJ0ITVM%7Ctitle=God-Wrestling%7Cauthor=Arthur"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://digifindingaids.cjh.org/%3FpID=364752"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.bjpa.org/Publications/details.cfm%3FPublicationID=868"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.bjpa.org/Publications/details.cfm%3FPublicationID=9965"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.bjpa.org/search-results/publication/10433"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.bjpa.org/search-results/publication/7532"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.04pxs4"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Arthur_Waskow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/55280779"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/131464884"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1090273517"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1090549431"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q163513"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p072859245"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0622\u0631\u062b\u0631_\u0648\u0627\u0633\u0643\u0648"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0622\u0631\u062b\u0631_\u0648\u0627\u0633\u0643\u0648"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Arthur_Waskow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nn.dbpedia.org/resource/Arthur_Waskow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://no.dbpedia.org/resource/Arthur_Waskow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/dA77"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:C-SPAN"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_book"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_journal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_magazine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth-date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Reb_Arthur_Waskow.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Arthur Waskow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "American author, political activist, and rabbi associated with the Jewish Renewal movement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "http://dbpedia.org/resource/Phyllis_Berman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0622\u0631\u062b\u0631 \u0648\u0627\u0633\u0643\u0648 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Arthur Waskow)\u200f (\u0648. 1933 \u2013 \u0645) \u0647\u0648 \u062d\u0627\u062e\u0627\u0645\u060c \u0648\u0645\u0624\u0631\u062e\u060c \u0648\u0643\u0627\u062a\u0628 \u0639\u0645\u0648\u0645\u064a\u060c \u0648\u0643\u0627\u062a\u0628 \u0645\u0646 \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0627\u0644\u0623\u0645\u0631\u064a\u0643\u064a\u0629 \u0648\u0644\u062f \u0641\u064a \u0628\u0627\u0644\u062a\u064a\u0645\u0648\u0631\u060c \u0645\u0627\u0631\u064a\u0644\u0627\u0646\u062f."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Arthur Ocean Waskow (born Arthur I. Waskow; 1933) is an American author, political activist, and rabbi associated with the Jewish Renewal movement."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Arthur Ocean Waskow (* 1933 in Baltimore, Maryland) ist ein US-amerikanischer Autor, Friedensaktivist und Rabbiner innerhalb der Jewish Renewal, einer j\u00fcdischen Reformbewegung."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Author"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/55280779"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Arthur_Waskow?oldid=1114207465&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "28995"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1933"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Arthur_Waskow__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://dbpedia.org/ontology/spouse",
+        "object": "http://dbpedia.org/resource/Phyllis_Berman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Arthur_Waskow>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Arthur_Waskow"
+    }
+]

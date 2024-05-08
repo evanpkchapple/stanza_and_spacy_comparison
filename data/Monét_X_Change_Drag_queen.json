@@ -1,0 +1,1207 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mon\u00e9t X Change"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mon\u00e9t X Change"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mon\u00e9t X Change"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Kevin Bertin, n\u00e9 le 19 f\u00e9vrier 1990, plus connu sous le nom de sc\u00e8ne Mon\u00e9t X Change, est une personnalit\u00e9 t\u00e9l\u00e9vis\u00e9e et drag queen am\u00e9ricaine. Elle est principalement connue pour avoir particip\u00e9 \u00e0 la dixi\u00e8me saison de RuPaul's Drag Race, se pla\u00e7ant \u00e0 la sixi\u00e8me place et gagnant le titre de Miss Congeniality. Quelques mois plus tard, elle participe \u00e0 la quatri\u00e8me saison de RuPaul's Drag Race: All Stars, o\u00f9 elle finit gagnante ex \u00e6quo avec Trinity The Tuck."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Mon\u00e9t X Change \u00e9 o nome art\u00edstico de Kevin Bertin, uma drag queen, cantora e personalidade de televis\u00e3o norte-americana. Ela \u00e9 mais conhecida por competir na d\u00e9cima temporada de RuPaul's Drag Race, na qual ela ficou em sexto lugar e venceu o Miss Simpatia, e por ter vencido a quarta temporada de RuPaul's Drag Race: All Stars junto com ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Mon\u00e9t X Change (born February 19, 1990), stage name of Kevin A. Bertin, is an American drag queen, singer, podcaster, and reality television personality. She is known for competing on the tenth season of RuPaul's Drag Race (2018), on which she placed sixth, and for winning the fourth season of RuPaul's Drag Race All Stars (2018\u20132019) alongside Trinity the Tuck. She returned to compete in the seventh season of RuPaul's Drag Race All Stars, an all-winners season, where she placed runner-up. Mon\u00e9t X Change released her debut EP, Unapologetically, in 2019. Later that year, she debuted her own web talk show The X Change Rate, on the BUILD Series. She is a staple for many Drag Race-related domestic and international tours, such as Werq the World, A Drag Queen Christmas, and Drive 'N Drag."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Mon\u00e9t X Change"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Mon\u00e9t X Change"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52073256611)_(cropped_-_Jinkx_and_Monet).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_with_All_Stars_7_Contestants_at_LA_DragCon_2022_by_dvsross_(cropped_-_Monet_X_Change).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Wtw2019_monet_2.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Brooklyn, New York City, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1990-02-19"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_operatic_basses"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rider_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_contemporary_R&B_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_African_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1990_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_the_Bronx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_men_podcasters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_podcasters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Saint_Lucian_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "56663062"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123794001"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada's_Drag_Race:_Canada_vs._the_World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cardi_B"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queerty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Celebrity_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_10)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_11)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_8)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_4)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_5)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_7)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Secret_Celebrity_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billie_Holiday"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_the_Drag_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Designing_Women"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_operatic_basses"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rider_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Honey_Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hulu"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Huluween_Dragstravaganza"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jujubee_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pepsi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rider_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Unapologetically_(EP)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/VH1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Valentina_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Independent_Albums"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meghan_McCain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saint_Lucia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Opera"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Close_Enough"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Garrick_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ginger_Minj"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/God_Control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miz_Cracker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monique_Heart"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Magic_Flute"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_View_(talk_show)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Vixen_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_culture_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aquaria_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Life_Is_Beautiful_Music_&_Art_Festival"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lovecraft_Country_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Macbeth"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madonna"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Callen-Lorde_Community_Health_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Strange_Fruit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yuhua_Hamasaki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Streaming_media"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Azealia_Banks"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_contemporary_R&B_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_African_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CBS_This_Morning"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/COVID-19_pandemic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thrillist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Todrick_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trinity_the_Tuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trixie_Motel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Twitter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Werq_the_World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Westminster_Choir_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/What_Would_You_Do%3F_(2008_TV_program)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drive-in"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drive_'N_Drag"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Acid_Betty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adore_Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1990_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_the_Bronx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag:_The_Musical"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eureka_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Extended_play"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Farrah_Moan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nickelodeon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nina_West"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_LGBT_people_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_download"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/HBO_Max"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Internet_meme"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Bachelorette_(season_17)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Bronx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Kelly_Clarkson_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Three_Witches"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/La_Boh\u00e8me"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ask_Me_Another_(radio_program)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A_Drag_Queen_Christmas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_men_podcasters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_podcasters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Saint_Lucian_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jinkx_Monsoon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/KVVU-TV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kameron_Michaels"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/La_sonnambula"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lady_Bunny"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spoken_word"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marvel_Comics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bullseye_with_Jesse_Thorn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Phi_Mu_Alpha_Sinfonia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SpongeBob_SquarePants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/I_Like_to_Watch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaska_5000"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Naomi_Smalls"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Netflix"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orbitz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shea_Coule\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Top_Heatseekers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Getting_Curious_with_Jonathan_Van_Ness"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bass_voice"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_The_Drag_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/What_Would_You_Do%3F_(season_14)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kitchen_sponge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:RuPaul_DragCon_2022_(52073256611)_(cropped_-_Jinkx_and_Monet).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Wtw2019_monet_2.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.monetxchange.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/17999351-628c-4c74-8802-307573081362"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q55092372"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u0645\u0648\u0646\u062a_\u0627\u06a9\u0633_\u0686\u0646\u062c"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Mon\u00e9t_X_Change"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05de\u05d5\u05e0\u05d4_\u05d0\u05e7\u05e1_\u05e6'\u05d9\u05d9\u05e0\u05d2'"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pt.dbpedia.org/resource/Mon\u00e9t_X_Change"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/5EN3M"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_musical_artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Non-album_singles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Small"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Tooltip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:URL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Wikiquote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:YouTube"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Secret_Celebrity_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_with_All_Stars_7_Contestants_at_LA_DragCon_2022_by_dvsross_(cropped_-_Monet_X_Change).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1990-02-19"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Kevin A. Bertin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Mon\u00e9t X Change in 2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/Rider_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/id",
+        "object": "GKgmag0yyCY"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "television personality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "podcaster"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "talk show host"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/predecessor",
+        "object": "http://dbpedia.org/resource/Valentina_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/predecessor",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/predecessor",
+        "object": "Trixie Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/successor",
+        "object": "http://dbpedia.org/resource/Nina_West"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/successor",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/successor",
+        "object": "Shea Coule\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/title",
+        "object": "Meet Mon\u00e9t X Change: Congenial & Myself  RuPaul\u2019s Drag Race All Stars 4"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race All Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Mon\u00e9t X Change (born February 19, 1990), stage name of Kevin A. Bertin, is an American drag queen, singer, podcaster, and reality television personality. She is known for competing on the tenth season of RuPaul's Drag Race (2018), on which she placed sixth, and for winning the fourth season of RuPaul's Drag Race All Stars (2018\u20132019) alongside Trinity the Tuck. She returned to compete in the seventh season of RuPaul's Drag Race All Stars, an all-winners season, where she placed runner-up. Mon\u00e9t X Change released her debut EP, Unapologetically, in 2019. Later that year, she debuted her own web talk show The X Change Rate, on the BUILD Series. She is a staple for many Drag Race-related domestic and international tours, such as Werq the World, A Drag Queen Christmas, and Drive 'N Drag. She currently co-hosts the Sibling Rivalry podcast, with Bob the Drag Queen, and the Ebony and Irony podcast, with Lady Bunny."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Kevin Bertin, n\u00e9 le 19 f\u00e9vrier 1990, plus connu sous le nom de sc\u00e8ne Mon\u00e9t X Change, est une personnalit\u00e9 t\u00e9l\u00e9vis\u00e9e et drag queen am\u00e9ricaine. Elle est principalement connue pour avoir particip\u00e9 \u00e0 la dixi\u00e8me saison de RuPaul's Drag Race, se pla\u00e7ant \u00e0 la sixi\u00e8me place et gagnant le titre de Miss Congeniality. Quelques mois plus tard, elle participe \u00e0 la quatri\u00e8me saison de RuPaul's Drag Race: All Stars, o\u00f9 elle finit gagnante ex \u00e6quo avec Trinity The Tuck."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Mon\u00e9t X Change \u00e9 o nome art\u00edstico de Kevin Bertin, uma drag queen, cantora e personalidade de televis\u00e3o norte-americana. Ela \u00e9 mais conhecida por competir na d\u00e9cima temporada de RuPaul's Drag Race, na qual ela ficou em sexto lugar e venceu o Miss Simpatia, e por ter vencido a quarta temporada de RuPaul's Drag Race: All Stars junto com ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Mon\u00e9t_X_Change?oldid=1123794001&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "76580"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Kevin A. Bertin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1990"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Rider_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Mon\u00e9t_X_Change__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/predecessor",
+        "object": "http://dbpedia.org/resource/Valentina_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/predecessor",
+        "object": "http://dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/successor",
+        "object": "http://dbpedia.org/resource/Nina_West"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://dbpedia.org/ontology/successor",
+        "object": "http://dbpedia.org/resource/Shea_Coule\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mon\u00e9t_X_Change>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Mon\u00e9t_X_Change"
+    }
+]

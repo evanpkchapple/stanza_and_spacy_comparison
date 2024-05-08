@@ -1,0 +1,502 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sir Lady Java"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sir Lady Java"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sir Lady Java est une militante des droits des personnes transgenres, danseuse, chanteuse et actrice am\u00e9ricaine. Active au th\u00e9\u00e2tre, la t\u00e9l\u00e9vision, la radio et le cin\u00e9ma \u00e0 partir du milieu des ann\u00e9es 1960, jusqu'\u00e0 1980, elle est une personnalit\u00e9 populaire et influente de la communaut\u00e9 afro-Am\u00e9ricaine LGBT de Los Angeles."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sir Lady Java, also known simply as Lady Java (born 1943) is an American transgender rights activist, exotic dancer, singer, comedian, and actress. Active on stage, television, radio and film from the mid-1960s to 1970s, she is a popular and influential personality in the Los Angeles-area African-American LGBT community."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Sir Lady Java"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Sir Lady Java"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/New_Orleans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "New Orleans, Louisiana, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1943-08-20"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Louisiana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1943_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_African_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rights_activists_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_New_Orleans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Transgender_rights_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Transgender_women"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "53160946"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1115812650"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Protesting"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rudy_Ray_Moore"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sammy_Davis_Jr."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Louisiana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josephine_Baker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Pryor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Variety_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gertrude_Gipson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lena_Horne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles_Police_Department"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mae_West"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1943_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_African_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rights_activists_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_New_Orleans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Transgender_rights_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Transgender_women"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CeCe_McDonald"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transitioning_(transgender)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Civil_Liberties_Union"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Flip_Wilson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nightclubs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Exotic_dancer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Human_Tornado"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jet_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LaWanda_Page"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Advocate_(LGBT_magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dolemite"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Don_Rickles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Orleans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Redd_Foxx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles_LGBT_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transgender_rights_movement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tri-Ess"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rule_Number_9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.youtube.com/watch%3Fv=HObtUIElQZY"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Sir_Lady_Java"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q28790157"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Sir_Lady_Java"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pa.dbpedia.org/resource/\u0a38\u0a30_\u0a32\u0a47\u0a21\u0a40_\u0a1c\u0a3e\u0a35\u0a3e"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2gPSj"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Portal_bar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/property/alt",
+        "object": "Sir Lady Java"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1943-08-20"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen, actress"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/property/otherNames",
+        "object": "Lady Java"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "-1970.0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Sir Lady Java est une militante des droits des personnes transgenres, danseuse, chanteuse et actrice am\u00e9ricaine. Active au th\u00e9\u00e2tre, la t\u00e9l\u00e9vision, la radio et le cin\u00e9ma \u00e0 partir du milieu des ann\u00e9es 1960, jusqu'\u00e0 1980, elle est une personnalit\u00e9 populaire et influente de la communaut\u00e9 afro-Am\u00e9ricaine LGBT de Los Angeles."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Sir Lady Java, also known simply as Lady Java (born 1943) is an American transgender rights activist, exotic dancer, singer, comedian, and actress. Active on stage, television, radio and film from the mid-1960s to 1970s, she is a popular and influential personality in the Los Angeles-area African-American LGBT community."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Sir_Lady_Java?oldid=1115812650&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "8601"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsEndYear",
+        "object": "1970"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "1960"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/alias",
+        "object": "Lady Java"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1943"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Sir_Lady_Java__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sir_Lady_Java>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Sir_Lady_Java"
+    }
+]

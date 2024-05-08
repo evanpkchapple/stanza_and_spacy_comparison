@@ -1,0 +1,762 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Vanessa Vanjie Mateo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Vanessa Vanjie Mateo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Vanessa Vanjie Mateo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Vanessa Vanjie Mateo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Vanessa Vanjie Mateo (Tampa, Florida, 3 d'octubre de 1991), coneguda tamb\u00e9 com Miss Vanjie o simplement Vanjie, \u00e9s el nom art\u00edstic de Jos\u00e9 Cancel, drag-queen dels Estats Units que salt\u00e0 a la fama per ser concursant de la desena i onzena temporada de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jos\u00e9 Cancel,\u200b m\u00e1s conocido por su nombre art\u00edstico Vanessa Vanjie Mateo, a veces abreviado como Miss Vanjie o Vanjie, es una drag queen estadounidense m\u00e1s conocida por participar en la temporada 10 y en la temporada 11 de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jos\u00e9 Cancel, plus connu sous le nom sc\u00e8ne Vanessa Vanjie Mateo, parfois raccourci en Miss Vanjie ou Vanjie, est une drag queen am\u00e9ricaine principalement connue pour sa participation aux dixi\u00e8me et onzi\u00e8me saisons de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Vanessa Vanjie Mateo, sometimes known as Miss Vanjie or simply Vanjie, is the stage name of Jos\u00e9 Cancel, an American drag performer known for competing on the tenth season of RuPaul's Drag Race and placing fifth on the eleventh season of the show. In addition to competing on Drag Race, she has also appeared in many of its spin-offs, including RuPaul's Secret Celebrity Drag Race, RuPaul's Drag Race: Vegas Revue, Canada's Drag Race and RuPaul's Drag Race All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Vanessa Vanjie Mateo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Vanessa Vanjie Mateo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dragcon3-SUN-9_(47942923151).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rupaul_Dragcon_2018-252_(42030783392).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Vanessa_Vanjie_Mateo_at_Dragcon_2019_by_dvsross.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Tampa,_Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Tampa, Florida, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1991-10-03"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Puerto_Rican_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1991_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Tampa,_Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "56663057"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1119436852"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada's_Drag_Race_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Celebrity_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Vegas_Revue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_10)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_11)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_12)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_5)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Secret_Celebrity_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Derrick_Barry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vanja_Radovanovi\u0107"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vanjie:_24_Hours_of_Love"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/People's_Choice_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rylan_Clark-Neal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sally_Walker_(song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christina_Aguilera"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Puerto_Rican_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleni_Foureira"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_Times"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germany's_Next_Topmodel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germany's_Next_Topmodel_(season_14)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Montenegro"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mother's_Day"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Shining_(film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Simpsons"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shuga_Cain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silky_Nutmeg_Ganache"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snapchat"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yvie_Oddly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooke_Lynn_Hytes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lip_sync"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A'keria_C._Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A'keria_Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/AJ_and_the_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ain't_No_Other_Man"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexis_Mateo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/All_Star_Shore"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1991_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cyprus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eurovision_Song_Contest_2018"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Banjee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nina_Bo'nina_Brown"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grindr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Internet_meme"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tampa,_Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chips_Ahoy!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Tampa,_Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jimmy_Kimmel_Live!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kathy_Griffin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sutan_Amrull"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plastique_Tiara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pok\u00e9mon_(anime)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/IMDb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Iggy_Azalea"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Instagram"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michelle_Visage"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raven_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shea_Coule\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rupaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Started_(Iggy_Azalea_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Started_(song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Time_100_Gala"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Dragcon3-SUN-9_(47942923151).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Vanessa_Vanjie_Mateo_at_Dragcon_2019_by_dvsross.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.imdb.com/name/nm9720348/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q52106707"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ca.dbpedia.org/resource/Vanessa_Vanjie_Mateo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Vanessa_Vanjie_Mateo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u0648\u0646\u0633\u0627_\u0648\u0627\u0646\u062c\u06cc_\u0645\u0627\u062a\u0626\u0648"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Vanessa_Vanjie_Mateo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05d5\u05e0\u05e1\u05d4_\u05d5\u05e0\u05d2'\u05d9_\u05de\u05d8\u05d0\u05d5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/5PcLK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nominated"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Tooltip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:URL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Secret_Celebrity_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rupaul_Dragcon_2018-252_(42030783392).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1991-10-03"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Jos\u00e9 Cancel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Mateo at RuPaul's DragCon LA in 2018"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Competing on RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Vanessa Vanjie Mateo (Tampa, Florida, 3 d'octubre de 1991), coneguda tamb\u00e9 com Miss Vanjie o simplement Vanjie, \u00e9s el nom art\u00edstic de Jos\u00e9 Cancel, drag-queen dels Estats Units que salt\u00e0 a la fama per ser concursant de la desena i onzena temporada de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jos\u00e9 Cancel,\u200b m\u00e1s conocido por su nombre art\u00edstico Vanessa Vanjie Mateo, a veces abreviado como Miss Vanjie o Vanjie, es una drag queen estadounidense m\u00e1s conocida por participar en la temporada 10 y en la temporada 11 de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jos\u00e9 Cancel, plus connu sous le nom sc\u00e8ne Vanessa Vanjie Mateo, parfois raccourci en Miss Vanjie ou Vanjie, est une drag queen am\u00e9ricaine principalement connue pour sa participation aux dixi\u00e8me et onzi\u00e8me saisons de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Vanessa Vanjie Mateo, sometimes known as Miss Vanjie or simply Vanjie, is the stage name of Jos\u00e9 Cancel, an American drag performer known for competing on the tenth season of RuPaul's Drag Race and placing fifth on the eleventh season of the show. In addition to competing on Drag Race, she has also appeared in many of its spin-offs, including RuPaul's Secret Celebrity Drag Race, RuPaul's Drag Race: Vegas Revue, Canada's Drag Race and RuPaul's Drag Race All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Vanessa_Vanjie_Mateo?oldid=1119436852&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "22367"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Jos\u00e9 Cancel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1991"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Vanessa_Vanjie_Mateo__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Vanessa_Vanjie_Mateo>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Vanessa_Vanjie_Mateo"
+    }
+]

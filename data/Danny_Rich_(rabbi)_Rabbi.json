@@ -1,0 +1,572 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Chaplain109908508"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Clergyman109927451"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PrisonChaplain109908769"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/SpiritualLeader109505153"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPrisonChaplains"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Danny Rich (rabbi)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Danny Rich is a Labour councillor in the London Borough of Barnet. He was, until 2020, the Senior Rabbi and Chief Executive of Liberal Judaism in the United Kingdom."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Danny Rich"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Danny Rich"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "South London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Councillors_in_the_London_Borough_of_Barnet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_Leo_Baeck_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:British_Liberal_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Prison_chaplains"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "40162672"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1091948398"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Board_of_Deputies_of_British_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Councillors_in_the_London_Borough_of_Barnet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julia_Neuberger"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patrilineal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Manchester_Students'_Union"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liberal_Judaism_(United_Kingdom)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Jewish_Chronicle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/North_Western_Reform_Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_Leo_Baeck_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ephraim_Mirvis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_Borough_of_Barnet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_Fire_Brigade"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emeritus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hospice"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Head_boy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A-levels"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leo_Baeck_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucian_Hudson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haaretz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:British_Liberal_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Prison_chaplains"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Labour_Party_(UK)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portland,_Oregon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manchester_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/South_London_Liberal_Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matrilineal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Free_School"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charedi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.sifre.org.uk/pdf/Richlec.pdf/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://trove.nla.gov.au/work/8372817%3FversionId=9655380/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.thejc.com/comment/comment/why-we-must-urgently-co-operate-danny-rich/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.haaretz.com/opinion/.premium-1.533328/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20131003062302/http:/www.bod.org.uk/content/ZionismAJewishCommunalResponse.pdf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20131029194428/http:/commissiononassisteddying.co.uk/wp-content/uploads/2011/01/Rabbi-Danny-Rich-Transcript.pdf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.theguardian.com/profile/dannyrich/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://publications.parliament.uk/pa/cm201213/cmpublic/marriage/memo/m03.htm/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0wj8j6m"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Danny_Rich_(rabbi)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q16735176"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/dpDZ"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Liberal_Judaism_in_the_United_Kingdom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Dead_link"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:ISBN"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Main"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_British_English"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/bot",
+        "object": "InternetArchiveBot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "4"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/date",
+        "object": "July 2019"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/fixAttempted",
+        "object": "yes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "British"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Chief Executive of Liberal Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/party",
+        "object": "http://dbpedia.org/resource/Labour_Party_(UK)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Danny Rich is a Labour councillor in the London Borough of Barnet. He was, until 2020, the Senior Rabbi and Chief Executive of Liberal Judaism in the United Kingdom."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Executive"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Danny_Rich_(rabbi)?oldid=1091948398&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "25496"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Liberal_Judaism_(United_Kingdom)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Danny_Rich_(rabbi)__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/party",
+        "object": "http://dbpedia.org/resource/Labour_Party_(UK)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Danny_Rich_(rabbi)>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Danny_Rich_(rabbi)"
+    }
+]

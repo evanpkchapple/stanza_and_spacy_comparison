@@ -1,0 +1,812 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromBratislava"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromG\u00f6ppingen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromHohenems"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromMerano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Aristocrat109807754"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Knight110238375"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/MaleAristocrat110285135"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGermanPeopleOfWorldWarI"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatKnightsOfTheOrderOfFranzJoseph"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEthnicGermanPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Aaron T\u00e4nzer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Aron T\u00e4nzer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Aron T\u00e4nzer (30. Januar 1871 in Pre\u00dfburg, \u00d6sterreich-Ungarn \u2013 26. Februar 1937 in G\u00f6ppingen) war ein Rabbiner und Autor zahlreicher wissenschaftlicher Publikationen."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Aaron T\u00e4nzer (German: Aron T\u00e4nzer, Hungarian: T\u00e4nzer \u00c1ron; also German: Arnold T\u00e4nzer; January 30, 1871 \u2013 February 26, 1937, G\u00f6ppingen) was a rabbi in Austria and Germany, chaplain and author."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Aaron T\u00e4nzer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Aaron T\u00e4nzer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Tanzer_-_1917.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Tanzer_-_1907.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Bratislava"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Austria-Hungary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/G\u00f6ppingen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/W\u00fcrttemberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "G\u00f6ppingen, W\u00fcrttemberg, Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1937-02-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Bratislava"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Austria-Hungary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1871-01-30"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1871_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1937_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Austrian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_German_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Austro-Hungarian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Chief_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:German_Jewish_military_personnel_of_World_War_I"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Knights_of_the_Order_of_Franz_Joseph"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_G\u00f6ppingen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Hohenems"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Merano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Bratislava"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_in_the_military"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_Iron_Cross_(1914),_2nd_class"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "2498315"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1091376251"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bratislava"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hohenems"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vorarlberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/County_of_Tyrol"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German_Army_(German_Empire)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Order_of_Franz_Joseph"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Slovakia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedrich_Order"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Austria-Hungary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1871_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1937_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Iron_Cross"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dallgow-D\u00f6beritz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German_Jewish_military_personnel_of_World_War_I"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hanseatic_Cross"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isidore_Singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pressburg_Yeshiva_(Austria-Hungary)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/G\u00f6ppingen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wound_Badge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Austrian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_German_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Austro-Hungarian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Chief_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_Jewish_military_personnel_of_World_War_I"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Knights_of_the_Order_of_Franz_Joseph"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_G\u00f6ppingen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Hohenems"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Merano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Bratislava"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_in_the_military"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_Iron_Cross_(1914),_2nd_class"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chief_rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/W\u00fcrttemberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kingdom_of_W\u00fcrttemberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Merano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_I"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leo_Baeck_Institute,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jebenhausen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Berlin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alemannia_Judaica"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Tanzer_-_1917.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israelitische_Friedhof_in_Hohenems"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.alemannia-judaica.de/goeppingen_synagoge.htm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.edjewnet.de/taenzer/taenzer.htm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.schillernaut.de/stolper/%3Fpage_id=20"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://findingaids.cjh.org/%3FpID=121451"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://jewishencyclopedia.com/view.jsp%3Fartid=63&letter=T%7Cauthor="
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.07j293"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/15567474"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/118877208"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q102016"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p129493481"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0631\u0627\u0642\u0635\u0629_\u0647\u0627\u0631\u0648\u0646"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Aron_T\u00e4nzer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/6u45"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/sname",
+        "object": "Aaron T\u00e4nzer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/sopt",
+        "object": "w"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:DNB-Portal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Flag"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:ISBN"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_military_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:JewishEncyclopedia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Internet_Archive_author"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Tanzer_-_1907.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/module",
+        "object": "--06-04"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/restingPlace",
+        "object": "Jewish Cemetery in Goeppingen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/University_of_Berlin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/article",
+        "object": "Aaron T\u00e4nzer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1871-01-30"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Aaron T\u00e4nzer in 1907"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1937-02-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Organized soup kitchens for local population in Poland during WW I."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "Austrian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/property/url",
+        "object": "http://jewishencyclopedia.com/view.jsp?artid=63&letter=T|author=Isidore Singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Aron T\u00e4nzer (30. Januar 1871 in Pre\u00dfburg, \u00d6sterreich-Ungarn \u2013 26. Februar 1937 in G\u00f6ppingen) war ein Rabbiner und Autor zahlreicher wissenschaftlicher Publikationen."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Aaron T\u00e4nzer (German: Aron T\u00e4nzer, Hungarian: T\u00e4nzer \u00c1ron; also German: Arnold T\u00e4nzer; January 30, 1871 \u2013 February 26, 1937, G\u00f6ppingen) was a rabbi in Austria and Germany, chaplain and author."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Aaron_T\u00e4nzer?oldid=1091376251&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "9012"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/restingPlace",
+        "object": "http://dbpedia.org/resource/G\u00f6ppingen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1871"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1937"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/University_of_Berlin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Aaron_T\u00e4nzer__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Aaron_T\u00e4nzer>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Aaron_T\u00e4nzer"
+    }
+]

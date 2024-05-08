@@ -1,0 +1,1547 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#Agent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Agent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q24229398"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q95074"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/SoapCharacter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Ability105616246"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Abstraction100002137"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Cognition100023271"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creativity105624700"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/FictionalCharacter109587565"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ImaginaryBeing109483738"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Imagination105625465"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PsychologicalFeature100023100"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/FictionalCharacter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEastEndersCharacters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Liosta de charachtair Eastenders (1986)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "List of EastEnders characters (1986)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sobaldr\u00e1ma Briotanach is ea EastEnders. Is liosta na gcarachtar \u00e9 seo, a th\u00e1inig ar an gcl\u00e1r den ch\u00e9ad uair sa bhliain 1986:"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "The following is a list of characters that first appeared in the BBC soap opera EastEnders in 1986, by order of first appearance. All characters were introduced by the show's co-creator Julia Smith. The first character to be introduced during the year is (Dave Dale), a drag queen hired for The Queen Victoria pub. (Jane How), the long-term mistress of Den Watts (Leslie Grantham), was introduced in January. March sees the first appearances of The Firm mobster (Jonathan Stratt), Dot Cotton's (June Brown) husband Charlie Cotton (Christopher Hancock) and new brewery area manager (William Boyde). The newborn daughter of Michelle Fowler (Susan Tully), (Emma Herry), was introduced in May. Judith Jacob and Pam St. Clement made their debuts as health visitor and Pat Butcher, the former wife of"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "John Fisher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Irene"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "John Fisher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Brad Williams"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Tom Clements"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Dr Singh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Jan Hammond"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Rezaul Kabir"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/EastEnders.svg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_EastEnders_characters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1986_in_British_television"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Television_characters_introduced_in_1986"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "12797491"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1117622522"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Harrison"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cartoon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cassie_Carpenter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pound_sterling"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rod_Norman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ross_Davidson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roy_Quick"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bengali_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lists_of_EastEnders_characters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_former_EastEnders_characters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parody"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Be-Bop-A-Lula"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bill_Treacher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Wicks"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Den_Watts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_Rickman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judith_Jacob"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julia_Smith_(producer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pauline_Fowler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pawnbroker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pete_Beale"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Dean_(actor)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venice"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Debbie_Wilkins"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donald_Tandy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jaggat_Singh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/North_London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mary_Smith_(EastEnders)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mehmet_Osman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_bar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/General_practitioner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orient_Express"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sideburns"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9rin_Geraghty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christopher_Hancock"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cockney"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colin_Russell_(EastEnders)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Butcher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gary_Hailes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Irving_(English_actor)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gillian_Taylforth"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mo_Harris"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Muslim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Naima_Jeffery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Queen_Victoria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1986_in_British_television"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_O'Brien_(EastEnders)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angie_Watts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anita_Dobson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Scher_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Wing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anthony_Jackson_(actor)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonard_Fenton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonard_Maguire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leslie_Grantham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Letitia_Dean"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Loan_shark"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lofty_Holloway"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lou_Beale"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ashraf_Karim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shirley_Cheriton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shreela_Ghosh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sikh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simon_Wicks"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sue_Osman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yuppie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yvonne_Gilan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zoot_Money"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Father"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josephine_Melville"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Banned_(EastEnders)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public_house"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BBC"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bangladesh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bryan_Kirkwood"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tom_Watt_(actor)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tony_Carpenter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tony_Holland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willy_(EastEnders)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gary_McDonald_(actor)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Health_visitor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katherine_Parr_(actress)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Locum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adam_Woodyatt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aftab_Sachak"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alan_Ford_(actor)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_Square"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ali_Osman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Darren_Roberts_(EastEnders)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dating"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/EastEnders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ethel_Skinner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nick_Berry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nick_Cotton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nigel_Harman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oscar_James"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pamela_Salem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pat_Butcher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Clark_(Eastenders)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christopher_McHallem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dickens_Hill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gondola"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harry_Reynolds_(EastEnders)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_time"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gretchen_Franklin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hannah_Carpenter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harold_Legg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heterosexuality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Willmott-Brown"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jan_Hammond"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jane_How"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tanveer_Ghani"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Costermonger"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marino_Mase"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Are_You_Being_Served%3F"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arthur_Fowler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Television_characters_introduced_in_1986"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charlie_Cotton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joanne_Francis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Grillo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/June_Brown"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kathy_Beale"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kelvin_Carpenter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Susan_Tully"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dot_Branning"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dot_Cotton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_gallery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Fowler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marxist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Butlins_Redcoats"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pink_Floyd"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pint"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clacton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doctor_Legg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scarlett_Johnson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ian_Beale"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_Beale"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Cashman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_French"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michelle_Fowler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mike_Reid_(actor)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camp_(style)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Second_World_War"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sharon_D._Clarke"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sharon_Watts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louise_Berridge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Boyde"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gregory_Mantel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samantha_Leigh_Martin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walford"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pam_St._Clement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Terry_Rich"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Stratt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_J._Medford"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pavel_Douglas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Corey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Unreported_employment"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_EastEnders_spin-offs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/WPC_Alison_Howard"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Master_of_Ceremonies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amerjit_Deu"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dave_Dale"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dr_Legg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Are_You_Being_Served%3F_characters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whodunnit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Wilmott-Brown"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sebastian_Abineri"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Will_(law)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DHSS"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pat_Wicks"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Samaritans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/EastEnders_books"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_Watts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nejdet_Salih"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Naima_Jeffrey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wiktionary:moonlighting"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martyn_Whitby"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aaron_Harris_(actor)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_Welling_(actor)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alisa_Bosschaert"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Ellis_(actress)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charlotte_Edwards_(actress)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christopher_Karallis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:EastEnders.svg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gordon_Case"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jennie_Lee_(English_actress)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonard_Gregory"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lisa_Lancashire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michele_Winstanley"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nick_Orchard"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philip_Brook"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raymond_Brody"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vincent_Pickering"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Winston_Crooke"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sydney_Arnold_(actor)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graeme_Eton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Rea_(actor)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q6569651"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ga.dbpedia.org/resource/Liosta_de_charachtair_Eastenders_(1986)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4qZ4U"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:'"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Anchor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Clear"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:End_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Main"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Start_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:TOClimit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_British_English"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:EastEnders_characters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_soap_character"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/EastEnders.svg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/classification",
+        "object": "http://dbpedia.org/resource/List_of_former_EastEnders_characters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/first",
+        "object": "1986-01-23"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/first",
+        "object": "1986-01-30"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/first",
+        "object": "1986-03-04"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/first",
+        "object": "1986-07-03"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/first",
+        "object": "1986-08-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/first",
+        "object": "1986-11-06"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/first",
+        "object": "1986-12-11"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/first",
+        "object": "Episode 100"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/first",
+        "object": "Episode 109"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/first",
+        "object": "Episode 144"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/first",
+        "object": "Episode 159"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/first",
+        "object": "Episode 180"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/first",
+        "object": "Episode 190"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/first",
+        "object": "Episode 98"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/last",
+        "object": "1986-02-27"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/last",
+        "object": "1987-06-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/last",
+        "object": "1987-12-31"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/last",
+        "object": "1988-01-07"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/last",
+        "object": "1988-04-21"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/last",
+        "object": "1989-02-23"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/last",
+        "object": "2003-09-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/last",
+        "object": "Episode 108"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/last",
+        "object": "Episode 244"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/last",
+        "object": "Episode 305"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/last",
+        "object": "Episode 2594"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/last",
+        "object": "Episode 303"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/last",
+        "object": "Episode 335"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/last",
+        "object": "Episode 423"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Gangster"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "General practitioner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Shopkeeper"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Pub landlady"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Potman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Art gallery worker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/series",
+        "object": "EastEnders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/years",
+        "object": "1986"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "The following is a list of characters that first appeared in the BBC soap opera EastEnders in 1986, by order of first appearance. All characters were introduced by the show's co-creator Julia Smith. The first character to be introduced during the year is (Dave Dale), a drag queen hired for The Queen Victoria pub. (Jane How), the long-term mistress of Den Watts (Leslie Grantham), was introduced in January. March sees the first appearances of The Firm mobster (Jonathan Stratt), Dot Cotton's (June Brown) husband Charlie Cotton (Christopher Hancock) and new brewery area manager (William Boyde). The newborn daughter of Michelle Fowler (Susan Tully), (Emma Herry), was introduced in May. Judith Jacob and Pam St. Clement made their debuts as health visitor and Pat Butcher, the former wife of Pete Beale (Peter Dean), in June. June also sees the beginning of a new storyline, The Banned, which introduces (Gareth Potter), (Josephine Melville) and (Simon Henderson). (Katherine Parr), the aunt of Lofty Holloway (Tom Watt), begins appearing from July. Michael Cashman and Donald Tandy joined the cast as middle-class yuppie and army war veteran respectively in August. New general practitioner (Amerjit Deu) and (Gary Hailes), a love interest for Colin, make their first appearances in November. (Tanveer Ghani), the cousin of Naima Jeffery (Shreela Ghosh), is introduced in December. Additionally, multiple appear throughout the year."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Sobaldr\u00e1ma Briotanach is ea EastEnders. Is liosta na gcarachtar \u00e9 seo, a th\u00e1inig ar an gcl\u00e1r den ch\u00e9ad uair sa bhliain 1986:"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/cousins",
+        "object": "http://dbpedia.org/resource/Naima_Jeffery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/husband",
+        "object": "[[#Dario Chimisso"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/nephews",
+        "object": "http://dbpedia.org/resource/Lofty_Holloway"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/portrayer",
+        "object": "http://dbpedia.org/resource/Donald_Tandy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/portrayer",
+        "object": "http://dbpedia.org/resource/Katherine_Parr_(actress)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/portrayer",
+        "object": "http://dbpedia.org/resource/Jane_How"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/portrayer",
+        "object": "http://dbpedia.org/resource/Tanveer_Ghani"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/portrayer",
+        "object": "http://dbpedia.org/resource/Jonathan_Stratt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/portrayer",
+        "object": "http://dbpedia.org/resource/Amerjit_Deu"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/property/portrayer",
+        "object": "http://dbpedia.org/resource/Dave_Dale"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/portrayer",
+        "object": "http://dbpedia.org/resource/Dave_Dale"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/televisionSeries",
+        "object": "http://dbpedia.org/resource/EastEnders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/List"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/firstAppearance",
+        "object": "Episode 98"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/List_of_EastEnders_characters_(1986)?oldid=1117622522&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "62317"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/classification",
+        "object": "Former; guest"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/List_of_EastEnders_characters_(1986)>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/List_of_EastEnders_characters_(1986)"
+    }
+]

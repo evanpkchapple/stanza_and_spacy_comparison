@@ -1,0 +1,652 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBrandeisUniversityAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHebrewUnionCollegeAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Eric Yoffie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Eric H. Yoffie is a Reform rabbi, and President Emeritus of the Union for Reform Judaism (URJ), the congregational arm of the Reform movement in North America, which represents an estimated 1.5 million Reform Jews in more than 900 synagogues across the United States and Canada. He was the unchallenged head of American Judaism's largest denomination from 1996 to 2012. Following his retirement in 2012, he has been a lecturer and writer; his writings appear regularly in The Huffington Post, The Jerusalem Post, and Haaretz."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Eric Yoffie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Eric Yoffie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "United States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Massachusetts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1940s_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_Union_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Durham,_North_Carolina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Brandeis_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Worcester,_Massachusetts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Lynbrook,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Westfield,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "4044935"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1113970371"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Massachusetts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Same-sex_marriage"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brandeis_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Huffington_Post"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonathan_Sarna"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Schindler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reuven_Rivlin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Culture_war"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1940s_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chief_Rabbinate_of_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moshe_Katsav"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Million_Mom_March"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liberty_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stanford_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_Union_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Durham,_North_Carolina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Westfield,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Durham,_NC"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Evangelical_Lutheran_Church_in_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Park51"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Islamic_Society_of_North_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Separation_of_church_and_state"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Jacobs_(rabbi)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gun_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haaretz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Islam_in_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Temple_Emanuel_Sinai_(Worcester,_Massachusetts)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Huffington_Post"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Jerusalem_Post"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Jewish_Daily_Forward"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Atheism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brandeis_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Worcester,_Massachusetts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Lynbrook,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Westfield,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerry_Falwell"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_Judaism_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_of_Reform_Zionists_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newsweek"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christian_right"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Worcester,_Massachusetts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scarsdale,_NY"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Union_for_Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lynbrook,_NY"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Interfaith_relations"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbinical_ordination"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sacred_Choices"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://ericyoffie.com/bio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.reformjudaismmag.net/rjmag-90s/996ey.html"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20120509055626/http:/reformjudaismmag.org/Articles/index.cfm%3Fid=2989"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0bf6zf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/63065931"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Eric_Yoffie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.europa.eu/euodp/jrc-names/Eric_Yoffie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1174389400"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q5387801"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0627\u0631\u064a\u0643_\u064a\u0648\u0641\u0649"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4jSY2"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1947"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Eric H. Yoffie is a Reform rabbi, and President Emeritus of the Union for Reform Judaism (URJ), the congregational arm of the Reform movement in North America, which represents an estimated 1.5 million Reform Jews in more than 900 synagogues across the United States and Canada. He was the unchallenged head of American Judaism's largest denomination from 1996 to 2012. Following his retirement in 2012, he has been a lecturer and writer; his writings appear regularly in The Huffington Post, The Jerusalem Post, and Haaretz."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/63065931"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Eric_Yoffie?oldid=1113970371&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "14452"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1947"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Eric_Yoffie__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eric_Yoffie>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Eric_Yoffie"
+    }
+]

@@ -1,0 +1,512 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Crystal Methyd"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Crystal Methyd (born 16 April 1991) is the stage name of Cody D. Harness, an American drag performer who competed on the twelfth season of RuPaul's Drag Race. Her name refers to crystal meth."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Crystal Methyd"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Crystal Methyd"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52073261823)_(cropped_-_Crystal_Methyd).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/San_Jose,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "San Jose, California, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1991-04-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_culture_in_Missouri"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_San_Jose,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Missouri_State_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1990s_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Mexican_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Springfield,_Missouri"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "62908077"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1121604546"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_12)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Jose,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Houston_Chronicle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jujubee_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Eagle_Scouts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gigi_Goode"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Missouri_State_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_culture_in_Missouri"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madonna:_The_Unauthorized_Rusical"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_San_Jose,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooke_Candy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bustle_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Missouri_State_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lip_sync"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_(clothing)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eagle_Scout_(Boy_Scouts_of_America)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Missouri_State_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jaida_Essence_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/South_Florida_Gay_News"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1990s_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Mexican_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Springfield,_Missouri"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Advocate_(LGBT_magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Springfield,_Missouri"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/I'm_Like_a_Bird"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Iggy_Azalea"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Methamphetamine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nelly_Furtado"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/One_Direction"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Screen_Rant"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bring_Back_My_Ghouls"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://crystalmethyd.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q96180066"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/C1PCq"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:'s"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:URL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52073261823)_(cropped_-_Crystal_Methyd).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/Missouri_State_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1991-04-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Cody D. Harness"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Crystal Methyd at RuPaul's DragCon LA, 2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2015"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Crystal Methyd (born 16 April 1991) is the stage name of Cody D. Harness, an American drag performer who competed on the twelfth season of RuPaul's Drag Race. Her name refers to crystal meth."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Crystal_Methyd?oldid=1121604546&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "20691"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2015"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Cody D. Harness"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1991"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/Missouri_State_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Crystal_Methyd__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Crystal_Methyd>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Crystal_Methyd"
+    }
+]

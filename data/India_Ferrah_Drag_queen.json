@@ -1,0 +1,632 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "India Ferrah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "India Ferrah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "India Ferrah, nombre art\u00edstico de Shane Richardson, es un drag queen y dise\u00f1ador de vestuario estadounidense m\u00e1s conocido por competir en la temporada 3 de RuPaul's Drag Race. Richardson se crio en Roanoke (Virginia), sali\u00f3 del armario como gay y empez\u00f3 a actuar como drag queen con el nombre de India Ferrah durante su adolescencia. M\u00e1s tarde vivi\u00f3 en Dayton (Ohio), y act\u00faa regularmente en Las Vegas. India Ferrah compiti\u00f3 en la quinta temporada de RuPaul's Drag Race: All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "India Ferrah is the stage name of Shane Richardson, an American drag queen and costume designer best known for competing on the third season of RuPaul's Drag Race. Richardson was raised in Roanoke, Virginia, and came out as gay and started performing in drag as India Ferrah during his teens. He later lived in Dayton, Ohio, and performs regularly in Las Vegas. India Ferrah competed on the fifth season of RuPaul's Drag Race All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "India Ferrah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "India Ferrah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dragcon2-SAT-42_(47937170937).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/India_Ferrah_at_RuPaul's_Dragcon_2017_by_dvsross.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rupaul_Dragcon_2018-68_(28203492128).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Roanoke,_Virginia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Roanoke,_Virginia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Entertainers_from_Nevada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Entertainers_from_Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Entertainers_from_Virginia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Roanoke,_Virginia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_costume_designers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Virginia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Dayton,_Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Las_Vegas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Nevada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1980s_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "63902087"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1121578062"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queerty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_11)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_5)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_Live!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Entertainers_from_Nevada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Entertainers_from_Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Entertainers_from_Virginia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_costume_designers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dayton,_Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roanoke,_Virginia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Instinct_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Entertainment_Weekly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thelma_Houston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mimi_Imfurst"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Logo_TV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yvie_Oddly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Roanoke,_Virginia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_costume_designers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Virginia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Dayton,_Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thrillist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Las_Vegas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_(clothing)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Flamingo_Las_Vegas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Nevada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kahanna_Montrese"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Costume_designer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Guardian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1980s_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Las_Vegas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Don't_Leave_Me_This_Way"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philadelphia_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/IMDb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mic.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Dragcon2-SAT-42_(47937170937).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:India_Ferrah_at_RuPaul's_Dragcon_2017_by_dvsross.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.newnownext.com/sashay-away-%E2%80%93-rupaul's-drag-race-exit-interview-week-4-stormy-weather/02/2011/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.logotv.com/video-clips/4c8fuw/rupauls-drag-race-india-ferrah-rupaul-s-drag-race-season-3-contestant"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://worldofwonder.net/rupauls-dragcon-2016-meet-india-ferrah/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.imdb.com/name/nm4246859/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q64157975"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/India_Ferrah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/9Km3H"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:'s"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Good_article"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/A"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rupaul_Dragcon_2018-68_(28203492128).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Shane Richardson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "India Ferrah at RuPaul's DragCon LA, 2018"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "costume designer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race All Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "India Ferrah, nombre art\u00edstico de Shane Richardson, es un drag queen y dise\u00f1ador de vestuario estadounidense m\u00e1s conocido por competir en la temporada 3 de RuPaul's Drag Race. Richardson se crio en Roanoke (Virginia), sali\u00f3 del armario como gay y empez\u00f3 a actuar como drag queen con el nombre de India Ferrah durante su adolescencia. M\u00e1s tarde vivi\u00f3 en Dayton (Ohio), y act\u00faa regularmente en Las Vegas. India Ferrah compiti\u00f3 en la quinta temporada de RuPaul's Drag Race: All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "India Ferrah is the stage name of Shane Richardson, an American drag queen and costume designer best known for competing on the third season of RuPaul's Drag Race. Richardson was raised in Roanoke, Virginia, and came out as gay and started performing in drag as India Ferrah during his teens. He later lived in Dayton, Ohio, and performs regularly in Las Vegas. India Ferrah competed on the fifth season of RuPaul's Drag Race All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/India_Ferrah?oldid=1121578062&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "21151"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Shane Richardson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Costume_designer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/India_Ferrah__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/India_Ferrah>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/India_Ferrah"
+    }
+]

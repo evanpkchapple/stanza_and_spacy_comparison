@@ -1,0 +1,377 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Herbert Baumgard"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Herbert Mark Baumgard (August 3, 1920 \u2013 April 15, 2016) was the founding Rabbi of Temple Beth Am and was one of the leading interpreters of Liberal Judaism. Named in his honor after his passing are \"The Rabbi Herbert Baumgard Learning Hub\" in the Green Library at Florida International University and \"Rabbi Baumgard Road,\" which runs in front of the temple in which he founded."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Herbert Baumgard"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Herbert Baumgard"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Herbert_Baumgard.png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_and_Selma_Baumgard_with_Eleanor_Roosevelt_.png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Norfolk,_Virginia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Norfolk, Virginia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2016-04-15"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Norfolk,_Virginia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1920-08-03"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1920_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_military_personnel_of_World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Norfolk,_Virginia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2016_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "63907640"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1122163257"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Virginia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_Law_School"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elmont,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mordecai_Kaplan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Samuel_Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1920_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_military_personnel_of_World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Norfolk,_Virginia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alpha_Epsilon_Pi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Florida_International_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norfolk,_Virginia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2016_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College-Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pinecrest,_Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pope_John_Paul_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Rabbi_and_Selma_Baumgard_with_Eleanor_Roosevelt_.png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q96282616"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/C4vdq"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Clear"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Orphan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Herbert_Baumgard.png?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1920-08-03"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Herbert Mark Baumgard"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "2016-04-15"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, Author"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Selma Geller"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Herbert Mark Baumgard (August 3, 1920 \u2013 April 15, 2016) was the founding Rabbi of Temple Beth Am and was one of the leading interpreters of Liberal Judaism. Named in his honor after his passing are \"The Rabbi Herbert Baumgard Learning Hub\" in the Green Library at Florida International University and \"Rabbi Baumgard Road,\" which runs in front of the temple in which he founded."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Herbert_Baumgard?oldid=1122163257&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "6140"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Herbert Mark Baumgard"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1920"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "2016"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Herbert_Baumgard__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Baumgard>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Herbert_Baumgard"
+    }
+]

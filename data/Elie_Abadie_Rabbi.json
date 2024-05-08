@@ -1,0 +1,552 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Elie Abadie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Elie Abadie (Arabic: \u0627\u064a\u0644\u064a \u0639\u0628\u0627\u062f\u064a) is the Senior Rabbi of the Jewish Council of the Emirates in the United Arab Emirates. Abadie is also the former Director of the Jacob E. Safra Institute of Sephardic Studies at Yeshiva University, with an area of interest on the topics of Sephardic Judaism, history, philosophy, and comparative traditional law. He is a member of the board of the American Sephardi Federation and the World Sephardic Educational Center, and co-president of Justice for Jews from Arab Countries. He is a former member of the Board and an Officer of the Rabbinical Council of America (RCA), the Treasurer/Vice-president of the New York Board of Rabbis, and co-chair of the Sadat Congressional Gold Medal Committee."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Elie Abadie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Elie Abadie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Beirut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Lebanon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Beirut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Lebanon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Emirati_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1960_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Beirut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gastroenterologists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Order_of_Civil_Merit_members"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Sephardi_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "68327978"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1109421905"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Provence"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Emirati_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beirut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Houthi_movement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jordan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biblical_studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Arab_Emirates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Internal_medicine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Levi_Duchman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1960_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SUNY_Downstate_Medical_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gastroenterology"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sephardic_law_and_customs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greece"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Congregation_Beit_Edmond"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crimes_against_humanity"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yehuda_Sarna"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1947\u20131949_Palestine_war"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arabic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Revel_Graduate_School_of_Jewish_Studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Balkans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Beirut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Turkey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Council_of_the_Emirates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_philosophy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Justice_for_Jews_from_Arab_Countries"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abraham_Accords"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abu_Dhabi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aleppo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Sephardi_Federation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dubai"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edmond_J._Safra_Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Expulsion_of_Jews_from_Spain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gastroenterologists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palestine_Liberation_Organization"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_the_Jews_in_the_United_Arab_Emirates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbinical_Council_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Order_of_Civil_Merit_members"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Sephardi_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lebanon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Syria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sefer_Torah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zionist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mexico_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Order_of_Civil_Merit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi_Isaac_Elchanan_Theological_Seminary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sephardic_Academy_of_Manhattan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_Zionist_Organization"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yemenite_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maimonides_Medical_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_Board_of_Rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Health_Sciences"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gastroenterologist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q107650149"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/Fpe3Z"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Twitter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_British_English"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1960"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/property/honorificPrefix",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Gastroenterologist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Elise Eichler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Elie Abadie (Arabic: \u0627\u064a\u0644\u064a \u0639\u0628\u0627\u062f\u064a) is the Senior Rabbi of the Jewish Council of the Emirates in the United Arab Emirates. Abadie is also the former Director of the Jacob E. Safra Institute of Sephardic Studies at Yeshiva University, with an area of interest on the topics of Sephardic Judaism, history, philosophy, and comparative traditional law. He is a member of the board of the American Sephardi Federation and the World Sephardic Educational Center, and co-president of Justice for Jews from Arab Countries. He is a former member of the Board and an Officer of the Rabbinical Council of America (RCA), the Treasurer/Vice-president of the New York Board of Rabbis, and co-chair of the Sadat Congressional Gold Medal Committee."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Elie_Abadie?oldid=1109421905&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "13344"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1960"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Elie_Abadie__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Gastroenterologist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elie_Abadie>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Elie_Abadie"
+    }
+]

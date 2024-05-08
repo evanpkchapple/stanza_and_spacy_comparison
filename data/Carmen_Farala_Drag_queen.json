@@ -1,0 +1,422 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Carmen Farala"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Carmen Farala"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Carmen Farala"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Carmen Farala (born November 3, 1990) is the stage name of Daniel Mora, a Spanish drag performer best known for winning the first season of Drag Race Espa\u00f1a."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Carmen Farala (Sevilla, 4 de novembre de 1989) \u00e9s el nom art\u00edstic de Daniel Mora Rojas, la primera guanyadora de Drag Race Espanya, el concurs televisiu que busca coronar a la superestrella de Drag espanyola i em\u00e8s a la plataforma Atresplayer. \u00c9s franqu\u00edcia de Rupaul's Drag Race, programa americ\u00e0 de gran \u00e8xit."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Carmen Farala, nombre art\u00edstico de Daniel Mora (Sevilla, 4 de noviembre de 1989), es una drag queen espa\u00f1ola. Es conocida por haber obtenido el t\u00edtulo de Superestrella Drag de Espa\u00f1a en el concurso televisivo Drag Race Espa\u00f1a, franquicia espa\u00f1ola de RuPaul's Drag Race.\u200b\u200b\u200b En 2017 Las Hermanas Farala publicaron el sencillo \u00abIf I don\u00b4t have you\u00bb, cuyo videoclip fue dirigido por Salva Must\u00e9.\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Carmen Farala"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Carmen Farala"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Carmen_Farala_at_DragCon_2022.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Andalusia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Seville"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Seville, Andalusia, Spain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1990-11-03"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1990_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Seville"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Madrid"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Drag_Race_Espa\u00f1a_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Spanish_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "67504936"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1119124419"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madrid"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andalusia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1990_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Race_Espa\u00f1a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Race_Espa\u00f1a_(season_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Race_Espa\u00f1a_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Great_British_Sewing_Bee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Seville"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Madrid"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Drag_Race_Espa\u00f1a_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Spanish_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Seville"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sharonne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GQ_Espa\u00f1a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q107646994"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ca.dbpedia.org/resource/Carmen_Farala"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Carmen_Farala"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/Fq68z"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Instagram"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Drag_Race_Espa\u00f1a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Spain-stub"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Refh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Carmen_Farala_at_DragCon_2022.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1990-11-03"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Daniel Mora"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Carmen Farala in May 2022 at RuPaul's DragCon LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "Spanish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "Drag Race Espa\u00f1a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Carmen Farala (Sevilla, 4 de novembre de 1989) \u00e9s el nom art\u00edstic de Daniel Mora Rojas, la primera guanyadora de Drag Race Espanya, el concurs televisiu que busca coronar a la superestrella de Drag espanyola i em\u00e8s a la plataforma Atresplayer. \u00c9s franqu\u00edcia de Rupaul's Drag Race, programa americ\u00e0 de gran \u00e8xit. Daniel explica que el seu nom art\u00edstic el va formar a partir del nom \"Carmen\", \"un dels noms de dona per excel\u00b7l\u00e8ncia\" -segons ell. La part \"Farala\" la va comen\u00e7ar a emprar puix la major part dels seus dissenys regionals portaven volants de tela. A m\u00e9s, \"Farala\" era un perfum que es venia als anys 80 i 90, el qual va ser for\u00e7a significatiu i popular entre els adolescents; aix\u00ed doncs, va ser el primer perfum de moltes dones."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Carmen Farala (born November 3, 1990) is the stage name of Daniel Mora, a Spanish drag performer best known for winning the first season of Drag Race Espa\u00f1a."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Carmen Farala, nombre art\u00edstico de Daniel Mora (Sevilla, 4 de noviembre de 1989), es una drag queen espa\u00f1ola. Es conocida por haber obtenido el t\u00edtulo de Superestrella Drag de Espa\u00f1a en el concurso televisivo Drag Race Espa\u00f1a, franquicia espa\u00f1ola de RuPaul's Drag Race.\u200b\u200b\u200b Carmen Farala, quien reside en Madrid y tiene una carrera de m\u00e1s de 12 a\u00f1os en el mundo del espect\u00e1culo,\u200b forma parte del tr\u00edo Las Hermanas Farala, junto a B\u00e1rbara y Vera.\u200b Su nombre art\u00edstico proviene de los volantes o faralaes de los trajes de flamenca, t\u00edpicos de Andaluc\u00eda, regi\u00f3n espa\u00f1ola de d\u00f3nde Mora es originario. Tambi\u00e9n se considera un gui\u00f1o a un famoso anuncio publicitario televisivo de finales de los a\u00f1os 1980 de la colonia Farala.\u200b\u200b En 2017 Las Hermanas Farala publicaron el sencillo \u00abIf I don\u00b4t have you\u00bb, cuyo videoclip fue dirigido por Salva Must\u00e9.\u200b En 2022 dise\u00f1\u00f3 los vestuarios para la cantante Chanel que utiliz\u00f3 en la semifinal y la final del Benidorm Fest.\u200b Adem\u00e1s, en agosto del mismo a\u00f1o public\u00f3 su primer sencillo en solitario, \u00abPantera\u00bb, compuesto por Leroy Sanchez y con un videoclip dirigido tambi\u00e9n por Salva Must\u00e9. \u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Carmen_Farala?oldid=1119124419&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "6830"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Daniel Mora"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1990"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Carmen_Farala__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Carmen_Farala>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Carmen_Farala"
+    }
+]

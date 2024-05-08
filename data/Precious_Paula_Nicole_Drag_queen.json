@@ -1,0 +1,332 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Precious Paula Nicole"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Precious Paula Nicole"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Precious Paula Nicole (born July 1, 1986) is the stage name of Rodolfo Hontiveros Gabriel II, a Filipino drag performer. She is best known for winning the inaugural season of Drag Race Philippines. She performs at O Bar and has impersonated Beyonc\u00e9, Mariah Carey, and Regine Velasquez. She is slated to appear at RuPaul's DragCon UK in 2023."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Precious Paula Nicole"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Precious Paula Nicole"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1986-07-01"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Drag_Race_Philippines"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Bisexual_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1986_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Filipino_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Drag_Race_(franchise)_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "71395167"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123159938"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beyonc\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bisexuality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Regine_Velasquez"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Drag_Race_Philippines"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Bisexual_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1986_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_(clothing)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Race_Philippines"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Race_Philippines_(season_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Filipino_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Drag_Race_(franchise)_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mariah_Carey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Race_Philippines:_Untucked!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q114827915"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Precious_Paula_Nicole"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/GhFAd"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Lgbt-bio-stub"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Drag_Race_Philippines"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1986-07-01"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Rodolfo Hontiveros Gabriel II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "Filpino"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "Drag Race Philippines"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Precious Paula Nicole (born July 1, 1986) is the stage name of Rodolfo Hontiveros Gabriel II, a Filipino drag performer. She is best known for winning the inaugural season of Drag Race Philippines. She performs at O Bar and has impersonated Beyonc\u00e9, Mariah Carey, and Regine Velasquez. She is slated to appear at RuPaul's DragCon UK in 2023."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Precious_Paula_Nicole?oldid=1123159938&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "3902"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Rodolfo Hontiveros Gabriel II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1986"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Precious_Paula_Nicole__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Precious_Paula_Nicole>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Precious_Paula_Nicole"
+    }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Gigi Goode"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Gigi Goode"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Gigi Goode"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Gigi Goode"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Gigi Geggie (Woodstock, Illinois, 2 de desembre de 1997), amb el nom art\u00edstic de Gigi Goode, \u00e9s una drag queen dels Estats Units i personalitat de televisi\u00f3 coneguda per haver quedat en segona posici\u00f3 a la dotzena temporada del programa de talents estatunidenc RuPaul\u2019s Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Gigi Goode (* 2. Dezember 1997 in Woodstock, b\u00fcrgerlich Gigi Geggie) ist eine US-amerikanische Dragqueen. Sie wurde vor allem als Kandidatin der zw\u00f6lften Staffel von RuPaul\u2019s Drag Race bekannt, bei der sie den zweiten Platz belegte. F\u00fcr ihre Teilnahme erhielt Goode im November 2020 einen People\u2019s Choice Award als Beliebteste Kandidatin einer Wettbewerbs-Fernsehsendung."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Gigi Goode (born December 2, 1997) is an American drag queen and reality television personality known for being a runner-up on the twelfth season of the drag competition series RuPaul's Drag Race. Following her appearance on Drag Race, Goode was cast in the Drive 'N Drag concert series, appeared in multiple music videos, and participated in a Savage X Fenty fashion show. In 2020, she received a People's Choice Award in the Competition Contestant category. Originally from Woodstock, Illinois, Goode attended Millikin University and, as of 2020, lives in Los Angeles."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Gigi Geggie, plus connue sous le nom de sc\u00e8ne Gigi Goode, est une drag queen am\u00e9ricaine principalement connue pour avoir particip\u00e9 \u00e0 la douzi\u00e8me saison de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Gigi Goode"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Gigi Goode"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52073260946).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dragcon2-SAT-118_(47937166787)_(cropped).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Woodstock,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Woodstock, Illinois, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1997-12-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Millikin_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Scandinavian_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Woodstock,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1997_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Scottish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Transgender_non-binary_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Transgender_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "62908095"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123136074"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_12)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sam_Smith"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Savage_X_Fenty_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Decatur,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Demi_Lovato"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Millikin_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Scandinavian_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Woodstock,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/People's_Choice_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Valentina_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vogue_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_people_with_non-binary_gender_identities"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1997_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chester_Lockhart"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Genderfluid"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Generation_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_culture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madonna:_The_Unauthorized_Rusical"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halloween"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Scottish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Transgender_non-binary_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/COVID-19_pandemic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transgender"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drive_'N_Drag"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/46th_People's_Choice_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amazon_Prime_Video"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Transgender_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_(clothing)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Feminizing_hormone_therapy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Non-binary_gender"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jaida_Essence_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snatch_Game"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jezebel_(website)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/I'm_Ready_(Sam_Smith_and_Demi_Lovato_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/IMDb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/I_Put_a_Spell_on_You"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Instagram"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Millikin_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/She/her"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shea_Coule\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Woodstock,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Woodstock_High_School_(Illinois)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_video"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sophia_(robot)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Savage_X_Fenty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Facial_feminization_surgery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bring_Back_My_Ghouls"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:RuPaul_DragCon_2022_(52073260946).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.imdb.com/name/nm11425377/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q95995934"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ca.dbpedia.org/resource/Gigi_Goode"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Gigi_Goode"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Gigi_Goode"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/C8FPy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:'s"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Good_article"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:YouTube"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dragcon2-SAT-118_(47937166787)_(cropped).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/Millikin_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1997-12-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Gigi Goode in 2019"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/id",
+        "object": "vbAOL2PMgwI"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/title",
+        "object": "Meet Gigi Goode: 'The Life Size Doll' \u2013 RuPaul's Drag Race Season 12"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Gigi Geggie (Woodstock, Illinois, 2 de desembre de 1997), amb el nom art\u00edstic de Gigi Goode, \u00e9s una drag queen dels Estats Units i personalitat de televisi\u00f3 coneguda per haver quedat en segona posici\u00f3 a la dotzena temporada del programa de talents estatunidenc RuPaul\u2019s Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Gigi Goode (* 2. Dezember 1997 in Woodstock, b\u00fcrgerlich Gigi Geggie) ist eine US-amerikanische Dragqueen. Sie wurde vor allem als Kandidatin der zw\u00f6lften Staffel von RuPaul\u2019s Drag Race bekannt, bei der sie den zweiten Platz belegte. F\u00fcr ihre Teilnahme erhielt Goode im November 2020 einen People\u2019s Choice Award als Beliebteste Kandidatin einer Wettbewerbs-Fernsehsendung."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Gigi Goode (born December 2, 1997) is an American drag queen and reality television personality known for being a runner-up on the twelfth season of the drag competition series RuPaul's Drag Race. Following her appearance on Drag Race, Goode was cast in the Drive 'N Drag concert series, appeared in multiple music videos, and participated in a Savage X Fenty fashion show. In 2020, she received a People's Choice Award in the Competition Contestant category. Originally from Woodstock, Illinois, Goode attended Millikin University and, as of 2020, lives in Los Angeles."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Gigi Geggie, plus connue sous le nom de sc\u00e8ne Gigi Goode, est une drag queen am\u00e9ricaine principalement connue pour avoir particip\u00e9 \u00e0 la douzi\u00e8me saison de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Gigi_Goode?oldid=1123136074&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "25927"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1997"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Gigi_Goode__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gigi_Goode>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Gigi_Goode"
+    }
+]

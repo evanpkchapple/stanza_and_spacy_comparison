@@ -1,0 +1,497 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "River Medway (drag queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Dexter Clift (born 8 April 1998), known professionally as River Medway, is an English drag queen who is best known for competing on the third series of RuPaul's Drag Race UK in 2021."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "River Medway"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "River Medway"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Kent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Kent, England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1998-04-08"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1998_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_UK_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Medway"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "68505291"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1124740833"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK_(series_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brighton_Centre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Derby_Arena"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pavilion_Theatre_(Bournemouth)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/River_Medway"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Usher_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venue_Cymru"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victoria_Scone"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mayflower_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Medway"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SEC_Armadillo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Theatre_Oxford"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Globe_Theatre,_Stockton-on-Tees"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Fletcher_Waghorn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liverpool_Empire_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_Palladium"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manchester_Opera_House"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shout_(Isley_Brothers_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cliffs_Pavilion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_Hall_Aberdeen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1998_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_UK_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bristol_Hippodrome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/COVID-19"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willam_Belli"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Race_(franchise)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Regent_Theatre,_Ipswich"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Convention_Centre_Wales"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Anvil,_Basingstoke"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snatch_Game"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cheryl_Hole"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Choriza_May"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Symphony_Hall,_Birmingham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plymouth_Pavilions"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portsmouth_Guildhall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St_David's_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St_George's_Hall,_Bradford"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newcastle_City_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Opera_House_Theatre,_Blackpool"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Medway"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sheffield_City_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nottingham_Royal_Concert_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q114434585"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/GkEXV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:TBA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_British_English"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1998-04-08"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Dexter Clift"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "Millennium Performing Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Dexter Clift (born 8 April 1998), known professionally as River Medway, is an English drag queen who is best known for competing on the third series of RuPaul's Drag Race UK in 2021."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/River_Medway_(drag_queen)?oldid=1124740833&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "9257"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Dexter Clift"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1998"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/River_Medway_(drag_queen)__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/River_Medway_(drag_queen)>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/River_Medway_(drag_queen)"
+    }
+]

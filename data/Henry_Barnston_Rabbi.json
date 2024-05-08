@@ -1,0 +1,707 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Henry Barnston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Henry Barnston (August 23, 1868 \u2013 December 11, 1949) was a British-born Jewish-American rabbi."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Henry Barston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Henry Barston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Dover"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Houston,_TX"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Houston,_TX"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1949-12-11"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Dover"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1868-08-23"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Clergy_from_Houston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Contributors_to_the_Jewish_Encyclopedia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Anti-Zionist_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1868_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1949_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_of_London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Houston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_Jewish_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Heidelberg_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_English_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_English-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Burials_in_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Schoolteachers_from_London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Dover,_Kent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "70872073"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123458345"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Council_for_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queen_Victoria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rotary_International"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Memorial_Hermann_Health_System"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Houston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judith_Lady_Montefiore_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rice_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Clergy_from_Houston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Union_Temple_of_Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Louisiana_System"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Jewish_Chronicle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Congregation_Beth_Israel_(Houston)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christ_Church_Cathedral_(Houston)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Contributors_to_the_Jewish_Encyclopedia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moses_Gaster"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Fine_Arts,_Houston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Anti-Zionist_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emil_Friedrich_Kautzsch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public_Library_Association"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Targum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Houston,_TX"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/B'nai_B'rith"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1868_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1949_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_University_of_London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Houston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_Jewish_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Heidelberg_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tulane_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_McKinley"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Chautauqua_Society"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_School_Board"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_English_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Central_Conference_of_American_Rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gustaf_Dalman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College_\u2013_Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heidelberg_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_American_Hebrew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Jewish_Encyclopedia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_English-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Burials_in_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Schoolteachers_from_London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Dover,_Kent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kensington"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dover"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Planned_Parenthood"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Southeastern_Louisiana_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Southwestern_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St_Augustine's_Church_of_England_High_School"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ku_Klux_Klan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Conference_for_Community_and_Justice"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ramsgate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_I"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Heidelberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Jewish_Quarterly_Review"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Menorah_Journal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/116059273"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/79385590"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q95250276"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/9kGVC"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Flagicon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/University_of_Heidelberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1868-08-23"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Henry Barnstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/property/burialPlace",
+        "object": "Beth Isreal Mausoleum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1949-12-11"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Interfaith work throughout Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "English"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "1897"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Henry Barnston (August 23, 1868 \u2013 December 11, 1949) was a British-born Jewish-American rabbi."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Henry_Barnston?oldid=1123458345&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "7898"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsEndYear",
+        "object": "1943"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "1897"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Henry Barnstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1868"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1949"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/University_of_Heidelberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Henry_Barnston__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Henry_Barnston>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Henry_Barnston"
+    }
+]

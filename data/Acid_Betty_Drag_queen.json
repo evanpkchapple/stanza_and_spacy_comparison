@@ -1,0 +1,562 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Acid Betty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Acid Betty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jamin Ruhren (born December 10, 1977), better known by the stage name Acid Betty, is an American drag queen, performer, actor and singer. He rose to national prominence after competing on the eighth season of RuPaul's Drag Race in 2016."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jamin Ruhren\u200b (nacido el 10 de diciembre de 1977), m\u00e1s conocido por el nombre art\u00edstico de Acid Betty, es una drag queen, int\u00e9rprete, actor y cantante estadounidense. Salt\u00f3 a la fama nacional despu\u00e9s de competir en la octava temporada de RuPaul's Drag Race en 2016."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Acid Betty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Acid Betty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Acid_Betty_at_RuPaul's_Dragcon_2017_by_dvsross_(2).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dragcon2-SAT-50_(47937170542)_(cropped).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Brooklyn,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Brooklyn,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1977-12-10"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1977_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_male_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Singers_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "49168535"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1114786850"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Project_Runway_(season_5)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_8)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bianca_Del_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_the_Drag_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peppermint_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Path_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_culture_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mimi_Imfurst"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lincoln_Center_for_the_Performing_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madonna_(entertainer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raggedy_Ann"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drive-in"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lip_sync"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/An_Englishman_in_New_York_(film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1977_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Causing_a_Commotion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cazwell"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_LGBT_people_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snatch_Game"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Artists_from_Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_male_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Singers_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cheerleader"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Hurt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kim_Chi_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sutan_Amrull"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Discogs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Naomi_Smalls"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pompoms"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Acid_Betty_at_RuPaul's_Dragcon_2017_by_dvsross_(2).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.discogs.com/artist/6472227-Acid-Betty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q23901592"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Acid_Betty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2Fd57"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:URL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dragcon2-SAT-50_(47937170542)_(cropped).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1977-12-10"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Jamin Ruhren"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Acid Betty in 2019"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "performer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2006"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jamin Ruhren (born December 10, 1977), better known by the stage name Acid Betty, is an American drag queen, performer, actor and singer. He rose to national prominence after competing on the eighth season of RuPaul's Drag Race in 2016."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jamin Ruhren\u200b (nacido el 10 de diciembre de 1977), m\u00e1s conocido por el nombre art\u00edstico de Acid Betty, es una drag queen, int\u00e9rprete, actor y cantante estadounidense. Salt\u00f3 a la fama nacional despu\u00e9s de competir en la octava temporada de RuPaul's Drag Race en 2016."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Acid_Betty?oldid=1114786850&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "13793"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2006"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Jamin Ruhren"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1977"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Acid_Betty__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Acid_Betty>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Acid_Betty"
+    }
+]

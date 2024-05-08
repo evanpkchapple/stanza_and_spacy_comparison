@@ -1,0 +1,427 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Anita Wigl'it"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Nick Kennedy-Hall (born 10 July 1989), better known by the stage name Anita Wigl'it, is an English-New Zealand drag performer best known for hosting House of Drag from 2018 to 2020, and competing on the first season of RuPaul's Drag Race Down Under in 2021. She competed in Canada's Drag Race: Canada vs. the World in 2022."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Anita Wigl'it"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Anita Wigl'it"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Somerset"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Yeovil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Yeovil, Somerset, England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1989-07-10"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:New_Zealand_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_Down_Under_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_British_Columbia_School_of_Music_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Auckland_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1989_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "67018656"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123260140"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada's_Drag_Race:_Canada_vs._the_World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queen_Elizabeth_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Royal_New_Zealand_Navy_Band"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_Down_Under"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_Down_Under_(season_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:New_Zealand_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_Down_Under_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_British_Columbia_School_of_Music_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_of_Drag"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Auckland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vancouver,_British_Columbia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Auckland_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stage_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elektra_Shock"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1989_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karen_from_Finance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Have_You_Been_Paying_Attention%3F_(New_Zealand_game_show)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snatch_Game"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_Simone"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Auckland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Somerset"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kita_Mean"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeovil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Zealand_film_and_television_awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PopBuzz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q107271380"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/FsLtX"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nominated"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_Down_Under"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1989-07-10"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Nick Kennedy-Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race Down Under"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Canada's Drag Race: Canada vs. the World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "House of Drag"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Nick Kennedy-Hall (born 10 July 1989), better known by the stage name Anita Wigl'it, is an English-New Zealand drag performer best known for hosting House of Drag from 2018 to 2020, and competing on the first season of RuPaul's Drag Race Down Under in 2021. She competed in Canada's Drag Race: Canada vs. the World in 2022."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Anita_Wigl'it?oldid=1123260140&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "11461"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Nick Kennedy-Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1989"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/Canada's_Drag_Race:_Canada_vs._the_World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_Down_Under"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/House_of_Drag"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Anita_Wigl'it__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Anita_Wigl'it>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Anita_Wigl'it"
+    }
+]

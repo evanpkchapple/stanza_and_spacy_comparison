@@ -1,0 +1,907 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Comedian109940146"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Entertainer109616922"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/FilmDirector110088200"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/FilmMaker110088390"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Performer110415638"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Producer110480018"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliComedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliFilmDirectors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromTelAviv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Uri Zohar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Uri Zohar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Uri Zohar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Uri Zohar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0417\u043e\u0430\u0440, \u0423\u0440\u0438"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Uri Zohar (hebr\u00e4isch \u05d0\u05d5\u05e8\u05d9 \u05d6\u05d5\u05d4\u05e8; geboren am 6. November 1935 in Tel Aviv; gestorben am 2. Juni 2022 in Jerusalem) war ein israelischer Filmregisseur und Schauspieler. In den 1970er Jahren wechselte er Beruf und Lebensstil und wurde zu einem orthodoxen Rabbiner."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Uri Zohar, n\u00e9 le 4 novembre 1935 \u00e0 Tel-Aviv (Palestine mandataire) et mort le 2 juin 2022, est un acteur, un r\u00e9alisateur et un rabbin isra\u00e9lien."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Uri Zohar (Hebrew: \u05d0\u05d5\u05e8\u05d9 \u05d6\u05d5\u05d4\u05e8\u200e; 4 November 1935 \u2013 2 June 2022) was an Israeli film director, actor and comedian who left the entertainment world to become an Orthodox rabbi."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Uri Zohar (Tel Aviv, 4 de novembro de 1935\u2013 Jerusal\u00e9m, 2 de junho de 2022) fundou e dirige ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0423\u0440\u0438 \u0417\u043e\u0430\u0440 (\u0438\u0432\u0440. \u200f\u05d0\u05d5\u05e8\u05d9 \u05d6\u05d5\u05d4\u05e8\u200f\u200e, \u0444\u0430\u043c\u0438\u043b\u0438\u044f \u043f\u0440\u0438 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0438 \u0414\u0437\u044f\u0434\u0435\u043a, \u200f\u05d6'\u05d0\u05d3\u05e7\u200f\u200e; 4 \u043d\u043e\u044f\u0431\u0440\u044f 1935, \u0422\u0435\u043b\u044c-\u0410\u0432\u0438\u0432 \u2014 2 \u0438\u044e\u043d\u044f 2022, \u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c) \u2014 \u0438\u0437\u0440\u0430\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u0441\u0442\u0435\u043d\u0434\u0430\u043f\u0438\u0441\u0442, \u043a\u0438\u043d\u043e\u0430\u043a\u0442\u0451\u0440, \u043a\u0438\u043d\u043e\u0440\u0435\u0436\u0438\u0441\u0441\u0451\u0440 \u0438 \u0441\u0446\u0435\u043d\u0430\u0440\u0438\u0441\u0442. \u0417\u043e\u0430\u0440, \u0441\u043d\u044f\u0432\u0448\u0438\u0439 \u0440\u044f\u0434 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0445 \u043a\u0438\u043d\u043e\u043b\u0435\u043d\u0442 \u0418\u0437\u0440\u0430\u0438\u043b\u044f 1960-\u0445 \u0438 1970-\u0445 \u0433\u043e\u0434\u043e\u0432, \u0432 \u0434\u0430\u043b\u044c\u043d\u0435\u0439\u0448\u0435\u043c \u043e\u0431\u0440\u0430\u0442\u0438\u043b\u0441\u044f \u043a \u0438\u0443\u0434\u0430\u0438\u0437\u043c\u0443, \u0441\u0442\u0430\u0432 \u0440\u0430\u0432\u0432\u0438\u043d\u043e\u043c \u0438 \u043e\u0434\u043d\u0438\u043c \u0438\u0437 \u043e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 \u0443\u043b\u044c\u0442\u0440\u0430\u043e\u0440\u0442\u043e\u0434\u043e\u043a\u0441\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u044f \u041c\u0430\u0430\u043b\u0435-\u0410\u043c\u043e\u0441. \u0412 1976 \u0433\u043e\u0434\u0443 \u0417\u043e\u0430\u0440 \u043e\u0442\u043a\u043b\u043e\u043d\u0438\u043b \u043f\u0440\u0438\u0441\u0432\u043e\u0435\u043d\u0438\u0435 \u0435\u043c\u0443 \u041f\u0440\u0435\u043c\u0438\u0438 \u0418\u0437\u0440\u0430\u0438\u043b\u044f \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043a\u0438\u043d\u0435\u043c\u0430\u0442\u043e\u0433\u0440\u0430\u0444\u0430."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan_Hadani_collection_(990044418210205171).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/PikiWiki_Israel_29_1f1748e49853a979ef7132f6b140cc11.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/\u05d0\u05d5\u05e8\u05d9_\u05d6\u05d5\u05d4\u05e8,_\u05de\u05ea\u05d5\u05da_\u05d4\u05e1\u05e8\u05d8_\u05e7\u05d5\u05e8\u05d0\u05d9\u05dd_\u05dc\u05d9_\u05e9\u05de\u05d9\u05dc.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/\u05d0\u05d5\u05e8\u05d9_\u05d6\u05d5\u05d4\u05e8.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Mandatory_Palestine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Tel_Aviv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2022-06-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Mandatory_Palestine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Tel_Aviv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1935-11-04"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Film_people_from_Tel_Aviv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2022_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1935_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Israeli_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_University_of_Jerusalem_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Baalei_teshuva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_film_directors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_male_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Orthodox_Jewish_outreach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_Orthodox_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_male_film_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_people_of_Polish-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jews_in_Mandatory_Palestine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Male_actors_from_Tel_Aviv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_rabbis_in_Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "7043188"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1110044012"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Film_people_from_Tel_Aviv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2022_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Three_Days_and_a_Child"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1935_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1992_Israeli_legislative_election"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Israeli_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cinema_of_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cin\u00e9math\u00e8que_Fran\u00e7aise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Batzal_Yarok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ma'ale_Amos"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mandatory_Palestine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haredi_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_University_of_Jerusalem_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Baalei_teshuva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_film_directors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_male_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Orthodox_Jewish_outreach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Every_Bastard_a_King"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_University_of_Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel_Prize"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tel_Aviv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arik_Einstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_Orthodox_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_male_film_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_people_of_Polish-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jews_in_Mandatory_Palestine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Male_actors_from_Tel_Aviv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hole_in_the_Moon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yitzhak_Shlomo_Zilberman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_rabbis_in_Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilana_Rovina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Metzitzim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haredi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_the_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kippa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Hero_(1971_film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Big_Eyes_(1974_film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hitromamut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ha-Tarnegol"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:\u05d0\u05d5\u05e8\u05d9_\u05d6\u05d5\u05d4\u05e8.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hatzilu_Et_HaMatzil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:PikiWiki_Israel_29_1f1748e49853a979ef7132f6b140cc11.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:\u05d0\u05d5\u05e8\u05d9_\u05d6\u05d5\u05d4\u05e8,_\u05de\u05ea\u05d5\u05da_\u05d4\u05e1\u05e8\u05d8_\u05e7\u05d5\u05e8\u05d0\u05d9\u05dd_\u05dc\u05d9_\u05e9\u05de\u05d9\u05dc.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.shemayisrael.com/uri/%7CUri"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.israelnationalnews.com/tags/Uri_Zohar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.torahanytime.com/%23/speaker%3Fl=387"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20120517075729/http:/www.innernet.org.il/article.php%3Faid=566"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://mubi.com/notebook/posts/uri-zohar-the-inventor-of-modern-israeli-cinema"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0h1nqw"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/119393816"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Uri_Zohar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/34870434"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/e47fa35c-3078-4d15-9ec2-4c0c82451d52"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q2891446"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0627\u0631\u0649_\u0632\u0648\u0647\u0627\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Uri_Zohar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Uri_Zohar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05d0\u05d5\u05e8\u05d9_\u05d6\u05d5\u05d4\u05e8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pt.dbpedia.org/resource/Uri_Zohar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u0417\u043e\u0430\u0440,_\u0423\u0440\u0438"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://simple.dbpedia.org/resource/Uri_Zohar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://tr.dbpedia.org/resource/Uri_Zohar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://vo.dbpedia.org/resource/Uri_Zohar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yi.dbpedia.org/resource/\u05d0\u05d5\u05e8\u05d9_\u05d6\u05d5\u05d4\u05e8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2girp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Ill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Lrm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dan_Hadani_collection_(990044418210205171).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1935-11-04"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "1960.0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "2022-06-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/Hebrew_University_of_Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/notableWorks",
+        "object": "The Hero"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/notableWorks",
+        "object": "Hole in the Moon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/notableWorks",
+        "object": "Three Days and a Child"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, film director, comedian, writer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Eliya Zohar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "1956"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Uri Zohar (hebr\u00e4isch \u05d0\u05d5\u05e8\u05d9 \u05d6\u05d5\u05d4\u05e8; geboren am 6. November 1935 in Tel Aviv; gestorben am 2. Juni 2022 in Jerusalem) war ein israelischer Filmregisseur und Schauspieler. In den 1970er Jahren wechselte er Beruf und Lebensstil und wurde zu einem orthodoxen Rabbiner."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Uri Zohar, n\u00e9 le 4 novembre 1935 \u00e0 Tel-Aviv (Palestine mandataire) et mort le 2 juin 2022, est un acteur, un r\u00e9alisateur et un rabbin isra\u00e9lien."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Uri Zohar (Hebrew: \u05d0\u05d5\u05e8\u05d9 \u05d6\u05d5\u05d4\u05e8\u200e; 4 November 1935 \u2013 2 June 2022) was an Israeli film director, actor and comedian who left the entertainment world to become an Orthodox rabbi."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Uri Zohar (Tel Aviv, 4 de novembro de 1935\u2013 Jerusal\u00e9m, 2 de junho de 2022) fundou e dirige ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0423\u0440\u0438 \u0417\u043e\u0430\u0440 (\u0438\u0432\u0440. \u200f\u05d0\u05d5\u05e8\u05d9 \u05d6\u05d5\u05d4\u05e8\u200f\u200e, \u0444\u0430\u043c\u0438\u043b\u0438\u044f \u043f\u0440\u0438 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0438 \u0414\u0437\u044f\u0434\u0435\u043a, \u200f\u05d6'\u05d0\u05d3\u05e7\u200f\u200e; 4 \u043d\u043e\u044f\u0431\u0440\u044f 1935, \u0422\u0435\u043b\u044c-\u0410\u0432\u0438\u0432 \u2014 2 \u0438\u044e\u043d\u044f 2022, \u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c) \u2014 \u0438\u0437\u0440\u0430\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u0441\u0442\u0435\u043d\u0434\u0430\u043f\u0438\u0441\u0442, \u043a\u0438\u043d\u043e\u0430\u043a\u0442\u0451\u0440, \u043a\u0438\u043d\u043e\u0440\u0435\u0436\u0438\u0441\u0441\u0451\u0440 \u0438 \u0441\u0446\u0435\u043d\u0430\u0440\u0438\u0441\u0442. \u0417\u043e\u0430\u0440, \u0441\u043d\u044f\u0432\u0448\u0438\u0439 \u0440\u044f\u0434 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u044b\u0445 \u043a\u0438\u043d\u043e\u043b\u0435\u043d\u0442 \u0418\u0437\u0440\u0430\u0438\u043b\u044f 1960-\u0445 \u0438 1970-\u0445 \u0433\u043e\u0434\u043e\u0432, \u0432 \u0434\u0430\u043b\u044c\u043d\u0435\u0439\u0448\u0435\u043c \u043e\u0431\u0440\u0430\u0442\u0438\u043b\u0441\u044f \u043a \u0438\u0443\u0434\u0430\u0438\u0437\u043c\u0443, \u0441\u0442\u0430\u0432 \u0440\u0430\u0432\u0432\u0438\u043d\u043e\u043c \u0438 \u043e\u0434\u043d\u0438\u043c \u0438\u0437 \u043e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 \u0443\u043b\u044c\u0442\u0440\u0430\u043e\u0440\u0442\u043e\u0434\u043e\u043a\u0441\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u044f \u041c\u0430\u0430\u043b\u0435-\u0410\u043c\u043e\u0441. \u0412 1976 \u0433\u043e\u0434\u0443 \u0417\u043e\u0430\u0440 \u043e\u0442\u043a\u043b\u043e\u043d\u0438\u043b \u043f\u0440\u0438\u0441\u0432\u043e\u0435\u043d\u0438\u0435 \u0435\u043c\u0443 \u041f\u0440\u0435\u043c\u0438\u0438 \u0418\u0437\u0440\u0430\u0438\u043b\u044f \u0432 \u043e\u0431\u043b\u0430\u0441\u0442\u0438 \u043a\u0438\u043d\u0435\u043c\u0430\u0442\u043e\u0433\u0440\u0430\u0444\u0430."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Director"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/34870434"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Uri_Zohar?oldid=1110044012&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "10690"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsEndYear",
+        "object": "1988"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "1956"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1935"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Hebrew_University_of_Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Uri_Zohar__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Uri_Zohar>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Uri_Zohar"
+    }
+]

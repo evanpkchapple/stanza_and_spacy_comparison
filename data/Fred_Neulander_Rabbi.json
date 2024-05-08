@@ -1,0 +1,597 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q2159907"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeopleConvictedOfMurder"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleConvictedOfMurderByNewJersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromCamdenCounty,NewJersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/BadPerson109831962"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Criminal109977660"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Principal110474950"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wrongdoer109633969"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Criminal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://umbel.org/umbel/rc/Criminal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Fred Neulander"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Fred J. Neulander (born August 14, 1941) is a Reform rabbi from Cherry Hill, New Jersey, who was convicted of hiring two men to murder his wife, Carol Neulander, in 1994. He is currently serving a prison term of 30 years to life at New Jersey State Prison in Trenton, New Jersey."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Fred Neulander"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Fred Neulander"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/FNeulandermug.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1941-08-14"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_clergy_convicted_of_murder"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1941_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Place_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_convicted_of_murder_by_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_convicted_of_crimes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_members_of_the_clergy_convicted_of_crimes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_convicted_of_murder"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Cherry_Hill,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "597345"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1091222656"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Members_of_the_clergy_convicted_of_murder"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1941_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Place_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Murder"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barbara_Walters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_convicted_of_murder_by_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catholic_Church"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_convicted_of_crimes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trenton,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trinity_College_(Connecticut)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_members_of_the_clergy_convicted_of_crimes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/FilmRise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_convicted_of_murder"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Cherry_Hill,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cherry_Hill,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Jersey_State_Prison"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Congregation_M'Kor_Shalom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CourtTV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://filmrise.com/mugshots-rabbi-neulander/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.southjerseynews.com/neulander/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20040405071343/http:/www.courttv.com/trials/neulander/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20040616161104/http:/www.southjerseynews.com/neulander/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20171006212332/http:/filmrise.com/mugshots-rabbi-neulander/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.02tws0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Fred_Neulander"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q5495989"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4ju31"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://api.nytimes.com/svc/semantic/v2/concept/name/nytd_per/Neulander,%20Fred%20J"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/60919784"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Inflation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Inflation/year"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_criminal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:More_citations_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Webarchive"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citations_broken"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/FNeulandermug.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1941-08-14"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/conviction",
+        "object": "http://dbpedia.org/resource/Murder"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/convictionPenalty",
+        "object": "9.46728E8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/convictionStatus",
+        "object": "Incarcerated"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/date",
+        "object": "2004-06-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/date",
+        "object": "2017-10-06"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/heightFt",
+        "object": "5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/heightIn",
+        "object": "6"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/imageName",
+        "object": "File:FNeulandermug.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Carol Neulander"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/url",
+        "object": "https://web.archive.org/web/20040616161104/http:/www.southjerseynews.com/neulander/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/url",
+        "object": "https://web.archive.org/web/20171006212332/http:/filmrise.com/mugshots-rabbi-neulander/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/victims",
+        "object": "Carol Neulander"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Fred J. Neulander (born August 14, 1941) is a Reform rabbi from Cherry Hill, New Jersey, who was convicted of hiring two men to murder his wife, Carol Neulander, in 1994. He is currently serving a prison term of 30 years to life at New Jersey State Prison in Trenton, New Jersey."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/property/imprisoned",
+        "object": "New Jersey State Prison"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/60919784"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Fred_Neulander?oldid=1091222656&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "7385"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Fred_Neulander>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Fred_Neulander"
+    }
+]

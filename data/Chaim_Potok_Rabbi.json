@@ -1,0 +1,1362 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q36180"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanChildren'sWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanMaleNovelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeopleOfPolish-JewishDescent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBibleTranslators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatTranslatorsOfTheBibleIntoEnglish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatYeshivaUniversityAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromBuffalo,NewYork"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Linguist110264219"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Novelist110363573"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishAmericanNovelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishTranslatorsOfTheBible"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Writer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Translator110725280"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat20th-centuryAmericanNovelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat20th-centuryTranslators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat21st-centuryAmericanNovelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat21st-centuryAmericanWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPostmodernWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://umbel.org/umbel/rc/Artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://umbel.org/umbel/rc/Writer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Chaim Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0634\u064a\u0645 \u0628\u0648\u062a\u0648\u0643"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Chaim Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Chaim Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Chaim Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Cha\u00efm Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Chaim Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Chaim Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Chaim Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u041f\u043e\u0442\u043e\u043a, \u0425\u0430\u0438\u043c"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rab\u00edn Dr. Chaim Potok (17. \u00fanora 1929 New York - 23. \u010dervence 2002 ) byl americk\u00fd spisovatel a rab\u00edn."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0634\u064a\u0645 \u0628\u0648\u062a\u0648\u0643 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Chaim Potok)\u200f (\u0648. 1929 \u2013 2002 \u0645) \u0647\u0648 \u0643\u0627\u062a\u0628 \u0645\u0633\u0631\u062d\u064a\u060c \u0648\u062d\u0627\u062e\u0627\u0645\u060c \u0648\u0645\u062a\u0631\u062c\u0645\u060c \u0648\u0631\u0648\u0627\u0626\u064a\u060c \u0648\u0643\u0627\u062a\u0628\u060c \u0648\u0643\u0627\u062a\u0628 \u0633\u064a\u0646\u0627\u0631\u064a\u0648\u060c \u200f\u060c \u0648\u0643\u0627\u062a\u0628 \u0644\u0644\u0623\u0637\u0641\u0627\u0644 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a \u0628\u0648\u0641\u0627\u0644\u0648\u060c \u0646\u064a\u0648\u064a\u0648\u0631\u0643\u060c \u062a\u0648\u0641\u064a \u0639\u0646 \u0639\u0645\u0631 \u064a\u0646\u0627\u0647\u0632 73 \u0639\u0627\u0645\u0627\u064b\u060c \u0628\u0633\u0628\u0628 \u0633\u0631\u0637\u0627\u0646 \u0627\u0644\u062f\u0645\u0627\u063a."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Herman Harold Potok, besser bekannt als Chaim Potok (* 17. Februar 1929 in New York City; \u2020 23. Juli 2002 in , Pennsylvania), war ein US-amerikanisch-j\u00fcdischer Schriftsteller und Rabbiner."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Chaim Potok (February 17, 1929 \u2013 July 23, 2002) was an American author and rabbi. His first book The Chosen (1967), was listed on The New York Times\u2019 best seller list for 39 weeks and sold more than 3,400,000 copies."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Chaim Potok (17 de febrero de 1929 - 23 de julio de 2002) fue un escritor y rabino jud\u00edo estadounidense."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Cha\u00efm Potok, \u00e0 l'\u00e9tat-civil Herman Harold Potok, est un romancier am\u00e9ricain et un rabbin n\u00e9 \u00e0 Buffalo le 17 f\u00e9vrier 1929 et mort \u00e0 (en) le 23 juillet 2002. Il est l'auteur de L'\u00c9lu (1967), de Je m'appelle Asher Lev (1972), de (en) (1981) et de (2001)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Chaim Potok, pseudonimo di Herman Harold Potok (New York, 17 febbraio 1929 \u2013 , 23 luglio 2002), \u00e8 stato uno scrittore e rabbino statunitense. Divenne famoso nel 1967 con il romanzo Danny l'eletto (The Chosen), una storia quasi autobiografica su un brillante giovane figlio di un rabbino chassidico desideroso che il proprio figlio diventi anch'egli rabbino. Il libro venne citato nella lista dei best seller del The New York Times per 39 settimane e vendette in uscita 3 400 000 copie. La notoriet\u00e0 gli venne anche dalla trasposizione cinematografica del romanzo proiettata nel 1981."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Herman Harold (Chaim) Potok (New York, 17 februari 1929 \u2013 (Pennsylvania), 23 juli 2002) was een Amerikaans schrijver en rabbijn."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Chaim Potok (ur. 17 lutego 1929 w Nowym Jorku w USA, zm. 23 lipca 2002) \u2013 ameryka\u0144ski pisarz i rabin. Herman Harold Potok urodzi\u0142 si\u0119 w rodzinie chasydzkich \u017byd\u00f3w w nowojorskim Brooklynie. Rodzice byli emigrantami z Polski. Jego rodzice, Benjamin Max (\u2020 1958) i Mollie Friedman Potok (\u2020 1985) dali mu hebrajskie imi\u0119 Chaim Tzvi. Chaim otrzyma\u0142 \u017cydowsk\u0105 edukacj\u0119, pozna\u0142 Talmud. Ucz\u0119szcza\u0142 r\u00f3wnie\u017c do \u015bwieckiej szko\u0142y. Ju\u017c jako nastolatek zapragn\u0105\u0142 po\u015bwi\u0119ci\u0107 si\u0119 pisarstwu."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0425\u0430\u0438\u043c (\u0413\u0435\u0440\u043c\u0430\u043d \u0425\u0430\u0440\u043e\u043b\u044c\u0434) \u041f\u043e\u0442\u043e\u043a (\u0430\u043d\u0433\u043b. Chaim Potok; 17 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 1929, \u041d\u044c\u044e-\u0419\u043e\u0440\u043a \u2014 23 \u0438\u044e\u043b\u044f 2002, \u041c\u0435\u0440\u0438\u043e\u043d, \u041f\u0435\u043d\u0441\u0438\u043b\u044c\u0432\u0430\u043d\u0438\u044f) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u043f\u0438\u0441\u0430\u0442\u0435\u043b\u044c."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Chaim Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Chaim Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Chaim_Potok.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Kelty_WL_Price.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Bronx,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Merion,_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Merion, Pennsylvania, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2002-07-23"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Bronx, New York, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1929-02-17"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Psychological_fiction_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_novelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_male_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1929_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_male_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_translators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_novelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_translators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_male_novelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Polish-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_brain_tumor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_cancer_in_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Pennsylvania_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Yeshiva_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Postmodern_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2002_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_novelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Theological_Seminary_of_America_semikhah_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_in_the_military"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_translators_of_the_Bible"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Translators_of_the_Bible_into_English"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "63914"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1119117552"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barry_Miller_(actor)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Psychological_fiction_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robby_Benson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Davita's_Harp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Merion,_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_novelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_male_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maximilian_Schell"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elie_Wiesel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/English_literature"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservative_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Mann"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anti-Semitism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shmuel_Yosef_Agnon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fyodor_Dostoyevsky"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/My_Name_Is_Asher_Lev"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1929_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_male_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_translators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_novelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_translators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_novelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Polish-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_brain_tumor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_cancer_in_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Pennsylvania_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Yeshiva_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Postmodern_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/U.S._Army"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Off-Broadway"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ernest_Hemingway"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brideshead_Revisited"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Lewis_Wallant_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Chosen_(Potok_novel)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2002_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Joyce"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Chosen_(1981_film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Book_of_Lights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arden_Theatre_Company_(Philadelphia)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Athenaeum_Literary_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_novelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Theological_Seminary_of_America_semikhah_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_in_the_military"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_translators_of_the_Bible"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Translators_of_the_Bible_into_English"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Publication_Society"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Theological_Seminary_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/La_Sierra_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Summa_cum_laude"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Promise_(Potok_novel)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Montreal,_Canada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marsha_Stern_Talmudical_Academy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/South_Korea"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Psychiatric"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Book_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camp_Ramah_in_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Montreal_World_Film_Festival"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wanderings:_Chaim_Potok's_History_of_the_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/In_the_Beginning_(novel)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Literary_fiction"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Gift_of_Asher_Lev"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bronx,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_brain_tumor_patients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/My_Name_is_Asher_Lev"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Jewish_Book_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Social_worker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hasidic_Jew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cameo_role"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Solomon_Maimon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moment_Magazine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Kelty_WL_Price.JPG"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Har_Zion_Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isaac_Stern:_My_First_79_Years"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Ethics_(book)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Gates_of_November"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Jew_Confronts_Himself_in_American_Literature"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Sky_of_Now"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Tree_of_Here"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Trope_Teacher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theo_Tobiasse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.library.upenn.edu/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20100312001805/http:/potok.lasierra.edu/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20120720072121/http:/www.guernicamag.com/interviews/water-by-the-spoonful/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://hdl.library.upenn.edu/1017/d/ead/upenn_rbml_MsColl730"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0h43j"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/51694687"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sw.cyc.com/concept/Mx4rvfkxfZwpEbGdrcN5Y29ycA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/122379136"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Chaim_Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q560735"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p07064540X"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0634\u064a\u0645_\u0628\u0648\u062a\u0648\u0643"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0634\u064a\u0645_\u0628\u0648\u062a\u0648\u0643"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://cs.dbpedia.org/resource/Chaim_Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Chaim_Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Chaim_Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Cha\u00efm_Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fy.dbpedia.org/resource/Chaim_Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05d7\u05d9\u05d9\u05dd_\u05e4\u05d5\u05d8\u05d5\u05e7"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://hu.dbpedia.org/resource/Chaim_Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Chaim_Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nl.dbpedia.org/resource/Chaim_Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nn.dbpedia.org/resource/Chaim_Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://no.dbpedia.org/resource/Chaim_Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pl.dbpedia.org/resource/Chaim_Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u041f\u043e\u0442\u043e\u043a,_\u0425\u0430\u0438\u043c"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sk.dbpedia.org/resource/Chaim_Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4kSzT"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Curlie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Dead_link"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_writer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Portal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Rp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Wikiquote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Library_resources_box"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Chaim_Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Chaim_Potok.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1929-02-17"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Herman Harold Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/bot",
+        "object": "InternetArchiveBot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Potok in 1986"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "Rena Potok\nNaama Potok\nAkiva Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/date",
+        "object": "June 2021"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "2002-07-23"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/fixAttempted",
+        "object": "yes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/genre",
+        "object": "http://dbpedia.org/resource/Literary_fiction"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Novelist, Rabbi, Painter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Adena Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rab\u00edn Dr. Chaim Potok (17. \u00fanora 1929 New York - 23. \u010dervence 2002 ) byl americk\u00fd spisovatel a rab\u00edn."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0634\u064a\u0645 \u0628\u0648\u062a\u0648\u0643 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Chaim Potok)\u200f (\u0648. 1929 \u2013 2002 \u0645) \u0647\u0648 \u0643\u0627\u062a\u0628 \u0645\u0633\u0631\u062d\u064a\u060c \u0648\u062d\u0627\u062e\u0627\u0645\u060c \u0648\u0645\u062a\u0631\u062c\u0645\u060c \u0648\u0631\u0648\u0627\u0626\u064a\u060c \u0648\u0643\u0627\u062a\u0628\u060c \u0648\u0643\u0627\u062a\u0628 \u0633\u064a\u0646\u0627\u0631\u064a\u0648\u060c \u200f\u060c \u0648\u0643\u0627\u062a\u0628 \u0644\u0644\u0623\u0637\u0641\u0627\u0644 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a \u0628\u0648\u0641\u0627\u0644\u0648\u060c \u0646\u064a\u0648\u064a\u0648\u0631\u0643\u060c \u062a\u0648\u0641\u064a \u0639\u0646 \u0639\u0645\u0631 \u064a\u0646\u0627\u0647\u0632 73 \u0639\u0627\u0645\u0627\u064b\u060c \u0628\u0633\u0628\u0628 \u0633\u0631\u0637\u0627\u0646 \u0627\u0644\u062f\u0645\u0627\u063a."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Herman Harold Potok, besser bekannt als Chaim Potok (* 17. Februar 1929 in New York City; \u2020 23. Juli 2002 in , Pennsylvania), war ein US-amerikanisch-j\u00fcdischer Schriftsteller und Rabbiner."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Chaim Potok (February 17, 1929 \u2013 July 23, 2002) was an American author and rabbi. His first book The Chosen (1967), was listed on The New York Times\u2019 best seller list for 39 weeks and sold more than 3,400,000 copies."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Chaim Potok (17 de febrero de 1929 - 23 de julio de 2002) fue un escritor y rabino jud\u00edo estadounidense."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Cha\u00efm Potok, \u00e0 l'\u00e9tat-civil Herman Harold Potok, est un romancier am\u00e9ricain et un rabbin n\u00e9 \u00e0 Buffalo le 17 f\u00e9vrier 1929 et mort \u00e0 (en) le 23 juillet 2002. Il est l'auteur de L'\u00c9lu (1967), de Je m'appelle Asher Lev (1972), de (en) (1981) et de (2001)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Chaim Potok, pseudonimo di Herman Harold Potok (New York, 17 febbraio 1929 \u2013 , 23 luglio 2002), \u00e8 stato uno scrittore e rabbino statunitense. Divenne famoso nel 1967 con il romanzo Danny l'eletto (The Chosen), una storia quasi autobiografica su un brillante giovane figlio di un rabbino chassidico desideroso che il proprio figlio diventi anch'egli rabbino. Il libro venne citato nella lista dei best seller del The New York Times per 39 settimane e vendette in uscita 3 400 000 copie. La notoriet\u00e0 gli venne anche dalla trasposizione cinematografica del romanzo proiettata nel 1981."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Herman Harold (Chaim) Potok (New York, 17 februari 1929 \u2013 (Pennsylvania), 23 juli 2002) was een Amerikaans schrijver en rabbijn."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Chaim Potok (ur. 17 lutego 1929 w Nowym Jorku w USA, zm. 23 lipca 2002) \u2013 ameryka\u0144ski pisarz i rabin. Herman Harold Potok urodzi\u0142 si\u0119 w rodzinie chasydzkich \u017byd\u00f3w w nowojorskim Brooklynie. Rodzice byli emigrantami z Polski. Jego rodzice, Benjamin Max (\u2020 1958) i Mollie Friedman Potok (\u2020 1985) dali mu hebrajskie imi\u0119 Chaim Tzvi. Chaim otrzyma\u0142 \u017cydowsk\u0105 edukacj\u0119, pozna\u0142 Talmud. Ucz\u0119szcza\u0142 r\u00f3wnie\u017c do \u015bwieckiej szko\u0142y. Ju\u017c jako nastolatek zapragn\u0105\u0142 po\u015bwi\u0119ci\u0107 si\u0119 pisarstwu."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0425\u0430\u0438\u043c (\u0413\u0435\u0440\u043c\u0430\u043d \u0425\u0430\u0440\u043e\u043b\u044c\u0434) \u041f\u043e\u0442\u043e\u043a (\u0430\u043d\u0433\u043b. Chaim Potok; 17 \u0444\u0435\u0432\u0440\u0430\u043b\u044f 1929, \u041d\u044c\u044e-\u0419\u043e\u0440\u043a \u2014 23 \u0438\u044e\u043b\u044f 2002, \u041c\u0435\u0440\u0438\u043e\u043d, \u041f\u0435\u043d\u0441\u0438\u043b\u044c\u0432\u0430\u043d\u0438\u044f) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u043f\u0438\u0441\u0430\u0442\u0435\u043b\u044c."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Author"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/51694687"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/property/wordnet_type",
+        "object": "http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Chaim_Potok?oldid=1119117552&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "17409"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Herman Harold Potok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/genre",
+        "object": "http://dbpedia.org/resource/Literary_fiction"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Chaim_Potok>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Chaim_Potok"
+    }
+]

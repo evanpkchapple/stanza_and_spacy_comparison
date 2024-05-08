@@ -1,0 +1,522 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Solomon Sharfman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Solomon Sharfman was a rabbi of Orthodox Jewry who built the Flatbush Modern Orthodox Jewish community in the mid-1900s, while sowing the seeds of American Jewry for generations to come."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Solomon J. Sharfman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Solomon J. Sharfman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Solomonsharfman.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Treblinka"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2004-12-04"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Treblinka"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1915-11-01"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1915_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2004_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Polish_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "44737950"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1107406317"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Synagogue_Council_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beit_Shemesh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1915_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2004_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshivas_Chofetz_Chaim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbinical_Council_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Polish_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alcohol_laws_of_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blue_law"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Young_Israel_of_Flatbush"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shochet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Council_of_Young_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshivat_Shaalvim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RIETS"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kerem_BeYavneh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi_Joseph_B._Soloveitchik"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi_Moshe_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Treblinka"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Label_Sharfman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi_Eliakim_Koenigsberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi_Shmuel_Maybruch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://traditionarchive.org/archives/index.cfm%3Ffuseaction=SpecificEdition&EditionID=425"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.jta.org/%3Fs=solomon+sharfman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.jta.org/1957/07/03/archive/orthodox-jews-seek-court-ban-on-mixed-seating-in-synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.012hd69z"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Solomon_Sharfman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q18645860"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/nvFm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cleanup_bare_URLs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Solomonsharfman.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/restingPlace",
+        "object": "Eretz HaChaim cemetery, Beit Shemesh, Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1915-11-01"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "http://dbpedia.org/resource/Label_Sharfman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "Debbi Diament"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "Lea Hain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "Riki Koenigsberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "Rochelle Kohn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "2004-12-04"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/otherNames",
+        "object": "Rabbi Sharfman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/parents",
+        "object": "Aharon Leib and Fruma Sharfman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Libby Ossip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Solomon Sharfman was a rabbi of Orthodox Jewry who built the Flatbush Modern Orthodox Jewish community in the mid-1900s, while sowing the seeds of American Jewry for generations to come."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/property/employer",
+        "object": "http://dbpedia.org/resource/Young_Israel_of_Flatbush"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Solomon_Sharfman?oldid=1107406317&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "7780"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/restingPlace",
+        "object": "http://dbpedia.org/resource/Beit_Shemesh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/restingPlace",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/alias",
+        "object": "Rabbi Sharfman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1915"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "2004"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/employer",
+        "object": "http://dbpedia.org/resource/Young_Israel_of_Flatbush"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/child",
+        "object": "http://dbpedia.org/resource/Label_Sharfman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Solomon_Sharfman__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Solomon_Sharfman>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Solomon_Sharfman"
+    }
+]

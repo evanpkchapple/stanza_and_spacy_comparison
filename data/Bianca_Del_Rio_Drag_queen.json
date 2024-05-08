@@ -1,0 +1,1307 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanComedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanCostumeDesigners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanDesigners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTComedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromLouisiana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatRuPaul'sDragRaceContestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Actor109765278"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Aristocrat109807754"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Comedian109940146"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Contestant109613191"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Costumier109968259"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Couturier109972157"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Entertainer109616922"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Expert109617867"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/FemaleAristocrat110083823"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/InteriorDesigner110210648"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Performer110415638"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Queen110499355"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGayActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Specialist110631941"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDragQueens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bianca Del Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0628\u064a\u0627\u0646\u0643\u0627 \u062f\u064a\u0644 \u0631\u064a\u0648"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bianca Del Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bianca Del Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bianca Del Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bianca Del Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bianca Del Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\ube44\uc559\uce74 \ub378 \ub9ac\uc624"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bianca Del Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bianca Del Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bianca Del Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0631\u0648\u064a \u0647\u0627\u064a\u0644\u0648\u0643 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Roy Haylock)\u200f (\u0645\u0646 \u0645\u0648\u0627\u0644\u064a\u062f 27 \u064a\u0648\u0646\u064a\u0648 1975)\u060c \u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0628\u0627\u0633\u0645 \u0627\u0644\u0645\u0633\u0631\u062d \u0628\u064a\u0627\u0646\u0643\u0627 \u062f\u064a\u0644 \u0631\u064a\u0648 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Bianca Del Rio)\u200f\u060c \u0647\u0648 \u062f\u0631\u0627\u0642 \u0643\u0648\u064a\u0646\u060c \u0633\u062a\u0627\u0646\u062f \u0623\u0628 \u0643\u0648\u0645\u064a\u062f\u064a\u060c \u0645\u0645\u062b\u0644 \u0648\u0645\u0635\u0645\u0645 \u0627\u0632\u064a\u0627\u0621 \u0627\u0634\u062a\u0647\u0631 \u0628\u0627\u0644\u0641\u0648\u0632 \u0628\u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u0633\u0627\u062f\u0633 \u0644\u0640 \u0631\u0648\u0628\u0648\u0644 \u062f\u0631\u0627\u0642 \u0631\u064a\u0633."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Bianca Del Rio (geboren am 27. Juni 1975 als Roy Haylock) ist eine US-amerikanische Dragqueen. Sie ist Schauspielerin, Komikerin, Kost\u00fcmdesignerin und bekannt als Gewinnerin der sechsten Staffel von RuPaul\u2019s Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Roy R. Haylock (born June 27, 1975), better known by the stage name Bianca Del Rio, is an American drag queen, comedian, actor, and costume designer. She is known for winning the sixth season of RuPaul's Drag Race. Since her time on Drag Race, Del Rio has written and toured several stand-up shows, including It's Jester Joke (2019), which also made her the first drag queen to headline at Wembley Arena. She has also performed as a host for various international tours, most notably Werq the World. In 2018, she published her first book, Blame It On Bianca Del Rio: The Expert On Nothing With An Opinion On Everything."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Roy Haylock (Nueva Orleans, Luisiana; 27 de junio de 1975) m\u00e1s conocido por su nombre art\u00edstico Bianca Del Rio, es una drag queen, comediante y dise\u00f1adora de moda estadounidense.\u200b Tiene un papel fijo destacado en las escenas de club de la ciudad de Nueva York, trabajando habitualmente con Lady Bunny, y se ha dado a conocer por ganar en la sexta temporada de RuPaul's Drag Race.\u200b\u200b Protagoniz\u00f3 la pel\u00edcula .\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Roy Haylock (n\u00e9 le 27 juin 1975), plus connu sous son nom de sc\u00e8ne Bianca Del Rio, est un acteur, humoriste, et drag queen am\u00e9ricain. Drag queen r\u00e9put\u00e9e des clubs de La Nouvelle-Orl\u00e9ans et de New York, o\u00f9 il collabore souvent avec Lady Bunny, il est surtout connu pour \u00eatre le gagnant de la sixi\u00e8me saison de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\ube44\uc559\uce74 \ub378 \ub9ac\uc624(Bianca Del Rio, 1975\ub144 6\uc6d4 27\uc77c ~ )\ub294 \ubbf8\uad6d\uc758 \ubc30\uc6b0, \ucf54\uba54\ub514\uc5b8, \uc758\uc0c1 \ub514\uc790\uc774\ub108, \ub4dc\ub799\ud038\uc774\ub2e4. \u300a\ub8e8\ud3f4\uc758 \ub4dc\ub798\uadf8 \ub808\uc774\uc2a4\u300b \uc2dc\uc98c 6 \uc6b0\uc2b9\uc790\uc774\ub2e4."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Bianca Del Rio, pseudonimo di Roy Haylock (New Orleans, 27 giugno 1975), \u00e8 una comica, costumista e personaggio televisivo statunitense, diventata famosa nel mondo dello spettacolo soprattutto come drag queen."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Roy Haylock (27 juni 1975), beter bekend als Bianca Del Rio, is een Amerikaanse kostuumontwerper, acteur en dragqueen, die bekend werd als winnaar van het zesde seizoen van RuPaul's Drag Race in 2014."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Roy Haylock, mer k\u00e4nd som Bianca Del Rio, f\u00f6dd 27 juni 1975 i New Orleans, Louisiana, \u00e4r en amerikansk sk\u00e5despelare, komiker, kostymdesigner och dragqueen. Hon \u00e4r k\u00e4nd fr\u00e5n klubbscenen i New Orleans och New York och arbetar ofta med . Hon \u00e4r ocks\u00e5 k\u00e4nd som vinnaren av sj\u00e4tte s\u00e4songen av RuPauls dragrace."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Roy Haylock (Nova Orle\u00e3es, 27 de junho de 1975), mais conhecido pelo nome art\u00edstico Bianca Del Rio, \u00e9 um ator, comediante, figurinista e drag queen americano, mais conhecido por vencer a sexta temporada de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Roy Ren\u00e8 Haylock (Nova Orleans, 27 de juny de 1975), m\u00e9s conegut amb el nom art\u00edstic de Bianca Del Rio, \u00e9s un comediant, actor, dissenyador de vestuari i drag queen estatunidenc, guanyadora en drag de la sisena temporada de RuPaul's Drag Race. El 2018 va publicar el seu primer llibre, Blame It On Bianca Del Rio: The Expert On Nothing With An Opinion On Everything. El juny de 2019, la revista va situar Del Rio en el primer lloc de la seva llista de les \"drag queens m\u00e9s poderoses d'Am\u00e8rica\", un r\u00e0nquing de 100 exconcursants de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Bianca Del Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://thebiancadelrio.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Bianca Del Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Bianca_del_Rio_at_Dragcon_2018_by_dvsross.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rupaul_Dragcon_2018-42_(42030805642).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Louisiana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/New_Orleans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "New Orleans, Louisiana, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1975-06-27"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Comedians_from_Louisiana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Louisiana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:West_Jefferson_High_School_(Louisiana)_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Cuban_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_costume_designers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Nightlife_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1975_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_Hispanic_and_Latino_American_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Honduran_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "40066094"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1121534481"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cabaret_(musical)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Comedians_from_Louisiana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Psycho_Beach_Party"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queerty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_10)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_6)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_7)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_8)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_6)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bloomingdale's"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bowery_Ballroom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bowery_Poetry_Club"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Louisiana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hondurans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hull_New_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hurricane_Bianca"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hurricane_Bianca:_From_Russia_with_Hate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:West_Jefferson_High_School_(Louisiana)_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peppermint_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rent_(musical)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_dollar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Violet_Chachki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tanning_dependence"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Courtney_Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mayflower_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stage_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Sons_of_Tennessee_Williams"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_culture_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mimi_Imfurst"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apollo_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liverpool_Empire_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Logo_TV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louisiana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucas_Entertainment"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bad_Girls_Club_(season_7)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Cuban_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_costume_designers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wembley_Arena"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Werq_the_World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Jefferson_High_School_(Louisiana)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lip_sync"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/AJ_and_the_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adore_Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Nightlife_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ahmanson_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1975_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cubans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dallas_DuBois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dragging_the_Classics:_The_Brady_Bunch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Everybody's_Talking_About_Jamie_(film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fractured_Atlas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barbara_Matera_(costume_designer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pandora_Boxx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hispanic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_LGBT_people_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_The_Brady_Bunch_characters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gretna,_Louisiana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hedda_Lettuce"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Bad_Seed_(play)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hurricane_Katrina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snatch_Game"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_Hispanic_and_Latino_American_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Honduran_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jinkx_Monsoon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lady_Bunny"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Le_Petit_Theatre_du_Vieux_Carre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blame_It_On_Bianca_Del_Rio_Tour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theatre_Royal,_Brighton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Southern_Decadence"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grease_(musical)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Indiegogo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Orleans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Orleans_Opera"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Next_Magazine_(New_York_City)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shane_Richie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/She's_Living_for_This"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sherry_Vine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christopher_Bentivegna"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NewNowNext_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Everybody's_Talking_About_Jamie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Big_Brother_(UK)_shows"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Rupaul_Dragcon_2018-42_(42030805642).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://thebiancadelrio.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.newnownext.com/hurricane-bianca-trailer/08/2016"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0vb5_7h"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Bianca_Del_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/bbcbbd9d-01ac-4a19-acfa-d330a3193f3b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/32154074464711742638"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q16226036"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0628\u064a\u0627\u0646\u0643\u0627_\u062f\u064a\u0644_\u0631\u064a\u0648"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ca.dbpedia.org/resource/Bianca_Del_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Bianca_Del_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Bianca_Del_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u0628\u06cc\u0627\u0646\u06a9\u0627_\u062f\u0644_\u0631\u06cc\u0648"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fi.dbpedia.org/resource/Bianca_Del_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Bianca_Del_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05d1\u05d9\u05d0\u05e0\u05e7\u05d4_\u05d3\u05dc_\u05e8\u05d9\u05d5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Bianca_Del_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ko.dbpedia.org/resource/\ube44\uc559\uce74_\ub378_\ub9ac\uc624"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nl.dbpedia.org/resource/Bianca_Del_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pt.dbpedia.org/resource/Bianca_Del_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://simple.dbpedia.org/resource/Bianca_Del_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sr.dbpedia.org/resource/\u0411\u0458\u0430\u043d\u043a\u0430_\u0434\u0435\u043b_\u0420\u0438\u043e"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sv.dbpedia.org/resource/Bianca_Del_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/bbXh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nominated"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Tooltip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Won"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:YouTube"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Bianca_del_Rio_at_Dragcon_2018_by_dvsross.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1975-06-27"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Roy R. Haylock"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Del Rio in 2018"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/id",
+        "object": "jC01K5ZaNaU"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race (season 6) winner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen, comedian, actor, costume designer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/predecessor",
+        "object": "http://dbpedia.org/resource/Jinkx_Monsoon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/successor",
+        "object": "http://dbpedia.org/resource/Violet_Chachki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/title",
+        "object": "Interview with Bianca Del Rio \u2014 RuPaul's Drag Race Season 6"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/website",
+        "object": "http://thebiancadelrio.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "1993"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0631\u0648\u064a \u0647\u0627\u064a\u0644\u0648\u0643 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Roy Haylock)\u200f (\u0645\u0646 \u0645\u0648\u0627\u0644\u064a\u062f 27 \u064a\u0648\u0646\u064a\u0648 1975)\u060c \u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0628\u0627\u0633\u0645 \u0627\u0644\u0645\u0633\u0631\u062d \u0628\u064a\u0627\u0646\u0643\u0627 \u062f\u064a\u0644 \u0631\u064a\u0648 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Bianca Del Rio)\u200f\u060c \u0647\u0648 \u062f\u0631\u0627\u0642 \u0643\u0648\u064a\u0646\u060c \u0633\u062a\u0627\u0646\u062f \u0623\u0628 \u0643\u0648\u0645\u064a\u062f\u064a\u060c \u0645\u0645\u062b\u0644 \u0648\u0645\u0635\u0645\u0645 \u0627\u0632\u064a\u0627\u0621 \u0627\u0634\u062a\u0647\u0631 \u0628\u0627\u0644\u0641\u0648\u0632 \u0628\u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u0633\u0627\u062f\u0633 \u0644\u0640 \u0631\u0648\u0628\u0648\u0644 \u062f\u0631\u0627\u0642 \u0631\u064a\u0633."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Roy Ren\u00e8 Haylock (Nova Orleans, 27 de juny de 1975), m\u00e9s conegut amb el nom art\u00edstic de Bianca Del Rio, \u00e9s un comediant, actor, dissenyador de vestuari i drag queen estatunidenc, guanyadora en drag de la sisena temporada de RuPaul's Drag Race. Des de la seva etapa a Drag Race, Del Rio ha escrit i fet gires amb diversos espectacles destacats, inclosos The Rolodex of Hate (2014), Not Today Satan (2015-2016), Blame It On Bianca Del Rio (2017-2018) i It's Jester Joke (2019), amb qu\u00e8 es va convertir en la primera drag queen a actuar al Wembley Arena. Tamb\u00e9 ha actuat com a amfitriona de diverses gires internacionals, entre les quals destaca Werq the World. El 2018 va publicar el seu primer llibre, Blame It On Bianca Del Rio: The Expert On Nothing With An Opinion On Everything. El juny de 2019, la revista va situar Del Rio en el primer lloc de la seva llista de les \"drag queens m\u00e9s poderoses d'Am\u00e8rica\", un r\u00e0nquing de 100 exconcursants de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Bianca Del Rio (geboren am 27. Juni 1975 als Roy Haylock) ist eine US-amerikanische Dragqueen. Sie ist Schauspielerin, Komikerin, Kost\u00fcmdesignerin und bekannt als Gewinnerin der sechsten Staffel von RuPaul\u2019s Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Roy R. Haylock (born June 27, 1975), better known by the stage name Bianca Del Rio, is an American drag queen, comedian, actor, and costume designer. She is known for winning the sixth season of RuPaul's Drag Race. Since her time on Drag Race, Del Rio has written and toured several stand-up shows, including It's Jester Joke (2019), which also made her the first drag queen to headline at Wembley Arena. She has also performed as a host for various international tours, most notably Werq the World. In 2018, she published her first book, Blame It On Bianca Del Rio: The Expert On Nothing With An Opinion On Everything."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Roy Haylock (Nueva Orleans, Luisiana; 27 de junio de 1975) m\u00e1s conocido por su nombre art\u00edstico Bianca Del Rio, es una drag queen, comediante y dise\u00f1adora de moda estadounidense.\u200b Tiene un papel fijo destacado en las escenas de club de la ciudad de Nueva York, trabajando habitualmente con Lady Bunny, y se ha dado a conocer por ganar en la sexta temporada de RuPaul's Drag Race.\u200b\u200b Protagoniz\u00f3 la pel\u00edcula .\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Roy Haylock (n\u00e9 le 27 juin 1975), plus connu sous son nom de sc\u00e8ne Bianca Del Rio, est un acteur, humoriste, et drag queen am\u00e9ricain. Drag queen r\u00e9put\u00e9e des clubs de La Nouvelle-Orl\u00e9ans et de New York, o\u00f9 il collabore souvent avec Lady Bunny, il est surtout connu pour \u00eatre le gagnant de la sixi\u00e8me saison de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\ube44\uc559\uce74 \ub378 \ub9ac\uc624(Bianca Del Rio, 1975\ub144 6\uc6d4 27\uc77c ~ )\ub294 \ubbf8\uad6d\uc758 \ubc30\uc6b0, \ucf54\uba54\ub514\uc5b8, \uc758\uc0c1 \ub514\uc790\uc774\ub108, \ub4dc\ub799\ud038\uc774\ub2e4. \u300a\ub8e8\ud3f4\uc758 \ub4dc\ub798\uadf8 \ub808\uc774\uc2a4\u300b \uc2dc\uc98c 6 \uc6b0\uc2b9\uc790\uc774\ub2e4."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Bianca Del Rio, pseudonimo di Roy Haylock (New Orleans, 27 giugno 1975), \u00e8 una comica, costumista e personaggio televisivo statunitense, diventata famosa nel mondo dello spettacolo soprattutto come drag queen."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Roy Haylock (27 juni 1975), beter bekend als Bianca Del Rio, is een Amerikaanse kostuumontwerper, acteur en dragqueen, die bekend werd als winnaar van het zesde seizoen van RuPaul's Drag Race in 2014."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Roy Haylock, mer k\u00e4nd som Bianca Del Rio, f\u00f6dd 27 juni 1975 i New Orleans, Louisiana, \u00e4r en amerikansk sk\u00e5despelare, komiker, kostymdesigner och dragqueen. Hon \u00e4r k\u00e4nd fr\u00e5n klubbscenen i New Orleans och New York och arbetar ofta med . Hon \u00e4r ocks\u00e5 k\u00e4nd som vinnaren av sj\u00e4tte s\u00e4songen av RuPauls dragrace."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Roy Haylock (Nova Orle\u00e3es, 27 de junho de 1975), mais conhecido pelo nome art\u00edstico Bianca Del Rio, \u00e9 um ator, comediante, figurinista e drag queen americano, mais conhecido por vencer a sexta temporada de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Bianca_Del_Rio?oldid=1121534481&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "32021"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "1993"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Roy R. Haylock"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1975"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Bianca_Del_Rio__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/predecessor",
+        "object": "http://dbpedia.org/resource/Jinkx_Monsoon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://dbpedia.org/ontology/successor",
+        "object": "http://dbpedia.org/resource/Violet_Chachki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bianca_Del_Rio>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Bianca_Del_Rio"
+    }
+]

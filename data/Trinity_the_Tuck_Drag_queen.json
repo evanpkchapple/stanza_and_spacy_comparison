@@ -1,0 +1,852 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Trinity The Tuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Trinity The Tuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Trinity the Tuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ryan Taylor (Birmingham; 10 de diciembre de 1984) conocido como Trinity The Tuck,\u200b es una drag queen estadounidense reconocida adem\u00e1s por participar en la novena temporada de RuPaul's Drag Race y ser ganadora de la cuarta temporada RuPaul's Drag Race: All Stars. Trinity fue conocida anteriormente como Trinity \"the Tuck\" Taylor, pero a partir del debut de la cuarta temporada de RuPaul's Drag Race: All Stars, se la conoce como Trinity the Tuck. Tambi\u00e9n ha aparecido en el videoclip You need to calm down de Taylor Swift as\u00ed como en la performance de esta canci\u00f3n en los Video Music Awards de 2019."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ryan Taylor, plus connu sous le nom de sc\u00e8ne Trinity The Tuck, est une drag queen am\u00e9ricaine, principalement connue pour avoir particip\u00e9 \u00e0 la neuvi\u00e8me saison de RuPaul's Drag Race et \u00e0 la quatri\u00e8me et septi\u00e8me saison de RuPaul's Drag Race : All Stars. Pendant la saison 9 de RuPaul's Drag Race, Trinity est connue sous le nom de Trinity Taylor, mais son nom de sc\u00e9ne change au d\u00e9but de la saison 4 de RuPaul's Drag Race: All Stars, elle est connue maintenant et seulement sous le nom de Trinity The Tuck."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ryan A. Taylor, known professionally as Trinity \"The Tuck\" Taylor or just Trinity the Tuck (born December 10, 1985), is an American drag queen and recording artist best known for competing on the ninth season of RuPaul's Drag Race and for winning the fourth season of RuPaul's Drag Race All Stars, shared with Mon\u00e9t X Change. She went by Trinity \"the Tuck\" Taylor on her original season, but on the first episode of All Stars, she indicated that she would henceforth go simply by Trinity the Tuck."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Trinity the Tuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "https://www.trinitythetuck.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Trinity the Tuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dragcon2-SAT-40_(47937171052).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Trinity_the_Tuck_Taylor_at_Dragcon_by_dvsross_(lol).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Birmingham,_Alabama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Birmingham, Alabama, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1985-12-10"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1985_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Birmingham,_Alabama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Orlando,_Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Transgender_non-binary_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Alabama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_podcasters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "54342033"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123230287"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Producer_Entertainment_Group"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pulse_nightclub"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Celebrity_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_9)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_4)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_5)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_7)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Paulson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sasha_Velour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saturday_Night_Live"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Birmingham,_Alabama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Botched_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peppermint_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhea_Litr\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhinoplasty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/VH1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Valentina_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vogue_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1985_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cosmopolitan_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Entertainment_Weekly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_Times"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gia_Gunn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glamour_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monique_Heart"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mon\u00e9t_X_Change"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_View_(talk_show)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Vivienne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2019_MTV_Video_Music_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andy_Bell_(singer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Loni_Love"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Love_for_the_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stonewall_riots"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stronger_(Britney_Spears_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Comedy_Albums"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Television_personality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Streaming_media"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Birmingham,_Alabama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Orlando,_Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Transgender_non-binary_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Britney_Spears"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Alabama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/To_Wong_Foo,_Thanks_for_Everything!_Julie_Newmar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trussville,_Alabama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Twitch_(service)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Watch_What_Happens_Live_with_Andy_Cohen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/HIV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lip_sync"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/AJ_and_the_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aja_(entertainer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alyssa_Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cyndi_Lauper"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erasure"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Out_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_download"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jasmine_Masters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Taylor_Swift"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_podcasters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Latrice_Royale"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manila_Luzon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PinkNews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Springville,_Alabama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Springville_High_School_(Alabama)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Naomi_Smalls"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Netflix"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orlando,_Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/YouTube"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/You_Need_to_Calm_Down"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shea_Coulee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Salzhauer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Dragcon2-SAT-40_(47937171052).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.trinitythetuck.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q58494415"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Trinity_The_Tuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u062a\u0631\u06cc\u0646\u06cc\u062a\u06cc_\u062a\u06cc\u0644\u0648\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Trinity_The_Tuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/9JbwY"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:'s"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Small"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Win"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Secret_Celebrity_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Trinity_the_Tuck_Taylor_at_Dragcon_by_dvsross_(lol).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1985-12-10"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Ryan A. Taylor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Taylor at RuPaul's Drag Race All Stars season 4 premiere in New York City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Television_personality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/website",
+        "object": "https://www.trinitythetuck.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race All Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Ryan Taylor (Birmingham; 10 de diciembre de 1984) conocido como Trinity The Tuck,\u200b es una drag queen estadounidense reconocida adem\u00e1s por participar en la novena temporada de RuPaul's Drag Race y ser ganadora de la cuarta temporada RuPaul's Drag Race: All Stars. Trinity fue conocida anteriormente como Trinity \"the Tuck\" Taylor, pero a partir del debut de la cuarta temporada de RuPaul's Drag Race: All Stars, se la conoce como Trinity the Tuck. Tambi\u00e9n ha aparecido en el videoclip You need to calm down de Taylor Swift as\u00ed como en la performance de esta canci\u00f3n en los Video Music Awards de 2019."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Ryan Taylor, plus connu sous le nom de sc\u00e8ne Trinity The Tuck, est une drag queen am\u00e9ricaine, principalement connue pour avoir particip\u00e9 \u00e0 la neuvi\u00e8me saison de RuPaul's Drag Race et \u00e0 la quatri\u00e8me et septi\u00e8me saison de RuPaul's Drag Race : All Stars. Pendant la saison 9 de RuPaul's Drag Race, Trinity est connue sous le nom de Trinity Taylor, mais son nom de sc\u00e9ne change au d\u00e9but de la saison 4 de RuPaul's Drag Race: All Stars, elle est connue maintenant et seulement sous le nom de Trinity The Tuck."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Ryan A. Taylor, known professionally as Trinity \"The Tuck\" Taylor or just Trinity the Tuck (born December 10, 1985), is an American drag queen and recording artist best known for competing on the ninth season of RuPaul's Drag Race and for winning the fourth season of RuPaul's Drag Race All Stars, shared with Mon\u00e9t X Change. She went by Trinity \"the Tuck\" Taylor on her original season, but on the first episode of All Stars, she indicated that she would henceforth go simply by Trinity the Tuck. Trinity recently competed on the seventh season of RuPaul's Drag Race All Stars, the first all winners edition of the franchise."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Trinity_the_Tuck?oldid=1123230287&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "36433"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Ryan A. Taylor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1985"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Television_personality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Trinity_the_Tuck__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trinity_the_Tuck>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Trinity_the_Tuck"
+    }
+]

@@ -1,0 +1,1507 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBibleCommentators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLinguistsFromTheNetherlands"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromAmsterdam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromMadeira"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Advocate109774783"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Apologist109798534"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Cabalist109885534"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Expert109617867"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Linguist110264437"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Observer110369528"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Philosopher110423589"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Printer110475297"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishApologists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishPhilosophers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatKabbalists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Worker109632518"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/SkilledWorker110605985"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat17th-centuryPrinters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDutchPhilosophers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEarlyModernPhilosophers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleOfTheInterregnum(England)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPortuguesePeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPrinters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Menasseh Ben Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Menasse ben Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Menasseh Ben Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Manasse ben Isra\u00ebl"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Menasseh Ben Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30e1\u30ca\u30bb\u30fb\u30d9\u30f3\u30fb\u30a4\u30b9\u30e9\u30a8\u30eb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Menasseh Ben Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Menasseh ben Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u041c\u0430\u043d\u0430\u0441\u0441\u0435 \u0431\u0435\u043d-\u0418\u0437\u0440\u0430\u0438\u043b\u044c"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Menasseh Ben Israel, en israeli\u00e0 \u05de\u05e0\u05e9\u05d4 \u05d1\u05df \u05d9\u05e9\u05e8\u05d0\u05dc (Madeira (Portugal) en 1604 - Middelburg de 1657) fou un dels te\u00f2legs jueus m\u00e9s famosos del segle xvii."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Menasse ben Israel (geboren 1604 in Lissabon oder La Rochelle; gestorben am 20. November 1657 in Middelburg, Niederlande) war ein sephardischer Jude, Gelehrter, Diplomat, Schriftsteller, Kabbalist, Drucker und Verleger. Er ist auch unter dem hebr\u00e4ischen Akronym MB\"Y bekannt."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Menasseh Ben Israel, nacido en Madeira en 1604 y fallecido en Middelburg en 1657, fue un rabino, escritor, diplom\u00e1tico y editor jud\u00edo de origen portugu\u00e9s. Fund\u00f3 la primera imprenta hebrea en \u00c1msterdam, en 1626, en la que public\u00f3 varias de sus obras, tanto en castellano como en lat\u00edn."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Manoel Dias Soeiro (1604 \u2013 20 November 1657), better known by his Hebrew name Menasseh ben Israel (\u05de\u05e0\u05e9\u05d4 \u05d1\u05df \u05d9\u05e9\u05e8\u05d0\u05dc\u200e), also known as Menasheh ben Yossef ben Yisrael, also known with the Hebrew acronym, MB\"Y or MBI, was a Portuguese rabbi, kabbalist, writer, diplomat, printer, publisher, and founder of the first Hebrew printing press (named Emeth Meerets Titsma`h) in Amsterdam in 1626."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Manass\u00e9 ben Isra\u00ebl ou Manass\u00e9 ben Yossef ben Yisrael, parfois abr\u00e9g\u00e9 MB\"Y, n\u00e9 sous le nom de Manuel Dias Soeiro en 1604 \u00e0 Mad\u00e8re et mort le 20 novembre 1657 \u00e0 Middelbourg, est un rabbin, kabbaliste, \u00e9crivain, \u00e9rudit, diplomate, imprimeur et \u00e9diteur portugais. Fondateur de la premi\u00e8re maison de presse h\u00e9bra\u00efque, appel\u00e9e Emeth Meerets Titsma`h, \u00e0 Amsterdam en 1626, il fut l'ami de Rembrandt."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u30e1\u30ca\u30bb\u30fb\u30d9\u30f3\u30fb\u30a4\u30b9\u30e9\u30a8\u30eb\uff08\u30d8\u30d6\u30e9\u30a4\u8a9e\uff1aMenasseh Ben Israel (\u05de\u05e0\u05e9\u05d4 \u05d1\u05df \u05d9\u05e9\u05e8\u05d0\u05dc)\u3001\u30dd\u30eb\u30c8\u30ac\u30eb\u8a9e\uff1aManoel Dias Soeiro\u30011604\u5e74-1657\u5e7411\u670820\u65e5\uff09\u306f\u30e6\u30c0\u30e4\u6559\u306e\u795e\u5b66\u8005\u3001\u30e9\u30d3\u3001\u30ab\u30d0\u30e9\u601d\u60f3\u5bb6\u3001\u4f5c\u5bb6\u3001\u5916\u4ea4\u5b98\u3001\u51fa\u7248\u8005\u3002\u30dd\u30eb\u30c8\u30ac\u30eb\u51fa\u8eab\u3002\u300c\u30de\u30ca\u30bb\u30fb\u30d9\u30f3\u30fb\u30a4\u30b9\u30e9\u30a8\u30eb\u300d\u3068\u3082\u3002 1290\u5e74\u306b\u30e6\u30c0\u30e4\u4eba\u3092\u8ffd\u653e\u3057\u305f\u30a4\u30ae\u30ea\u30b9\u3078\u306e\u30e6\u30c0\u30e4\u4eba\u5e30\u9084\u3092\u8acb\u9858\u3057\u4ea4\u6e09\u3057\u305f\u3002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u041c\u0430\u043d\u0430\u0441\u0441\u0435 (\u0438\u043b\u0438 \u041c\u0435\u043d\u0430\u0441\u0441\u0435, \u041c\u0435\u043d\u0430\u0448\u0435) \u0431\u0435\u043d-\u0418\u0437\u0440\u0430\u0438\u043b\u044c (\u0438\u0432\u0440. \u200f\u05e8\u05f3 \u05de\u05e0\u05e9\u05d4 \u05d1\u05bc\u05df \u05d9\u05e9\u05d3\u05d0\u05dc\u200f\u200e; \u0440\u043e\u0434. \u0432 \u041b\u0430-\u0420\u043e\u0448\u0435\u043b\u044c \u043e\u043a. 1604 \u0433.; \u0443\u043c\u0435\u0440 \u0432 \u041c\u0438\u0434\u0434\u0435\u043b\u0431\u0443\u0440\u0433\u0435 (\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b) 26 \u043d\u043e\u044f\u0431\u0440\u044f 1657 \u0433.) \u2014 \u043d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0439 \u0438 \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u0438\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c \u043f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u044c\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044f; \u0440\u0430\u0437\u043d\u043e\u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0438\u0439 \u0443\u0447\u0451\u043d\u044b\u0439: \u0431\u043e\u0433\u043e\u0441\u043b\u043e\u0432, \u0444\u0438\u043b\u043e\u0441\u043e\u0444, \u0442\u0430\u043b\u043c\u0443\u0434\u0438\u0441\u0442 \u0438 \u0431\u0438\u0431\u043b\u0435\u0439\u0441\u043a\u0438\u0439 \u044d\u043a\u0437\u0435\u0433\u0435\u0442. \u0423\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c \u043f\u0435\u0440\u0432\u043e\u0439 \u0432 \u0413\u043e\u043b\u043b\u0430\u043d\u0434\u0438\u0438 \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u043e\u0439 \u0442\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u0438. \u0421\u043f\u043e\u0441\u043e\u0431\u0441\u0442\u0432\u043e\u0432\u0430\u043b \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u044e \u0435\u0432\u0440\u0435\u0435\u0432 \u0432 \u0410\u043d\u0433\u043b\u0438\u044e \u0432 XVII \u0432\u0435\u043a\u0435. \u0411\u044b\u043b \u0437\u043d\u0430\u043a\u043e\u043c \u0441 \u0420\u0435\u043c\u0431\u0440\u0430\u043d\u0434\u0442\u043e\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u044b\u0433\u0440\u0430\u0432\u0438\u0440\u043e\u0432\u0430\u043b \u0435\u0433\u043e \u043f\u043e\u0440\u0442\u0440\u0435\u0442."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Menasseh ben Israel (Madeira, 1604 \u2014 Middelburg, Pa\u00edses Baixos, 20 de novembro de 1657), nascido Manuel Dias Soeiro, foi um l\u00edder religioso da comunidade judaica de Amesterd\u00e3o, fundador da primeira impressora portuguesa naquela cidade e incentivador da moderna comunidade judaica na Inglaterra. Foi o primeiro rabino portugu\u00eas formado em Amesterd\u00e3o."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Manoel Dias Soeiro (Manuel Dias Soeiro, Madeira 1604 \u2014 Middelburg, 20 november 1657, joodse jaartelling 5364-5417) werd bekend onder zijn Hebreeuwse naam Menasseh Ben Israel (Hebreeuws: \u05de\u05e0\u05e9\u05d4 \u05d1\u05df \u05d9\u05e9\u05e8\u05d0\u05dc) ook als Menasheh ben Yossef ben Yisrael geschreven.\", zijn acroniem was MB\"Y. Hij was een afstammeling van de gezaghebbende rabbijn Jitschak Abarbanel, \"de Abarbanel\" genoemd, uit Sevilla. De familie beweerde \"van de stam van David te zijn\"."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Menasseh Ben Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Menasseh Ben Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/De_Resurrectione_Mortuorum,_Menassah_Ben_Israel.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Menasseh_T.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Menasseh_ben_Israel.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Menasseh_ben_Israel_1642.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Signature_of_Menasseh_Ben_Israel.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Madeira_Island"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Kingdom_of_Portugal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Dutch_Republic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Middelburg,_Zeeland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Dutch_Republic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Middelburg,_Zeeland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1657-11-20"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Madeira_Island"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Kingdom_of_Portugal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Madeira"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_apologists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Bible_commentators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_printing_and_publishing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1604_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_English_history"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_of_the_Interregnum_(England)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Portuguese_emigrants_to_the_Dutch_Republic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Chief_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Sephardi_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1657_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:17th-century_Dutch_businesspeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:17th-century_Dutch_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:17th-century_Sephardi_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:17th-century_printers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Dutch_Sephardi_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Amsterdam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_associated_with_Baruch_Spinoza"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Dutch_Golden_Age_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "1041802"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123799401"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ambrose_Barnes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Menasse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baruch_Spinoza"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brazil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Madeira"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antonio_de_Montezinos"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Sadler_(Town_Clerk_of_London)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Haim_of_Ouderkerk_aan_de_Amstel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rembrandt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Boyle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_apologists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Printing_press"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Twelve_Years'_Truce"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Commonwealth_of_England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rump_Parliament"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salom_Italia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oliver_St_John"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christina,_Queen_of_Sweden"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_I_of_England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eighty_Years'_War"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gale_(publisher)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moses_Jacob_Ezekiel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Brightman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Hobbes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Millenarianism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ant\u00f3nio_Vieira"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arise_Evans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonardo_Padura_Fuentes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucien_Wolf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madeira_Island"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Malmesbury"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steven_Nadler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thomas_Pocock_(clergyman)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Surinam_(English_colony)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Bible_commentators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_printing_and_publishing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/British_Museum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adam_Boreel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1604_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_commentaries_on_the_Bible"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Dury"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Evelyn's_Diary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amsterdam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dutch_Republic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abraham_Israel_Pereyra"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_English_history"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_of_the_Interregnum_(England)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Portuguese_emigrants_to_the_Dutch_Republic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerardus_Vossius"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ismar_Schorsch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel_Sarug"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Puritan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Prynne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Bible"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isaac_Abarbanel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isaac_La_Peyr\u00e8re"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isaac_Luria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ten_Lost_Tribes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Hague"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Hartlib"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Chief_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Sephardi_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abraham_Cohen_de_Herrera"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1657_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:17th-century_Dutch_businesspeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:17th-century_Dutch_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:17th-century_Sephardi_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:17th-century_printers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Dutch_Sephardi_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Amsterdam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_associated_with_Baruch_Spinoza"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Evelyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Milton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kabbalah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Spencer_(English_politician)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Jessey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Oldenburg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portugal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portuguese_Inquisition"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portuguese_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spanish_and_Portuguese_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hugo_Grotius"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Indigenous_peoples_of_the_Americas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kingdom_of_Portugal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kislev"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Messiah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Middelburg,_Zeeland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Netherlands"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oliver_Cromwell"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Dutch_Golden_Age_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ralph_Cudworth"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Recife"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pierre_Daniel_Huet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marrano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilgul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moses_Raphael_de_Aguilar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talmud"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Petrus_Serrarius"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whitehall_Conference"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Printer_(publisher)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biblioteca_Nacional_do_Rio_de_Janeiro"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philosemite"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Council_of_State_(England)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marranos"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sephardic_Jew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ouderkerk_a/d_Amstel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Menasseh_ben_Israel.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Menasseh_T.JPG"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elias_Haim_Lindo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:De_Resurrectione_Mortuorum,_Menassah_Ben_Israel.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vindiciae_judaeorum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.hebrewbooks.org/pdfpager.aspx%3Freq=46762&st=&pgnum=1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/manasseh-menasseh-ben-israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.chabad.org/library/article.asp%3FAID=111879"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://cf.uba.uva.nl/en/collections/rosenthaliana/menasseh/collectie.html"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.jewishpress.com/sections/features/features-on-jewish-world/rabbi-menashe-ben-israel-the-chacham-who-opened-england-to-jews/2021/02/04/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.versopolis.com/long-read/587/enlightenment-as-a-harmonious-strategy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://archive.org/stream/menassehbenisrae00manauoft%23page/16/mode/2up"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20150707034959/http:/omeka.wustl.edu/omeka/exhibits/show/brisman/printinginamsterdam/item/7017"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.sefaria.org/On_Resurrection_of_the_Dead"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.jewishencyclopedia.com/view.jsp%3Fartid=126&letter=M"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.040wdz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Menasseh_Ben_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/118985140"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/64807689"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://purl.org/collections/nl/am/p-41874"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q733629"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p070202354"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0645\u0646\u0633\u0649_\u0628\u0646_\u0627\u0633\u0631\u0627\u0626\u064a\u0644"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ca.dbpedia.org/resource/Menasseh_Ben_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Menasse_ben_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Menasseh_Ben_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fi.dbpedia.org/resource/Manasse_ben_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Manasse_ben_Isra\u00ebl"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://gl.dbpedia.org/resource/Menasseh_Ben_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05de\u05e0\u05e9\u05d4_\u05d1\u05df_\u05d9\u05e9\u05e8\u05d0\u05dc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://hu.dbpedia.org/resource/Manass\u00e9_ben_Izr\u00e1el"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ja.dbpedia.org/resource/\u30e1\u30ca\u30bb\u30fb\u30d9\u30f3\u30fb\u30a4\u30b9\u30e9\u30a8\u30eb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nl.dbpedia.org/resource/Menasseh_Ben_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nn.dbpedia.org/resource/Menasseh_Ben_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://no.dbpedia.org/resource/Menasseh_Ben_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pt.dbpedia.org/resource/Menasseh_ben_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u041c\u0430\u043d\u0430\u0441\u0441\u0435_\u0431\u0435\u043d-\u0418\u0437\u0440\u0430\u0438\u043b\u044c"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yi.dbpedia.org/resource/\u05de\u05e0\u05e9\u05d4_\u05d1\u05df_\u05d9\u05e9\u05e8\u05d0\u05dc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4uE6V"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Blockquote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_book"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:EB1911"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Em"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:ISBN"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Needs_IPA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Refn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Script/Hebrew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_year"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_NIE"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_EJ"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Menasseh_ben_Israel_1642.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/restingPlace",
+        "object": "http://dbpedia.org/resource/Ouderkerk_a/d_Amstel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/signature",
+        "object": "Signature of Menasseh Ben Israel.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/authorlink",
+        "object": "Israel Abrahams"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Engraved portrait by Salom Italia, 1642"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1657-11-20"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/first",
+        "object": "Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/last",
+        "object": "Abrahams"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/page",
+        "object": "112"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/volume",
+        "object": "18"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/property/wstitle",
+        "object": "Menasseh ben Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Menasseh Ben Israel, en israeli\u00e0 \u05de\u05e0\u05e9\u05d4 \u05d1\u05df \u05d9\u05e9\u05e8\u05d0\u05dc (Madeira (Portugal) en 1604 - Middelburg de 1657) fou un dels te\u00f2legs jueus m\u00e9s famosos del segle xvii."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Menasse ben Israel (geboren 1604 in Lissabon oder La Rochelle; gestorben am 20. November 1657 in Middelburg, Niederlande) war ein sephardischer Jude, Gelehrter, Diplomat, Schriftsteller, Kabbalist, Drucker und Verleger. Er ist auch unter dem hebr\u00e4ischen Akronym MB\"Y bekannt."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Menasseh Ben Israel, nacido en Madeira en 1604 y fallecido en Middelburg en 1657, fue un rabino, escritor, diplom\u00e1tico y editor jud\u00edo de origen portugu\u00e9s. Fund\u00f3 la primera imprenta hebrea en \u00c1msterdam, en 1626, en la que public\u00f3 varias de sus obras, tanto en castellano como en lat\u00edn."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Manoel Dias Soeiro (1604 \u2013 20 November 1657), better known by his Hebrew name Menasseh ben Israel (\u05de\u05e0\u05e9\u05d4 \u05d1\u05df \u05d9\u05e9\u05e8\u05d0\u05dc\u200e), also known as Menasheh ben Yossef ben Yisrael, also known with the Hebrew acronym, MB\"Y or MBI, was a Portuguese rabbi, kabbalist, writer, diplomat, printer, publisher, and founder of the first Hebrew printing press (named Emeth Meerets Titsma`h) in Amsterdam in 1626."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Manass\u00e9 ben Isra\u00ebl ou Manass\u00e9 ben Yossef ben Yisrael, parfois abr\u00e9g\u00e9 MB\"Y, n\u00e9 sous le nom de Manuel Dias Soeiro en 1604 \u00e0 Mad\u00e8re et mort le 20 novembre 1657 \u00e0 Middelbourg, est un rabbin, kabbaliste, \u00e9crivain, \u00e9rudit, diplomate, imprimeur et \u00e9diteur portugais. Fondateur de la premi\u00e8re maison de presse h\u00e9bra\u00efque, appel\u00e9e Emeth Meerets Titsma`h, \u00e0 Amsterdam en 1626, il fut l'ami de Rembrandt."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u30e1\u30ca\u30bb\u30fb\u30d9\u30f3\u30fb\u30a4\u30b9\u30e9\u30a8\u30eb\uff08\u30d8\u30d6\u30e9\u30a4\u8a9e\uff1aMenasseh Ben Israel (\u05de\u05e0\u05e9\u05d4 \u05d1\u05df \u05d9\u05e9\u05e8\u05d0\u05dc)\u3001\u30dd\u30eb\u30c8\u30ac\u30eb\u8a9e\uff1aManoel Dias Soeiro\u30011604\u5e74-1657\u5e7411\u670820\u65e5\uff09\u306f\u30e6\u30c0\u30e4\u6559\u306e\u795e\u5b66\u8005\u3001\u30e9\u30d3\u3001\u30ab\u30d0\u30e9\u601d\u60f3\u5bb6\u3001\u4f5c\u5bb6\u3001\u5916\u4ea4\u5b98\u3001\u51fa\u7248\u8005\u3002\u30dd\u30eb\u30c8\u30ac\u30eb\u51fa\u8eab\u3002\u300c\u30de\u30ca\u30bb\u30fb\u30d9\u30f3\u30fb\u30a4\u30b9\u30e9\u30a8\u30eb\u300d\u3068\u3082\u3002 1290\u5e74\u306b\u30e6\u30c0\u30e4\u4eba\u3092\u8ffd\u653e\u3057\u305f\u30a4\u30ae\u30ea\u30b9\u3078\u306e\u30e6\u30c0\u30e4\u4eba\u5e30\u9084\u3092\u8acb\u9858\u3057\u4ea4\u6e09\u3057\u305f\u3002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Manoel Dias Soeiro (Manuel Dias Soeiro, Madeira 1604 \u2014 Middelburg, 20 november 1657, joodse jaartelling 5364-5417) werd bekend onder zijn Hebreeuwse naam Menasseh Ben Israel (Hebreeuws: \u05de\u05e0\u05e9\u05d4 \u05d1\u05df \u05d9\u05e9\u05e8\u05d0\u05dc) ook als Menasheh ben Yossef ben Yisrael geschreven.\", zijn acroniem was MB\"Y. Hij was een afstammeling van de gezaghebbende rabbijn Jitschak Abarbanel, \"de Abarbanel\" genoemd, uit Sevilla. De familie beweerde \"van de stam van David te zijn\". De veelzijdige jood was een schrijver, een Portugees-Isra\u00eblitisch rabbijn, geleerde, diplomaat, drukker en uitgever. Hij richtte in 1626 in Amsterdam de eerste Europese Hebreeuwse drukkerij, Emeth Meerets Titsma`h, op. Zijn waarmerk was een wapenschild met een afbeelding van de \"wandelende Jood\". Hij werd opgeleid in Amsterdam tot rabbijn en volgde in 1622 zijn leraar op in de Portugese gemeente Neve Salom. Maar in de verenigde Portugese gemeente speelde hij nooit een hoofdrol: hij was actief als onder meer leraar."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u041c\u0430\u043d\u0430\u0441\u0441\u0435 (\u0438\u043b\u0438 \u041c\u0435\u043d\u0430\u0441\u0441\u0435, \u041c\u0435\u043d\u0430\u0448\u0435) \u0431\u0435\u043d-\u0418\u0437\u0440\u0430\u0438\u043b\u044c (\u0438\u0432\u0440. \u200f\u05e8\u05f3 \u05de\u05e0\u05e9\u05d4 \u05d1\u05bc\u05df \u05d9\u05e9\u05d3\u05d0\u05dc\u200f\u200e; \u0440\u043e\u0434. \u0432 \u041b\u0430-\u0420\u043e\u0448\u0435\u043b\u044c \u043e\u043a. 1604 \u0433.; \u0443\u043c\u0435\u0440 \u0432 \u041c\u0438\u0434\u0434\u0435\u043b\u0431\u0443\u0440\u0433\u0435 (\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b) 26 \u043d\u043e\u044f\u0431\u0440\u044f 1657 \u0433.) \u2014 \u043d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0441\u043a\u0438\u0439 \u0438 \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u0438\u0439 \u0434\u0435\u044f\u0442\u0435\u043b\u044c \u043f\u043e\u0440\u0442\u0443\u0433\u0430\u043b\u044c\u0441\u043a\u043e\u0433\u043e \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0436\u0434\u0435\u043d\u0438\u044f; \u0440\u0430\u0437\u043d\u043e\u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0438\u0439 \u0443\u0447\u0451\u043d\u044b\u0439: \u0431\u043e\u0433\u043e\u0441\u043b\u043e\u0432, \u0444\u0438\u043b\u043e\u0441\u043e\u0444, \u0442\u0430\u043b\u043c\u0443\u0434\u0438\u0441\u0442 \u0438 \u0431\u0438\u0431\u043b\u0435\u0439\u0441\u043a\u0438\u0439 \u044d\u043a\u0437\u0435\u0433\u0435\u0442. \u0423\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c \u043f\u0435\u0440\u0432\u043e\u0439 \u0432 \u0413\u043e\u043b\u043b\u0430\u043d\u0434\u0438\u0438 \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u043e\u0439 \u0442\u0438\u043f\u043e\u0433\u0440\u0430\u0444\u0438\u0438. \u0421\u043f\u043e\u0441\u043e\u0431\u0441\u0442\u0432\u043e\u0432\u0430\u043b \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u044e \u0435\u0432\u0440\u0435\u0435\u0432 \u0432 \u0410\u043d\u0433\u043b\u0438\u044e \u0432 XVII \u0432\u0435\u043a\u0435. \u0411\u044b\u043b \u0437\u043d\u0430\u043a\u043e\u043c \u0441 \u0420\u0435\u043c\u0431\u0440\u0430\u043d\u0434\u0442\u043e\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u044b\u0433\u0440\u0430\u0432\u0438\u0440\u043e\u0432\u0430\u043b \u0435\u0433\u043e \u043f\u043e\u0440\u0442\u0440\u0435\u0442."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Menasseh ben Israel (Madeira, 1604 \u2014 Middelburg, Pa\u00edses Baixos, 20 de novembro de 1657), nascido Manuel Dias Soeiro, foi um l\u00edder religioso da comunidade judaica de Amesterd\u00e3o, fundador da primeira impressora portuguesa naquela cidade e incentivador da moderna comunidade judaica na Inglaterra. Foi o primeiro rabino portugu\u00eas formado em Amesterd\u00e3o."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/64807689"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Menasseh_Ben_Israel?oldid=1123799401&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "28160"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/restingPlace",
+        "object": "http://dbpedia.org/resource/Ouderkerk_a/d_Amstel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1604"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1657"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Menasseh_Ben_Israel__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menasseh_Ben_Israel>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Menasseh_Ben_Israel"
+    }
+]

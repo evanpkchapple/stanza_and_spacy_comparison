@@ -1,0 +1,822 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBibleCommentators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromDaugavpils"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Expert109617867"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Observer110369528"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatKohanimWritersOfRabbinicLiterature"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Me'ir Simcha z Dvinsku"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Meir Simcha de Dvinsk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Meir Simcha of Dvinsk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rabi Me'ir Simcha z Dvinsku (1843 \u2013 14. srpna 1926), zn\u00e1m\u00fd tak\u00e9 jako Me'ir Simcha ha-Kohen (hebrejsky \u05de\u05d0\u05d9\u05e8 \u05e9\u05de\u05d7\u05d4 \u05d4\u05db\u05d4\u05df \u05de\u05d3\u05d5\u05d5\u05d9\u05e0\u05e1\u05e7\u200e), byl rab\u00edn a vedouc\u00ed osobnost ortodoxn\u00edho judaismu ve v\u00fdchodn\u00ed Evrop\u011b na po\u010d\u00e1tku 20. stolet\u00ed. Proslavil se sv\u00fdmi koment\u00e1\u0159i k Rambamov\u011b Mi\u0161ne Tora, nazvan\u00fdmi a koment\u00e1\u0159i k To\u0159e, nazvan\u00fdmi Me\u0161ech chochma."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Meir Simcha de Dvinsk connu comme Meir Simcha ha-Kohen (Meir Simcha le Cohen) (en h\u00e9breu:: \u05de\u05d0\u05d9\u05e8 \u05e9\u05de\u05d7\u05d4 \u05d4\u05db\u05d4\u05df \u05de\u05d3\u05d5\u05d5\u05d9\u05e0\u05e1\u05e7), n\u00e9 en 1843 \u00e0 Butrimonys, Lituanie et mort le 14 ao\u00fbt 1926 \u00e0 Riga en Lettonie, est un rabbin orthodoxe, c\u00e9l\u00e8bre pour ses commentaires sur le Mishneh Torah de Maimonide, qu'il intitule ((\"Joyeuse Lumi\u00e8re\"), ainsi que par son ouvrage sur la Torah intitul\u00e9 Meshech Chochma."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Meir Simcha of Dvinsk (1843\u20131926) was a rabbi and prominent leader of Orthodox Judaism in Eastern Europe in the early 20th century. He was a kohen, and is therefore often referred to as Meir Simcha ha-Kohen (\"Meir Simcha the Kohen\"). He is known for his writings on Maimonides' Mishneh Torah, which he titled Ohr Somayach, as well as his novellae on the Torah, titled Meshech Chochma."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Ohr_Sameach.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Lithuania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Butrimonys"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Riga"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Latvia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Riga"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Latvia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Lithuania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Butrimonys"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1843_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1926_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Bible_commentators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Haredi_rabbis_in_Europe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_rabbis_from_the_Russian_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Kohanim_writers_of_Rabbinic_literature"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Russian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Daugavpils"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Lithuanian_Haredi_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "779354"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1114253362"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rogatchover_Gaon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rotterdam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bia\u0142ystok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Book_of_Job"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detroit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lithuania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pen_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Riga"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ukraine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Kingdom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ohr_Somayach,_Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ohr_Somayach,_Monsey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ohr_Somayach,_South_Africa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ohr_Somayach_(book)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mishneh_Torah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Montreal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maimonides"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haredi_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Avraham_Mordechai_Alter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bad_Homburg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Balfour_Declaration"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1843_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1926_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Bible_commentators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Butrimonys"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Haredi_rabbis_in_Europe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Three_Oaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toronto"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hasidic_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem_Talmud"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_philosophy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daugavpils"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eastern_Europe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chumash_(Judaism)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moshe_Shmuel_Glasner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halacha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halakha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baal_teshuva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Holocaust"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_rabbis_from_the_Russian_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Kohanim_writers_of_Rabbinic_literature"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Russian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Daugavpils"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katowice"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kaunas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kiev"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Latvia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sydney"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zionism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lithuanian_Haredi_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Book_of_Proverbs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kohen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cantonist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yisrael_Meir_Kagan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Responsa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talmud"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agudath_Yisrael"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mitnagdim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.03bplf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Meir_Simcha_of_Dvinsk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/25762499"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1053421133"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/132396149"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q2910090"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p307923509"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0645\u0626\u064a\u0631_\u0633\u0645\u062d\u0627_\u0645\u0646_\u062f\u0641\u064a\u0646\u0633\u0643"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://cs.dbpedia.org/resource/Me'ir_Simcha_z_Dvinsku"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Meir_Simcha_de_Dvinsk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05de\u05d0\u05d9\u05e8_\u05e9\u05de\u05d7\u05d4_\u05d4\u05db\u05d4\u05df"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://lt.dbpedia.org/resource/Meiras_Sim\u010da"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yi.dbpedia.org/resource/\u05de\u05d0\u05d9\u05e8_\u05e9\u05de\u05d7\u05d4_\u05d4\u05db\u05d4\u05df"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2hXx9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Moetzes_Gedolei_HaTorah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_book"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth-date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death-date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Ohr_Sameach.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "4"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/property/imageSize",
+        "object": "210"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi in Dvinsk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/property/parents",
+        "object": "Samson Kalonymus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rabi Me'ir Simcha z Dvinsku (1843 \u2013 14. srpna 1926), zn\u00e1m\u00fd tak\u00e9 jako Me'ir Simcha ha-Kohen (hebrejsky \u05de\u05d0\u05d9\u05e8 \u05e9\u05de\u05d7\u05d4 \u05d4\u05db\u05d4\u05df \u05de\u05d3\u05d5\u05d5\u05d9\u05e0\u05e1\u05e7\u200e), byl rab\u00edn a vedouc\u00ed osobnost ortodoxn\u00edho judaismu ve v\u00fdchodn\u00ed Evrop\u011b na po\u010d\u00e1tku 20. stolet\u00ed. Proslavil se sv\u00fdmi koment\u00e1\u0159i k Rambamov\u011b Mi\u0161ne Tora, nazvan\u00fdmi a koment\u00e1\u0159i k To\u0159e, nazvan\u00fdmi Me\u0161ech chochma."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Meir Simcha de Dvinsk connu comme Meir Simcha ha-Kohen (Meir Simcha le Cohen) (en h\u00e9breu:: \u05de\u05d0\u05d9\u05e8 \u05e9\u05de\u05d7\u05d4 \u05d4\u05db\u05d4\u05df \u05de\u05d3\u05d5\u05d5\u05d9\u05e0\u05e1\u05e7), n\u00e9 en 1843 \u00e0 Butrimonys, Lituanie et mort le 14 ao\u00fbt 1926 \u00e0 Riga en Lettonie, est un rabbin orthodoxe, c\u00e9l\u00e8bre pour ses commentaires sur le Mishneh Torah de Maimonide, qu'il intitule ((\"Joyeuse Lumi\u00e8re\"), ainsi que par son ouvrage sur la Torah intitul\u00e9 Meshech Chochma."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Meir Simcha of Dvinsk (1843\u20131926) was a rabbi and prominent leader of Orthodox Judaism in Eastern Europe in the early 20th century. He was a kohen, and is therefore often referred to as Meir Simcha ha-Kohen (\"Meir Simcha the Kohen\"). He is known for his writings on Maimonides' Mishneh Torah, which he titled Ohr Somayach, as well as his novellae on the Torah, titled Meshech Chochma."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/25762499"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Meir_Simcha_of_Dvinsk?oldid=1114253362&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "8645"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1843"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "0014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Daugavpils"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Meir_Simcha_of_Dvinsk"
+    }
+]

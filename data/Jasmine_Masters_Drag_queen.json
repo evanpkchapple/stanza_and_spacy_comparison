@@ -1,0 +1,722 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jasmine Masters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jasmine Masters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0416\u0430\u0441\u043c\u0456\u043d \u041c\u0430\u0441\u0442\u0435\u0440\u0441"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Martell Robinson (born October 16, 1976), known by the stage name Jasmine Masters, is an American drag queen, internet celebrity, YouTuber, and stand-up comedian. He is best known for competing on the seventh season of RuPaul's Drag Race and RuPaul's Drag Race All Stars season 4. Robinson is responsible for several viral videos, many of which have become memes, most notably And I Oop! which was the most used gif of 2019."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Martell Robinson, plus connu sous le nom de sc\u00e8ne Jasmine Masters, est un acteur, chanteur, humoriste et drag queen am\u00e9ricain, principalement connu pour avoir particip\u00e9 \u00e0 la septi\u00e8me saison de RuPaul's Drag Race et \u00e0 la quatri\u00e8me saison de RuPaul's Drag Race: All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0416\u0430\u0441\u043c\u0456\u043d \u041c\u0430\u0441\u0442\u0435\u0440\u0441 (\u0430\u043d\u0433\u043b. Jasmine Masters) \u0441\u0446\u0435\u043d\u0456\u0447\u043d\u0435 \u0456\u043c'\u044f \u041c\u0430\u0440\u0442\u0435\u043b\u0430 \u0420\u043e\u0431\u0456\u043d\u0441\u043e\u043d\u0430 (\u0430\u043d\u0433\u043b. Martell Robinson) (\u043d\u0430\u0440.16 \u0436\u043e\u0432\u0442\u043d\u044f 1976) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0430 \u0414\u0440\u0435\u0433-\u043a\u0432\u0456\u043d, \u0456\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0437\u0456\u0440\u043a\u0430, \u044e\u0442\u0443\u0431\u0435\u0440 \u0442\u0430 \u0441\u0442\u0435\u043d\u0434-\u0430\u043f \u043a\u043e\u043c\u0456\u043a. \u041a\u0440\u0430\u0449\u0435 \u0432\u0456\u0434\u043e\u043c\u0430 \u0441\u0432\u043e\u0454\u044e \u0443\u0447\u0430\u0441\u0442\u044e \u0443 7 \u0441\u0435\u0437\u043e\u043d\u0456 \u00abRuPaul's Drag Race\u00bb \u0442\u0430 4 \u0441\u0435\u0437\u043e\u043d\u0456 \u00abRuPaul's Drag Race All Stars\u00bb. \u00abNew York Magazine\u00bb \u043d\u0430\u0437\u0432\u0430\u0432 \u041c\u0430\u0441\u0442\u0435\u0440\u0441 \u043e\u0434\u043d\u0456\u0454\u044e \u0437 \u043d\u0430\u0439\u0432\u043f\u043b\u0438\u0432\u043e\u0432\u0456\u0448\u0438\u0445 \u0434\u0440\u0435\u0491-\u043a\u0432\u0456\u043d \u0410\u043c\u0435\u0440\u0438\u043a\u0438 \u0432 \u0447\u0435\u0440\u0432\u043d\u0456 2019 \u0440\u043e\u043a\u0443."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Jasmine Masters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Jasmine Masters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Jasmine_Masters.png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Los_Angeles_County"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Los Angeles County, California, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1976-10-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_African_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1977_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Shorty_Award_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_male_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "44632721"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1119467810"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_10)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_11)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_7)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_9)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_4)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_Holi-slay_Spectacular"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billboard_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Honey_Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patti_LaBelle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stage_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ginger_Minj"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giphy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miz_Cracker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_Normal_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles_County"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTV_Video_Music_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shorty_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_African_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trinity_the_Tuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ts_Madison"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Twitter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willam_Belli"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adam_Joseph"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1977_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eureka_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/First_Sunday"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Access_(U.S._TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nina_Bo'nina_Brown"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pandora_Boxx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stand-up_comedy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Shorty_Award_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Internet_meme"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jasmine_Guy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tammie_Brown"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snatch_Game"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Justin_Bieber"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kennedy_Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kimora_Blac"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Latrice_Royale"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Phi_Phi_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miley_Cyrus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shangela"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shea_Coule\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Viral_video"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shangela_Laquifa_Wadley"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Memes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vlog"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gif"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/d72473aa-b62f-4cd5-8f0a-16554b74362d"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q50874742"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u064a\u0627\u0633\u0645\u064a\u0646_\u0645\u0627\u0633\u062a\u0631\u0632"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Jasmine_Masters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://uk.dbpedia.org/resource/\u0416\u0430\u0441\u043c\u0456\u043d_\u041c\u0430\u0441\u0442\u0435\u0440\u0441"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/5fC3V"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Won"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_YouTube_personality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Jasmine_Masters.png?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1976-10-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Martell Robinson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Masters in 2017"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen, actor, singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "1997"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Martell Robinson (born October 16, 1976), known by the stage name Jasmine Masters, is an American drag queen, internet celebrity, YouTuber, and stand-up comedian. He is best known for competing on the seventh season of RuPaul's Drag Race and RuPaul's Drag Race All Stars season 4. Robinson is responsible for several viral videos, many of which have become memes, most notably And I Oop! which was the most used gif of 2019."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Martell Robinson, plus connu sous le nom de sc\u00e8ne Jasmine Masters, est un acteur, chanteur, humoriste et drag queen am\u00e9ricain, principalement connu pour avoir particip\u00e9 \u00e0 la septi\u00e8me saison de RuPaul's Drag Race et \u00e0 la quatri\u00e8me saison de RuPaul's Drag Race: All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0416\u0430\u0441\u043c\u0456\u043d \u041c\u0430\u0441\u0442\u0435\u0440\u0441 (\u0430\u043d\u0433\u043b. Jasmine Masters) \u0441\u0446\u0435\u043d\u0456\u0447\u043d\u0435 \u0456\u043c'\u044f \u041c\u0430\u0440\u0442\u0435\u043b\u0430 \u0420\u043e\u0431\u0456\u043d\u0441\u043e\u043d\u0430 (\u0430\u043d\u0433\u043b. Martell Robinson) (\u043d\u0430\u0440.16 \u0436\u043e\u0432\u0442\u043d\u044f 1976) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0430 \u0414\u0440\u0435\u0433-\u043a\u0432\u0456\u043d, \u0456\u043d\u0442\u0435\u0440\u043d\u0435\u0442 \u0437\u0456\u0440\u043a\u0430, \u044e\u0442\u0443\u0431\u0435\u0440 \u0442\u0430 \u0441\u0442\u0435\u043d\u0434-\u0430\u043f \u043a\u043e\u043c\u0456\u043a. \u041a\u0440\u0430\u0449\u0435 \u0432\u0456\u0434\u043e\u043c\u0430 \u0441\u0432\u043e\u0454\u044e \u0443\u0447\u0430\u0441\u0442\u044e \u0443 7 \u0441\u0435\u0437\u043e\u043d\u0456 \u00abRuPaul's Drag Race\u00bb \u0442\u0430 4 \u0441\u0435\u0437\u043e\u043d\u0456 \u00abRuPaul's Drag Race All Stars\u00bb. \u00abNew York Magazine\u00bb \u043d\u0430\u0437\u0432\u0430\u0432 \u041c\u0430\u0441\u0442\u0435\u0440\u0441 \u043e\u0434\u043d\u0456\u0454\u044e \u0437 \u043d\u0430\u0439\u0432\u043f\u043b\u0438\u0432\u043e\u0432\u0456\u0448\u0438\u0445 \u0434\u0440\u0435\u0491-\u043a\u0432\u0456\u043d \u0410\u043c\u0435\u0440\u0438\u043a\u0438 \u0432 \u0447\u0435\u0440\u0432\u043d\u0456 2019 \u0440\u043e\u043a\u0443."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Jasmine_Masters?oldid=1119467810&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "23363"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "1997"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Martell Robinson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1976"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Jasmine_Masters__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jasmine_Masters>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Jasmine_Masters"
+    }
+]

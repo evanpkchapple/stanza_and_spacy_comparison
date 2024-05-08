@@ -1,0 +1,667 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Farrah Moan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Farrah Moan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Farrah Moan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Farrah Moan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Farrah Moan (eigentlich Cameron Clayton; * 11. September 1993 in Houston, Texas) ist eine US-amerikanische Dragqueen und Internet-Pers\u00f6nlichkeit. 2017 nahm sie an der neunten Staffel von RuPaul's Drag Race teil, wo sie den achten Platz belegte, sowie 2018 an der vierten Staffel des AllStars-Spinoffs."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Cameron Clayton, better known by the stage name Farrah Moan, (born September 11, 1993), is an American drag queen, model, actor, make-up artist and internet personality best known for participating in the ninth season of the reality TV show RuPaul's Drag Race, placing eighth, as well as participating in the 4th season of All Stars, where she placed 9th. Her stage name is a pun on the term \"pheromone\", whilst also being a reference to American actress Farrah Fawcett. In some interviews, Farrah jokingly states that her drag surname is a reference to \"being a whore\"."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Cameron Clayton, n\u00e9 le 11 septembre 1993, plus connu sous le nom de sc\u00e8ne Farrah Moan, est un mannequin, make-up artist et drag queen am\u00e9ricain. Il est principalement connu pour sa participation \u00e0 la neuvi\u00e8me saison de RuPaul's Drag Race, o\u00f9 il se place huiti\u00e8me. Son nom de sc\u00e8ne est un jeu de mots entre la substance chimique \u00ab ph\u00e9romone \u00bb et le terme moan signifiant \u00ab g\u00e9mir \u00bb en anglais, tout en \u00e9tant une r\u00e9f\u00e9rence \u00e0 l'actrice am\u00e9ricaine Farrah Fawcett. Dans quelques interviews, Cameron dit de mani\u00e8re humoristique que son nom de sc\u00e8ne \u00ab fait tra\u00een\u00e9e \u00bb."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Cameron Clayton (Houston, 11 de setembro de 1993), mais conhecido pelo nome art\u00edstico Farrah Moan, \u00e9 um modelo e drag queen norte-americano. Ganhou notoriedade ao participar da nona temporada do reality-show RuPaul's Drag Race, bem como de sua vers\u00e3o All Stars durante a quarta temporada. Seu nome art\u00edstico \u00e9 uma refer\u00eancia \u00e0 atriz Farrah Fawcett."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_9)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Farrah Moan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Farrah Moan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Farrah_Moan_Signature.svg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rupaul_Dragcon_2018-293_(41377495904)_(cropped).png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1993-09-11"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1993_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Male_actors_from_Houston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Male_actors_from_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Klein_High_School_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "53495553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1119467662"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_10)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_11)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_9)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_4)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Men.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Huda_Boss"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cynthia_Lee_Fontaine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Valentina_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(production_company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christina_Aguilera"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grace_Gaustad"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Myspace"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Trixie_&_Katya_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lisa_Vanderpump"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Logo_TV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Houston,_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Austin,_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1993_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Male_actors_from_Houston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Todrick_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Watch_What_Happens_Live_with_Andy_Cohen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lip_sync"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexis_Michelle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Farrah_Fawcett"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Issues_(band)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jasmine_Masters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Male_actors_from_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kimora_Blac"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Model_(person)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Klein_High_School_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manny_MUA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pheromone"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Klein_High_School"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michelle_Visage"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newcastle_upon_Tyne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Opening_Ceremony_(brand)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shea_Coule\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roast_(comedy)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Variety_show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q30119146"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Farrah_Moan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u0641\u0631\u0627\u0647_\u0645\u0648\u0627\u0646"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Farrah_Moan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pt.dbpedia.org/resource/Farrah_Moan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2nmG6"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Official_website"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:See_also"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Tooltip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rupaul_Dragcon_2018-293_(41377495904)_(cropped).png?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/signature",
+        "object": "File:Farrah Moan Signature.svg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/Klein_High_School"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1993-09-11"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Cameron Clayton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Farrah Moan at RuPaul's DragCon LA 2018"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Model_(person)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/otherNames",
+        "object": "Cameron Ugh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2012"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Farrah Moan (eigentlich Cameron Clayton; * 11. September 1993 in Houston, Texas) ist eine US-amerikanische Dragqueen und Internet-Pers\u00f6nlichkeit. 2017 nahm sie an der neunten Staffel von RuPaul's Drag Race teil, wo sie den achten Platz belegte, sowie 2018 an der vierten Staffel des AllStars-Spinoffs."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Cameron Clayton, better known by the stage name Farrah Moan, (born September 11, 1993), is an American drag queen, model, actor, make-up artist and internet personality best known for participating in the ninth season of the reality TV show RuPaul's Drag Race, placing eighth, as well as participating in the 4th season of All Stars, where she placed 9th. Her stage name is a pun on the term \"pheromone\", whilst also being a reference to American actress Farrah Fawcett. In some interviews, Farrah jokingly states that her drag surname is a reference to \"being a whore\"."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Cameron Clayton, n\u00e9 le 11 septembre 1993, plus connu sous le nom de sc\u00e8ne Farrah Moan, est un mannequin, make-up artist et drag queen am\u00e9ricain. Il est principalement connu pour sa participation \u00e0 la neuvi\u00e8me saison de RuPaul's Drag Race, o\u00f9 il se place huiti\u00e8me. Son nom de sc\u00e8ne est un jeu de mots entre la substance chimique \u00ab ph\u00e9romone \u00bb et le terme moan signifiant \u00ab g\u00e9mir \u00bb en anglais, tout en \u00e9tant une r\u00e9f\u00e9rence \u00e0 l'actrice am\u00e9ricaine Farrah Fawcett. Dans quelques interviews, Cameron dit de mani\u00e8re humoristique que son nom de sc\u00e8ne \u00ab fait tra\u00een\u00e9e \u00bb."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Cameron Clayton (Houston, 11 de setembro de 1993), mais conhecido pelo nome art\u00edstico Farrah Moan, \u00e9 um modelo e drag queen norte-americano. Ganhou notoriedade ao participar da nona temporada do reality-show RuPaul's Drag Race, bem como de sua vers\u00e3o All Stars durante a quarta temporada. Seu nome art\u00edstico \u00e9 uma refer\u00eancia \u00e0 atriz Farrah Fawcett."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Farrah_Moan?oldid=1119467662&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "15163"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2012"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/alias",
+        "object": "Cameron Ugh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Cameron Clayton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1993"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/Klein_High_School"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_9)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Farrah_Moan__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Model_(person)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Farrah_Moan>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Farrah_Moan"
+    }
+]

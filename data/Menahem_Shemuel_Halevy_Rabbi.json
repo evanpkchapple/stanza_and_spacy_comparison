@@ -1,0 +1,597 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Emigrant110051975"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Migrant110314952"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ReligiousLeader110519494"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ReligiousPerson109628382"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIranianEmigrantsToIsrael"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIranianReligiousLeaders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Traveler109629752"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Menahem Shemuel Halevy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Menahem Shemuel Halevy (Hebrew: \u05de\u05e0\u05d7\u05dd \u05e9\u05de\u05d5\u05d0\u05dc \u05d4\u05dc\u05d5\u05d9; lived 1884-1940 ) was a prominent Iranian Rabbi of the early 20th century. He fought against persecution in Iran and wrote numerous books. Halevy served the Jewish Congregation of Hamadan, first in Iran and later in Jerusalem, as a Rabbi, a Judge and an educator. While in Hamadan, he held the position of a teacher in the Alliance Isra\u00e9lite Universelle, and later as its principal. Moreover, he was the Jewish congregation's civil leader and representative to the Municipality of Hamadan. As the spiritual shepherd of his people, he insisted on teaching everyone the Hebrew language, the respect of the Torah and the love of the homeland, Zion. Being a gifted writer, he published poetry books, essays and historical books, both in Hebrew and Persian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Menahem Shemuel Halevy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Menahem Shemuel Halevy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Hamedan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Jerusalem, British Mandate for Palestine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Hamadan, Iran"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Iranian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1884_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1940_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Burials_at_the_Jewish_cemetery_on_the_Mount_of_Olives"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Iranian_religious_leaders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Iranian_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Iranian_emigrants_to_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "6719005"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1013629567"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pragmatism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mizrachi_(religious_Zionism)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beirut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holy_Land"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Persia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Persian_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cultural_assimilation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shia_Islam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mashhad"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Egypt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mumbai"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Iranian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mahatma_Gandhi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Keren_Hayesod"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bah\u00e1\u02bc\u00ed_Faith"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1884_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1940_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alliance_Isra\u00e9lite_Universelle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Damascus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yehuda_Halevi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Histadrut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Iranian_peoples"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Islam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hamedan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Burials_at_the_Jewish_cemetery_on_the_Mount_of_Olives"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Iranian_religious_leaders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Iranian_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Iranian_emigrants_to_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lebanon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Idealism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/India"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mesopotamia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shabbat"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yemen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vaad"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0gkbhw"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Menahem_Shemuel_Halevy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/297251656"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q15983651"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0645\u0646\u0627\u062d\u0645_\u0634\u0645\u0648\u0626\u064a\u0644_\u0647\u0644\u064a\u0641\u0649"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u0645\u0646\u0627\u0647\u06cc\u0645_\u0634\u0645\u0648\u0626\u0644_\u0647\u0627\u0644\u0648\u06cc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05de\u05e0\u05d7\u05dd_\u05e9\u05de\u05d5\u05d0\u05dc_\u05d4\u05dc\u05d5\u05d9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/b1u6"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nofootnotes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1884"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "Esther, Shoshana, Hayim, Shimon, Meir"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1940"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/property/nativeName",
+        "object": "\u05de\u05e0\u05d7\u05dd \u05e9\u05de\u05d5\u05d0\u05dc \u05d4\u05dc\u05d5\u05d9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/property/nativeNameLang",
+        "object": "Hebrew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, Teacher, School principal, envoy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/property/parents",
+        "object": "Shemuel and Rachel Halevy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Rivka, Monavar Chanum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Menahem Shemuel Halevy (Hebrew: \u05de\u05e0\u05d7\u05dd \u05e9\u05de\u05d5\u05d0\u05dc \u05d4\u05dc\u05d5\u05d9; lived 1884-1940 ) was a prominent Iranian Rabbi of the early 20th century. He fought against persecution in Iran and wrote numerous books. Halevy served the Jewish Congregation of Hamadan, first in Iran and later in Jerusalem, as a Rabbi, a Judge and an educator. While in Hamadan, he held the position of a teacher in the Alliance Isra\u00e9lite Universelle, and later as its principal. Moreover, he was the Jewish congregation's civil leader and representative to the Municipality of Hamadan. As the spiritual shepherd of his people, he insisted on teaching everyone the Hebrew language, the respect of the Torah and the love of the homeland, Zion. Being a gifted writer, he published poetry books, essays and historical books, both in Hebrew and Persian, of the Jews of Iran in general and of Hamadan in particular."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/297251656"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Menahem_Shemuel_Halevy?oldid=1013629567&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "11232"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1884"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1940"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Menahem_Shemuel_Halevy__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Menahem_Shemuel_Halevy>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Menahem_Shemuel_Halevy"
+    }
+]

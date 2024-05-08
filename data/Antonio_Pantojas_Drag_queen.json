@@ -1,0 +1,737 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanFemaleImpersonators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanTelevisionTalkShowHosts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTEntertainersFromPuertoRico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatVaudevillePerformers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromR\u00edoPiedras,PuertoRico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Actor109765278"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/BadPerson109831962"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Comedian109940146"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Deceiver109998101"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Entertainer109616922"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Host110187130"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Impersonator110200365"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Performer110415638"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wrongdoer109633969"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPuertoRicanComedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPuertoRicanMaleActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPuertoRicanMaleStageActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Antonio Pantojas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Antonio Pantojas (November 25, 1948 \u2013 October 2, 2017) was an actor, comedian, dancer and a pioneer in the art of drag."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Antonio Pantojas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Antonio Pantojas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Santurce,_Puerto_Rico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/New_York,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/New_York,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2017-10-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Santurce,_Puerto_Rico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1948-11-25"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_entertainers_from_Puerto_Rico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1948_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Puerto_Rican_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Puerto_Rican_male_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2017_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_television_talk_show_hosts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_R\u00edo_Piedras,_Puerto_Rico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Puerto_Rican_male_stage_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "789489"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1052404800"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Juan,_Puerto_Rico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juliet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Puerto_Ricans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Per\u00fa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Under_My_Nails"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Puerto_Rico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Comedian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Estragon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Subdivisions_of_San_Juan,_Puerto_Rico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_entertainers_from_Puerto_Rico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marian_Pab\u00f3n"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1948_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Puerto_Rican_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Puerto_Rican_male_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/WIPR-TV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Waiting_for_Godot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walter_Mercado"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weekend_at_Bernie's"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isaac_Chocr\u00f3n"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexandre_Dumas,_fils"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dancer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_(clothing)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Federico_Garc\u00eda_Lorca"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Florence"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PBS"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pozzo_(Waiting_for_Godot)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2017_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor's_degree"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Full_Monty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_television_talk_show_hosts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_R\u00edo_Piedras,_Puerto_Rico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Puerto_Rican_male_stage_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jesus_Christ_Superstar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Herod_Antipas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dominican_Republic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santurce,_San_Juan,_Puerto_Rico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Lady_of_the_Camellias"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transvestism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santurce,_Puerto_Rico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_vaudeville_performers:_L-Z"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/La_casa_de_Bernarda_Alba"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Three_Penny_Opera"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Variet\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ballets_de_San_Juan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/La_cage_aux_folles_(musical)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Latin_American_Theater_Festival"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matienzo_Theater"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Jos\u00e9_Ballet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://prpop.org/biografias/antonio-pantojas/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.03cc8b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Antonio_Pantojas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q4776854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0627\u0646\u062a\u0648\u0646\u064a\u0648_\u067e\u0627\u0646\u062a\u0648\u0686\u0627\u0633"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4RotZ"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1948-11-25"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "2017-10-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Actor, Female impersonator, Dancer, Comedian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "1968"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Antonio Pantojas (November 25, 1948 \u2013 October 2, 2017) was an actor, comedian, dancer and a pioneer in the art of drag."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/property/wordnet_type",
+        "object": "http://www.w3.org/2006/03/wn/wn20/instances/synset-actor-noun-1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Antonio_Pantojas?oldid=1052404800&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "6336"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsEndYear",
+        "object": "2017"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "1968"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1948"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "2017"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/imdbId",
+        "object": "0659868"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Comedian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Dancer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Antonio_Pantojas__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Antonio_Pantojas>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Antonio_Pantojas"
+    }
+]

@@ -1,0 +1,1152 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanComedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanMaleVoiceActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanStand-upComedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanVoiceActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTComedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Actor109765278"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Aristocrat109807754"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Comedian109940146"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Entertainer109616922"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/FemaleAristocrat110083823"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Performer110415638"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Queen110499355"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGayActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDragQueens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Miss Coco Peru"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Miss Coco Peru"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Miss Coco Peru"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Miss Coco Peru"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Miss Coco Peru, eigentlich Clinton Leupp (* 1965) ist ein US-amerikanischer Schauspieler und insbesondere als Drag Queen in den Vereinigten Staaten bekannt."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Clinton Leupp, conosciuto con il nome d'arte di Miss Coco Peru (New York, 27 agosto 1965), \u00e8 un attore e comico statunitense, noto per le sue performance da drag queen e cabarettista. Ha partecipato ai film A Wong Foo, grazie di tutto! Julie Newmar, e Trick, inoltre \u00e8 stato ospite di serie televisive come Will & Grace e Arrested Development - Ti presento i miei. Ha partecipato anche ai film e e nel 2006 ha prestato la voce a mamma Ippopotamo nel film d'animazione Uno zoo in fuga."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Miss Coco Peru (born August 27, 1965) is the drag persona of American actor, comedian and drag performer Clinton Leupp, known for her role in the 1999 independent film Trick and for her series of live theater performances. Recognizable by her \"trademark copper-toned flip hairdo\", Peru also starred in Richard Day's Girls Will Be Girls (2003) and was one of six performers featured in the Logo original stand-up comedy series Wisecrack (2005). She has also appeared in a number of other supporting and guest-starring roles in film and television."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Miss Coco Peru, nombre art\u00edstico de Clinton Leupp, es una artista, drag queen estadounidense, m\u00e1s conocido por su papel en la pel\u00edcula independiente Trick (1999).\u200b Peru tambi\u00e9n protagoniz\u00f3 la pel\u00edcula (2003) de , fue uno de los seis actores que protagonizaban la serie de mon\u00f3logos humor\u00edsticos (2005) de Logo y tuvo un cameo en la comedia To Wong Foo, Thanks for Everything! Julie Newmar (1995). Ha aparecido en numerosas series de televisi\u00f3n en papeles secundarios o como estrella invitada, incluyendo Will & Grace, el programa de telerrealidad del canal de televisi\u00f3n estadounidense y la comedia (como la mujer del jefe del estudio S.R.O. que es lesbiana en secreto). En 2009 present\u00f3 en directo los 20 premios anuales \u00abGLAAD Media\u00bb en el teatro Nokia de Los \u00c1ngeles.\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Miss Coco Peru"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Clinton Leupp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Miss Coco Peru"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Miss_Coco_Peru_at_RuPaul's_Dragcon_2017_by_dvsross.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Coco_Peru_by_David_Shankbone.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/United_States_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/United_States_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1965-08-27"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_male_voice_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_stand-up_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Episcopalians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1965_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_City_Island,_Bronx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Cardinal_Spellman_High_School_(New_York_City)_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "6184486"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1101265272"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cardinal_Spellman_High_School_(New_York_City)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Castro_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Williams"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rude_Awakening_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bravo_(US_TV_channel)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Varla_Jean_Merman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bea_Arthur"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bette_Midler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boy_Meets_Boy_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dead_End:_Paranormal_Park"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detroit_1-8-7"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/How_I_Met_Your_Mother"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arrested_Development_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rick_&_Steve:_The_Happiest_Gay_Couple_in_All_the_World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stop_motion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_voice_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_stand-up_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Comedian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/City_Island,_Bronx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Episcopal_Church_(United_States)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GLAAD_Media_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilligan's_Island"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Public_Theater"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Wild"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lesley_Ann_Warren"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lily_Tomlin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liza_Minnelli"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles_Times"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Showtime_(TV_network)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sissy_Frenchfry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Situation_comedy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stonewall_riots"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Straight-Jacket"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Police_procedural"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Episcopalians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tina_Louise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/To_Wong_Foo_Thanks_for_Everything,_Julie_Newmar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tori_Spelling"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trick_(1999_film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tumblr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Twins_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Twitter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walt_Disney_Pictures"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Welcome_to_the_Parker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whoopi_Goldberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Will_&_Grace"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Girls_Will_Be_Girls_(film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adelphi_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allison_Janney"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1965_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_(clothing)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Facebook"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nick_and_Jane"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Outfest"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dragula_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stand-up_comedy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Day_(writer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jack_Plotnick"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jane_Fonda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Architect_of_Destruction"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arrested_Development_(TV_Series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_City_Island,_Bronx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Busch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jim_Fall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Karen_Black"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lainie_Kazan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Laurie_Beechman_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Cardinal_Spellman_High_School_(New_York_City)_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Logo_(TV_channel)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Netflix"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_Undercover"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orbitz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shaman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles_LGBT_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MAC_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Web_series"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wigstock:_The_Movie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/YouTuber"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Backstage_Bistro_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Two_spirits"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Watch_What_Happens_Live"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Renberg_Theater"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reparative_therapy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ovation_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/U.S._Comedy_Arts_Festival"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Coco_Peru_interviewed_by_David_Shankbone_in_New_York_City.ogg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Miss_Coco_Peru_at_RuPaul's_Dragcon_2017_by_dvsross.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://therealmisscocoperu.tumblr.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.misscocoperu.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://twitter.com/themisscocoperu"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20071209173631/http:/www.girlswillbegirlsonline.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.facebook.com/misscocoperufans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0fvp00"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Miss_Coco_Peru"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q456460"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0645\u064a\u0633_\u0643\u0648\u0643\u0648_\u067e\u064a\u0631\u0648"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Miss_Coco_Peru"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Miss_Coco_Peru"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Miss_Coco_Peru"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4E4Rh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Over-quotation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:URL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Coco_Peru_by_David_Shankbone.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1965-08-27"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Clinton Leupp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Coco Peru backstage at The Public Theater in New York City."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/date",
+        "object": "April 2020"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/id",
+        "object": "505029"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/YouTuber"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/section",
+        "object": "yes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "2008"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Rafael Arias"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "1991"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Miss Coco Peru, eigentlich Clinton Leupp (* 1965) ist ein US-amerikanischer Schauspieler und insbesondere als Drag Queen in den Vereinigten Staaten bekannt."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Miss Coco Peru, nombre art\u00edstico de Clinton Leupp, es una artista, drag queen estadounidense, m\u00e1s conocido por su papel en la pel\u00edcula independiente Trick (1999).\u200b Peru tambi\u00e9n protagoniz\u00f3 la pel\u00edcula (2003) de , fue uno de los seis actores que protagonizaban la serie de mon\u00f3logos humor\u00edsticos (2005) de Logo y tuvo un cameo en la comedia To Wong Foo, Thanks for Everything! Julie Newmar (1995). Ha aparecido en numerosas series de televisi\u00f3n en papeles secundarios o como estrella invitada, incluyendo Will & Grace, el programa de telerrealidad del canal de televisi\u00f3n estadounidense y la comedia (como la mujer del jefe del estudio S.R.O. que es lesbiana en secreto). En 2009 present\u00f3 en directo los 20 premios anuales \u00abGLAAD Media\u00bb en el teatro Nokia de Los \u00c1ngeles.\u200b Obi ha aparecido casi siempre como \u00abCoco Peru\u00bb o \u00abMiss Coco Peru\u00bb en los cr\u00e9ditos, en vez de con su nombre real. En 2006 realiz\u00f3 su primer cr\u00e9dito como actor de voz en el papel de \u00abMam\u00e1 Hipo\u00bb en la pel\u00edcula animada The Wild."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Miss Coco Peru (born August 27, 1965) is the drag persona of American actor, comedian and drag performer Clinton Leupp, known for her role in the 1999 independent film Trick and for her series of live theater performances. Recognizable by her \"trademark copper-toned flip hairdo\", Peru also starred in Richard Day's Girls Will Be Girls (2003) and was one of six performers featured in the Logo original stand-up comedy series Wisecrack (2005). She has also appeared in a number of other supporting and guest-starring roles in film and television. For 20 years Peru has starred in various \"one-woman shows\" across the US and other countries, and hosted LGBT events. Since 2005 Peru has appeared in the \"Conversations with Coco\" series in which she \"interviews and celebrates the lives and careers of the LGBT community's favorite icons.\" Peru's guests have included Bea Arthur, Liza Minnelli, Lesley Ann Warren, Karen Black, Lily Tomlin and Jane Fonda."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Clinton Leupp, conosciuto con il nome d'arte di Miss Coco Peru (New York, 27 agosto 1965), \u00e8 un attore e comico statunitense, noto per le sue performance da drag queen e cabarettista. Ha partecipato ai film A Wong Foo, grazie di tutto! Julie Newmar, e Trick, inoltre \u00e8 stato ospite di serie televisive come Will & Grace e Arrested Development - Ti presento i miei. Ha partecipato anche ai film e e nel 2006 ha prestato la voce a mamma Ippopotamo nel film d'animazione Uno zoo in fuga."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Persona"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Miss_Coco_Peru?oldid=1101265272&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "33583"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "1991"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Clinton Leupp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1965"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/imdbId",
+        "object": "0505029"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/YouTuber"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Miss_Coco_Peru__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Miss_Coco_Peru>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Miss_Coco_Peru"
+    }
+]

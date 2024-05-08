@@ -1,0 +1,1012 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Philosopher110423589"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Precursor109627117"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatForerunnersOfZionism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromToru\u0144"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromWestPrussia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPhilosophersOfJudaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPolishPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u062a\u0633\u0641\u064a \u0647\u064a\u0631\u0634 \u0643\u0627\u0644\u064a\u0634\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Zvi Hirsch Kalischer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Zwi Hirsch Kalischer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Zvi Hirsch Kalischer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tzvi Hirsh Kalisher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Zvi Hirsch Kalischer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30c4\u30f4\u30a3\u30fb\u30ab\u30ea\u30b7\u30e3\u30fc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Cwi Hirsz Kaliszer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u041a\u0430\u043b\u0438\u0448\u0435\u0440, \u0426\u0432\u0438-\u0413\u0438\u0440\u0448"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Zvi Hirsch Kalischer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u062a\u0633\u0641\u064a \u0647\u064a\u0631\u0634 \u0643\u0627\u0644\u064a\u0634\u0631 (24 \u0645\u0627\u0631\u0633 1795 \u2013 16 \u0623\u0643\u062a\u0648\u0628\u0631 1874) \u0643\u0627\u0646 \u062d\u0627\u062e\u0627\u0645 \u0623\u0644\u0645\u0627\u0646\u064a \u0623\u0631\u062b\u0648\u0630\u0643\u0633\u064a \u0639\u0628\u0631 \u0639\u0646 \u0648\u062c\u0647\u0627\u062a \u0646\u0638\u0631\u060c \u0645\u0646 \u0645\u0646\u0638\u0648\u0631 \u062f\u064a\u0646\u064a\u060c \u0644\u0635\u0627\u0644\u062d \u0627\u0633\u062a\u064a\u0637\u0627\u0646 \u0627\u0644\u064a\u0647\u0648\u062f \u0641\u064a \u0623\u0631\u0636 \u0641\u0644\u0633\u0637\u064a\u0646\u060c \u0641\u0642\u062f \u0631\u0623\u0649 \u0627\u0646 \u0627\u0644\u0647\u062c\u0631\u0629 \u0627\u0644\u064a\u0647\u0648\u062f\u064a\u0629 \u0648\u0627\u0644\u0627\u0633\u062a\u064a\u0637\u0627\u0646 \u0628\u0641\u0644\u0633\u0637\u064a\u0646 \u062a\u0623\u062f\u064a\u0629 \u0644\u0641\u0631\u064a\u0636\u0629 \u062f\u064a\u0646\u064a\u0629 \u0639\u0644\u0649 \u0627\u0644\u064a\u0647\u0648\u062f \u0627\u0644\u0642\u064a\u0627\u0645 \u0628\u0647\u0627\u060c \u0648\u0627\u0644\u0630\u064a \u064a\u0633\u0628\u0642 \u062a\u064a\u0648\u062f\u0648\u0631 \u0647\u0631\u062a\u0632\u0644 \u0648\u0627\u0644\u062d\u0631\u0643\u0629 \u0627\u0644\u0635\u0647\u064a\u0648\u0646\u064a\u0629. \u0648\u0644\u062f \u0643\u0627\u0644\u064a\u0634\u0631 \u0628\u0645\u062f\u064a\u0646\u0629 \u0644\u0634\u0646\u0648 \u0623\u0648 \u0644\u064a\u0633\u0627 \u062d\u064a\u0646\u0647\u0627 \u0641\u064a \u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0648\u0632\u0646\u0627\u0646\u064a\u0627 \u0627\u0644\u0628\u0631\u0648\u0633\u064a\u0629 (\u0627\u0644\u064a\u0648\u0645 \u0628\u0648\u0644\u0646\u062f\u0627)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Zwi Hirsch Kalischer (auch Zvi oder Zewi Hirsch Kalischer; geboren 24. M\u00e4rz 1795 in Lissa; gestorben 16. Oktober 1874 in Thorn) war ein deutscher Rabbiner, zionistischer Denker, Talmudgelehrter, Vorl\u00e4ufer der Pal\u00e4stina-Bewegung und des religi\u00f6sen Zionismus."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Zvi (Zwi) Hirsch Kalischer (24 Maret 1795 \u2013 16 Oktober 1874) adalah seorang rabbi Ortodoks Jerman yang mengeskpresikan pandangan pemulangan Yahudi ke Tanah Israel dari sudut pandang keagamaan, yang mendahului Theodor Herzl dan gerakan Zionis. Ia adalah kakek dari ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Tzvi Hirsh Kalisher est un rabbin galicien du XIXe si\u00e8cle (Lissa, 24 mars 1795 - Thorn, 16 octobre 1874). Il est l\u2019une des premi\u00e8res figures religieuses du juda\u00efsme europ\u00e9en \u00e0 pr\u00f4ner l\u2019installation en terre d\u2019Isra\u00ebl dans une perspective th\u00e9ologique. Ses id\u00e9es en font l\u2019un des pr\u00e9curseurs du mouvement des Amants de Sion et plus indirectement du sionisme de Theodor Herzl."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Zvi (Zwi) Hirsch Kalischer (24 March 1795 \u2013 16 October 1874) was an Orthodox German rabbi who expressed views, from a religious perspective, in favour of the Jewish re-settlement of the Land of Israel, which predate Theodor Herzl and the Zionist movement. He was the grandfather of Salomon Kalischer."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u30c4\u30f4\u30a3\u30fb\u30d2\u30eb\u30b7\u30e5\u30fb\u30ab\u30ea\u30b7\u30e3\u30fc\uff08Zwi (Zevi) Hirsch Kalischer\u30011795\u5e743\u670824\u65e5 - 1874\u5e7410\u670816\u65e5\uff09\u306f\u3001\u30d7\u30ed\u30a4\u30bb\u30f3\u738b\u56fd\u306e\u30bf\u30eb\u30e0\u30fc\u30c9\u5b66\u8005\u3067\u3001\u30c9\u30a4\u30c4\u306b\u304a\u3051\u308b\u30b7\u30aa\u30cb\u30ba\u30e0\u904b\u52d5\u306e\u5148\u99c6\u8005\u3002\u30dd\u30fc\u30bc\u30f3\u7ba1\u533a\u30ea\u30c3\u30b5\uff08\u73fe\u30ec\u30b7\u30e5\u30ce\uff09\u3067\u751f\u307e\u308c\u3001\u30c8\u30eb\u30f3\uff08\u30c8\u30eb\u30cb\uff09\u3067\u4ea1\u304f\u306a\u3063\u305f\u3002 \u6b63\u7d71\u6d3e\u30e6\u30c0\u30e4\u6559\u5f92\u306e\u3046\u3061\u3067\u3001\u65e7\u6765\u306e\u3088\u3046\u306b\u3072\u305f\u3059\u3089\u30e1\u30b7\u30a2\u3092\u5f85\u3064\u306e\u3067\u306f\u306a\u304f\u3001\u7a4d\u6975\u7684\u306b\u30d1\u30ec\u30b9\u30c1\u30ca\u3078\u306e\u79fb\u4f4f\uff08\u30b7\u30aa\u30f3\u3078\u306e\u5e30\u9084\uff09\u3092\u5b9f\u73fe\u3059\u3079\u304d\u3067\u3042\u308b\u3068\u65b0\u305f\u306b\u8aac\u3044\u305f\u3002\u5b9f\u884c\u306e\u305f\u3081\u306b1836\u5e74\u306e\u624b\u7d19\u3067\u3001\u77e5\u5df1\u3067\u3042\u308b\u4e8c\u4ee3\u76ee\u306b\u3001\u30a4\u30a7\u30eb\u30b5\u30ec\u30e0\u306e\u5730\u3092\u6642\u306e\u30aa\u30b9\u30de\u30f3\u5e1d\u56fd\u306e\u541b\u4e3b\u30de\u30d5\u30e0\u30c82\u4e16\u304b\u3089\u8cb7\u3044\u53d6\u308b\u3088\u3046\u63d0\u6848\u3057\u305f\u3002 1860\u5e74\u3001\u30c8\u30eb\u30f3\u306e\u81ea\u5b85\u3067\u96c6\u4f1a\u3092\u958b\u304d\u3001\u305d\u308c\u306b\u57fa\u3065\u3044\u30661862\u5e74\u306b\u51fa\u3055\u308c\u305f\u300c\u30b7\u30aa\u30f3\u3092\u6c42\u3081\u3066\u300d\u306f\u3001\u540c\u5e74\u51fa\u7248\u3055\u308c\u305f\u30e2\u30fc\u30bc\u30b9\u30fb\u30d8\u30b9\u306e\u300c\u30ed\u30fc\u30de\u3068\u30a8\u30eb\u30b5\u30ec\u30e0\u300d\u3068\u5171\u306b\u3001\u30b7\u30aa\u30cb\u30ba\u30e0\u904b\u52d5\u306e\u6210\u7acb\u306b\u5927\u304d\u306a\u5f71\u97ff\u3092\u4e0e\u3048\u305f\u3002\u7fcc1863\u5e74\u306b\u306f\u3001\u300c\u30d1\u30ec\u30b9\u30c1\u30ca\u3078\u306e\u30e6\u30c0\u30e4\u4eba\u306e\u6b96\u6c11\u306e\u305f\u3081\u306e\u4e2d\u592e\u59d4\u54e1\u4f1a\u300d\u3092\u8a2d\u7acb\u3002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Cwi Hirsz Kaliszer (ur. 24 marca 1795 w Lesznie, zm. 16 pa\u017adziernika 1874 w Toruniu) \u2013 niemiecki rabin, jeden z pionier\u00f3w ruchu syjonistycznego. Popar\u0142 \u015bmia\u0142y pomys\u0142 emigracji \u017byd\u00f3w do Ziemi Izraela i budowy tam nowych osad rolniczych. Jego idee sta\u0142y si\u0119 podstaw\u0105 do za\u0142o\u017cenia organizacji Chowewej Syjon."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Zvi Hirsch Kalischer (Lissa, Pr\u00fassia, 24 de mar\u00e7 de 1795 - Thorn, 16 d'octubre de 1874) va ser un rab\u00ed reconegut com un dels precursors del moviment Hovevei Tsion (Els Amants de Si\u00f3) i considerat, juntament amb l'hongar\u00e8s , un antecessor lluny\u00e0 del sionisme religi\u00f3s."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Zvi Hirsch Kalischer (Lissa, Prusia, 24 de marzo de 1795 - Thorn, 16 de octubre de 1874) fue un rabino reconocido como uno de los precursores del movimiento de Hovevei Zion (los Amantes de Sion) y considerado, junto con el h\u00fangaro Yosef Natonek, un antecesor lejano del sionismo religioso.\u200b El kibutz , en el valle de Beit-Shean, lleva hoy su nombre."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0426\u0432\u0438-\u0413\u0438\u0440\u0448 \u041a\u0430\u043b\u0438\u0448\u0435\u0440 (1795\u20141874) \u2014 \u0440\u0430\u0432\u0432\u0438\u043d, \u043e\u0434\u0438\u043d \u0438\u0437 \u043e\u0441\u043d\u043e\u0432\u043e\u043f\u043e\u043b\u043e\u0436\u043d\u0438\u043a\u043e\u0432 \u0441\u0438\u043e\u043d\u0438\u0437\u043c\u0430. \u0415\u0449\u0451 \u0432 \u0440\u0430\u043d\u043d\u0435\u043c \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0435 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b \u0431\u043b\u0435\u0441\u0442\u044f\u0449\u0438\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0438 \u043f\u0440\u043e\u0441\u043b\u0430\u0432\u0438\u043b\u0441\u044f, \u043a\u0430\u043a \u043e\u0434\u0438\u043d \u0438\u0437 \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0434\u0430\u0440\u043e\u0432\u0438\u0442\u044b\u0445 \u0443\u0447\u0435\u043d\u0438\u043a\u043e\u0432 \u0440. \u0410\u043a\u0438\u0432\u044b \u042d\u0433\u0435\u0440\u0430, \u0440. \u042f\u043a\u043e\u0432\u0430 \u041b\u0438\u0441\u0441\u044b \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u0441\u0432\u0435\u0442\u0438\u043b \u0442\u043e\u0433\u0434\u0430\u0448\u043d\u0435\u0433\u043e \u0440\u0430\u0432\u0432\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u043c\u0438\u0440\u0430 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438. \u041c\u043e\u043b\u043e\u0434\u044b\u043c \u0435\u0449\u0451 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u043e\u043c \u041a\u0430\u043b\u0438\u0448\u0435\u0440 \u0437\u0430\u043d\u044f\u043b \u043c\u0435\u0441\u0442\u043e \u0440\u0430\u0432\u0432\u0438\u043d\u0430 \u0432 \u0422\u043e\u0440\u043d\u0435, \u043f\u0440\u0438\u0447\u0451\u043c \u043e\u0442\u043a\u0430\u0437\u0430\u043b\u0441\u044f \u043e\u0442 \u0432\u0441\u044f\u043a\u043e\u0433\u043e \u0432\u043e\u0437\u043d\u0430\u0433\u0440\u0430\u0436\u0434\u0435\u043d\u0438\u044f. \u0412 1842 \u0438\u043b\u0438 1843 \u0433. \u043e\u043d \u0438\u0437\u0434\u0430\u043b \u00ab\u042d\u0432\u0435\u043d \u0431\u043e\u0445\u0435\u043d\u00bb (\u05d0\u05d1\u05df \u05d1\u05d7\u05df), \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u043a 89 \u0433\u043b\u0430\u0432\u0435 \u00ab\u0425\u043e\u0448\u0435\u043d \u043c\u0438\u0448\u043f\u0430\u0442\u00bb (\u05d7\u05d5\u05e9\u05df \u05de\u05e9\u05e4\u05d8) \u2014 \u043e\u0442\u0440\u044b\u0432\u043e\u043a \u0438\u0437 \u0435\u0433\u043e \u0442\u0440\u0451\u0445\u0442\u043e\u043c\u043d\u043e\u0433\u043e \u0442\u0440\u0443\u0434\u0430 \u00ab\u041c\u043e\u0437\u043d\u0430\u0438\u043c \u043b\u0435-\u043c\u0438\u0448\u043f\u0430\u0442\u00bb (\u05de\u05d0\u05d6\u05e0\u05d9\u05d9\u05dd \u05dc\u05de\u05e9\u05e4\u05d8), \u043f\u0435\u0440\u0432\u044b\u0435 \u0434\u0432\u0435 \u0447\u0430\u0441\u0442\u0438 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u0432\u044b\u0448\u043b\u0438 \u0432 1855 \u0433\u043e\u0434\u0443, \u0442\u0440\u0435\u0442\u044c\u044f \u043e\u0441\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0440\u0443\u043a\u043e\u043f\u0438\u0441\u0438. \u0412 \u0441\u0432\u043e\u0451\u043c \u0441\u043e\u0447\u0438\u043d\u0435\u043d\u0438\u0438 \u00ab\u042d\u043c\u0443\u043d\u0430 \u044f\u0448\u0430\u0440\u0430\u00bb (1843\u20141871 \u05d0\u05de\u05d5\u05e0\u05d4 \u05d9\u05e9\u05e8\u05d4), \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0435\u043c \u043c\u0435\u0442\u0430\u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e \u043c\u043d\u043e\u0433\u0438\u043c \u0432\u043e\u043f\u0440\u043e\u0441\u0430\u043c \u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u043e\u0439 \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u0438, \u041a\u0430\u043b\u0438\u0448\u0435\u0440 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b \u043e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0437\u043d\u0430\u043a\u043e\u043c\u0441\u0442\u0432\u043e \u0441\u043e"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Zvi (Zwi) Hirsch Kalischer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Zvi  Hirsch Kalischer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Plaque_to_Kalisher_on_building_in_Toru\u0144_Old_Town.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/\u05d4\u05e8\u05d1_\u05e6\u05d1\u05d9_\u05d4\u05d9\u05e8\u05e9_\u05e7\u05dc\u05d9\u05e9\u05e8.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Province_of_Posen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Holy_Roman_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Leszno"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Kingdom_of_Prussia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Prussia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/German_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Toru\u0144"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Thorn, Prussia, German Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1874-10-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Province_of_Posen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Holy_Roman_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Leszno"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Kingdom_of_Prussia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1795-03-24"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Toru\u0144"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1795_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1874_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Philosophers_of_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_German_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:German_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Polish_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Leszno"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:German_Zionists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Forerunners_of_Zionism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "1171622"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1105094148"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Province_of_Posen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prussia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rome_and_Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Book_of_Job"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holy_Land"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holy_Roman_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christianity"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moses_Hess"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moses_Montefiore"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theodor_Herzl"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leipzig"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leszno"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Choshen_Mishpat"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haggadah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Toru\u0144"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toru\u0144"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Warsaw"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_philosophy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Land_of_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Akiva_Eger"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_Cohn_(scholar)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alliance_Isra\u00e9lite_Universelle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eastern_Europe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ecclesiastes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edmond_James_de_Rothschild"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Passover"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Korban"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1795_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1874_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Philosophers_of_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_German_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Polish_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Leszno"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_Zionists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Forerunners_of_Zionism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zionism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zionist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pleonasm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kingdom_of_Prussia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mikveh_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samson_Raphael_Hirsch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salomon_Kalischer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yaakov_Lorberbaum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talmud"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yoreh_De'ah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vistula_River"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heinrich_Gr\u00e4tz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frankfort-on-the-Main"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lyck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shulkhan_Arukh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isaac_Mo\u00efse_Cr\u00e9mieux"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Plaque_to_Kalisher_on_building_in_Toru\u0144_Old_Town.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20041114224423/http:/www.jafi.org.il/education/100/PEOPLE/BIOS/kalish.html"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20101230224513/http:/traditiononline.org/news/originals/Volume%2016/No.%201/Proto-Zionism.pdf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20130527142054/http:/www.wzo.org.il/World-Zionist-Organization"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.jewishencyclopedia.com/view.jsp%3Fartid=56&letter=K"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://jsoundbites.podbean.com/e/the-birth-of-proto-zionism-the-world-of-rav-tzvi-hirsch-kalischer/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20150420000948/http:/www.zionistarchives.org.il/en/pages/default.aspx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.04d85p"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/45360696"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Zvi_Hirsch_Kalischer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/128687592"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q244522"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p297187317"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u062a\u0633\u0641\u064a_\u0647\u064a\u0631\u0634_\u0643\u0627\u0644\u064a\u0634\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u062a\u0633\u0641\u0649_\u0647\u064a\u0631\u0634_\u0643\u0627\u0644\u064a\u0634\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ca.dbpedia.org/resource/Zvi_Hirsch_Kalischer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Zwi_Hirsch_Kalischer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Zvi_Hirsch_Kalischer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Tzvi_Hirsh_Kalisher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05e6\u05d1\u05d9_\u05d4\u05d9\u05e8\u05e9_\u05e7\u05dc\u05d9\u05e9\u05e8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://id.dbpedia.org/resource/Zvi_Hirsch_Kalischer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ja.dbpedia.org/resource/\u30c4\u30f4\u30a3\u30fb\u30ab\u30ea\u30b7\u30e3\u30fc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pl.dbpedia.org/resource/Cwi_Hirsz_Kaliszer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u041a\u0430\u043b\u0438\u0448\u0435\u0440,_\u0426\u0432\u0438-\u0413\u0438\u0440\u0448"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2Juwt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Rp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:JewishEncyclopedia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/\u05d4\u05e8\u05d1_\u05e6\u05d1\u05d9_\u05d4\u05d9\u05e8\u05e9_\u05e7\u05dc\u05d9\u05e9\u05e8.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1795-03-24"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Zvi Hirsch Kalischer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1874-10-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/imageSize",
+        "object": "200"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u062a\u0633\u0641\u064a \u0647\u064a\u0631\u0634 \u0643\u0627\u0644\u064a\u0634\u0631 (24 \u0645\u0627\u0631\u0633 1795 \u2013 16 \u0623\u0643\u062a\u0648\u0628\u0631 1874) \u0643\u0627\u0646 \u062d\u0627\u062e\u0627\u0645 \u0623\u0644\u0645\u0627\u0646\u064a \u0623\u0631\u062b\u0648\u0630\u0643\u0633\u064a \u0639\u0628\u0631 \u0639\u0646 \u0648\u062c\u0647\u0627\u062a \u0646\u0638\u0631\u060c \u0645\u0646 \u0645\u0646\u0638\u0648\u0631 \u062f\u064a\u0646\u064a\u060c \u0644\u0635\u0627\u0644\u062d \u0627\u0633\u062a\u064a\u0637\u0627\u0646 \u0627\u0644\u064a\u0647\u0648\u062f \u0641\u064a \u0623\u0631\u0636 \u0641\u0644\u0633\u0637\u064a\u0646\u060c \u0641\u0642\u062f \u0631\u0623\u0649 \u0627\u0646 \u0627\u0644\u0647\u062c\u0631\u0629 \u0627\u0644\u064a\u0647\u0648\u062f\u064a\u0629 \u0648\u0627\u0644\u0627\u0633\u062a\u064a\u0637\u0627\u0646 \u0628\u0641\u0644\u0633\u0637\u064a\u0646 \u062a\u0623\u062f\u064a\u0629 \u0644\u0641\u0631\u064a\u0636\u0629 \u062f\u064a\u0646\u064a\u0629 \u0639\u0644\u0649 \u0627\u0644\u064a\u0647\u0648\u062f \u0627\u0644\u0642\u064a\u0627\u0645 \u0628\u0647\u0627\u060c \u0648\u0627\u0644\u0630\u064a \u064a\u0633\u0628\u0642 \u062a\u064a\u0648\u062f\u0648\u0631 \u0647\u0631\u062a\u0632\u0644 \u0648\u0627\u0644\u062d\u0631\u0643\u0629 \u0627\u0644\u0635\u0647\u064a\u0648\u0646\u064a\u0629. \u0648\u0644\u062f \u0643\u0627\u0644\u064a\u0634\u0631 \u0628\u0645\u062f\u064a\u0646\u0629 \u0644\u0634\u0646\u0648 \u0623\u0648 \u0644\u064a\u0633\u0627 \u062d\u064a\u0646\u0647\u0627 \u0641\u064a \u0645\u0642\u0627\u0637\u0639\u0629 \u0628\u0648\u0632\u0646\u0627\u0646\u064a\u0627 \u0627\u0644\u0628\u0631\u0648\u0633\u064a\u0629 (\u0627\u0644\u064a\u0648\u0645 \u0628\u0648\u0644\u0646\u062f\u0627)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Zvi Hirsch Kalischer (Lissa, Pr\u00fassia, 24 de mar\u00e7 de 1795 - Thorn, 16 d'octubre de 1874) va ser un rab\u00ed reconegut com un dels precursors del moviment Hovevei Tsion (Els Amants de Si\u00f3) i considerat, juntament amb l'hongar\u00e8s , un antecessor lluny\u00e0 del sionisme religi\u00f3s. Va exercir labors de rab\u00ed durant diverses d\u00e8cades. Es va oposar fermament al moviment per a la reforma del judaisme. Va ser un dels pioners de la seva generaci\u00f3 a l'hora d'afirmar que la redempci\u00f3 dels jueus es produiria d'una manera natural, i va recolzar l'assentament en Terra d'Israel. En el seu llibre \"Drishat Zion\" (En la recerca de Si\u00f3), publicat en 1862, el rab\u00ed Kalischer proposa la fundaci\u00f3 d'una societat de construccions urbanes i agr\u00edcoles per explotar els vinyers de la Terra d'Israel, i preveu fins i tot la creaci\u00f3 d'una gu\u00e0rdia d'autodefensa jueva. Les seves idees impacten sobre Moses Hess, i quan aquest va crear la \"Societat per a la instal\u00b7laci\u00f3 en la Terra d'Israel\", que \u00e9s a m\u00e9s la primera associaci\u00f3 d'Amants de Si\u00f3 fundada a Alemanya. El rab\u00ed Kalischer va fer servir la seva influ\u00e8ncia davant de la societat Kol Israel Haverim (l'Alian\u00e7a Israelita Universal) per promoure el desenvolupament agr\u00edcola a la Terra d'Israel, i la fundaci\u00f3 de la localitat de . El kibutz Tirat-Zvi, a la vall de Bet-Xean, porta actualment el seu nom."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Zwi Hirsch Kalischer (auch Zvi oder Zewi Hirsch Kalischer; geboren 24. M\u00e4rz 1795 in Lissa; gestorben 16. Oktober 1874 in Thorn) war ein deutscher Rabbiner, zionistischer Denker, Talmudgelehrter, Vorl\u00e4ufer der Pal\u00e4stina-Bewegung und des religi\u00f6sen Zionismus."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Zvi Hirsch Kalischer (Lissa, Prusia, 24 de marzo de 1795 - Thorn, 16 de octubre de 1874) fue un rabino reconocido como uno de los precursores del movimiento de Hovevei Zion (los Amantes de Sion) y considerado, junto con el h\u00fangaro Yosef Natonek, un antecesor lejano del sionismo religioso.\u200b Desempe\u00f1\u00f3 labores de rabino durante varias d\u00e9cadas. Se opuso firmemente al movimiento para la reforma del juda\u00edsmo. Fue uno de los pioneros de su generaci\u00f3n a la hora de afirmar que la redenci\u00f3n de los jud\u00edos se producir\u00eda de un modo natural, y apoy\u00f3 el asentamiento en Tierra de Israel. En su libro \"Drishat Zion\" (En b\u00fasqueda de Si\u00f3n), publicado en 1862, el rabino Kalischer propone la fundaci\u00f3n de una sociedad de construcciones urbanas y agr\u00edcolas para explotar los vi\u00f1edos de la Tierra de Israel, y prev\u00e9 incluso la creaci\u00f3n de una guardia de autodefensa jud\u00eda. Sus ideas impactan sobre Moses Hess, y cuando \u00e9ste crea la \"Sociedad para la instalaci\u00f3n en Tierra de Israel\", que es adem\u00e1s la primera asociaci\u00f3n de Amantes de Sion instalada en Alemania. El rabino Kalischer utiliza su influencia ante la sociedad Kol Israel Haverim (la Alianza Israelita Universal) para promover el desarrollo agr\u00edcola en Tierra de Israel, y la fundaci\u00f3n de la localidad de Mikve-Israel. El kibutz , en el valle de Beit-Shean, lleva hoy su nombre."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Zvi (Zwi) Hirsch Kalischer (24 Maret 1795 \u2013 16 Oktober 1874) adalah seorang rabbi Ortodoks Jerman yang mengeskpresikan pandangan pemulangan Yahudi ke Tanah Israel dari sudut pandang keagamaan, yang mendahului Theodor Herzl dan gerakan Zionis. Ia adalah kakek dari ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Tzvi Hirsh Kalisher est un rabbin galicien du XIXe si\u00e8cle (Lissa, 24 mars 1795 - Thorn, 16 octobre 1874). Il est l\u2019une des premi\u00e8res figures religieuses du juda\u00efsme europ\u00e9en \u00e0 pr\u00f4ner l\u2019installation en terre d\u2019Isra\u00ebl dans une perspective th\u00e9ologique. Ses id\u00e9es en font l\u2019un des pr\u00e9curseurs du mouvement des Amants de Sion et plus indirectement du sionisme de Theodor Herzl."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Zvi (Zwi) Hirsch Kalischer (24 March 1795 \u2013 16 October 1874) was an Orthodox German rabbi who expressed views, from a religious perspective, in favour of the Jewish re-settlement of the Land of Israel, which predate Theodor Herzl and the Zionist movement. He was the grandfather of Salomon Kalischer."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u30c4\u30f4\u30a3\u30fb\u30d2\u30eb\u30b7\u30e5\u30fb\u30ab\u30ea\u30b7\u30e3\u30fc\uff08Zwi (Zevi) Hirsch Kalischer\u30011795\u5e743\u670824\u65e5 - 1874\u5e7410\u670816\u65e5\uff09\u306f\u3001\u30d7\u30ed\u30a4\u30bb\u30f3\u738b\u56fd\u306e\u30bf\u30eb\u30e0\u30fc\u30c9\u5b66\u8005\u3067\u3001\u30c9\u30a4\u30c4\u306b\u304a\u3051\u308b\u30b7\u30aa\u30cb\u30ba\u30e0\u904b\u52d5\u306e\u5148\u99c6\u8005\u3002\u30dd\u30fc\u30bc\u30f3\u7ba1\u533a\u30ea\u30c3\u30b5\uff08\u73fe\u30ec\u30b7\u30e5\u30ce\uff09\u3067\u751f\u307e\u308c\u3001\u30c8\u30eb\u30f3\uff08\u30c8\u30eb\u30cb\uff09\u3067\u4ea1\u304f\u306a\u3063\u305f\u3002 \u6b63\u7d71\u6d3e\u30e6\u30c0\u30e4\u6559\u5f92\u306e\u3046\u3061\u3067\u3001\u65e7\u6765\u306e\u3088\u3046\u306b\u3072\u305f\u3059\u3089\u30e1\u30b7\u30a2\u3092\u5f85\u3064\u306e\u3067\u306f\u306a\u304f\u3001\u7a4d\u6975\u7684\u306b\u30d1\u30ec\u30b9\u30c1\u30ca\u3078\u306e\u79fb\u4f4f\uff08\u30b7\u30aa\u30f3\u3078\u306e\u5e30\u9084\uff09\u3092\u5b9f\u73fe\u3059\u3079\u304d\u3067\u3042\u308b\u3068\u65b0\u305f\u306b\u8aac\u3044\u305f\u3002\u5b9f\u884c\u306e\u305f\u3081\u306b1836\u5e74\u306e\u624b\u7d19\u3067\u3001\u77e5\u5df1\u3067\u3042\u308b\u4e8c\u4ee3\u76ee\u306b\u3001\u30a4\u30a7\u30eb\u30b5\u30ec\u30e0\u306e\u5730\u3092\u6642\u306e\u30aa\u30b9\u30de\u30f3\u5e1d\u56fd\u306e\u541b\u4e3b\u30de\u30d5\u30e0\u30c82\u4e16\u304b\u3089\u8cb7\u3044\u53d6\u308b\u3088\u3046\u63d0\u6848\u3057\u305f\u3002 1860\u5e74\u3001\u30c8\u30eb\u30f3\u306e\u81ea\u5b85\u3067\u96c6\u4f1a\u3092\u958b\u304d\u3001\u305d\u308c\u306b\u57fa\u3065\u3044\u30661862\u5e74\u306b\u51fa\u3055\u308c\u305f\u300c\u30b7\u30aa\u30f3\u3092\u6c42\u3081\u3066\u300d\u306f\u3001\u540c\u5e74\u51fa\u7248\u3055\u308c\u305f\u30e2\u30fc\u30bc\u30b9\u30fb\u30d8\u30b9\u306e\u300c\u30ed\u30fc\u30de\u3068\u30a8\u30eb\u30b5\u30ec\u30e0\u300d\u3068\u5171\u306b\u3001\u30b7\u30aa\u30cb\u30ba\u30e0\u904b\u52d5\u306e\u6210\u7acb\u306b\u5927\u304d\u306a\u5f71\u97ff\u3092\u4e0e\u3048\u305f\u3002\u7fcc1863\u5e74\u306b\u306f\u3001\u300c\u30d1\u30ec\u30b9\u30c1\u30ca\u3078\u306e\u30e6\u30c0\u30e4\u4eba\u306e\u6b96\u6c11\u306e\u305f\u3081\u306e\u4e2d\u592e\u59d4\u54e1\u4f1a\u300d\u3092\u8a2d\u7acb\u3002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Cwi Hirsz Kaliszer (ur. 24 marca 1795 w Lesznie, zm. 16 pa\u017adziernika 1874 w Toruniu) \u2013 niemiecki rabin, jeden z pionier\u00f3w ruchu syjonistycznego. Popar\u0142 \u015bmia\u0142y pomys\u0142 emigracji \u017byd\u00f3w do Ziemi Izraela i budowy tam nowych osad rolniczych. Jego idee sta\u0142y si\u0119 podstaw\u0105 do za\u0142o\u017cenia organizacji Chowewej Syjon."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0426\u0432\u0438-\u0413\u0438\u0440\u0448 \u041a\u0430\u043b\u0438\u0448\u0435\u0440 (1795\u20141874) \u2014 \u0440\u0430\u0432\u0432\u0438\u043d, \u043e\u0434\u0438\u043d \u0438\u0437 \u043e\u0441\u043d\u043e\u0432\u043e\u043f\u043e\u043b\u043e\u0436\u043d\u0438\u043a\u043e\u0432 \u0441\u0438\u043e\u043d\u0438\u0437\u043c\u0430. \u0415\u0449\u0451 \u0432 \u0440\u0430\u043d\u043d\u0435\u043c \u0432\u043e\u0437\u0440\u0430\u0441\u0442\u0435 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b \u0431\u043b\u0435\u0441\u0442\u044f\u0449\u0438\u0435 \u0441\u043f\u043e\u0441\u043e\u0431\u043d\u043e\u0441\u0442\u0438 \u0438 \u043f\u0440\u043e\u0441\u043b\u0430\u0432\u0438\u043b\u0441\u044f, \u043a\u0430\u043a \u043e\u0434\u0438\u043d \u0438\u0437 \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0434\u0430\u0440\u043e\u0432\u0438\u0442\u044b\u0445 \u0443\u0447\u0435\u043d\u0438\u043a\u043e\u0432 \u0440. \u0410\u043a\u0438\u0432\u044b \u042d\u0433\u0435\u0440\u0430, \u0440. \u042f\u043a\u043e\u0432\u0430 \u041b\u0438\u0441\u0441\u044b \u0438 \u0434\u0440\u0443\u0433\u0438\u0445 \u0441\u0432\u0435\u0442\u0438\u043b \u0442\u043e\u0433\u0434\u0430\u0448\u043d\u0435\u0433\u043e \u0440\u0430\u0432\u0432\u0438\u043d\u0441\u043a\u043e\u0433\u043e \u043c\u0438\u0440\u0430 \u0413\u0435\u0440\u043c\u0430\u043d\u0438\u0438. \u041c\u043e\u043b\u043e\u0434\u044b\u043c \u0435\u0449\u0451 \u0447\u0435\u043b\u043e\u0432\u0435\u043a\u043e\u043c \u041a\u0430\u043b\u0438\u0448\u0435\u0440 \u0437\u0430\u043d\u044f\u043b \u043c\u0435\u0441\u0442\u043e \u0440\u0430\u0432\u0432\u0438\u043d\u0430 \u0432 \u0422\u043e\u0440\u043d\u0435, \u043f\u0440\u0438\u0447\u0451\u043c \u043e\u0442\u043a\u0430\u0437\u0430\u043b\u0441\u044f \u043e\u0442 \u0432\u0441\u044f\u043a\u043e\u0433\u043e \u0432\u043e\u0437\u043d\u0430\u0433\u0440\u0430\u0436\u0434\u0435\u043d\u0438\u044f. \u0412 1842 \u0438\u043b\u0438 1843 \u0433. \u043e\u043d \u0438\u0437\u0434\u0430\u043b \u00ab\u042d\u0432\u0435\u043d \u0431\u043e\u0445\u0435\u043d\u00bb (\u05d0\u05d1\u05df \u05d1\u05d7\u05df), \u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u0439 \u043a 89 \u0433\u043b\u0430\u0432\u0435 \u00ab\u0425\u043e\u0448\u0435\u043d \u043c\u0438\u0448\u043f\u0430\u0442\u00bb (\u05d7\u05d5\u05e9\u05df \u05de\u05e9\u05e4\u05d8) \u2014 \u043e\u0442\u0440\u044b\u0432\u043e\u043a \u0438\u0437 \u0435\u0433\u043e \u0442\u0440\u0451\u0445\u0442\u043e\u043c\u043d\u043e\u0433\u043e \u0442\u0440\u0443\u0434\u0430 \u00ab\u041c\u043e\u0437\u043d\u0430\u0438\u043c \u043b\u0435-\u043c\u0438\u0448\u043f\u0430\u0442\u00bb (\u05de\u05d0\u05d6\u05e0\u05d9\u05d9\u05dd \u05dc\u05de\u05e9\u05e4\u05d8), \u043f\u0435\u0440\u0432\u044b\u0435 \u0434\u0432\u0435 \u0447\u0430\u0441\u0442\u0438 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u0432\u044b\u0448\u043b\u0438 \u0432 1855 \u0433\u043e\u0434\u0443, \u0442\u0440\u0435\u0442\u044c\u044f \u043e\u0441\u0442\u0430\u043b\u0430\u0441\u044c \u0432 \u0440\u0443\u043a\u043e\u043f\u0438\u0441\u0438. \u0412 \u0441\u0432\u043e\u0451\u043c \u0441\u043e\u0447\u0438\u043d\u0435\u043d\u0438\u0438 \u00ab\u042d\u043c\u0443\u043d\u0430 \u044f\u0448\u0430\u0440\u0430\u00bb (1843\u20141871 \u05d0\u05de\u05d5\u05e0\u05d4 \u05d9\u05e9\u05e8\u05d4), \u0441\u043e\u0434\u0435\u0440\u0436\u0430\u0449\u0435\u043c \u043c\u0435\u0442\u0430\u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0438\u0441\u0441\u043b\u0435\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u043f\u043e \u043c\u043d\u043e\u0433\u0438\u043c \u0432\u043e\u043f\u0440\u043e\u0441\u0430\u043c \u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u043e\u0439 \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u0438, \u041a\u0430\u043b\u0438\u0448\u0435\u0440 \u043e\u0431\u043d\u0430\u0440\u0443\u0436\u0438\u043b \u043e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0437\u043d\u0430\u043a\u043e\u043c\u0441\u0442\u0432\u043e \u0441\u043e \u0441\u0440\u0435\u0434\u043d\u0435\u0432\u0435\u043a\u043e\u0432\u043e\u0439 \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u043e\u0439 \u0438 \u043d\u043e\u0432\u0435\u0439\u0448\u0435\u0439 \u0444\u0438\u043b\u043e\u0441\u043e\u0444\u0438\u0435\u0439; \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0437\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u0432 \u043d\u0451\u043c \u0432\u0437\u0433\u043b\u044f\u0434\u044b \u0432\u044b\u0437\u0432\u0430\u043b\u0438 \u0443\u0441\u0438\u043b\u0435\u043d\u043d\u0443\u044e \u043f\u043e\u043b\u0435\u043c\u0438\u043a\u0443, \u043d\u0430 \u043a\u043e\u0442\u043e\u0440\u0443\u044e \u041a\u0430\u043b\u0438\u0448\u0435\u0440 \u043e\u0442\u043a\u043b\u0438\u043a\u043d\u0443\u043b\u0441\u044f \u0440\u044f\u0434\u043e\u043c \u0441\u0442\u0430\u0442\u0435\u0439 \u0438 \u0437\u0430\u043c\u0435\u0442\u043e\u043a \u0432 \u00ab\u0445\u0430-\u043c\u0430\u0433\u0438\u0434\u00bb, \u00ab\u0445\u0430-\u043b\u0435\u0432\u0430\u043d\u043e\u043d\u00bb \u0438 \u00ab\u0445\u0430-\u0438\u0432\u0440\u0438\u00bb. \u0412 \u044d\u0442\u0438\u0445 \u0436\u0435 \u0436\u0443\u0440\u043d\u0430\u043b\u0430\u0445 \u041a\u0430\u043b\u0438\u0448\u0435\u0440 \u0432\u044b\u0441\u0442\u0443\u043f\u0430\u043b \u0438 \u043f\u0440\u043e\u0442\u0438\u0432 \u0438\u0434\u0435\u0439\u043d\u044b\u0445 \u043f\u043e\u0431\u043e\u0440\u043d\u0438\u043a\u043e\u0432 \u0440\u0435\u043b\u0438\u0433\u0438\u043e\u0437\u043d\u043e\u0439 \u0440\u0435\u0444\u043e\u0440\u043c\u044b \u0410\u0432\u0440\u0430\u0430\u043c\u0430 \u0413\u0435\u0439\u0433\u0435\u0440\u0430 \u0438 \u0435\u0433\u043e \u0435\u0434\u0438\u043d\u043e\u043c\u044b\u0448\u043b\u0435\u043d\u043d\u0438\u043a\u043e\u0432; \u0432 \u00abOrient\u00bb \u041a\u0430\u043b\u0438\u0448\u0435\u0440 \u0432\u044b\u0441\u0442\u0443\u043f\u0438\u043b \u043f\u0440\u043e\u0442\u0438\u0432 \u0421\u0430\u043c\u0443\u0438\u043b\u0430 \u0413\u043e\u043b\u044c\u0434\u0433\u0435\u0439\u043c\u0430 \u043f\u043e \u0432\u043e\u043f\u0440\u043e\u0441\u0443 \u043e\u0431 \u043e\u0431\u0440\u0435\u0437\u0430\u043d\u0438\u0438. \u041a\u0430\u043b\u0438\u0448\u0435\u0440 \u2014 \u043e\u0434\u0438\u043d \u0438\u0437 \u043f\u0435\u0440\u0432\u044b\u0445 \u043f\u0440\u043e\u043f\u043e\u0432\u0435\u0434\u043d\u0438\u043a\u043e\u0432 \u043f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u043e\u0444\u0438\u043b\u044c\u0441\u043a\u0438\u0445 \u0438\u0434\u0435\u0439. \u0415\u0449\u0451 \u0432 1832 \u0433. \u043e\u043d \u0437\u0430\u0434\u0443\u043c\u044b\u0432\u0430\u043b\u0441\u044f \u043d\u0430\u0434 \u0432\u043e\u043f\u0440\u043e\u0441\u043e\u043c \u043e \u0437\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u0438 \u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u044b \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u0438\u043c\u0438 \u0437\u0435\u043c\u043b\u0435\u0434\u0435\u043b\u044c\u0446\u0430\u043c\u0438. \u0412 \u043f\u0438\u0441\u044c\u043c\u0430\u0445 \u043a \u0440\u0430\u0432. \u0410\u043a\u0438\u0432\u0435 \u042d\u0433\u0435\u0440\u0443 \u0438 \u041c\u043e\u0438\u0441\u0435\u044e \u0421\u043e\u0444\u0435\u0440\u0443 \u043e\u043d \u0446\u0438\u0442\u0430\u0442\u0430\u043c\u0438 \u0438\u0437 \u043f\u0440\u043e\u0440\u043e\u0447\u0435\u0441\u0442\u0432 \u0418\u0441\u0430\u0439\u0438 \u0438 \u0442\u0430\u043b\u043c\u0443\u0434\u0438\u0447\u0435\u0441\u043a\u0438\u0445 \u0438 \u0440\u0430\u0432\u0432\u0438\u043d\u0441\u043a\u0438\u0445 \u0430\u0432\u0442\u043e\u0440\u0438\u0442\u0435\u0442\u043e\u0432 \u0441\u0442\u0430\u0440\u0430\u043b\u0441\u044f \u0434\u043e\u043a\u0430\u0437\u0430\u0442\u044c, \u0447\u0442\u043e \u0438\u0441\u0445\u043e\u0434 \u0435\u0432\u0440\u0435\u0435\u0432 \u0438\u0437 \u0438\u0437\u0433\u043d\u0430\u043d\u0438\u044f (\u00ab\u0433\u0430\u043b\u0443\u0442 \u044d\u0434\u043e\u043c\u00bb) \u0441\u0432\u0435\u0440\u0448\u0438\u0442\u0441\u044f \u0435\u0441\u0442\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u043c \u043f\u0443\u0442\u0451\u043c, \u0438 \u0447\u0442\u043e \u043b\u0438\u0448\u044c \u043f\u043e\u0441\u043b\u0435 \u0442\u043e\u0433\u043e \u043a\u0430\u043a \u0432 \u0421\u0432\u044f\u0442\u043e\u0439 \u0417\u0435\u043c\u043b\u0435 \u0441\u043a\u043e\u043d\u0446\u0435\u043d\u0442\u0440\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0435 \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u043e\u0435 \u043d\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u0441\u0442\u0430\u043d\u0435\u0442 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b\u043c \u043f\u043e\u044f\u0432\u043b\u0435\u043d\u0438\u0435 \u041c\u0435\u0441\u0441\u0438\u0438. \u041e\u043d \u043f\u0440\u0435\u0434\u043b\u0430\u0433\u0430\u043b \u043f\u043e\u044d\u0442\u043e\u043c\u0443 \u043f\u0440\u0435\u0434\u0441\u0442\u0430\u0432\u0438\u0442\u0435\u043b\u044f\u043c \u0435\u0432\u0440\u0435\u0439\u0441\u0442\u0432\u0430 \u0437\u0430\u043d\u044f\u0442\u044c\u0441\u044f \u0434\u0432\u043e\u0439\u043d\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u043e\u0439: \u0434\u043e\u0431\u0438\u0442\u044c\u0441\u044f \u0443 \u0442\u0443\u0440\u0435\u0446\u043a\u043e\u0433\u043e \u0441\u0443\u043b\u0442\u0430\u043d\u0430 \u0440\u0430\u0437\u0440\u0435\u0448\u0435\u043d\u0438\u044f \u043f\u0440\u0438\u043d\u043e\u0441\u0438\u0442\u044c \u043d\u0430 \u0433\u043e\u0440\u0435 \u041c\u043e\u0440\u0438\u044f (\u0425\u0440\u0430\u043c\u043e\u0432\u0430\u044f \u0433\u043e\u0440\u0430) \u0436\u0435\u0440\u0442\u0432\u044b \u043f\u043e \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u043e\u043c\u0443 \u043e\u0431\u0440\u044f\u0434\u0443 \u0438 \u043f\u0440\u0438\u0441\u0442\u0443\u043f\u0438\u0442\u044c \u043a \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u044e \u0432 \u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0435 \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u0438\u0445 \u0437\u0435\u043c\u043b\u0435\u0434\u0435\u043b\u044c\u0447\u0435\u0441\u043a\u0438\u0445 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0439 \u043f\u043e\u0434 \u043f\u043e\u043a\u0440\u043e\u0432\u0438\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e\u043c \u0435\u0432\u0440\u043e\u043f\u0435\u0439\u0441\u043a\u0438\u0445 \u0434\u0435\u0440\u0436\u0430\u0432. \u041f\u0440\u043e\u043f\u0430\u0433\u0430\u043d\u0434\u0435 \u044d\u0442\u043e\u0439 \u0437\u0430\u0432\u0435\u0442\u043d\u043e\u0439 \u043c\u0435\u0447\u0442\u044b \u041a\u0430\u043b\u0438\u0448\u0435\u0440 \u043f\u043e\u0441\u0432\u044f\u0442\u0438\u043b \u0441\u0432\u043e\u0451 \u043d\u0430\u0438\u0431\u043e\u043b\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e\u0435 \u0441\u043e\u0447\u0438\u043d\u0435\u043d\u0438\u0435 \u05d3\u05e8\u05d9\u05e9\u05ea \u05e6\u05d9\u05d5\u05df \u00ab\u0414\u0440\u0438\u0448\u0430\u0442 \u0426\u0438\u043e\u043d\u00bb (1862, 2 \u0438\u0437\u0434. \u0422\u043e\u0440\u043d, 1866, 8 \u0438\u0437\u0434. \u0412\u0430\u0440\u0448\u0430\u0432\u0430, 1899, \u043d\u0435\u043c\u0435\u0446\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0432\u043e\u0434 \u041f\u043e\u043f\u0435\u0440\u0430 \u043f\u043e\u0434 \u0437\u0430\u0433\u043b\u0430\u0432\u0438\u0435\u043c \u00abHerstellung Zions\u00bb, \u0422\u043e\u0440\u043d, \u0432 1865 \u0433.), \u0442\u0440\u0430\u043a\u0442\u0443\u044e\u0449\u0435\u0435 \u043e \u0444\u043e\u0440\u043c\u0430\u0445 \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0438\u0441\u0445\u043e\u0434\u0430 \u0438\u0437 \u0433\u0430\u043b\u0443\u0442\u0430, \u043e \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u0442\u0438 \u043a\u043e\u043b\u043e\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u044b \u0438 \u043e \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u043e\u0441\u0442\u0438, \u0441 \u0442\u043e\u0447\u043a\u0438 \u0437\u0440\u0435\u043d\u0438\u044f \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u043e\u0439 \u0440\u0435\u043b\u0438\u0433\u0438\u0438, \u043f\u0440\u0438\u043d\u0435\u0441\u0435\u043d\u0438\u044f \u0436\u0435\u0440\u0442\u0432 \u043d\u0430 \u043c\u0435\u0441\u0442\u0435 \u0436\u0435\u0440\u0442\u0432\u0435\u043d\u043d\u0438\u043a\u0430 \u043d\u0430 \u0425\u0440\u0430\u043c\u043e\u0432\u043e\u0439 \u0433\u043e\u0440\u0435 \u0432 \u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c\u0435 \u0434\u043e \u0432\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u0445\u0440\u0430\u043c\u0430. \u042d\u0442\u043e \u0441\u043e\u0447\u0438\u043d\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u0438\u0437\u0432\u0435\u043b\u043e \u0431\u043e\u043b\u044c\u0448\u043e\u0435 \u0432\u043f\u0435\u0447\u0430\u0442\u043b\u0435\u043d\u0438\u0435, \u0438 \u043f\u043e\u0434 \u0435\u0433\u043e \u0432\u043b\u0438\u044f\u043d\u0438\u0435\u043c \u0441\u0438\u043b\u044c\u043d\u043e \u0432\u043e\u0437\u0440\u043e\u0441\u043b\u043e \u0447\u0438\u0441\u043b\u043e \u0441\u0442\u043e\u0440\u043e\u043d\u043d\u0438\u043a\u043e\u0432 \u0444\u0440\u0430\u043d\u043a\u0444\u0443\u0440\u0442\u0441\u043a\u043e\u0433\u043e \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430 \u0437\u0430\u0441\u0435\u043b\u0435\u043d\u0438\u044f \u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u044b (\u05d7\u05d1\u05e8\u05d4 \u05dc\u05d9\u05d9\u05e9\u05d5\u05d1 \u05d0\u05e8\u05e5 \u05d9\u05e9\u05e8\u05d0\u05dc) (\u043d\u0435\u043c. Israelistischer Verein zur Kolonisation von Pal\u00e4stina), \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e \u0432 1861 \u0433. \u0440\u0430\u0432. \u0425\u0430\u0438\u043c\u043e\u043c \u041b\u0443\u0440\u044c\u0435. \u0412\u043e\u043f\u0440\u043e\u0441\u0443 \u043e \u0434\u043e\u043f\u0443\u0441\u0442\u0438\u043c\u043e\u0441\u0442\u0438 \u043f\u0440\u0438\u043d\u0435\u0441\u0435\u043d\u0438\u044f \u0436\u0435\u0440\u0442\u0432 \u043d\u0430 \u0425\u0440\u0430\u043c\u043e\u0432\u043e\u0439 \u0433\u043e\u0440\u0435 \u0432 \u043d\u0430\u0448\u0435 \u0432\u0440\u0435\u043c\u044f, \u0441 \u0442\u043e\u0447\u043a\u0438 \u0437\u0440\u0435\u043d\u0438\u044f \u0438\u0443\u0434\u0430\u0438\u0437\u043c\u0430 \u041a\u0430\u043b\u0438\u0448\u0435\u0440 \u043f\u043e\u0441\u0432\u044f\u0442\u0438\u043b \u0441\u043e\u0447\u0438\u043d\u0435\u043d\u0438\u0435 \u043f\u043e\u0434 \u043d\u0430\u0437\u0432\u0430\u043d\u0438\u0435\u043c \u00ab\u05e9\u05dc\u05d5\u05dd \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd\u00bb \u2014 \u0428\u043b\u043e\u043c \u0419\u0435\u0440\u0443\u0448\u0430\u043b\u0430\u0438\u043c (\u0422\u043e\u0440\u043d, 1868). \u0414\u043b\u044f \u043f\u0440\u043e\u043f\u0430\u0433\u0430\u043d\u0434\u044b \u0438\u0434\u0435\u0439 \u043d\u043e\u0432\u043e\u0433\u043e \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430 \u041a\u0430\u043b\u0438\u0448\u0435\u0440 \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e \u0441 \u041b\u0443\u0440\u044c\u0435 \u0441\u0442\u0430\u043b \u0440\u0430\u0437\u044a\u044f\u0441\u043d\u044f\u0442\u044c \u0435\u0433\u043e \u0437\u0430\u0434\u0430\u0447\u0438 \u0432 \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u0438\u0445 \u0433\u0430\u0437\u0435\u0442\u0430\u0445 (\u0441\u0440. \u00ab\u0445\u0430-\u043c\u0430\u0433\u0438\u0434\u00bb, 1862, \u2116 26, 45 \u0438 \u0434\u0440.) \u0447\u0435\u043c \u0432\u044b\u0437\u0432\u0430\u043b \u043a \u0441\u0435\u0431\u0435 \u043e\u0434\u043e\u0431\u0440\u0435\u043d\u0438\u0435 \u0438 \u0441\u043e\u0447\u0443\u0432\u0441\u0442\u0432\u0438\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0445 \u0440\u0430\u0432\u0432\u0438\u043d\u043e\u0432 \u0438 \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0435\u043d\u043d\u044b\u0445 \u0434\u0435\u044f\u0442\u0435\u043b\u0435\u0439 (\u0440. \u0418\u0437\u0440\u0430\u0438\u043b\u044f \u0421\u0430\u043b\u0430\u043d\u0442\u0435\u0440\u0430, \u0440. \u042d\u043b\u0438\u044f\u0433\u0443 \u0413\u0443\u0442\u043c\u0430\u0445\u0435\u0440\u0430, \u041c. \u041c\u043e\u043d\u0442\u0435\u0444\u0438\u043e\u0440\u0435, \u0410\u043b\u044c\u0431\u0435\u0440\u0442\u0430 \u041a\u043e\u043d\u0430, \u041d\u0430\u0442\u0430\u043d\u0430 \u0410\u0434\u043b\u0435\u0440\u0430). \u0410\u0433\u0438\u0442\u0430\u0446\u0438\u044f \u041a\u0430\u043b\u0438\u0448\u0435\u0440\u0430 \u0441\u043f\u043e\u0441\u043e\u0431\u0441\u0442\u0432\u043e\u0432\u0430\u043b\u0430 \u0442\u043e\u043c\u0443, \u0447\u0442\u043e Alliance Isra\u00e9lite \u043e\u0441\u043d\u043e\u0432\u0430\u043b \u0432 \u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435 \u00ab\u041c\u0438\u043a\u0432\u0435-\u0418\u0441\u0440\u0430\u044d\u043b\u044c\u00bb. \u041a\u043e\u0433\u0434\u0430 \u0432\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0435 \u0432\u043d\u0443\u0442\u0440\u0435\u043d\u043d\u0438\u0445 \u0442\u0440\u0435\u043d\u0438\u0439 \u0438 \u043f\u0440\u043e\u0442\u0438\u0432\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0438\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c\u0441\u043a\u0438\u0445 \u043e\u0440\u0442\u043e\u0434\u043e\u043a\u0441\u043e\u0432 \u0444\u0440\u0430\u043d\u043a\u0444\u0443\u0440\u0442\u0441\u043a\u0438\u0439 \u043a\u0440\u0443\u0436\u043e\u043a \u0440\u0430\u0441\u043f\u0430\u043b\u0441\u044f, \u041a\u0430\u043b\u0438\u0448\u0435\u0440 \u0441\u043e\u0432\u043c\u0435\u0441\u0442\u043d\u043e \u0441 \u0440\u0430\u0432. \u042d\u043b\u0438\u044f\u0433\u0443 \u0413\u0443\u0442\u043c\u0430\u0445\u0435\u0440\u043e\u043c \u043e\u043f\u0443\u0431\u043b\u0438\u043a\u043e\u0432\u0430\u043b \u0432 1866 \u0433. \u0432\u043e\u0437\u0437\u0432\u0430\u043d\u0438\u0435 \u043d\u0430 \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u043e\u043c \u0438 \u043d\u0435\u043c\u0435\u0446\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0430\u0445 \u043f\u043e\u0434 \u0437\u0430\u0433\u043b\u0430\u0432\u0438\u0435\u043c \u00ab\u05e7\u05d5\u05dc \u05e7\u05d5\u05e8\u05d0\u00bb \u043e\u0431 \u043e\u0441\u043d\u043e\u0432\u0430\u043d\u0438\u0438 \u043d\u043e\u0432\u043e\u0433\u043e \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043e\u0431\u0449\u0435\u0441\u0442\u0432\u0430, \u0432 \u043a\u0430\u0441\u0441\u0443 \u043a\u043e\u0442\u043e\u0440\u043e\u0433\u043e \u043a\u0430\u0436\u0434\u044b\u0439 \u0438\u043c\u0443\u0449\u0438\u0439 \u0435\u0432\u0440\u0435\u0439 \u043e\u0431\u044f\u0437\u0430\u043d \u0432\u043d\u043e\u0441\u0438\u0442\u044c \u043d\u0435 \u043c\u0435\u043d\u0435\u0435 2 \u0442\u0430\u043b\u0435\u0440\u043e\u0432 \u0432 \u0433\u043e\u0434. \u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e \u043e\u0441\u043e\u0431\u043e\u0433\u043e \u0443\u0441\u043f\u0435\u0445\u0430 \u043d\u0435 \u0438\u043c\u0435\u043b\u043e; \u043d\u0430 \u0441\u043e\u0431\u0440\u0430\u043d\u043d\u044b\u0435 \u0434\u0435\u043d\u044c\u0433\u0438 \u0432\u043f\u043e\u0441\u043b\u0435\u0434\u0441\u0442\u0432\u0438\u0438 \u0431\u044b\u043b \u043a\u0443\u043f\u043b\u0435\u043d \u0443\u0447\u0430\u0441\u0442\u043e\u043a \u0437\u0435\u043c\u043b\u0438 \u0432 \u041f\u0430\u043b\u0435\u0441\u0442\u0438\u043d\u0435, \u0432\u0431\u043b\u0438\u0437\u0438 \u0433\u0440\u043e\u0431\u043d\u0438\u0446\u044b \u043f\u0440\u0430\u043c\u0430\u0442\u0435\u0440\u0438 \u0420\u0430\u0445\u0435\u043b\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u043e\u0441\u0442\u0430\u043b\u0441\u044f \u043d\u0435\u0437\u0430\u0441\u0435\u043b\u0451\u043d\u043d\u044b\u043c. \u041a\u0430\u043b\u0438\u0448\u0435\u0440 \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u0430\u0432\u0442\u043e\u0440\u043e\u043c \u00ab\u0421\u0435\u0439\u0444\u0435\u0440 \u0445\u0430-\u0431\u0440\u0438\u0442\u00bb (\u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u044f \u043a \u041f\u044f\u0442\u0438\u043a\u043d\u0438\u0436\u0438\u044e, \u043d\u0430\u043f\u0435\u0447\u0430\u0442\u0430\u043d\u043d\u043e\u0433\u043e \u0432 \u0432\u0430\u0440\u0448\u0430\u0432\u0441\u043a\u043e\u043c \u0438\u0437\u0434\u0430\u043d\u0438\u0438 \u041f\u044f\u0442\u0438\u043a\u043d\u0438\u0436\u0438\u044f, 1875) \u0438 \u00ab\u0419\u0435\u0446\u0438\u044f\u0442 \u041c\u0438\u0446\u0440\u0430\u0438\u043c\u00bb (\u043a\u043e\u043c\u043c\u0435\u043d\u0442\u0430\u0440\u0438\u044f \u043a \u0410\u0433\u0430\u0434\u0435)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/45360696"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Zvi_Hirsch_Kalischer?oldid=1105094148&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "10976"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1795"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1874"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Zvi_Hirsch_Kalischer__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Zvi_Hirsch_Kalischer>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Zvi_Hirsch_Kalischer"
+    }
+]

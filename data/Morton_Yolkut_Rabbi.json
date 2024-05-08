@@ -1,0 +1,597 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatNorthwesternUniversityAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatRooseveltUniversityAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromSt.Louis,Missouri"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Morton Yolkut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Morton F. Yolkut (1943\u20132013) was a nationally renowned rabbi who served Jewish congregations in three American cities, Chicago, Illinois; Southfield, Michigan; and Philadelphia, Pennsylvania. He represented the American Jewish community at a meeting in 2003 with President George W. Bush and was the Jewish rabbi at the traditional Presidential Inaugural Prayer Service at Washington National Cathedral the day after President Bush's second inauguration, January 21, 2005."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Morton F. Yolkut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Morton F. Yolkut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Missouri"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/St._Louis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2013-11-11"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Missouri"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/St._Louis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1943_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2013_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Northwestern_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Clergy_from_St._Louis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Roosevelt_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "41136027"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1105844220"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roosevelt_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Borski"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Jewish_Appeal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_W._Bush"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Missouri"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philadelphia,_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pittsburgh,_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Skokie,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1943_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2013_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Northwestern_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/C-SPAN"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Washington_National_Cathedral"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/White_House"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willie_Wind"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Theological_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_medical_ethics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Evanston,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Northwestern_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oskar_Schindler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbinical_Council_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Teaneck,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Temple_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hamantashen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/State_of_Israel_Bonds"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Clergy_from_St._Louis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Roosevelt_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chicago,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_National_Fund"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Southfield,_Michigan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St._Louis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shofar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St._Louis,_Missouri"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dreidels"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/U.S._House_of_Representatives"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Educational_Testing_Services"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detroit_Jewish_News"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0zbwxfn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Morton_Yolkut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q15993684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0645\u0648\u0631\u062a\u0648\u0646_\u064a\u0648\u0644\u0643\u0648\u062a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/ae5Z"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/property/restingPlace",
+        "object": "Beit Shemesh, Jerusalem, Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1943"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "2013-11-11"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Aline Schlesinger"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Morton F. Yolkut (1943\u20132013) was a nationally renowned rabbi who served Jewish congregations in three American cities, Chicago, Illinois; Southfield, Michigan; and Philadelphia, Pennsylvania. He represented the American Jewish community at a meeting in 2003 with President George W. Bush and was the Jewish rabbi at the traditional Presidential Inaugural Prayer Service at Washington National Cathedral the day after President Bush's second inauguration, January 21, 2005. He was a published author with a regular column in Detroit Jewish News and a leader in many national organizations of rabbis and of Orthodox Judaism."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Morton_Yolkut?oldid=1105844220&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "10221"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/restingPlace",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/restingPlace",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1943"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "2013"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Morton_Yolkut__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Morton_Yolkut>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Morton_Yolkut"
+    }
+]

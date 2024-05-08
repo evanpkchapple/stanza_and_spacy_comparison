@@ -1,0 +1,492 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mrs. Kasha Davis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Mrs. Kasha Davis is the stage name of Edward P. Popil, Jr., an American drag queen, actor and television personality from Scranton, Pennsylvania. She is best known for competing on the seventh season of RuPaul's Drag Race. After appearing on the reality television show, Mrs. Kasha Davis has toured internationally, has released several musical singles, and performs regularly in theaters and clubs, as well as on television and in film."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Mrs. Kasha Davis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://kashadavis.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Mrs. Kasha Davis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52073257616)_(cropped_-_Mrs._Kasha_Davis).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Rochester,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Rochester, New York, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1971-03-12"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1971_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Rochester,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "57864918"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1121544320"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rochester,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_7)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scranton,_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bianca_Del_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deven_Green"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hurricane_Bianca:_From_Russia_with_Hate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1971_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marywood_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angela_Washko"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Slamdance_Film_Festival"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Rochester,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wanda_Sykes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adam_Barta"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Darienne_Lake"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eureka_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pandora_Boxx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_download"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reality_television"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_St._James"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Janeane_Garofalo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katya_Zamolodchikova"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kennedy_Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Laurie_Beechman_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/IMDb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ITunes_Store"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Impersonator"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_Magazine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rachel_Dratch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shangela"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Workhorse_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hurricane_Bianca_2:_From_Russia_with_Hate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shangela_Laquifa_Wadley"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Self-publishing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://kashadavis.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://itunes.apple.com/us/artist/mrs-kasha-davis/975874151%23see-all/top-songs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.imdb.com/name/nm3357133/%3Fref_=ttfc_fc_cl_t16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q58007661"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/5URNb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Advert"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Tooltip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52073257616)_(cropped_-_Mrs._Kasha_Davis).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1971-03-12"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Edward P. Popil, Jr."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Mrs. Kasha Davis at RuPaul's DragCon LA, 2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/property/mother",
+        "object": "Ellen Popil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen, singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/property/website",
+        "object": "http://kashadavis.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Mrs. Kasha Davis is the stage name of Edward P. Popil, Jr., an American drag queen, actor and television personality from Scranton, Pennsylvania. She is best known for competing on the seventh season of RuPaul's Drag Race. After appearing on the reality television show, Mrs. Kasha Davis has toured internationally, has released several musical singles, and performs regularly in theaters and clubs, as well as on television and in film."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Mrs._Kasha_Davis?oldid=1121544320&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "17616"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Edward P. Popil, Jr."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1971"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Mrs._Kasha_Davis__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mrs._Kasha_Davis>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Mrs._Kasha_Davis"
+    }
+]

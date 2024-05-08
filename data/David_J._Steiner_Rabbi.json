@@ -1,0 +1,872 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "David J. Steiner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "David J. Steiner (February 2, 1965 \u2013 December 26, 2016) was an American documentary filmmaker, educator, rabbi, real estate investor, mediator and political activist, best known for the documentary film Saving Barbara Sizemore (2016)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "David J. Steiner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "David J. Steiner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/DSDairy3.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/DSFilmingUganda.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Chicago,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Iganga,_Uganda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Iganga,_Uganda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2016-12-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Chicago, Illinois, United States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1965-02-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:National_Louis_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Road_incident_deaths_in_Uganda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_California,_Los_Angeles_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1965_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2016_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Lincolnwood,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_documentary_film_directors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Film_directors_from_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_socialists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "55897608"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1109116452"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saving_Barbara_Sizemore"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Expressionist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hakfar_Hayarok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernie_Sanders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:National_Louis_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Humboldt_Park,_Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juba"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uganda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California_Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Road_incident_deaths_in_Uganda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Institute_for_Secular_Humanistic_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kwanzaa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shalom_Hartman_Institute"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Educator"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edward_Asner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Encino,_Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Englewood,_Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Zappa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Congregation_Solel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lenny_Bruce"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lincolnwood,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Skokie,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barack_Obama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_California,_Los_Angeles_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Activism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UCLA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Documentary_film"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alice_Neel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ameinu"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1965_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ernst_Ludwig_Kirchner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Evanston,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Farmington_Hills,_Michigan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Film_director"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Forrest_Claypool"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2016_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Habonim_Dror"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hed_Arzi_Music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Highland_Park,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Lincolnwood,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel_Defense_Forces"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israeli\u2013Palestinian_conflict"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tarzana,_Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tel_Aviv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Borscht_belt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Labor_Zionist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2018_Major_League_Baseball_draft"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Artificial_insemination"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_documentary_film_directors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Film_directors_from_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_socialists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chicago,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chicago_Cubs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kibbutz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Herbert_Kliebard"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marx_Brothers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CD-ROM"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Police_brutality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Socialist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/South_Sudan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Springfield,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Engaged_to"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Iganga"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Moore"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Midwifery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Louis_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rahm_Emanuel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Real_estate_investor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Woody_Allen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Business_mediator"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Valley_Beth_Shalom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Video"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stand-up"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_and_Me"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Illinois-Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Iganga,_Uganda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1982_Lebanon_conflict"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Figurative_painter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lincolnwood"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Director,_Producer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:DSDairy3.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:DSFilmingUganda.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://ejewishphilanthropy.com/%3Fs=steiner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://secured.israelgives.org/mobile/David%3F_branch_match_id=343438862593356440"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://abumayasblog.blogspot.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q43901321"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u062f\u064a\u06a4\u064a\u062f_\u062c\u064a\u0647._\u0633\u062a\u064a\u0646\u064a\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/445T7"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Main"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:More_citations_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:YouTube"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Sndash"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/DSFilmingUganda.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/UCLA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/National_Louis_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1965-02-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "David Jay Steiner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "2016-12-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Film director, film producer, educator, political activist, rabbi, real estate investor, mediator"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "David J. Steiner (February 2, 1965 \u2013 December 26, 2016) was an American documentary filmmaker, educator, rabbi, real estate investor, mediator and political activist, best known for the documentary film Saving Barbara Sizemore (2016)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/David_J._Steiner?oldid=1109116452&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "18565"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "David Jay Steiner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1965"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "2016"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/UCLA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/National_Louis_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Educator"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/David_J._Steiner__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Activism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Film_director"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Real_estate_investor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Business_mediator"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_J._Steiner>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/David_J._Steiner"
+    }
+]

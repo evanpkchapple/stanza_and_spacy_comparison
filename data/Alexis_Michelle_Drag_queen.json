@@ -1,0 +1,582 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alexis Michelle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0623\u0644\u0643\u0633\u064a\u0633 \u0645\u064a\u0634\u064a\u0644"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0410\u043b\u0435\u043a\u0441\u0456\u0441 \u041c\u0456\u0448\u0435\u043b\u044c"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0623\u0644\u0643\u0633\u064a\u0633 \u0645\u064a\u0634\u064a\u0644 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Alexis Michelle)\u200f \u0647\u0648 \u0645\u063a\u0646\u064a \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 16 \u0623\u0643\u062a\u0648\u0628\u0631 1984 \u0641\u064a \u0646\u064a\u0648\u064a\u0648\u0631\u0643 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Alexander J. Michaels (born October 16, 1983), stage name Alexis Michelle, is an American drag queen and singer who came to international attention on the ninth season of RuPaul's Drag Race. As of 2019, she stars in the TLC transformational makeover television series Dragnificent as the makeup and body image expert. She released her debut album, Lovefool, in 2018."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0410\u043b\u0435\u043a\u0441\u0456\u0441 \u041c\u0456\u0448\u0435\u043b\u044c (\u0430\u043d\u0433\u043b. Alexis Michelle) \u0441\u0446\u0435\u043d\u0456\u0447\u043d\u0435 \u0456\u043c'\u044f \u0410\u043b\u0435\u043a\u0441\u0430 \u041c\u0430\u0439\u043a\u043b\u0437\u0430 (\u0430\u043d\u0433\u043b. Alex Michaels) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0430 \u0414\u0440\u0435\u0433-\u043a\u0432\u0456\u043d \u0442\u0430 \u0441\u043f\u0456\u0432\u0430\u043a. \u0411\u0456\u043b\u044c\u0448 \u0432\u0456\u0434\u043e\u043c\u0438\u0439 \u0443\u0447\u0430\u0441\u0442\u044e \u0432 \u0434\u0435\u0432'\u044f\u0442\u043e\u043c\u0443 \u0441\u0435\u0437\u043e\u043d\u0456 \u0440\u0435\u0430\u043b\u0456\u0442\u0456-\u0448\u043e\u0443 RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Alexis Michelle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://www.alexislivesnyc.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Alexis Michelle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis_Michelle_2017_DSC05955_(36524993054)_(cropped).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1983-10-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1983_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_male_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Michigan_School_of_Music,_Theatre_&_Dance_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "53495557"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123072126"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baby_I'm_Burning"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_10)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_12)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_9)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sasha_Velour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BeBe_Zahara_Benet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blue_Bloods_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hot_Ones"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jujubee_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peppermint_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Michigan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Village_People"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thorgy_Thor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_culture_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lisa_Loeb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liza_Minnelli"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Macho_Man_(song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yuhua_Hamasaki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aja_(entertainer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1983_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Me_Down_the_Aisle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dragnificent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dragnificent!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Farrah_Moan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Feinstein's/54_Below"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_LGBT_people_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_NYC"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jan_Sport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Fine_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Cardigans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snatch_Game"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Michigan_School_of_Music,_Theatre_&_Dance_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/TLC_(TV_network)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dolly_Parton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Interlochen_Center_for_the_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q55237942"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0623\u0644\u0643\u0633\u064a\u0633_\u0645\u064a\u0634\u064a\u0644"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0627\u0644\u0643\u0633\u064a\u0633_\u0645\u064a\u0634\u064a\u0644"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u0627\u0644\u06a9\u0633\u06cc\u0633_\u0645\u06cc\u0634\u0644"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://uk.dbpedia.org/resource/\u0410\u043b\u0435\u043a\u0441\u0456\u0441_\u041c\u0456\u0448\u0435\u043b\u044c"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/6qkG2"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Official_website"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Url"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexis_Michelle_2017_DSC05955_(36524993054)_(cropped).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1983-10-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Alexander J. Michaels"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "University of Michigan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/property/imageCaption",
+        "object": "At RuPaul's DragCon NYC, 2017"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen, singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/property/relatives",
+        "object": "http://dbpedia.org/resource/Lisa_Loeb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2003"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0623\u0644\u0643\u0633\u064a\u0633 \u0645\u064a\u0634\u064a\u0644 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Alexis Michelle)\u200f \u0647\u0648 \u0645\u063a\u0646\u064a \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 16 \u0623\u0643\u062a\u0648\u0628\u0631 1984 \u0641\u064a \u0646\u064a\u0648\u064a\u0648\u0631\u0643 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Alexander J. Michaels (born October 16, 1983), stage name Alexis Michelle, is an American drag queen and singer who came to international attention on the ninth season of RuPaul's Drag Race. As of 2019, she stars in the TLC transformational makeover television series Dragnificent as the makeup and body image expert. She released her debut album, Lovefool, in 2018."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0410\u043b\u0435\u043a\u0441\u0456\u0441 \u041c\u0456\u0448\u0435\u043b\u044c (\u0430\u043d\u0433\u043b. Alexis Michelle) \u0441\u0446\u0435\u043d\u0456\u0447\u043d\u0435 \u0456\u043c'\u044f \u0410\u043b\u0435\u043a\u0441\u0430 \u041c\u0430\u0439\u043a\u043b\u0437\u0430 (\u0430\u043d\u0433\u043b. Alex Michaels) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0430 \u0414\u0440\u0435\u0433-\u043a\u0432\u0456\u043d \u0442\u0430 \u0441\u043f\u0456\u0432\u0430\u043a. \u0411\u0456\u043b\u044c\u0448 \u0432\u0456\u0434\u043e\u043c\u0438\u0439 \u0443\u0447\u0430\u0441\u0442\u044e \u0432 \u0434\u0435\u0432'\u044f\u0442\u043e\u043c\u0443 \u0441\u0435\u0437\u043e\u043d\u0456 \u0440\u0435\u0430\u043b\u0456\u0442\u0456-\u0448\u043e\u0443 RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Alexis_Michelle?oldid=1123072126&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "15553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2003"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Alexander J. Michaels"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1983"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/University_of_Michigan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Alexis_Michelle__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://dbpedia.org/ontology/relative",
+        "object": "http://dbpedia.org/resource/Lisa_Loeb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alexis_Michelle>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Alexis_Michelle"
+    }
+]

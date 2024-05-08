@@ -1,0 +1,677 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/MusicGroup"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/MusicalArtist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Shmuel Shapiro"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Shmuel Shapiro (Hebrew: \u05e9\u05de\u05d5\u05d0\u05dc \u05e9\u05e4\u05d9\u05e8\u05d5, a French Jewish rabbi, hazzan, singer, composer, lecturer, and former Chief Rabbi of Meurthe-et-Moselle and Nancy, France, was born in Aix-les-Bains, France, on January 26, 1974."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Shmuel Shapiro"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://www.shmuelshapiro.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Shmuel Shapiro"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Shmuel_Shapiro.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://xmlns.com/foaf/0.1/givenName",
+        "object": "Shmuel Raphael Shapiro"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Aix-les-Bains"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Aix-les-Bains, France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1974-01-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:French_Orthodox_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:French_child_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hasidic_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_French_male_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Chabad-Lubavitch_Hasidim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_songwriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1974_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_French_male_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Yiddish-language_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Orthodox_pop_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hasidic_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "48127171"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1114484079"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarcelles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Musician"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holy_Tongue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vichy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/16th_arrondissement_of_Paris"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Composer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Contemporary_Jewish_religious_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clermont-Ferrand"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_Orthodox_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_child_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilad_Shalit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monaco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nancy,_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1974"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hasidic_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_French_male_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Chabad-Lubavitch_Hasidim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_songwriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hazzan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lecturer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aix-les-Bains"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1974_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fnac"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paris"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yitzchak_Dovid_Grossman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aubervilliers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_French_male_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Yiddish-language_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Orthodox_pop_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hasidic_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meurthe-et-Moselle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Migdal_HaEmek"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cantor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yiddish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ozar_Hatorah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greentec"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ness_Music_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.shmuelshapiro.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.youtube.com/user/chmouelshapiro"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.fnac.com/ia2605823/Shmuel-Shapiro"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.facebook.com/S.SHPIRO/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Shmuel_Shapiro"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q6963497"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0634\u0645\u0648\u0626\u064a\u0644_\u0634\u0627\u0628\u064a\u0631\u0648"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yi.dbpedia.org/resource/\u05e9\u05de\u05d5\u05d0\u05dc_\u05e9\u05e4\u05d9\u05e8\u05d0_(\u05d6\u05d9\u05e0\u05d2\u05e2\u05e8)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4sSh3"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Contemporary_Jewish_religious_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:BLP_sources"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:For"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_musical_artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nobold"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Script/Hebrew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Shmuel_Shapiro.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1974-01-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Shmuel Raphael Shapiro"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Shapiro in 2018"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/genre",
+        "object": "Contemporary Jewish religious, Jewish music, Pop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/imageSize",
+        "object": "256"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/instrument",
+        "object": "Piano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/label",
+        "object": "http://dbpedia.org/resource/Greentec"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/label",
+        "object": "http://dbpedia.org/resource/Ness_Music_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, singer \n cantor composer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/origin",
+        "object": "France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "1990"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Shmuel Shapiro (Hebrew: \u05e9\u05de\u05d5\u05d0\u05dc \u05e9\u05e4\u05d9\u05e8\u05d5, a French Jewish rabbi, hazzan, singer, composer, lecturer, and former Chief Rabbi of Meurthe-et-Moselle and Nancy, France, was born in Aix-les-Bains, France, on January 26, 1974."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Shmuel_Shapiro?oldid=1114484079&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "5783"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "1990"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/genre",
+        "object": "http://dbpedia.org/resource/Contemporary_Jewish_religious_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/genre",
+        "object": "http://dbpedia.org/resource/Jewish_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/hometown",
+        "object": "http://dbpedia.org/resource/France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Cantor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/recordLabel",
+        "object": "http://dbpedia.org/resource/Greentec"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://dbpedia.org/ontology/recordLabel",
+        "object": "http://dbpedia.org/resource/Ness_Music_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Shmuel_Shapiro>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Shmuel_Shapiro"
+    }
+]

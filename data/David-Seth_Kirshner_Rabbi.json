@@ -1,0 +1,442 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatYorkUniversityAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromCloster,NewJersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "David-Seth Kirshner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "David-Seth Kirshner (born 1973), is the Rabbi of Temple Emanu-El, in Closter, New Jersey. Prior to becoming a congregational rabbi, he worked at the Jewish Theological Seminary, which he joined in 1999, serving as Senior Director of Institutional Advancement, overseeing the Seminary's development and outreach efforts. For five years, Kirshner also served as spiritual leader for the Hebrew Congregation of Fitzgerald, in Southern Georgia. Rabbi Kirshner holds the following positions of leadership:"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "David-Seth Kirshner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "David-Seth Kirshner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Closter,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Closter,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1973_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Theological_Seminary_of_America_semikhah_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:York_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Closter,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "24705796"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1105131333"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Closter,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mondoweiss"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1973_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Standard"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Activist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Israel_Public_Affairs_Committee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fitzgerald,_Georgia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Northwestern_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Theological_Seminary_of_America_semikhah_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:York_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Closter,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Theological_Seminary_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Phil_Murphy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/York_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Semikhah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_Board_of_Rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Record_(Bergen_County)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Outreach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Solomon_Schechter_Day_School_of_Bergen_County"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Jersey_Board_of_Rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://mondoweiss.net/2014/07/israel-leader-rabbis.html"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0806gfw"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/David-Seth_Kirshner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q5230400"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4jEwT"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_year_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Closter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Activist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "David-Seth Kirshner (born 1973), is the Rabbi of Temple Emanu-El, in Closter, New Jersey. Prior to becoming a congregational rabbi, he worked at the Jewish Theological Seminary, which he joined in 1999, serving as Senior Director of Institutional Advancement, overseeing the Seminary's development and outreach efforts. For five years, Kirshner also served as spiritual leader for the Hebrew Congregation of Fitzgerald, in Southern Georgia. Rabbi Kirshner holds the following positions of leadership: \n* President of the (2012\u201314) New York Board of Rabbis \n* President of the (2017\u201319) \n* Appointed to NJ Israel Commission by Governor Chris Christie (2012. Re-appointed (2x) by Governor Phil Murphy \n* Member of the Chancellor\u2019s Rabbinic Cabinet at the Jewish Theological Seminary \n* Kellogg School of Rabbinic Management at Northwestern University, Inaugural class \n* UJC Rabbinic Cabinet \n* Former Board member of the Solomon Schechter Day School of Bergen County \n* National Council of the American Israel Public Affairs Committee (AIPAC) \n* Hartman Fellow in Jerusalem \n* Executive Officer of the Jewish Federations of North America (JFNA) \n* Board Member of the Leffell School (Westchester) He has written articles for many media sources and is regularly published in the Jewish Standard, The Times of Israel, The Bergen Record and The New York Times. Rabbi Kirshner holds a BA degree from York University in Toronto, Canada and earned an MA in Hebrew Letters and Rabbinic Ordination from the Jewish Theological Seminary of America. Rabbi Kirshner is married to 'Dori Frumin Kirshner."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/David-Seth_Kirshner?oldid=1105131333&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "2986"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1973"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/David-Seth_Kirshner__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Activist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David-Seth_Kirshner>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/David-Seth_Kirshner"
+    }
+]

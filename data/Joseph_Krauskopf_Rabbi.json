@@ -1,0 +1,807 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Emigrant110051975"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Migrant110314952"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGermanEmigrantsToTheUnitedStates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHebrewUnionCollegeAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Traveler109629752"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Joseph Krauskopf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Joseph Krauskopf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Joseph Krauskopf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Joseph Krauskopf (21. ledna 1858, Ostrowo, Prusko \u2013 12. \u010dervna 1923, Atlantic City, New Jersey) byl prominentn\u00ed americk\u00fd rab\u00edn, spisovatel, v\u016fdce reformn\u00edho judaismu, zakladatel N\u00e1rodn\u00ed \u017eidovsk\u00e9 \u0161koly (nyn\u00ed univerzita ), a dlouhodob\u00fd (1887-1923) rab\u00edn reformn\u00ed \u017eidovsk\u00e9 n\u00e1bo\u017eensk\u00e9 obce Keneseth Izrael (KI), nejstar\u0161\u00ed reformn\u00ed synagogy ve Filadelfii, kter\u00e1 se pod Krauskopfov\u00fdm veden\u00edm stala nejv\u011bt\u0161\u00edm reformn\u00edm \u017eidovsk\u00fdm shrom\u00e1\u017ed\u011bn\u00edm v USA."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Joseph Krauskopf (January 21, 1858 \u2013 June 12, 1923) was a prominent American Jewish rabbi, author, leader of Reform Judaism, founder of the National Farm School (now Delaware Valley University), and long-time (1887\u20131923) rabbi at Reform Congregation Keneseth Israel (KI), the oldest reform synagogue in Philadelphia which under Krauskopf, became the largest reform congregation in the nation."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Joseph Krauskopf (21 Januari 1858 \u2013 12 Juni 1923) adalah seorang rabi, penulis, pemimpin , pendiri National Farm School (sekarang ), dan rabbi jangka panjang (1887-1923) di Reform Congregation Keneseth Israel (KI), sinagog reformasi tertua di Philadelphia yang berada di bawah pimpinan Krauskopf, menjadi kongregasi reformasi terbesar di negara tersebut."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Joseph Krauskopf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Joseph Krauskopf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Krauskopf.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Prussia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Ostr\u00f3w_Wielkopolski"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Atlantic_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Atlantic_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1923-06-12"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Prussia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Ostr\u00f3w_Wielkopolski"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1858-01-21"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1858_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1923_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:German_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_Union_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Ostr\u00f3w_Wielkopolski"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "12376645"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1060890047"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prussia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delaware_Valley_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peoria,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Unitarianism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Cincinnati"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maryland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Massachusetts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ordination"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cincinnati"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Missouri"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theodore_Roosevelt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_Congregation_Keneseth_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrew_Carnegie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Karenina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leo_Tolstoy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Berkowitz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Atlantic_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Urban_area"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pale_of_Settlement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Author"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1858_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1923_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_Union_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doctor_of_Divinity"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isaac_Mayer_Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_agricultural_colonies_in_the_Russian_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ostr\u00f3w_Wielkopolski"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Central_Conference_of_American_Rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Governor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Herbert_Hoover"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isidor_Rayner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor's_degree"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Ostr\u00f3w_Wielkopolski"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kansas_City,_Missouri"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Treaty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spanish\u2013American_War"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michigan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Odessa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_I"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rough_Riders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/War_and_Peace"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kalamazoo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/High_school_degree"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Goldman,_Yosef"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nathan_Strauss"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.jewishencyclopedia.com/view.jsp%3Fletter=K&artid=401%7Carticle=Krauskopf,"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.globalgreyebooks.com/content/books/ebooks/rabbis-impressions-of-the-oberammergau-passion-play.pdf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://archive.org/details/arabbisimpressi00kraugoog"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://archive.org/details/bibleethicsaman00berkgoog"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.02w1xfm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Joseph_Krauskopf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/78621338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1055233393"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q16066547"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://cs.dbpedia.org/resource/Joseph_Krauskopf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://id.dbpedia.org/resource/Joseph_Krauskopf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/avr1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_book"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:ISBN"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:JewishEncyclopedia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Gutenberg_author"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Internet_Archive_author"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Joseph_Krauskopf.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1858-01-21"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1923-06-12"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, author"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Joseph Krauskopf (21. ledna 1858, Ostrowo, Prusko \u2013 12. \u010dervna 1923, Atlantic City, New Jersey) byl prominentn\u00ed americk\u00fd rab\u00edn, spisovatel, v\u016fdce reformn\u00edho judaismu, zakladatel N\u00e1rodn\u00ed \u017eidovsk\u00e9 \u0161koly (nyn\u00ed univerzita ), a dlouhodob\u00fd (1887-1923) rab\u00edn reformn\u00ed \u017eidovsk\u00e9 n\u00e1bo\u017eensk\u00e9 obce Keneseth Izrael (KI), nejstar\u0161\u00ed reformn\u00ed synagogy ve Filadelfii, kter\u00e1 se pod Krauskopfov\u00fdm veden\u00edm stala nejv\u011bt\u0161\u00edm reformn\u00edm \u017eidovsk\u00fdm shrom\u00e1\u017ed\u011bn\u00edm v USA."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Joseph Krauskopf (January 21, 1858 \u2013 June 12, 1923) was a prominent American Jewish rabbi, author, leader of Reform Judaism, founder of the National Farm School (now Delaware Valley University), and long-time (1887\u20131923) rabbi at Reform Congregation Keneseth Israel (KI), the oldest reform synagogue in Philadelphia which under Krauskopf, became the largest reform congregation in the nation."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Joseph Krauskopf (21 Januari 1858 \u2013 12 Juni 1923) adalah seorang rabi, penulis, pemimpin , pendiri National Farm School (sekarang ), dan rabbi jangka panjang (1887-1923) di Reform Congregation Keneseth Israel (KI), sinagog reformasi tertua di Philadelphia yang berada di bawah pimpinan Krauskopf, menjadi kongregasi reformasi terbesar di negara tersebut."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/78621338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Joseph_Krauskopf?oldid=1060890047&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "26895"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1858"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1923"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Joseph_Krauskopf__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Author"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Krauskopf>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Joseph_Krauskopf"
+    }
+]

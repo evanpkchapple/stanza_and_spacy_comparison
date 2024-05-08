@@ -1,0 +1,427 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Barbada de Barbades"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Barbada de Barbades"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Barbada de Barbades is the stage name of S\u00e9bastien Potvin, a Canadian drag queen most noted as one of the drag house mothers in the reality competition series Call Me Mother."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "S\u00e9bastien Potvin, connu sous son nom de sc\u00e8ne de drag queen Barbada de Barbades, est une personnalit\u00e9 de la communaut\u00e9 LGBT au Qu\u00e9bec. Il a commenc\u00e9 sa carri\u00e8re le 5 f\u00e9vrier 2005 lors du Concours de Drag Queen, Star Search, du Cabaret Mado. Barbada travaille principalement \u00e0 Montr\u00e9al au Cabaret Mado, au et au de la Ville de Qu\u00e9bec."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Barbada de Barbades"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Barbada de Barbades"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Barbada_de_Barbades_8.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_children's_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_in_Quebec"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Participants_in_Canadian_reality_television_series"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_people_of_Barbadian_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_music_educators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Black_Canadian_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_television_hosts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "67855939"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1117797007"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Call_Me_Mother"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada's_Drag_Race_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biblioth\u00e8que_et_Archives_nationales_du_Qu\u00e9bec"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_Canadian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rita_Baga"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prix_G\u00e9meaux"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grande_Biblioth\u00e8que"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barbados"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brunch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gis\u00e8le_Lullaby"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Queen_Story_Hour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_children's_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_in_Quebec"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/OutTV_(Canadian_TV_channel)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Primary_school"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Qu\u00e9b\u00e9cois_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Participants_in_Canadian_reality_television_series"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_people_of_Barbadian_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_music_educators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Black_Canadian_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_television_hosts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ici_ARTV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ici_Radio-Canada_T\u00e9l\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mado_Lamotte"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q47492039"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Barbada_de_Barbades"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4Pcu8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Barbada_de_Barbades_8.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "S\u00e9bastien Potvin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Potvin in 2016"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Call Me Mother"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "Canadian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen, music teacher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2005"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Barbada de Barbades is the stage name of S\u00e9bastien Potvin, a Canadian drag queen most noted as one of the drag house mothers in the reality competition series Call Me Mother."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "S\u00e9bastien Potvin, connu sous son nom de sc\u00e8ne de drag queen Barbada de Barbades, est une personnalit\u00e9 de la communaut\u00e9 LGBT au Qu\u00e9bec. Il a commenc\u00e9 sa carri\u00e8re le 5 f\u00e9vrier 2005 lors du Concours de Drag Queen, Star Search, du Cabaret Mado. Barbada travaille principalement \u00e0 Montr\u00e9al au Cabaret Mado, au et au de la Ville de Qu\u00e9bec."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Barbada_de_Barbades?oldid=1117797007&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "6447"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2005"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "S\u00e9bastien Potvin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/Call_Me_Mother"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Barbada_de_Barbades__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barbada_de_Barbades>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Barbada_de_Barbades"
+    }
+]

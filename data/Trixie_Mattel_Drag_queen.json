@@ -1,0 +1,2012 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u062a\u0631\u064a\u0643\u0633\u064a \u0645\u0627\u062a\u064a\u0644"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Trixie Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Trixie Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Trixie Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Trixie Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Trixie Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Trixie Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\ud2b8\ub9ad\uc2dc \ub9c8\ud154"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30c8\u30ea\u30af\u30b7\u30fc\u30fb\u30de\u30c6\u30eb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0422\u0440\u0438\u043a\u0441\u0438 \u041c\u0430\u0442\u0442\u0435\u043b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Trixie Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Trixie Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0628\u0631\u0627\u064a\u0627\u0646 \u0645\u0627\u064a\u0643\u0644 \u0641\u064a\u0631\u0643\u0648\u0633 (\u0645\u0648\u0644\u0648\u062f \u0641\u064a 28 \u0623\u063a\u0633\u0637\u0633 1989 )\u060c \u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0628\u0625\u0633\u0645\u0647 \u0627\u0644\u0645\u0633\u0631\u062d\u064a \u062a\u0631\u064a\u0643\u0633\u064a \u0645\u0627\u062a\u064a\u0644 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Trixie Mattel)\u200f \u060c \u0647\u0648 \u062f\u0631\u0627\u0642 \u0643\u0648\u064a\u0646\u060c \u0645\u063a\u0646\u064a\u060c \u0645\u0624\u0644\u0641 \u0623\u063a\u0627\u0646\u064a\u060c \u0643\u0648\u0645\u064a\u062f\u064a\u060c \u0648\u0634\u062e\u0635\u064a\u0629 \u062a\u0644\u0641\u0632\u064a\u0648\u0646\u064a\u0629 \u0645\u0639\u0631\u0648\u0641\u0647 \u0645\u0646 \u0645\u064a\u0644\u0648\u0648\u0643\u064a \u060c \u0648\u064a\u0633\u0643\u0648\u0646\u0633\u0646. \u0627\u0634\u062a\u0647\u0631\u062a \u0645\u0627\u062a\u064a\u0644 \u0628\u0627\u0644\u0645\u0646\u0627\u0641\u0633\u0629 \u0641\u064a \u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u0633\u0627\u0628\u0639 \u0645\u0646 \u0631\u0648\u0628\u0648\u0644 \u062f\u0631\u0627\u0642 \u0631\u064a\u0633 \u0648\u0644\u0644\u0641\u0648\u0632 \u0628\u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u062b\u0627\u0644\u062b \u0644\u0640 \u0631\u0648\u0628\u0648\u0644 \u062f\u0631\u0627\u0642 \u0631\u064a\u0633: \u0623\u0648\u0644 \u0633\u062a\u0627\u0631\u0632\u060c \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0627\u0644\u0638\u0647\u0648\u0631 \u0639\u0644\u0649 \u0633\u0644\u0633\u0644\u0629 \u0627\u0644\u0648\u064a\u0628 \u0627\u0644\u0643\u0648\u0645\u064a\u062f\u064a\u0629 The Trixie & Katya Show \u062c\u0646\u0628\u0627\u064b \u0625\u0644\u0649 \u062c\u0646\u0628 \u0645\u0639 \u0627\u0644\u062f\u0631\u0627\u0642 \u0643\u0648\u064a\u0646 \u0643\u0627\u062a\u064a\u0627 \u0632\u0627\u0645\u0648\u0644\u0648\u062f\u062a\u0634\u064a\u0643\u0648\u06a4\u0627. \u0623\u0635\u062f\u0631\u062a \u0645\u0627\u062a\u064a\u0644 \u0623\u0648\u0644 \u0623\u0644\u0628\u0648\u0645 \u0644\u0647\u0627 Two Birds \u0641\u064a \u0639\u0627\u0645 2017 \u064a\u0644\u064a\u0647 \u0623\u0644\u0628\u0648\u0645\u0647\u0627 \u0627\u0644\u062b\u0627\u0646\u064a One Stone \u0641\u064a \u0639\u0627\u0645 2018."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Brian Michael Firkus (Milwaukee; 23 de agosto de 1989) conocido por su nombre art\u00edstico Trixie Mattel, es una drag queen, cantautora, actriz y celebridad de internet estadounidense. Es reconocido por haber participado en la s\u00e9ptima temporada de RuPaul's Drag Race, donde fue eliminado en el episodio cuatro; pero m\u00e1s tarde regres\u00f3, finalmente, termin\u00f3 en sexto lugar. Es tambi\u00e9n conocido por la webserie UNHhhh la cual comparte con Katya Zamolodchikova. En 2017 estren\u00f3 su \u00e1lbum country Two Birds. En 2018 gan\u00f3 la tercera temporada de Rupaul's Drag Race: All Stars y lanz\u00f3 su segundo \u00e1lbum de estudio: ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Brian Michael Firkus (* 23. August 1989 in Milwaukee, Wisconsin), bekannt als Trixie Mattel, ist eine US-amerikanische Drag Queen, Reality-TV-Pers\u00f6nlichkeit sowie Country- und Folk-Musiker. Die Zeitschrift New York listete Trixie Mattel 2019 auf Platz vier der einflussreichsten Dragqueens in den Vereinigten Staaten."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Brian Michael Firkus, plus connu sous le nom de sc\u00e8ne Trixie Mattel, est un auteur-compositeur-interpr\u00e8te, com\u00e9dien, drag queen, auteur, personnalit\u00e9 t\u00e9l\u00e9vis\u00e9e et entrepreneur am\u00e9ricain principalement connu pour sa participation \u00e0 la septi\u00e8me saison de RuPaul's Drag Race et \u00e0 la troisi\u00e8me saison de RuPaul's Drag Race All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u30c8\u30ea\u30af\u30b7\u30fc\u30fb\u30de\u30c6\u30eb\uff08\u82f1\u8a9e: Trixie Mattel, \u672c\u540d\uff1a\u30d6\u30e9\u30a4\u30a2\u30f3\u30fb\u30de\u30a4\u30b1\u30eb\u30fb\u30d5\u30a3\u30eb\u30af\u30b9(Brian Michael Firkus)\u30011989\u5e748\u670823\u65e5 - \uff09\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u30c9\u30e9\u30a1\u30b0\u30af\u30a4\u30fc\u30f3\u3001YouTuber\u3001\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3001\u30b3\u30e1\u30c7\u30a3\u30a2\u30f3\u3001\u4f5c\u5bb6\u3068\u8d77\u696d\u5bb6\u3002 \u300e\u30eb\u30fb\u30dd\u30fc\u30eb\u306e\u30c9\u30e9\u30a1\u30b0\u30fb\u30ec\u30fc\u30b9\u300f\u3092\u4ecb\u3057\u3066\u540d\u524d\u3092\u77e5\u3089\u305b\u3001\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30b7\u30fc\u30ba\u30f33\u3067\u512a\u52dd\u3092\u3057\u305f\u3002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\ud2b8\ub9ad\uc2dc \ub9c8\ud154(Trixie Mattel, 1989\ub144 8\uc6d4 23\uc77c ~ )\uc740 \ubbf8\uad6d\uc758 \ub4dc\ub798\uadf8 \ud038, \uc2f1\uc5b4\uc1a1\ub77c\uc774\ud130, \ucf54\ubbf8\ub514\uc5b8, \uc791\uac00, \uc720\ud29c\ubc84, \uc0ac\uc5c5\uac00\uc774\ub2e4. \u300a\ub8e8\ud3f4\uc758 \ub4dc\ub798\uadf8 \ub808\uc774\uc2a4\u300b\ub97c \ud1b5\ud574 \uc774\ub984\uc744 \uc54c\ub838\uc73c\uba70, \uc62c\uc2a4\ud0c0 \uc2dc\uc98c 3\uc5d0\uc120 \uc6b0\uc2b9\uc744 \ud588\ub2e4."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Brian Michael Firkus, mer k\u00e4nd som Trixie Mattel, f\u00f6dd 23 augusti 1989 i Milwaukee, \u00e4r en amerikansk dragqueen, singer-songwriter, och tv-personlighet fr\u00e5n Milwaukee, Wisconsin. Han \u00e4r k\u00e4nd f\u00f6r att ha medverkat i sjunde s\u00e4songen av TV-programmet RuPauls dragrace, och den tredje s\u00e4songen av RuPauls dragrace: All Stars, samt f\u00f6r YouTube-serien UNHhhh, som han skapat tillsammans med dragrace-kompisen ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Trixie Mattel \u00e9 o nome art\u00edstico e alter-ego de Brian Michael Firkus (Milwaukee, Wisconsin, 23 de agosto de 1989), drag queen, cantor, musicista, ator e apresentador americano. Ficou mundialmente conhecido ap\u00f3s participar da 7.\u00aa temporada de RuPaul's Drag Race, e ganhar a 3.\u00aa temporada de RuPaul's Drag Race: All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0411\u0440\u0430\u0439\u0430\u043d \u041c\u0430\u0439\u043a\u043b \u0424\u0451\u0440\u043a\u0443\u0441 (\u0430\u043d\u0433\u043b. Brian Michael Firkus; \u0440\u043e\u0434. 23 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1989, \u041c\u0438\u043b\u0443\u043e\u043a\u0438, \u0412\u0438\u0441\u043a\u043e\u043d\u0441\u0438\u043d), \u0431\u043e\u043b\u044c\u0448\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u043a\u0430\u043a \u0422\u0440\u0438\u043a\u0441\u0438 \u041c\u0430\u0442\u0442\u0435\u043b (\u0430\u043d\u0433\u043b. Trixie Mattel) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u043f\u0435\u0432\u0435\u0446, \u043a\u043e\u043c\u0438\u043a, \u0442\u0435\u043b\u0435\u0432\u0435\u0434\u0443\u0449\u0438\u0439 \u0438 \u0434\u0440\u044d\u0433-\u043a\u0432\u0438\u043d. \u0428\u0438\u0440\u043e\u043a\u0443\u044e \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e\u0441\u0442\u044c \u0435\u043c\u0443 \u043f\u0440\u0438\u043d\u0435\u0441\u043b\u043e \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0448\u043e\u0443 \u00ab\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0435 \u0433\u043e\u043d\u043a\u0438 \u0420\u0443 \u041f\u043e\u043b\u0430\u00bb."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Trixie Mattel, nom art\u00edstic de Brian Michael Firkus (Milwaukee, 23 d'agost de 1989), \u00e9s una drag queen, cantautora, humorista, autora i personalitat televisiva estatunidenca. Mattel \u00e9s coneguda sobretot per ser la guanyadora de la tercera temporada de RuPaul's Drag Race: All Stars i, anteriorment, per haver quedat sisena a la setena temporada de RuPaul's Drag Race. Al juny del 2019, la revista Nova York va situar-la quarta a la seva llista de \"les drag queens m\u00e9s poderoses d'Am\u00e8rica\", un r\u00e0nquing de 100 exconcursants de Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Brian Michael Firkus (born August 23, 1989), better known by the stage name Trixie Mattel, is an American drag queen, television personality, and singer-songwriter originally from Milwaukee, Wisconsin. She is known for her exaggerated, high-camp style and blend of comedy and acoustic pop. After initially competing on the seventh season of the drag competition RuPaul's Drag Race in 2015, she would later go on to win the third season of RuPaul's Drag Race All Stars in 2018."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Trixie Mattel, pseudonimo di Brian Michael Firkus (Milwaukee, 23 agosto 1989), \u00e8 un personaggio televisivo, cantautore, comico e drag queen statunitense, noto per aver partecipato alla settima edizione di RuPaul's Drag Race, classificandosi sesto, e per aver vinto la terza edizione di RuPaul's Drag Race All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Trixie Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Trixie Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rupaul_Dragcon_2018-103_(41175949055)_(cropped).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Trixie_and_Katya's_High_School_Reunion_3.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Milwaukee,_Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Milwaukee,_Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1989-08-23"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Native_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_stand-up_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_country_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_Native_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Native_American_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_cosmetics_businesspeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Musicians_from_Milwaukee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Americana_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Beauty_and_makeup_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Streamy_Award_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1989_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:ATO_Records_artists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Music_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Folktronica_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Crivitz,_Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_male_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Webby_Award_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_gay_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Ojibwe_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Singers_from_Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Twitch_(service)_streamers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_folk_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_guitarists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Toy_collectors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_autoharp_players"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "44632752"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1124975036"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Call_Me_Mother"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada's_Drag_Race_(season_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Americana_(music)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Power_pop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Producer_Entertainment_Group"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queen_of_the_Universe_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queerty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rolling_Stone"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romy_and_Michele's_High_School_Reunion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_10)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_11)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_13)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_7)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_8)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_4)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_6)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_Holi-slay_Spectacular"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Secret_Celebrity_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Motel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billboard_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blondie_(band)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_the_Drag_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johnny_Cash"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pearl_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ulta_Beauty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Wisconsin\u2013Milwaukee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vegetarian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Video_Games_(song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Double_album"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Independent_Albums"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Integrity_Toys"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/10th_Streamy_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Native_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_stand-up_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conway_Twitty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cosmetics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cover_version"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crank_Yankers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crivitz,_Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oriental_Theatre_(Milwaukee)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(production_company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Entertainment_Tonight"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Full_Coverage,_Vol._1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Full_Frontal_with_Samantha_Bee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GLAAD_Media_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GLAAD_Media_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GQ"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_for_Play_Game_Show_Starring_RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Jones"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mon\u00e9t_X_Change"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Musical_theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Critics'_Choice_Television_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times_Best_Seller_list"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Rocky_Horror_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Trixie_&_Katya_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Them_(website)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2019_MTV_Movie_&_TV_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_country_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_Native_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Native_American_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MAC_Cosmetics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sketchy_Queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Streamy_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plume_(publisher)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1960s"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barbara_(Trixie_Mattel_album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barbie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_cosmetics_businesspeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Musicians_from_Milwaukee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brittany_Broski"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/COVID-19_pandemic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Americana_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Beauty_and_makeup_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_comedians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Streamy_Award_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tribeca_Film_Festival"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trinity_the_Tuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trixie_Mattel:_Moving_Parts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trixie_Motel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trixie_and_Katya"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Two_Birds_(album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UNHhhh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Webby_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weezer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/He_(pronoun)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_Beard_Foundation_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Larry_King_Now"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heatseekers_Albums"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Click_Five"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ojibwe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/7th_Streamy_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ATO_Records"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adore_Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aimee_Mann"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Airbnb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Horror_Story:_Roanoke"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Americana/Folk_Albums"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1989_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:ATO_Records_artists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Music_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_(clothing)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Folktronica_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Extended_play"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Crivitz,_Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicole_Byer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palm_Springs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palm_Springs,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Folk_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Folktronica"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fountains_of_Wayne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Comedy_duo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jaida_Essence_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/James_St._James"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jason_Isbell"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jaymes_Mansfield"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Fine_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Country_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_B-52's"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Blonde_&_Pink_Albums"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Boulet_Brothers'_Dragula"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Boulet_Brothers'_Dragula_(season_4)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Drew_Barrymore_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Go-Go's"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Atheism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Webby_Award_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_gay_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Ojibwe_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Singers_from_Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Twitch_(service)_streamers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_folk_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chapter_10_(American_Horror_Story)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_guitarists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jimmy_Kimmel_Live!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/June_Carter_Cash"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kacey_Musgraves"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katya_Zamolodchikova"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kennedy_Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kim_Chi_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Laganja_Estranja"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lana_Del_Rey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Toy_collectors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Super_Drags"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jackson_(song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/This_Is_It!_(bar)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Discovery+"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dolly_Parton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Margaret_Cho"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pop_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spin-off_(media)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_All_Stars_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electro-folk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Trixie_and_Katya_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/I_Like_to_Watch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Iggy_Azalea"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kris_Kristofferson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michelle_Branch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milwaukee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milwaukee,_Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_autoharp_players"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Native_Americans_in_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Netflix"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/One_Stone"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orville_Peck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camp_(style)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sephora"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shakey_Graves"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shea_Coule\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/YouTube"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/YouTube_Rewind"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Self-help_book"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/She_(pronoun)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Web_series"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Viceland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scottish_Singles_and_Albums_Charts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Country_folk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Video_On_Demand"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Violent_Femmes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Bald_and_the_Beautiful"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/OutTV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trixie_and_Katya's_Guide_to_Modern_Womanhood"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trixie_and_Katya_Save_the_World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Instant_Influencer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Easy_Bake_Oven"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peck_School_of_the_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/10th_Annual_Streamy_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Overserved_with_Lisa_Vanderpump"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Streamy_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Trixie_and_Katya's_High_School_Reunion_3.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://milwaukeerecord.com/film/milwaukee-drag-superstar-trixie-mattel-american-horror-story-season-finale/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.huffingtonpost.com/pollo-del-mar/post_12034_b_10169646.html"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.huffingtonpost.com/pollo-del-mar/post_9321_b_7111260.html"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1180055780"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/595e584e-4e43-4f71-9336-e90d1ccf643c"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/240154590216943082023"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q23905339"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u062a\u0631\u064a\u0643\u0633\u064a_\u0645\u0627\u062a\u064a\u0644"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u062a\u0631\u064a\u0643\u0633\u0649_\u0645\u0627\u062a\u064a\u0644"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://azb.dbpedia.org/resource/\u062a\u0631\u06cc\u06a9\u0633\u06cc_\u0645\u0627\u062a\u0644"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ca.dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u062a\u0631\u06cc\u06a9\u0633\u06cc_\u0645\u0627\u062a\u0644"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fi.dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05d8\u05e8\u05d9\u05e7\u05e1\u05d9_\u05de\u05d0\u05d8\u05dc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://hu.dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ja.dbpedia.org/resource/\u30c8\u30ea\u30af\u30b7\u30fc\u30fb\u30de\u30c6\u30eb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ko.dbpedia.org/resource/\ud2b8\ub9ad\uc2dc_\ub9c8\ud154"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pt.dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u0422\u0440\u0438\u043a\u0441\u0438_\u041c\u0430\u0442\u0442\u0435\u043b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sr.dbpedia.org/resource/\u0422\u0440\u0438\u043a\u0441\u0438_\u041c\u0430\u0442\u0435\u043b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sv.dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2GMAX"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_magazine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Col_begin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Col_end"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Efn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:ISBN"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_musical_artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Main"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nominated"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Notelist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Pending"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Tooltip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Won"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_YouTube_personality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Sfnref"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Streamy_Awards_Hosts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Runner-up"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Secret_Celebrity_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Col_2"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rupaul_Dragcon_2018-103_(41175949055)_(cropped).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/module",
+        "object": "--09-19"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1989-08-23"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Brian Michael Firkus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Mattel in 2018"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "University of Wisconsin\u2013Milwaukee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race All Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Queen of the Universe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "UNHhhh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Trixie Motel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "singer-songwriter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "comedian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "television personality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/predecessor",
+        "object": "http://dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/successor",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/successor",
+        "object": "Mon\u00e9t X Change"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/successor",
+        "object": "Trinity the Tuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/yearsactive",
+        "object": "2008"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0628\u0631\u0627\u064a\u0627\u0646 \u0645\u0627\u064a\u0643\u0644 \u0641\u064a\u0631\u0643\u0648\u0633 (\u0645\u0648\u0644\u0648\u062f \u0641\u064a 28 \u0623\u063a\u0633\u0637\u0633 1989 )\u060c \u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0628\u0625\u0633\u0645\u0647 \u0627\u0644\u0645\u0633\u0631\u062d\u064a \u062a\u0631\u064a\u0643\u0633\u064a \u0645\u0627\u062a\u064a\u0644 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Trixie Mattel)\u200f \u060c \u0647\u0648 \u062f\u0631\u0627\u0642 \u0643\u0648\u064a\u0646\u060c \u0645\u063a\u0646\u064a\u060c \u0645\u0624\u0644\u0641 \u0623\u063a\u0627\u0646\u064a\u060c \u0643\u0648\u0645\u064a\u062f\u064a\u060c \u0648\u0634\u062e\u0635\u064a\u0629 \u062a\u0644\u0641\u0632\u064a\u0648\u0646\u064a\u0629 \u0645\u0639\u0631\u0648\u0641\u0647 \u0645\u0646 \u0645\u064a\u0644\u0648\u0648\u0643\u064a \u060c \u0648\u064a\u0633\u0643\u0648\u0646\u0633\u0646. \u0627\u0634\u062a\u0647\u0631\u062a \u0645\u0627\u062a\u064a\u0644 \u0628\u0627\u0644\u0645\u0646\u0627\u0641\u0633\u0629 \u0641\u064a \u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u0633\u0627\u0628\u0639 \u0645\u0646 \u0631\u0648\u0628\u0648\u0644 \u062f\u0631\u0627\u0642 \u0631\u064a\u0633 \u0648\u0644\u0644\u0641\u0648\u0632 \u0628\u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u062b\u0627\u0644\u062b \u0644\u0640 \u0631\u0648\u0628\u0648\u0644 \u062f\u0631\u0627\u0642 \u0631\u064a\u0633: \u0623\u0648\u0644 \u0633\u062a\u0627\u0631\u0632\u060c \u0628\u0627\u0644\u0625\u0636\u0627\u0641\u0629 \u0625\u0644\u0649 \u0627\u0644\u0638\u0647\u0648\u0631 \u0639\u0644\u0649 \u0633\u0644\u0633\u0644\u0629 \u0627\u0644\u0648\u064a\u0628 \u0627\u0644\u0643\u0648\u0645\u064a\u062f\u064a\u0629 The Trixie & Katya Show \u062c\u0646\u0628\u0627\u064b \u0625\u0644\u0649 \u062c\u0646\u0628 \u0645\u0639 \u0627\u0644\u062f\u0631\u0627\u0642 \u0643\u0648\u064a\u0646 \u0643\u0627\u062a\u064a\u0627 \u0632\u0627\u0645\u0648\u0644\u0648\u062f\u062a\u0634\u064a\u0643\u0648\u06a4\u0627. \u0623\u0635\u062f\u0631\u062a \u0645\u0627\u062a\u064a\u0644 \u0623\u0648\u0644 \u0623\u0644\u0628\u0648\u0645 \u0644\u0647\u0627 Two Birds \u0641\u064a \u0639\u0627\u0645 2017 \u064a\u0644\u064a\u0647 \u0623\u0644\u0628\u0648\u0645\u0647\u0627 \u0627\u0644\u062b\u0627\u0646\u064a One Stone \u0641\u064a \u0639\u0627\u0645 2018."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Trixie Mattel, nom art\u00edstic de Brian Michael Firkus (Milwaukee, 23 d'agost de 1989), \u00e9s una drag queen, cantautora, humorista, autora i personalitat televisiva estatunidenca. Mattel \u00e9s coneguda sobretot per ser la guanyadora de la tercera temporada de RuPaul's Drag Race: All Stars i, anteriorment, per haver quedat sisena a la setena temporada de RuPaul's Drag Race. Al juny del 2019, la revista Nova York va situar-la quarta a la seva llista de \"les drag queens m\u00e9s poderoses d'Am\u00e8rica\", un r\u00e0nquing de 100 exconcursants de Drag Race. Mattel \u00e9s la CEO i fundadora de Trixie Cosmetics. T\u00e9 tamb\u00e9 un canal de YouTube en qu\u00e8 mostra els productes de la marca, valora productes d'altres marques, publica nova m\u00fasica i episodis del seu podcast."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Brian Michael Firkus (Milwaukee; 23 de agosto de 1989) conocido por su nombre art\u00edstico Trixie Mattel, es una drag queen, cantautora, actriz y celebridad de internet estadounidense. Es reconocido por haber participado en la s\u00e9ptima temporada de RuPaul's Drag Race, donde fue eliminado en el episodio cuatro; pero m\u00e1s tarde regres\u00f3, finalmente, termin\u00f3 en sexto lugar. Es tambi\u00e9n conocido por la webserie UNHhhh la cual comparte con Katya Zamolodchikova. En 2017 estren\u00f3 su \u00e1lbum country Two Birds. En 2018 gan\u00f3 la tercera temporada de Rupaul's Drag Race: All Stars y lanz\u00f3 su segundo \u00e1lbum de estudio: ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Brian Michael Firkus (* 23. August 1989 in Milwaukee, Wisconsin), bekannt als Trixie Mattel, ist eine US-amerikanische Drag Queen, Reality-TV-Pers\u00f6nlichkeit sowie Country- und Folk-Musiker. Die Zeitschrift New York listete Trixie Mattel 2019 auf Platz vier der einflussreichsten Dragqueens in den Vereinigten Staaten."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Brian Michael Firkus, plus connu sous le nom de sc\u00e8ne Trixie Mattel, est un auteur-compositeur-interpr\u00e8te, com\u00e9dien, drag queen, auteur, personnalit\u00e9 t\u00e9l\u00e9vis\u00e9e et entrepreneur am\u00e9ricain principalement connu pour sa participation \u00e0 la septi\u00e8me saison de RuPaul's Drag Race et \u00e0 la troisi\u00e8me saison de RuPaul's Drag Race All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Brian Michael Firkus (born August 23, 1989), better known by the stage name Trixie Mattel, is an American drag queen, television personality, and singer-songwriter originally from Milwaukee, Wisconsin. She is known for her exaggerated, high-camp style and blend of comedy and acoustic pop. After initially competing on the seventh season of the drag competition RuPaul's Drag Race in 2015, she would later go on to win the third season of RuPaul's Drag Race All Stars in 2018. Mattel stars in the World of Wonder web series UNHhhh (2016\u2013present), its Viceland spin-off The Trixie & Katya Show (2017\u20132018), and the Netflix web series I Like to Watch (2019\u2013present), alongside fellow drag queen and frequent collaborator Katya Zamolodchikova with whom she forms the popular comedy duo known as Trixie and Katya. Her music style is primarily folk and country, with her first and second studio albums Two Birds (2017) and One Stone (2018) both charting on the Billboard Folk Albums chart at number sixteen. Her third studio album Barbara (2020) featured an \"electro-folk\" sound and her first EP Full Coverage, Vol. 1 (2021) consists of Mattel's covers of various songs. Her comedy special, Trixie Mattel: One Night Only (2020) was nominated for a Critics' Choice Television Award. She appeared as a judge on the competition series Queen of the Universe (2021\u2013present). She also stars in and produces Trixie Motel, a limited docuseries where she and her boyfriend, David Silver, renovate a rundown motel in Palm Springs, California (2022). Along with Katya, Mattel published her first book, Trixie and Katya's Guide to Modern Womanhood (2020), which became a New York Times bestseller. She has appeared on New York Magazine's list of \"The Most Powerful Drag Queens in America\", ranking fourth. She also operates a YouTube channel focused on beauty and music, with frequent collaborations with fellow drag queens, and celebrities such as Iggy Azalea, Nicole Byer, and Margaret Cho. Her business ventures include being the founder and CEO of Trixie Cosmetics, a cosmetics brand that launched in 2019. Mattel's persona is inspired by her love of Barbie dolls: she owns a large collection of Barbies that she has shared in videos on her YouTube channel."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u30c8\u30ea\u30af\u30b7\u30fc\u30fb\u30de\u30c6\u30eb\uff08\u82f1\u8a9e: Trixie Mattel, \u672c\u540d\uff1a\u30d6\u30e9\u30a4\u30a2\u30f3\u30fb\u30de\u30a4\u30b1\u30eb\u30fb\u30d5\u30a3\u30eb\u30af\u30b9(Brian Michael Firkus)\u30011989\u5e748\u670823\u65e5 - \uff09\u306f\u3001\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd\u306e\u30c9\u30e9\u30a1\u30b0\u30af\u30a4\u30fc\u30f3\u3001YouTuber\u3001\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3001\u30b3\u30e1\u30c7\u30a3\u30a2\u30f3\u3001\u4f5c\u5bb6\u3068\u8d77\u696d\u5bb6\u3002 \u300e\u30eb\u30fb\u30dd\u30fc\u30eb\u306e\u30c9\u30e9\u30a1\u30b0\u30fb\u30ec\u30fc\u30b9\u300f\u3092\u4ecb\u3057\u3066\u540d\u524d\u3092\u77e5\u3089\u305b\u3001\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30b7\u30fc\u30ba\u30f33\u3067\u512a\u52dd\u3092\u3057\u305f\u3002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Trixie Mattel, pseudonimo di Brian Michael Firkus (Milwaukee, 23 agosto 1989), \u00e8 un personaggio televisivo, cantautore, comico e drag queen statunitense, noto per aver partecipato alla settima edizione di RuPaul's Drag Race, classificandosi sesto, e per aver vinto la terza edizione di RuPaul's Drag Race All Stars. Mattel \u00e8 co-presentatore della web serie UNHhhh e dello spin-off di Viceland, The Trixie & Katya Show con Katya Zamolodchikova. Il suo primo studio album, Two Birds, fu pubblicato nel 2017 e seguito dal suo secondo album, One Stone, nel 2018. Il suo terzo album, Barbara, \u00e8 stato pubblicato il 7 febbraio 2020."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\ud2b8\ub9ad\uc2dc \ub9c8\ud154(Trixie Mattel, 1989\ub144 8\uc6d4 23\uc77c ~ )\uc740 \ubbf8\uad6d\uc758 \ub4dc\ub798\uadf8 \ud038, \uc2f1\uc5b4\uc1a1\ub77c\uc774\ud130, \ucf54\ubbf8\ub514\uc5b8, \uc791\uac00, \uc720\ud29c\ubc84, \uc0ac\uc5c5\uac00\uc774\ub2e4. \u300a\ub8e8\ud3f4\uc758 \ub4dc\ub798\uadf8 \ub808\uc774\uc2a4\u300b\ub97c \ud1b5\ud574 \uc774\ub984\uc744 \uc54c\ub838\uc73c\uba70, \uc62c\uc2a4\ud0c0 \uc2dc\uc98c 3\uc5d0\uc120 \uc6b0\uc2b9\uc744 \ud588\ub2e4."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Brian Michael Firkus, mer k\u00e4nd som Trixie Mattel, f\u00f6dd 23 augusti 1989 i Milwaukee, \u00e4r en amerikansk dragqueen, singer-songwriter, och tv-personlighet fr\u00e5n Milwaukee, Wisconsin. Han \u00e4r k\u00e4nd f\u00f6r att ha medverkat i sjunde s\u00e4songen av TV-programmet RuPauls dragrace, och den tredje s\u00e4songen av RuPauls dragrace: All Stars, samt f\u00f6r YouTube-serien UNHhhh, som han skapat tillsammans med dragrace-kompisen ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Trixie Mattel \u00e9 o nome art\u00edstico e alter-ego de Brian Michael Firkus (Milwaukee, Wisconsin, 23 de agosto de 1989), drag queen, cantor, musicista, ator e apresentador americano. Ficou mundialmente conhecido ap\u00f3s participar da 7.\u00aa temporada de RuPaul's Drag Race, e ganhar a 3.\u00aa temporada de RuPaul's Drag Race: All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0411\u0440\u0430\u0439\u0430\u043d \u041c\u0430\u0439\u043a\u043b \u0424\u0451\u0440\u043a\u0443\u0441 (\u0430\u043d\u0433\u043b. Brian Michael Firkus; \u0440\u043e\u0434. 23 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 1989, \u041c\u0438\u043b\u0443\u043e\u043a\u0438, \u0412\u0438\u0441\u043a\u043e\u043d\u0441\u0438\u043d), \u0431\u043e\u043b\u044c\u0448\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u043a\u0430\u043a \u0422\u0440\u0438\u043a\u0441\u0438 \u041c\u0430\u0442\u0442\u0435\u043b (\u0430\u043d\u0433\u043b. Trixie Mattel) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u043f\u0435\u0432\u0435\u0446, \u043a\u043e\u043c\u0438\u043a, \u0442\u0435\u043b\u0435\u0432\u0435\u0434\u0443\u0449\u0438\u0439 \u0438 \u0434\u0440\u044d\u0433-\u043a\u0432\u0438\u043d. \u0428\u0438\u0440\u043e\u043a\u0443\u044e \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e\u0441\u0442\u044c \u0435\u043c\u0443 \u043f\u0440\u0438\u043d\u0435\u0441\u043b\u043e \u0443\u0447\u0430\u0441\u0442\u0438\u0435 \u0432 \u0448\u043e\u0443 \u00ab\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0435 \u0433\u043e\u043d\u043a\u0438 \u0420\u0443 \u041f\u043e\u043b\u0430\u00bb."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/property/partner",
+        "object": "David Silver"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Trixie_Mattel?oldid=1124975036&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "68447"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2008"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Brian Michael Firkus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1989"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/University_of_Wisconsin\u2013Milwaukee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/Queen_of_the_Universe_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_7)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/Trixie_Motel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/UNHhhh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Trixie_Mattel__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/predecessor",
+        "object": "http://dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/successor",
+        "object": "http://dbpedia.org/resource/Mon\u00e9t_X_Change"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://dbpedia.org/ontology/successor",
+        "object": "http://dbpedia.org/resource/Trinity_the_Tuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Trixie_Mattel>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Trixie_Mattel"
+    }
+]

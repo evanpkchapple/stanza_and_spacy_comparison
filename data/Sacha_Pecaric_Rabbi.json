@@ -1,0 +1,627 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeopleOfCroatian-JewishDescent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBibleTranslators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatTranslatorsOfTheBibleIntoPolish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromRijeka"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Linguist110264219"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Translator110725280"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPolishPeopleOfCroatian-JewishDescent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sacha Pecaric"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sacha Pecaric"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sacha Pecaric"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sacha Pecaric (born 1965 in Rijeka) was a Croatian born rabbi."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sacha Pecaric (* 1965 Rijeka) je p\u016fvodem chorvatsk\u00fd rab\u00edn, filosof a vydavatel \u017eidovsk\u00e9 literatury p\u016fsob\u00edc\u00ed v Polsku a Spojen\u00fdch st\u00e1tech americk\u00fdch. Studoval obor um\u011bleck\u00e9 fotografie na Filmov\u00e9 a televizn\u00ed fakult\u011b Akademie m\u00fazick\u00fdch um\u011bn\u00ed v Praze, kde slo\u017eil doktor\u00e1t v roce 2004, a dokon\u010dil t\u00e9\u017e studium analytick\u00e9 filosofie na Kolumbijsk\u00e9 univerzit\u011b v New Yorku. K funkci rab\u00edna byl ordinov\u00e1n po absolvov\u00e1n\u00ed studia na newyorsk\u00e9 Yeshiva University v Rabbi Isaac Elchanan Theological Seminary, kde se stal jeho u\u010ditelem rab\u00edn Herschel Schachter. V letech 1997-2005 pob\u00fdval v Krakov\u011b, kde \u0159\u00eddil pobo\u010dku nada\u010dn\u00edho fondu Ronalda S. Laudera (Fundacja Ronalda S. Laudera), kter\u00e1 byla zalo\u017eena proto, aby pomohla \u017eidovsk\u00fdm komunit\u00e1m v Polsku realizovat jejich vzd\u011bl\u00e1vac\u00ed c\u00edle a celkov\u011b poskytovala fundovan\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sacha Pecaric (ur. 1965 w Rijece) \u2013 rabin, filozof i wydawca klasycznych tekst\u00f3w \u017cydowskich. Po studiach w Pradze kontynuowa\u0142 studia na wydziale rabinicznym Yeshiva University (Isaac Elchanan Theological Seminary przy Yeshiva University w Nowym Jorku, gdzie uzyska\u0142 ortodoksyjn\u0105 smich\u0119 rabinack\u0105) i wydziale filozofii Columbia University (studia magisterskie) i Uniwersytecie Karola (doktorat). W latach 1997-2004 mieszka\u0142 w Krakowie, gdzie kierowa\u0142 oddzia\u0142em Fundacji Ronalda S. Laudera, kt\u00f3ra realizowa\u0142a cele edukacyjne wobec miejscowej spo\u0142eczno\u015bci \u017cydowskiej, a tak\u017ce wobec wszystkich zainteresowanych wiedz\u0105 z zakresu judaizmu. Prowadzi\u0142 intensywne studia talmudyczne dla krakowskiej spo\u0142eczno\u015bci w Jesziwie Pardes Lauder."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Rabbi Sacha Pecaric"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Rabbi Sacha Pecaric"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Sacha_Pecaric.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Rijeka"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Rijeka, SFR Yugoslavia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1965-05-05"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_emigrants_to_Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Yugoslav_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Rijeka"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1965_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Translators_of_the_Bible_into_Polish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Croatian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_translators_of_the_Bible"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Polish_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Krak\u00f3w"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Modern_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Yugoslav_expatriates_in_Czechoslovakia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "29668"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1112709202"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prague"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Book_of_Exodus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Book_of_Genesis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deuteronomy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rijeka"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leviticus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Croatia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_emigrants_to_Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Yugoslav_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Rijeka"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1965_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Passover"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Translators_of_the_Bible_into_Polish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Croatian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_translators_of_the_Bible"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Polish_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Krak\u00f3w"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Modern_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Book_of_Numbers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Polish_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Socialist_Federal_Republic_of_Yugoslavia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Yugoslav_expatriates_in_Czechoslovakia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Film_and_TV_School_of_the_Academy_of_Performing_Arts_in_Prague"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Krak\u00f3w"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Second_World_War"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haggada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.pardes.pl/index.html"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.07bph"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Sacha_Pecaric"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/19365948"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q7396666"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0633\u0627\u062a\u0634\u0627_\u067e\u064a\u0643\u0627\u0631\u064a\u0643"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://cs.dbpedia.org/resource/Sacha_Pecaric"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pl.dbpedia.org/resource/Sacha_Pecaric"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4uVg5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Poland-rabbi-stub"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth-date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Bible-translator-stub"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Sacha_Pecaric.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1965-05-05"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Pecaric in 1999"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "Italian Naturalized US"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Sacha Pecaric (* 1965 Rijeka) je p\u016fvodem chorvatsk\u00fd rab\u00edn, filosof a vydavatel \u017eidovsk\u00e9 literatury p\u016fsob\u00edc\u00ed v Polsku a Spojen\u00fdch st\u00e1tech americk\u00fdch. Studoval obor um\u011bleck\u00e9 fotografie na Filmov\u00e9 a televizn\u00ed fakult\u011b Akademie m\u00fazick\u00fdch um\u011bn\u00ed v Praze, kde slo\u017eil doktor\u00e1t v roce 2004, a dokon\u010dil t\u00e9\u017e studium analytick\u00e9 filosofie na Kolumbijsk\u00e9 univerzit\u011b v New Yorku. K funkci rab\u00edna byl ordinov\u00e1n po absolvov\u00e1n\u00ed studia na newyorsk\u00e9 Yeshiva University v Rabbi Isaac Elchanan Theological Seminary, kde se stal jeho u\u010ditelem rab\u00edn Herschel Schachter. V letech 1997-2005 pob\u00fdval v Krakov\u011b, kde \u0159\u00eddil pobo\u010dku nada\u010dn\u00edho fondu Ronalda S. Laudera (Fundacja Ronalda S. Laudera), kter\u00e1 byla zalo\u017eena proto, aby pomohla \u017eidovsk\u00fdm komunit\u00e1m v Polsku realizovat jejich vzd\u011bl\u00e1vac\u00ed c\u00edle a celkov\u011b poskytovala fundovan\u00e9 informace t\u011bm, kdo se zaj\u00edmaj\u00ed o ot\u00e1zky judaismu. V r\u00e1mci krakovsk\u00e9 spole\u010dnosti Jesziwa Pardes Lauder rovn\u011b\u017e vedl intenzivn\u00ed kurzy studia Talmudu. I kdy\u017e v sou\u010dasn\u00e9 dob\u011b \u017eije v v New Jersey, p\u0159esto se i nad\u00e1le zab\u00fdv\u00e1 vydavatelskou \u010dinnost\u00ed v Polsku v oblasti judaismu. V dubnu 2011 inicioval z\u0159\u00edzen\u00ed virtu\u00e1ln\u00ed je\u0161ivy (Jesziwa Pardes \u2013 Akademia Judaizmu), kter\u00e1 ka\u017ed\u00fd t\u00fdden nab\u00edz\u00ed nov\u00e9 p\u0159edn\u00e1\u0161ky, kter\u00e9 poslucha\u010de vedou k hlub\u0161\u00edmu pochopen\u00ed T\u00f3ry, Talmudu, halachy a kabaly."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Sacha Pecaric (born 1965 in Rijeka) was a Croatian born rabbi."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Sacha Pecaric (ur. 1965 w Rijece) \u2013 rabin, filozof i wydawca klasycznych tekst\u00f3w \u017cydowskich. Po studiach w Pradze kontynuowa\u0142 studia na wydziale rabinicznym Yeshiva University (Isaac Elchanan Theological Seminary przy Yeshiva University w Nowym Jorku, gdzie uzyska\u0142 ortodoksyjn\u0105 smich\u0119 rabinack\u0105) i wydziale filozofii Columbia University (studia magisterskie) i Uniwersytecie Karola (doktorat). W latach 1997-2004 mieszka\u0142 w Krakowie, gdzie kierowa\u0142 oddzia\u0142em Fundacji Ronalda S. Laudera, kt\u00f3ra realizowa\u0142a cele edukacyjne wobec miejscowej spo\u0142eczno\u015bci \u017cydowskiej, a tak\u017ce wobec wszystkich zainteresowanych wiedz\u0105 z zakresu judaizmu. Prowadzi\u0142 intensywne studia talmudyczne dla krakowskiej spo\u0142eczno\u015bci w Jesziwie Pardes Lauder. Obecnie Pecaric mieszka w Teaneck pod Nowym Jorkiem, jednak w dalszym ci\u0105gu zajmuje si\u0119 wyk\u0142adami i dzia\u0142alno\u015bci\u0105 wydawnicz\u0105 w Polsce. W kwietniu 2011 z inicjatywy Sachy Pecaricia powsta\u0142a wirtualna Jesziwa Pardes, kt\u00f3ra prowadzi cotygodniowe wyk\u0142ady nt. judaizmu i pog\u0142\u0119bione studium Talmudu."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Croatian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/19365948"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Sacha_Pecaric?oldid=1112709202&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "3108"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/stateOfOrigin",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1965"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/nationality",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Sacha_Pecaric__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sacha_Pecaric>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Sacha_Pecaric"
+    }
+]
