@@ -1,0 +1,1122 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanFemaleImpersonators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatParticipantsInAmericanRealityTelevisionSeries"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatRuPaul'sDragRaceContestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Aristocrat109807754"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Associate109816771"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/BadPerson109831962"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Contestant109613191"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Deceiver109998101"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/FemaleAristocrat110083823"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Impersonator110200365"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Participant110401829"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Peer109626238"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Queen110499355"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wrongdoer109633969"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDragQueens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alyssa Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0623\u0644\u064a\u0633\u0627 \u0625\u062f\u0648\u0627\u0631\u062f\u0632"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alyssa Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alyssa Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alyssa Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alyssa Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\uc5bc\ub9ac\uc0ac \uc5d0\ub4dc\uc6cc\uc988"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alyssa Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0623\u0644\u064a\u0633\u0627 \u0625\u062f\u0648\u0627\u0631\u062f\u0632 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Alyssa Edwards)\u200f \u0647\u0648 \u0634\u062e\u0635\u064a\u0629 \u0623\u0639\u0645\u0627\u0644 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 16 \u064a\u0646\u0627\u064a\u0631 1980 \u0641\u064a \u0645\u0633\u0643\u064a\u062a \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Alyssa Edwards (* 16. Januar 1980; b\u00fcrgerlich: Justin Dwayne Lee Johnson) ist eine US-amerikanische Dragqueen, Tanzlehrer und Comedian. Edwards ist vor allem f\u00fcr ihre Teilnahme an RuPaul's Drag Race bekannt."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Justin Dwayne Lee Johnson, plus connu sous le nom de sc\u00e8ne Alyssa Edwards, est un chor\u00e9graphe et drag queen am\u00e9ricain. Alyssa est principalement connue pour avoir concouru dans de nombreux concours de beaut\u00e9, avant de conna\u00eetre un succ\u00e8s international en participant \u00e0 la cinqui\u00e8me saison de RuPaul's Drag Race et la deuxi\u00e8me saison de RuPaul's Drag Race : All Stars, devenant une favorite des fans pendant et apr\u00e8s l'\u00e9mission. Alyssa vit \u00e0 Mesquite, au Texas, o\u00f9 elle poss\u00e8de et g\u00e8re un studio de danse r\u00e9compens\u00e9, Beyond Belief Dancy Company. Alyssa et son studio de danse sont les \u00e9l\u00e9ments principaux de sa s\u00e9rie documentaire, Dancing Queen, produite par RuPaul et World of Wonder et diffus\u00e9e sur Netflix \u00e0 partir du 5 octobre 2018."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\uc5bc\ub9ac\uc0ac \uc5d0\ub4dc\uc6cc\uc988(Alyssa Edwards, 1981\ub144 9\uc6d4 3\uc77c ~ )\ub294 \ubbf8\uad6d\uc758 \ub4dc\ub798\uadf8 \ud038, \uc548\ubb34\uac00, \ub304\uc11c, \uc0ac\uc5c5\uac00\uc774\ub2e4. \u300a\ub8e8\ud3f4\uc758 \ub4dc\ub798\uadf8 \ub808\uc774\uc2a4\u300b \uc2dc\uc98c 5\uc5d0 \ucd9c\uc5f0\ud558\uba74\uc11c \uc774\ub984\uc744 \uc54c\ub838\ub2e4."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Justin Dwayne Lee Johnson, mais conhecido por seu nome art\u00edstico Alyssa Edwards, \u00e9 uma drag norte-americana, core\u00f3grafo e empres\u00e1rio. Johnson era conhecida por competir de drag pageantry (notavelmente Miss Gay America 2010) antes de se destacar na quinta temporada de RuPaul's Drag Race, tornando-se uma das favoritas dos f\u00e3s durante e depois de seu tempo no programa. Johnson mora em Mesquite, Texas, onde \u00e9 dono e dirige um est\u00fadio premiado, Beyond Belief Dance Company. Johnson e seu est\u00fadio de dan\u00e7a s\u00e3o as pe\u00e7as centrais de uma nova docuseries, Dancing Queen, produzido por RuPaul e World of Wonder e ser\u00e1 estreado em 5 de outubro de 2018 na Netflix."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Alyssa Edwards (Mesquite, 16 de gener de 1980) nom artistic de Justin Dwayne Lee Johnson, \u00e9s un core\u00f2graf, empresari i drag-queen dels Estats Units. Edwards era coneguda per competir en un concurs de bellesa drag (sobretot Miss Gay America 2010) abans d'atreure l'atenci\u00f3 internacional com a concursant de la cinquena temporada de RuPaul's Drag Race, de la qual es va convertir en una de les preferides dels fans durant i despr\u00e9s de l'emissi\u00f3 del programa. Posteriorment, Edwards va apar\u00e8ixer a la segona temporada de i va protagonitzar la seva pr\u00f2pia s\u00e8rie web, Alyssa's Secret. El juny de 2019, la revista New York va situar-la cinquena a la llista de \"les drag queens m\u00e9s poderoses d'Am\u00e8rica\", un r\u00e0nquing de 100 exconcursants de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Justin Dwayne Lee Johnson (born January 16, 1980), best known by the stage name Alyssa Edwards, is an American drag performer, choreographer, and businessperson. Edwards was known for competing in drag pageantry (notably Miss Gay America 2010) before rising to international attention as a contestant on the fifth season of RuPaul's Drag Race, becoming a fan favorite during and after her time on the show. Edwards subsequently appeared on the second season of RuPaul's Drag Race All Stars and starred in her own web series, Alyssa's Secret."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Justin Dwayne Lee Johnson\u200b (Mesquite, Texas; 16 de enero de 1980) m\u00e1s conocido por su nombre art\u00edstico de Alyssa Edwards, es una drag queen y core\u00f3grafo estadounidense. Se dio a conocer principalmente bajo su nombre de drag, Alyssa Edwards, al participar en Miss Gay America 2010, antes de llegar a la fama internacional participando en la quinta temporada de RuPaul\u00b4s Drag Race, convirti\u00e9ndose en una de las drag queens favoritas por el p\u00fablico durante y despu\u00e9s de la emisi\u00f3n del programa.\u200b Johnson vive actualmente en Mesquite, Texas, donde es due\u00f1o y director de un galardonado estudio de baile, Beyond Belief Dance Company. \u00c9l y su estudio son las piezas centrales de su propia docuserie, Dancing Queen, producida por RuPaul y World of Wonder que se estren\u00f3 a nivel mundial el 5 de octubre de 20"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Alyssa Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "https://thealyssaedwards.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Alyssa Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/AlyssaEdwards20160806_034925_(cropped).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Alyssa_Edwards_at_DragCon,_April_2017.png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Mesquite,_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Mesquite, Texas, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1980-01-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Beauty_pageant_controversies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_choreographers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1980_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_businesspeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Businesspeople_from_Dallas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_dancers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Mesquite,_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_businesswomen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "38866019"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123225861"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_10)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_11)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_4)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_5)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_5)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Secret_Celebrity_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santiago_de_Chile"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Beauty_pageant_controversies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_choreographers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hurricane_Bianca"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PharmaRusical"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rigel_Gemini"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rihanna"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(production_company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stage_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coco_Montrese"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_for_Play_Game_Show_Starring_RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gia_Gunn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/God_Shave_the_Queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miss_Gay_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/My_Life_as_Liz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Logo_TV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTV_Cribs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTV_Video_Music_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shut_Up_and_Drive"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Skin_Wars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/What_Ever_Happened_to_Baby_Jane%3F_(1962_film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1980_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_businesspeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Businesspeople_from_Dallas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_dancers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Todrick_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Watch_What_Happens_Live_with_Andy_Cohen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/We_Are_the_World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Werq_the_World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_pageantry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alyssa_Milano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/America's_Got_Talent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/America's_Got_Talent_(season_16)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anastasia_Beverly_Hills"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dancer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dancing_Queen_(American_TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Mesquite,_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pageant_(film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dance_teacher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles_Gay_and_Lesbian_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jade_Thirlwall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tatianna"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Bachelorette_(American_TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_businesswomen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Choreographer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Laganja_Estranja"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_End_theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plastique_Tiara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul:_What's_The_Tee%3F"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mesquite,_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michelle_Visage"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miley_Cyrus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Netflix"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shea_Coule\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NewNowNext_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hurricane_Bianca_2:_From_Russia_with_Hate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shangela_Laquifa_Wadley"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/TV_Personality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princess_Belle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vivienne_Pinay"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Alyssa_Edwards_at_DragCon,_April_2017.png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://thealyssaedwards.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0ryvws3"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Alyssa_Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/a2784b78-d215-4086-a1b2-49cb43573e25"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q16201417"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0623\u0644\u064a\u0633\u0627_\u0625\u062f\u0648\u0627\u0631\u062f\u0632"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ca.dbpedia.org/resource/Alyssa_Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Alyssa_Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Alyssa_Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u0622\u0644\u06cc\u0633\u0627_\u0627\u062f\u0648\u0627\u0631\u062f\u0632"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fi.dbpedia.org/resource/Alyssa_Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Alyssa_Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05d0\u05dc\u05d9\u05e1\u05d4_\u05d0\u05d3\u05d5\u05d5\u05e8\u05d3\u05e1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ko.dbpedia.org/resource/\uc5bc\ub9ac\uc0ac_\uc5d0\ub4dc\uc6cc\uc988"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pt.dbpedia.org/resource/Alyssa_Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/baye"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Circular_reference"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Facebook"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Secret_Celebrity_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/AlyssaEdwards20160806_034925_(cropped).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1980-01-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Justin Dwayne  Lee Johnson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Alyssa Edwards performing in Santiago de Chile, August 2016"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/father",
+        "object": "Jimmy Harold Johnson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race  \nRuPaul's Drag Race All Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/mother",
+        "object": "Sherrie Ann Laye"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Dancer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "TV Personality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "dance teacher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/property/website",
+        "object": "https://thealyssaedwards.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Alyssa Edwards (Mesquite, 16 de gener de 1980) nom artistic de Justin Dwayne Lee Johnson, \u00e9s un core\u00f2graf, empresari i drag-queen dels Estats Units. Edwards era coneguda per competir en un concurs de bellesa drag (sobretot Miss Gay America 2010) abans d'atreure l'atenci\u00f3 internacional com a concursant de la cinquena temporada de RuPaul's Drag Race, de la qual es va convertir en una de les preferides dels fans durant i despr\u00e9s de l'emissi\u00f3 del programa. Posteriorment, Edwards va apar\u00e8ixer a la segona temporada de i va protagonitzar la seva pr\u00f2pia s\u00e8rie web, Alyssa's Secret. El juny de 2019, la revista New York va situar-la cinquena a la llista de \"les drag queens m\u00e9s poderoses d'Am\u00e8rica\", un r\u00e0nquing de 100 exconcursants de RuPaul's Drag Race. Johnson viu a Mesquite, Texas, on posseeix i dirigeix un estudi de dansa anomenat Beyond Belief Dance Company. Johnson i el seu estudi de dansa s\u00f3n els eixos centrals d'una docus\u00e8rie, Dancing Queen, produ\u00efda per RuPaul i World of Wonder que es va estrenar el 5 d'octubre de 2018 a Netflix."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0623\u0644\u064a\u0633\u0627 \u0625\u062f\u0648\u0627\u0631\u062f\u0632 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Alyssa Edwards)\u200f \u0647\u0648 \u0634\u062e\u0635\u064a\u0629 \u0623\u0639\u0645\u0627\u0644 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 16 \u064a\u0646\u0627\u064a\u0631 1980 \u0641\u064a \u0645\u0633\u0643\u064a\u062a \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Justin Dwayne Lee Johnson (born January 16, 1980), best known by the stage name Alyssa Edwards, is an American drag performer, choreographer, and businessperson. Edwards was known for competing in drag pageantry (notably Miss Gay America 2010) before rising to international attention as a contestant on the fifth season of RuPaul's Drag Race, becoming a fan favorite during and after her time on the show. Edwards subsequently appeared on the second season of RuPaul's Drag Race All Stars and starred in her own web series, Alyssa's Secret. Johnson lives in Mesquite, Texas, where he owns and operates a dance studio, Beyond Belief Dance Company. Johnson and his dance studio are the centerpieces of a docuseries, Dancing Queen, produced by RuPaul and World of Wonder that premiered on October 5, 2018 on Netflix."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Alyssa Edwards (* 16. Januar 1980; b\u00fcrgerlich: Justin Dwayne Lee Johnson) ist eine US-amerikanische Dragqueen, Tanzlehrer und Comedian. Edwards ist vor allem f\u00fcr ihre Teilnahme an RuPaul's Drag Race bekannt."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Justin Dwayne Lee Johnson\u200b (Mesquite, Texas; 16 de enero de 1980) m\u00e1s conocido por su nombre art\u00edstico de Alyssa Edwards, es una drag queen y core\u00f3grafo estadounidense. Se dio a conocer principalmente bajo su nombre de drag, Alyssa Edwards, al participar en Miss Gay America 2010, antes de llegar a la fama internacional participando en la quinta temporada de RuPaul\u00b4s Drag Race, convirti\u00e9ndose en una de las drag queens favoritas por el p\u00fablico durante y despu\u00e9s de la emisi\u00f3n del programa.\u200b Johnson vive actualmente en Mesquite, Texas, donde es due\u00f1o y director de un galardonado estudio de baile, Beyond Belief Dance Company. \u00c9l y su estudio son las piezas centrales de su propia docuserie, Dancing Queen, producida por RuPaul y World of Wonder que se estren\u00f3 a nivel mundial el 5 de octubre de 2018 en Netflix.\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Justin Dwayne Lee Johnson, plus connu sous le nom de sc\u00e8ne Alyssa Edwards, est un chor\u00e9graphe et drag queen am\u00e9ricain. Alyssa est principalement connue pour avoir concouru dans de nombreux concours de beaut\u00e9, avant de conna\u00eetre un succ\u00e8s international en participant \u00e0 la cinqui\u00e8me saison de RuPaul's Drag Race et la deuxi\u00e8me saison de RuPaul's Drag Race : All Stars, devenant une favorite des fans pendant et apr\u00e8s l'\u00e9mission. Alyssa vit \u00e0 Mesquite, au Texas, o\u00f9 elle poss\u00e8de et g\u00e8re un studio de danse r\u00e9compens\u00e9, Beyond Belief Dancy Company. Alyssa et son studio de danse sont les \u00e9l\u00e9ments principaux de sa s\u00e9rie documentaire, Dancing Queen, produite par RuPaul et World of Wonder et diffus\u00e9e sur Netflix \u00e0 partir du 5 octobre 2018."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\uc5bc\ub9ac\uc0ac \uc5d0\ub4dc\uc6cc\uc988(Alyssa Edwards, 1981\ub144 9\uc6d4 3\uc77c ~ )\ub294 \ubbf8\uad6d\uc758 \ub4dc\ub798\uadf8 \ud038, \uc548\ubb34\uac00, \ub304\uc11c, \uc0ac\uc5c5\uac00\uc774\ub2e4. \u300a\ub8e8\ud3f4\uc758 \ub4dc\ub798\uadf8 \ub808\uc774\uc2a4\u300b \uc2dc\uc98c 5\uc5d0 \ucd9c\uc5f0\ud558\uba74\uc11c \uc774\ub984\uc744 \uc54c\ub838\ub2e4."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Justin Dwayne Lee Johnson, mais conhecido por seu nome art\u00edstico Alyssa Edwards, \u00e9 uma drag norte-americana, core\u00f3grafo e empres\u00e1rio. Johnson era conhecida por competir de drag pageantry (notavelmente Miss Gay America 2010) antes de se destacar na quinta temporada de RuPaul's Drag Race, tornando-se uma das favoritas dos f\u00e3s durante e depois de seu tempo no programa. Johnson mora em Mesquite, Texas, onde \u00e9 dono e dirige um est\u00fadio premiado, Beyond Belief Dance Company. Johnson e seu est\u00fadio de dan\u00e7a s\u00e3o as pe\u00e7as centrais de uma nova docuseries, Dancing Queen, produzido por RuPaul e World of Wonder e ser\u00e1 estreado em 5 de outubro de 2018 na Netflix."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Performer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Alyssa_Edwards?oldid=1123225861&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "25774"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Justin Dwayne (also spelled \u201cDewayne\u201d) Lee Johnson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1980"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Dancer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Dance_teacher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Alyssa_Edwards__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/TV_Personality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alyssa_Edwards>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Alyssa_Edwards"
+    }
+]

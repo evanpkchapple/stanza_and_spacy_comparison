@@ -1,0 +1,612 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromMemphis,Tennessee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHebrewUnionCollegeAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u062f\u064a\u0646\u064a\u0633\u064a \u0625\u063a\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Denise Eger"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Denise Eger"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u042d\u0434\u0436\u0435\u0440, \u0414\u0435\u043d\u0438\u0437"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u062f\u064a\u0646\u064a\u0633\u064a \u0625\u063a\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Denise Eger)\u200f \u0647\u064a \u062d\u0627\u062e\u0627\u0645\u0629 \u0623\u0645\u0631\u064a\u0643\u064a\u0629\u060c \u0648\u0644\u062f\u062a \u0641\u064a 14 \u0645\u0627\u0631\u0633 1960 \u0641\u064a \u0628\u064a\u062a\u0633\u0628\u0631\u063a \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Denise Leese (Davida) Eger (* 16. M\u00e4rz 1960) ist eine US-amerikanische Rabbinerin und Pr\u00e4sidentin der Central Conference of American Rabbis."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Denise Leese Eger (born March 14, 1960) is an American Reform rabbi. In March 2015, she became president of the Central Conference of American Rabbis, the largest and oldest rabbinical organization in North America; she was the first openly gay person to hold that position."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0414\u044d\u0432\u0438\u0434\u0430 \u042d\u0434\u0436\u0435\u0440 (\u0430\u043d\u0433\u043b. Davida Eger), \u0438\u043c\u044f \u043f\u0440\u0438 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0438 \u0414\u0435\u043d\u0438\u0437 \u041b\u0438\u0437 \u042d\u0434\u0436\u0435\u0440 (\u0430\u043d\u0433\u043b. Denise Leese Eger; \u0440\u043e\u0434. 14 \u043c\u0430\u0440\u0442\u0430 1960, \u041f\u0438\u0442\u0442\u0441\u0431\u0443\u0440\u0433, \u0448\u0442\u0430\u0442 \u041f\u0435\u043d\u0441\u0438\u043b\u044c\u0432\u0430\u043d\u0438\u044f, \u0421\u0428\u0410) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0435\u0444\u043e\u0440\u043c\u0438\u0441\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0432\u0432\u0438\u043d. \u0412 2015\u20142017 \u0433\u043e\u0434\u0430\u0445 \u0431\u044b\u043b\u0430 \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u043e\u043c , \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0435\u0439 \u0438 \u0441\u0442\u0430\u0440\u0435\u0439\u0448\u0435\u0439 \u0440\u0430\u0432\u0432\u0438\u043d\u0441\u043a\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0432 \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0439 \u0410\u043c\u0435\u0440\u0438\u043a\u0435. \u042d\u0434\u0436\u0435\u0440 \u0441\u0442\u0430\u043b\u0430 \u043f\u0435\u0440\u0432\u043e\u0439 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0439 \u0433\u043e\u043c\u043e\u0441\u0435\u043a\u0441\u0443\u0430\u043b\u043a\u043e\u0439, \u0437\u0430\u043d\u044f\u0432\u0448\u0435\u0439 \u044d\u0442\u0443 \u0434\u043e\u043b\u0436\u043d\u043e\u0441\u0442\u044c."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Denise Eger"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://rabbieger.wordpress.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Denise Eger"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Denise_Eger_(5106017412).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Pittsburgh,_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Pittsburgh,_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1960-03-14"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1960_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Women_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_Union_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Memphis,_Tennessee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "28214198"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1111441708"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robin_Tyler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Chayim_Chadashim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Human_Rights_Campaign"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Southern_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1960_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Memphis,_Tennessee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shalom_Hartman_Institute"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morris_Kight"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pittsburgh,_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles_Times"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_Union_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Memphis,_Tennessee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Central_Conference_of_American_Rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College-Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College_\u2013_Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Southern_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Kensington,_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Women's_Rabbinic_Network"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Temple_Ahavat_Shalom_Northridge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Memphis_State_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diane_Olson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://rabbieger.wordpress.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0cnyfgk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Denise_Eger"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q5257658"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u062f\u064a\u0646\u064a\u0633\u064a_\u0625\u063a\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u062f\u064a\u0646\u064a\u0633\u0649_\u0627\u062c\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Denise_Eger"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05d3\u05e0\u05d9\u05e1_\u05d0\u05d2\u05e8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u042d\u0434\u0436\u0435\u0440,_\u0414\u0435\u043d\u0438\u0437"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4ienB"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Bulleted_list"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Denise_Eger_(5106017412).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1960-03-14"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Eger in 2010"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/University_of_Southern_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College_\u2013_Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Eleanor Steinman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/property/website",
+        "object": "rabbieger.wordpress.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u062f\u064a\u0646\u064a\u0633\u064a \u0625\u063a\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Denise Eger)\u200f \u0647\u064a \u062d\u0627\u062e\u0627\u0645\u0629 \u0623\u0645\u0631\u064a\u0643\u064a\u0629\u060c \u0648\u0644\u062f\u062a \u0641\u064a 14 \u0645\u0627\u0631\u0633 1960 \u0641\u064a \u0628\u064a\u062a\u0633\u0628\u0631\u063a \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Denise Leese (Davida) Eger (* 16. M\u00e4rz 1960) ist eine US-amerikanische Rabbinerin und Pr\u00e4sidentin der Central Conference of American Rabbis."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Denise Leese Eger (born March 14, 1960) is an American Reform rabbi. In March 2015, she became president of the Central Conference of American Rabbis, the largest and oldest rabbinical organization in North America; she was the first openly gay person to hold that position."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0414\u044d\u0432\u0438\u0434\u0430 \u042d\u0434\u0436\u0435\u0440 (\u0430\u043d\u0433\u043b. Davida Eger), \u0438\u043c\u044f \u043f\u0440\u0438 \u0440\u043e\u0436\u0434\u0435\u043d\u0438\u0438 \u0414\u0435\u043d\u0438\u0437 \u041b\u0438\u0437 \u042d\u0434\u0436\u0435\u0440 (\u0430\u043d\u0433\u043b. Denise Leese Eger; \u0440\u043e\u0434. 14 \u043c\u0430\u0440\u0442\u0430 1960, \u041f\u0438\u0442\u0442\u0441\u0431\u0443\u0440\u0433, \u0448\u0442\u0430\u0442 \u041f\u0435\u043d\u0441\u0438\u043b\u044c\u0432\u0430\u043d\u0438\u044f, \u0421\u0428\u0410) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0435\u0444\u043e\u0440\u043c\u0438\u0441\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0432\u0432\u0438\u043d. \u0412 2015\u20142017 \u0433\u043e\u0434\u0430\u0445 \u0431\u044b\u043b\u0430 \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442\u043e\u043c , \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0435\u0439 \u0438 \u0441\u0442\u0430\u0440\u0435\u0439\u0448\u0435\u0439 \u0440\u0430\u0432\u0432\u0438\u043d\u0441\u043a\u043e\u0439 \u043e\u0440\u0433\u0430\u043d\u0438\u0437\u0430\u0446\u0438\u0438 \u0432 \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0439 \u0410\u043c\u0435\u0440\u0438\u043a\u0435. \u042d\u0434\u0436\u0435\u0440 \u0441\u0442\u0430\u043b\u0430 \u043f\u0435\u0440\u0432\u043e\u0439 \u043e\u0442\u043a\u0440\u044b\u0442\u043e\u0439 \u0433\u043e\u043c\u043e\u0441\u0435\u043a\u0441\u0443\u0430\u043b\u043a\u043e\u0439, \u0437\u0430\u043d\u044f\u0432\u0448\u0435\u0439 \u044d\u0442\u0443 \u0434\u043e\u043b\u0436\u043d\u043e\u0441\u0442\u044c."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Denise_Eger?oldid=1111441708&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "13466"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1960"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/University_of_Southern_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College_\u2013_Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Denise_Eger__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Denise_Eger>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Denise_Eger"
+    }
+]

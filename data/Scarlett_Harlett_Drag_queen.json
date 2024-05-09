@@ -1,0 +1,337 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Scarlett Harlett"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Scarlett Harlett is the stage name of Harry Mulvany (born 1995), a British drag queen from the Isle of Dogs in East London best known for appearing on series 3 of RuPaul's Drag Race UK."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Scarlett Harlett"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Scarlett Harlett"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_UK_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1995_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "68505295"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1122305564"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rocketman_(film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK_(series_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/East_London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_UK_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Absolutely_Fabulous:_The_Movie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1995_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_(clothing)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isle_of_Dogs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Extra_(acting)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q108330486"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/G6jJj"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:LGBT-bio-stub"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_year_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Harry Mulvany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "British"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Scarlett Harlett is the stage name of Harry Mulvany (born 1995), a British drag queen from the Isle of Dogs in East London best known for appearing on series 3 of RuPaul's Drag Race UK."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Scarlett_Harlett?oldid=1122305564&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "6639"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Harry Mulvany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1995"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Scarlett_Harlett__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Scarlett_Harlett>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Scarlett_Harlett"
+    }
+]

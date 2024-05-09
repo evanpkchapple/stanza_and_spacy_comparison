@@ -1,0 +1,542 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u039c\u03c9\u03c5\u03c3\u03ae\u03c2 \u03a0\u03ad\u03c3\u03b1\u03c7"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Moshe Pesach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Moshe Pesach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Moshe Pesach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u039f \u039c\u03c9\u03c5\u03c3\u03ae\u03c2 \u03a0\u03ad\u03c3\u03b1\u03c7 (\u03b5\u03b2\u03c1\u03b1\u03ca\u03ba\u03ac: Moshe Pesach) (1869, \u039b\u03ac\u03c1\u03b9\u03c3\u03b1 - 13 \u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 1955, \u0392\u03cc\u03bb\u03bf\u03c2) \u03ae\u03c4\u03b1\u03bd \u03bf \u03c1\u03b1\u03b2\u03af\u03bd\u03bf\u03c2 \u03c4\u03bf\u03c5 \u0392\u03cc\u03bb\u03bf\u03c5 \u03b1\u03c0\u03cc \u03c4\u03bf 1892 \u03bc\u03ad\u03c7\u03c1\u03b9 \u03c4\u03bf \u03b8\u03ac\u03bd\u03b1\u03c4\u03cc \u03c4\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf 1946. \u039c\u03ad\u03c3\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b5\u03b9\u03ad\u03c2 \u03c4\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03bc\u03b5 \u03c4\u03b7 \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03c4\u03c9\u03bd \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ce\u03bd \u03b1\u03c1\u03c7\u03ce\u03bd, \u03b7 \u03c0\u03bb\u03b5\u03b9\u03bf\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03ba\u03bf\u03b9\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03cc\u03bb\u03b7\u03c2 \u03c3\u03ce\u03b8\u03b7\u03ba\u03b5 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7 \u03b4\u03b9\u03ac\u03c1\u03ba\u03b5\u03b9\u03b1 \u03c4\u03bf\u03c5 \u039f\u03bb\u03bf\u03ba\u03b1\u03c5\u03c4\u03ce\u03bc\u03b1\u03c4\u03bf\u03c2."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Moshe Pesach (Greek: \u039c\u03c9\u03c5\u03c3\u03ae\u03c2 \u03a0\u03b5\u03c3\u03ac\u03c7 or \u03a0\u03ad\u03c3\u03b1\u03c7; 1869 \u2013 13 November 1955) was a Greek rabbi who was the rabbi of Volos from 1892 until his death, and chief rabbi of Greece from 1946. Through his efforts, and with the assistance of the Greek authorities, the majority of the city's Jewish community was saved during the Holocaust."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Moshe Pesach (Larissa, 1869 \u2013 Volos, 13 novembre 1955) \u00e8 stato un rabbino greco Grazie ai suoi sforzi e con l'assistenza delle autorit\u00e0 greche, riusc\u00ec a salvare la maggior parte delle persone della comunit\u00e0 ebraica della citt\u00e0 durante l'Olocausto."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Moshe_Pesach.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Larissa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Volos"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Volos, Greece"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Larissa, Greece"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Chief_rabbis_of_Greece"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:The_Holocaust_in_Greece"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_George_I"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1869_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1955_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Greek_people_of_World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Larissa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Volos"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gold_Crosses_of_the_Order_of_the_Phoenix_(Greece)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "46451374"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1081783555"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Chief_rabbis_of_Greece"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben-Zion_Meir_Hai_Uziel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holocaust"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:The_Holocaust_in_Greece"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_of_Greece"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Volos"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Order_of_the_Phoenix_(Greece)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_II_of_Greece"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German_invasion_of_Greece"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greek_Resistance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thessaloniki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_George_I"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Macedonia_(Greece)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zakynthos"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Axis_occupation_of_Greece"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/B'nai_B'rith"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1869_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1955_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Greek_people_of_World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Larissa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Forest_of_the_Martyrs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Athens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chief_rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_National_Fund"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Larissa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Didymoteicho"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Volos"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Middle_East"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gold_Crosses_of_the_Order_of_the_Phoenix_(Greece)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Order_of_George_I"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italian_armistice"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben-Zvi_Institute"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0134jgz9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Moshe_Pesach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/70145304381178570291"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q19840562"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://el.dbpedia.org/resource/\u039c\u03c9\u03c5\u03c3\u03ae\u03c2_\u03a0\u03ad\u03c3\u03b1\u03c7"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05de\u05e9\u05d4_\u05e9\u05de\u05e2\u05d5\u05df_\u05e4\u05e1\u05d7"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Moshe_Pesach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nl.dbpedia.org/resource/Moshe_Pesach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/tkZj"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Circa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Greece_during_World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Interlanguage_link_multi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_year_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Moshe_Pesach.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1869"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/property/burialPlace",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Pesach in 1939"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "2"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "--11-13"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/property/nativeName",
+        "object": "\u039c\u03c9\u03c5\u03c3\u03ae\u03c2 \u03a0\u03b5\u03c3\u03ac\u03c7/\u03a0\u03ad\u03c3\u03b1\u03c7"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/property/nativeNameLang",
+        "object": "el"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u039f \u039c\u03c9\u03c5\u03c3\u03ae\u03c2 \u03a0\u03ad\u03c3\u03b1\u03c7 (\u03b5\u03b2\u03c1\u03b1\u03ca\u03ba\u03ac: Moshe Pesach) (1869, \u039b\u03ac\u03c1\u03b9\u03c3\u03b1 - 13 \u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 1955, \u0392\u03cc\u03bb\u03bf\u03c2) \u03ae\u03c4\u03b1\u03bd \u03bf \u03c1\u03b1\u03b2\u03af\u03bd\u03bf\u03c2 \u03c4\u03bf\u03c5 \u0392\u03cc\u03bb\u03bf\u03c5 \u03b1\u03c0\u03cc \u03c4\u03bf 1892 \u03bc\u03ad\u03c7\u03c1\u03b9 \u03c4\u03bf \u03b8\u03ac\u03bd\u03b1\u03c4\u03cc \u03c4\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf 1946. \u039c\u03ad\u03c3\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c0\u03ac\u03b8\u03b5\u03b9\u03ad\u03c2 \u03c4\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03bc\u03b5 \u03c4\u03b7 \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1 \u03c4\u03c9\u03bd \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ce\u03bd \u03b1\u03c1\u03c7\u03ce\u03bd, \u03b7 \u03c0\u03bb\u03b5\u03b9\u03bf\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03ba\u03bf\u03b9\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03cc\u03bb\u03b7\u03c2 \u03c3\u03ce\u03b8\u03b7\u03ba\u03b5 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7 \u03b4\u03b9\u03ac\u03c1\u03ba\u03b5\u03b9\u03b1 \u03c4\u03bf\u03c5 \u039f\u03bb\u03bf\u03ba\u03b1\u03c5\u03c4\u03ce\u03bc\u03b1\u03c4\u03bf\u03c2."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Moshe Pesach (Greek: \u039c\u03c9\u03c5\u03c3\u03ae\u03c2 \u03a0\u03b5\u03c3\u03ac\u03c7 or \u03a0\u03ad\u03c3\u03b1\u03c7; 1869 \u2013 13 November 1955) was a Greek rabbi who was the rabbi of Volos from 1892 until his death, and chief rabbi of Greece from 1946. Through his efforts, and with the assistance of the Greek authorities, the majority of the city's Jewish community was saved during the Holocaust."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Moshe Pesach (Larissa, 1869 \u2013 Volos, 13 novembre 1955) \u00e8 stato un rabbino greco Grazie ai suoi sforzi e con l'assistenza delle autorit\u00e0 greche, riusc\u00ec a salvare la maggior parte delle persone della comunit\u00e0 ebraica della citt\u00e0 durante l'Olocausto."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/70145304381178570291"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Moshe_Pesach?oldid=1081783555&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "7543"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1869"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1955"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Moshe_Pesach__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Pesach>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Moshe_Pesach"
+    }
+]

@@ -1,0 +1,1207 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q2159907"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Criminal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Barry Freundel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Bernard \"Barry\" Freundel (born December 16, 1951) was the rabbi of Kesher Israel Congregation in Washington, D.C. from 1989 until 2014. Freundel was regarded as \"a brilliant scholar,\" a \"profound\" orator and an authority in several areas of halakha (Jewish law), including eruvim, which he assisted in constructing in a number of cities, including Washington."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+        "object": "http://dbpedia.org/resource/Homosexuality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+        "object": "http://dbpedia.org/resource/Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+        "object": "http://dbpedia.org/resource/Abortion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Bernard Freundel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Bernard Freundel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Georgetown_Law_Campus.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/H._Carl_Moultrie_Courthouse.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Kesher_Israel_-_facade.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Ronald_Machen_US_Attorney.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1951-12-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1952_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Towson_University_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Georgetown_University_Law_Center_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_convicted_of_crimes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_members_of_the_clergy_convicted_of_crimes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbi_Isaac_Elchanan_Theological_Seminary_semikhah_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Washington,_D.C."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Modern_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "3544795"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1107495033"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cabinet_of_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Capitol_Hill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pregnancy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Presidential_Commission_(United_States)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronald_Machen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Environmentalism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Misdemeanor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Institute_on_Aging"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Menstruation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Professors_in_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berth_(sleeping)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bethany_Mandel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arbitration"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Homosexual"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Homosexuality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Din_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Da_Ali_G_Show_episodes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Congress"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Court_of_Appeals_for_the_District_of_Columbia_Circuit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Maryland,_College_Park"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Urim_Publications"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Defendant"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Incarceration_in_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Memory_card"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1952_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conversion_to_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cornell_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cross-examination"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chief_Rabbinate_of_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chief_of_police"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Childbirth"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eruv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Class_action"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gallaudet_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georgetown_(Washington,_D.C.)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georgetown_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georgetown_University_Law_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/God"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Great_Neck,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2019-20_coronavirus_outbreak_in_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Towson_University_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alumni_Association"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leonard_Matanky"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clock_radio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Physics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portable_storage_device"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Professor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Technology"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Science"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Georgetown_University_Law_Center_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CEO"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_convicted_of_crimes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Towson_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UJA-Federation_of_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Washington,_D.C."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doctor_of_Philosophy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_medical_ethics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Law_enforcement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lawsuit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mikveh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cathy_L._Lanier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nishmat"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abortion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_members_of_the_clergy_convicted_of_crimes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Da_Ali_G_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baltimore_Hebrew_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norwalk,_Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Partial-birth_abortion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Forgiveness"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Journal_of_Halacha_and_Contemporary_Society"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Master's_degree"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbinical_Council_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ritual_purification"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haaretz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halakha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hidden_camera"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Forward"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Jewish_Daily_Forward"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbi_Isaac_Elchanan_Theological_Seminary_semikhah_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Washington,_D.C."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Modern_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chemistry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_holidays"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jury_trial"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kesher_Israel_(Washington,_D.C.)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Superior_Court_of_the_District_of_Columbia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/High_Holy_Days"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Psychological_trauma"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Train"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modern_Orthodox"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rebbetzin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Divorce"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Metropolitan_Police_Department_of_the_District_of_Columbia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Institutes_of_Health"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Union"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi_Isaac_Elchanan_Theological_Seminary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rape"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Search_warrant"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sentence_(law)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shabbat"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shemini_Atzeret"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Witness"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yale"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva_College_(Yeshiva_University)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yonkers,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mental_illness"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Safe_house"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scandal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Semikhah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Statute_of_limitations"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Attorney"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ventilation_(architecture)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Digital_video_camera"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plaintiff"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plea_bargain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Get_(divorce_document)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Recognizance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talmud"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Voyeurism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Repentance_in_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Attorney_for_the_District_of_Columbia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ktav_Publishing_House"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kiruv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mikvah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bernard_Revel_Graduate_School"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cloning_humans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Members_of_Congress"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Georgetown_Law_Campus.JPG"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:H._Carl_Moultrie_Courthouse.JPG"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Kesher_Israel_-_facade.JPG"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Ronald_Machen_US_Attorney.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.justice.gov/usao-dc/victim-witness-assistance/us-v-bernard-freundel/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.09kmql"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/73230554"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Barry_Freundel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q4864239"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0628\u0627\u0631\u0649_\u0641\u0631\u0648\u0646\u062f\u064a\u0644"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4WKHa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:ISBN"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_criminal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:See_also"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Kesher_Israel_-_facade.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/alias",
+        "object": "Barry Freundel,"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/alias",
+        "object": "the \"peeping rabbi\""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1951-12-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "3"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/conviction",
+        "object": "Pleaded guilty to 52 counts of voyeurism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/convictionPenalty",
+        "object": "2.051244E8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/convictionStatus",
+        "object": "--04-01"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Former rabbi and professor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Sharon Freundel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Bernard \"Barry\" Freundel (born December 16, 1951) was the rabbi of Kesher Israel Congregation in Washington, D.C. from 1989 until 2014. Freundel was regarded as \"a brilliant scholar,\" a \"profound\" orator and an authority in several areas of halakha (Jewish law), including eruvim, which he assisted in constructing in a number of cities, including Washington. Freundel's career came to a sudden end in October 2014 when he was arrested by the Metropolitan Police Department of the District of Columbia and charged with committing voyeurism of several women in a mikveh (Jewish ritual bath). Kesher Israel immediately suspended him without pay and later notified the congregants that he had been fired. Similarly, he was also suspended from membership in the Vaad and the Rabbinical Council of America (RCA), the main professional association for Modern Orthodox rabbis in the United States. He also was suspended from his multiple academic positions. He was assistant professor of rabbinics at Baltimore Hebrew University, where he was the rabbinic studies graduate program adviser, associate professor at Towson University and adjunct lecturer at the Georgetown University Law Center. Towson University immediately opened its own administrative review of Freundel's conduct with students, while Georgetown University began its own investigation as well. Freundel ultimately pleaded guilty to 52 counts of voyeurism and was sentenced to six-and-a-half years in prison and fined $13,000. On August 28, 2018, the $100 million class action lawsuit which had been brought on behalf of the victims against Freundel and the organizations he was associated with was dropped in lieu of a settlement of $14.25 million, to be paid by the insurance of the parties named in the suit. He was expected to be released on August 21, 2020, but was released early on April 1, 2020, due to COVID-19."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/73230554"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Barry_Freundel?oldid=1107495033&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "63126"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/alias",
+        "object": "Barry Freundel,"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/alias",
+        "object": "the \"peeping rabbi\""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Professor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://dbpedia.org/ontology/spouse",
+        "object": "http://dbpedia.org/resource/Halakha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Barry_Freundel>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Barry_Freundel"
+    }
+]

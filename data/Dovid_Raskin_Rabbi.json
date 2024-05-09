@@ -1,0 +1,372 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Dovid Raskin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Dovid Raskin (1927\u20132011) was a rabbi associated with the Chabad-Lubavitch Hasidic movement. He served as chairman of the Lubavitch Youth Organization for over 50 years. He also served on the boards of a number of Chabad's central organizations."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Dovid Raskin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Dovid Raskin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Belarus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Babruysk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "New York, US"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2011-05-10"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Babruysk, Belarus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2011_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1927_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Hasidic_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Chabad-Lubavitch_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "40923499"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1101899105"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Menachem_Mendel_Schneerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belarus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Rivkah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2011_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Board_of_directors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Babruysk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1927_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agudas_Chasidei_Chabad"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hasidic_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Hasidic_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Chabad-Lubavitch_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chairman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sefer_Torah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Merkos_L\u2019Inyonei_Chinuch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lubavitch_Youth_Organization"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Lubavitcher_Yeshivoth"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mahane_Israel_(Chabad)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chabad-Lubavitch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0yqj_8t"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q16019196"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/azhE"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Chabad"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1927"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "2011-05-10"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, Chairman of Lubavitch Youth Organization"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Dovid Raskin (1927\u20132011) was a rabbi associated with the Chabad-Lubavitch Hasidic movement. He served as chairman of the Lubavitch Youth Organization for over 50 years. He also served on the boards of a number of Chabad's central organizations."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Dovid_Raskin?oldid=1101899105&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "2579"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1927"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "2011"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Dovid_Raskin__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Dovid_Raskin>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Dovid_Raskin"
+    }
+]

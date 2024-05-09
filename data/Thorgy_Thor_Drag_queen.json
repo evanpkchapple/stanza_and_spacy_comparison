@@ -1,0 +1,732 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Thorgy Thor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Thorgy Thor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Thorgy Thor is the stage name of Shane Thor Galligan, an American drag queen and musician who came to international attention on the eighth season of RuPaul's Drag Race and on the third season of All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Thorgy Thor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Thorgy Thor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52073490839).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Ronkonkoma,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Ronkonkoma, New York, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1984-05-25"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_violinists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1984_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_violinists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:State_University_of_New_York_at_Purchase_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Hartford_Hartt_School_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "56624277"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1121612941"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cancer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carnegie_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Psycho_Beach_Party"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ronkonkoma,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_8)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meme"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BeBe_Zahara_Benet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_the_Drag_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jujubee_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_self-identified_LGBTQ_New_Yorkers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Hartford"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Hartford_Hartt_School"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vancouver"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vancouver_Symphony_Orchestra"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/(Le)_Poisson_Rouge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christmas_Queens_3"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Getting_Go:_The_Go_Doc_Project"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morgan_McMichaels"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mozart_in_the_Jungle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Rocky_Horror_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daniel_Bartholomew-Poyser"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_culture_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lincoln_Center_for_the_Performing_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/State_University_of_New_York_at_Purchase"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halifax_Pride"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_violinists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/British_Columbia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trinity_the_Tuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Disruptor_Conductor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aja_(entertainer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexis_Michelle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1984_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Me_Down_the_Aisle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dragnificent!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eureka_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nova_Scotia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halifax,_Nova_Scotia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_violinists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:State_University_of_New_York_at_Purchase_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Hartford_Hartt_School_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charlotte,_North_Carolina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charlotte_Symphony_Orchestra"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chi_Chi_DeVayne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Symphony_Nova_Scotia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/TLC_(TV_network)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manila_Luzon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_All_Stars_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milk_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sharon_Lewis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christmas_Queens_2"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Violinist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shangela_Laquifa_Wadley"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://thorgy.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q49560562"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Thorgy_Thor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4b6g7"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/A"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Tooltip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:URL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52073490839).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1984-05-25"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Shane Thor Galligan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Thorgy Thor at RuPaul's DragCon LA, 2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/University_of_Hartford"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "State University of New York, Purchase"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race: All Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "violinist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2003"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Thorgy Thor is the stage name of Shane Thor Galligan, an American drag queen and musician who came to international attention on the eighth season of RuPaul's Drag Race and on the third season of All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Thorgy_Thor?oldid=1121612941&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "16777"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2003"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Shane Thor Galligan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1984"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/University_of_Hartford"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/State_University_of_New_York_at_Purchase"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Violinist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Thorgy_Thor__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Thorgy_Thor>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Thorgy_Thor"
+    }
+]

@@ -1,0 +1,692 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Boulet Brothers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jamie Houchins and Christos Tsombanidis, known professionally as The Boulet Brothers are drag artists, television personalities, writers, producers and modern day horror hosts. They were featured on the cover of Fangoria as \"Horror's New Icons\" in 2022. Their projects have included horror themed television shows, live nightlife productions, books, movies, and comic books. Since 2016 the Boulet Brothers have produced and starred in the reality competition series The Boulet Brothers' Dragula, which features contestants showcasing dark, horror-themed drag looks."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "The Boulet Brothers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "https://bouletbrothersdragula.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "The Boulet Brothers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Boulet_Brothers_-_Creatures_of_the_Night.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Still_from_Dragula_TV_show.png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Still_from_the_Boulet_Brothers'_Dragula.png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/The_Boulet_Brothers_(cropped).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_comics_creators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_comics_creators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_screenwriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Television_producers_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "65411682"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1119624178"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Producer_Entertainment_Group"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rose_McGowan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rue_Morgue_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Myers_(Halloween)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Birmingham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Lumley"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brighton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vinyl_record"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Children_of_the_Corn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chucky_(character)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clive_Barker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_Times"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glasgow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Last_Drive-in_with_Joe_Bob_Briggs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Them."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Wintour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leeds"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lin_Shaye"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manchester"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shudder_(streaming_service)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_King"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steve_Orlando"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yvie_Oddly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Femme_fatale"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Horror_convention"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Horror_host"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Horror_icon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Streaming_media"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Axelle_Carolyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/AMC_Networks"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaska_Thunderfuck_5000"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_comics_creators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Darren_Stein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dread_Central"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fangoria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nottingham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cenobite_(Hellraiser)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grady_twins"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_download"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Punk_fashion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heavy_Metal_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Boulet_Brothers'_Dragula"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Boulet_Brothers'_Dragula_(season_4)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_comics_creators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_screenwriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Television_producers_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joe_Bob_Briggs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katya_Zamolodchikova"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LA_Weekly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Laurence_King_Publishing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Hellbound_Heart"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Digital_Spy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dita_Von_Teese"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Docuseries"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pinhead_(Hellraiser)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poppy_(entertainer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clapham_Grand"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rachel_True"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reality_competition"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Screen_Rant"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Necroscope"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reality_TV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queer_icon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/WUSSY_MAG"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Boulet_Brothers_-_Creatures_of_the_Night.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Still_from_Dragula_TV_show.png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Still_from_the_Boulet_Brothers'_Dragula.png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.wussymag.com/all/2019/8/27/the-boulet-brothers-horror-empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.laweekly.com/drag-in-l-a-the-boulet-brothers-bring-dark-debauchery-to-nightlife-and-tv/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.laweekly.com/the-boulet-brothers-keep-l-a-s-gay-nightlife-weird/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.digitalspy.com/tv/ustv/a865553/dragula-the-boulet-brothers-secrets-together-relationship-couple/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.wussymag.com/all/2019/10/24/dragula-is-the-future-of-drag-and-drag-race-is-a-tired-ass-showgirl"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://bouletbrothersdragula.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.them.us/story/dragula-competition-show-season-three"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q99763121"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/FMxZp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Drag_performance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:ISBN"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Boxquote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Shudder_original_programming"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:The_Boulet_Brothers'_Dragula"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/The_Boulet_Brothers_(cropped).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "producers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag artists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "television personalities"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/property/website",
+        "object": "https://bouletbrothersdragula.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "http://dbpedia.org/resource/The_Boulet_Brothers'_Dragula"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jamie Houchins and Christos Tsombanidis, known professionally as The Boulet Brothers are drag artists, television personalities, writers, producers and modern day horror hosts. They were featured on the cover of Fangoria as \"Horror's New Icons\" in 2022. Their projects have included horror themed television shows, live nightlife productions, books, movies, and comic books. Since 2016 the Boulet Brothers have produced and starred in the reality competition series The Boulet Brothers' Dragula, which features contestants showcasing dark, horror-themed drag looks. Outside of their television projects, the Boulet Brothers (Dracmorda and Swanthula) appear regularly as featured guests, performers and emcees at horror conventions, nightclubs and live events. The Boulets are considered prolific nightclub producers with a career creating legendary nightlife events. The Boulet Brothers are also widely celebrated in the LGBTQ+ community due to the inclusive nature of their creative endeavors."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Boulet_Brothers?oldid=1119624178&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "25007"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Boulet_Brothers__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Boulet_Brothers>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Boulet_Brothers"
+    }
+]

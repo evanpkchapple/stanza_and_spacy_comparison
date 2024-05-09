@@ -1,0 +1,457 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Janey Jack\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Janey Jack\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0414\u0436\u0430\u043d\u0456 \u0416\u0430\u043a\u0435"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Justin Mooijer (born 9 April 1992), known by the stage name Janey Jack\u00e9, is a Dutch drag queen, actor and presenter, most known for competing in the first season of Drag Race Holland (2020) and a spin-off season known as RuPaul's Drag Race: UK vs the World (2022)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Justin Mooijer (Purmerend, 8 april 1992), beter bekend onder de artiestennaam Janey Jack\u00e9, is een Nederlands dragqueen, acteur, performer en presentator. Hij is onder andere bekend als jurylid in het programma All Together Now. Op 6 november 2020 eindigde Janey Jack\u00e9 als runner-up van het eerste seizoen van Drag Race Holland. In 2022 keerde zij terug naar RuPaul's Drag Race: UK vs The World, waar zij streed tegen deelnemers uit verschillende internationale seizoenen van de serie."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0414\u0436\u0430\u043d\u0456 \u0416\u0430\u043a\u0435 (\u0430\u043d\u0433\u043b. Janey Jack\u00e9) (\u0441\u043f\u0440\u0430\u0432\u0436\u043d\u0454 \u0456\u043c'\u044f \u0414\u0436\u0430\u0441\u0442\u0456\u043d \u041c\u0443\u0454\u0440 (\u0430\u043d\u0433\u043b. Justin Mooijer; \u043d\u0430\u0440. 9 \u043a\u0432\u0456\u0442\u043d\u044f 1992, \u041f\u044e\u0440\u043c\u0435\u0440\u0435\u043d\u0434) \u2014 \u043d\u0456\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0441\u044c\u043a\u0430 \u0434\u0440\u0435\u0491-\u043a\u0432\u0456\u043d, \u0430\u043a\u0442\u043e\u0440 \u0442\u0430 \u0432\u0435\u0434\u0443\u0447\u0438\u0439, \u0432\u0456\u0434\u043e\u043c\u0438\u0439 \u0443\u0447\u0430\u0441\u0442\u044e \u0432 \u043f\u0435\u0440\u0448\u043e\u043c\u0443 \u0441\u0435\u0437\u043e\u043d\u0456 Drag Race Holland (2020) \u0442\u0430 RuPaul's Drag Race: UK vs the World (2022)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Janey Jack\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Janey Jack\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/JaneyJacke2020.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Purmerend"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Netherlands"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Purmerend"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Netherlands"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1992-04-09"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1992_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Drag_Race_Holland_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Dutch_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Purmerend"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "65257428"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123303881"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Purmerend"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_UK_vs_the_World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Volendam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1992_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Drag_Race_Holland_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Dutch_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Race_Holland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Race_Holland_(season_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Television_presenter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Purmerend"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Just_Friends_(2018_film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Netherlands"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q104178201"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nl.dbpedia.org/resource/Janey_Jack\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://uk.dbpedia.org/resource/\u0414\u0436\u0430\u043d\u0456_\u0416\u0430\u043a\u0435"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/FP8DV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Ill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/A"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Refh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Drag_Race_Holland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/JaneyJacke2020.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1992-04-09"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Justin Mooijer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Jack\u00e9 in 2020"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "Dutch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Television_presenter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2017"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "Drag Race Holland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race: UK vs the World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Justin Mooijer (born 9 April 1992), known by the stage name Janey Jack\u00e9, is a Dutch drag queen, actor and presenter, most known for competing in the first season of Drag Race Holland (2020) and a spin-off season known as RuPaul's Drag Race: UK vs the World (2022)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Justin Mooijer (Purmerend, 8 april 1992), beter bekend onder de artiestennaam Janey Jack\u00e9, is een Nederlands dragqueen, acteur, performer en presentator. Hij is onder andere bekend als jurylid in het programma All Together Now. Op 6 november 2020 eindigde Janey Jack\u00e9 als runner-up van het eerste seizoen van Drag Race Holland. In 2022 keerde zij terug naar RuPaul's Drag Race: UK vs The World, waar zij streed tegen deelnemers uit verschillende internationale seizoenen van de serie."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0414\u0436\u0430\u043d\u0456 \u0416\u0430\u043a\u0435 (\u0430\u043d\u0433\u043b. Janey Jack\u00e9) (\u0441\u043f\u0440\u0430\u0432\u0436\u043d\u0454 \u0456\u043c'\u044f \u0414\u0436\u0430\u0441\u0442\u0456\u043d \u041c\u0443\u0454\u0440 (\u0430\u043d\u0433\u043b. Justin Mooijer; \u043d\u0430\u0440. 9 \u043a\u0432\u0456\u0442\u043d\u044f 1992, \u041f\u044e\u0440\u043c\u0435\u0440\u0435\u043d\u0434) \u2014 \u043d\u0456\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u0441\u044c\u043a\u0430 \u0434\u0440\u0435\u0491-\u043a\u0432\u0456\u043d, \u0430\u043a\u0442\u043e\u0440 \u0442\u0430 \u0432\u0435\u0434\u0443\u0447\u0438\u0439, \u0432\u0456\u0434\u043e\u043c\u0438\u0439 \u0443\u0447\u0430\u0441\u0442\u044e \u0432 \u043f\u0435\u0440\u0448\u043e\u043c\u0443 \u0441\u0435\u0437\u043e\u043d\u0456 Drag Race Holland (2020) \u0442\u0430 RuPaul's Drag Race: UK vs the World (2022)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Janey_Jack\u00e9?oldid=1123303881&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "10374"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2017"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Justin Mooijer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1992"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Television_presenter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Janey_Jack\u00e9__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Janey_Jack\u00e9>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Janey_Jack\u00e9"
+    }
+]

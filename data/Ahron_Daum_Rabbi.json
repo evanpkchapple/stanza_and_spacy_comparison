@@ -1,0 +1,1227 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatYeshivaUniversityAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromBneiBrak"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishTheologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Theologian110705615"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAlumniOfTheLondonSchoolOfJewishStudies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ahron Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0623\u0647\u0631\u0648\u0646 \u062f\u0627\u0648\u0645"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ahron Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ahron Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0386\u03c1\u03bf\u03bd \u039d\u03c4\u03ac\u03bf\u03c5\u03bc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ahron Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ahron Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ahron Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ahron Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ahron Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ahron Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ahron Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0414\u0430\u0443\u043c, \u0410\u0440\u043e\u043d"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0410\u0440\u043e\u043d \u0414\u0430\u0443\u043c"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0623\u0647\u0631\u0648\u0646 \u062f\u0627\u0648\u0645 (\u0628\u0627\u0644\u0639\u0628\u0631\u064a\u0629: \u05d0\u05d4\u05e8\u05df \u05d3\u05d0\u05d5\u05dd\u061b \u0627\u0644\u0645\u0648\u0644\u0648\u062f \u0628\u062a\u0627\u0631\u064a\u062e 6 \u064a\u0646\u0627\u064a\u0631\u060c 1951) \u0647\u0648 \u062d\u0627\u062e\u0627\u0645 \u0641\u064a \u060c \u0648\u064f\u0644\u062f \u0641\u064a \u0625\u0633\u0631\u0627\u0626\u064a\u0644 \u0648\u0647\u0648 \u0623\u064a\u0636\u0627\u064b \u0645\u0631\u0628\u064a\u060c \u0648\u0643\u0627\u062a\u0628\u060c \u0648\u0627\u0644\u062d\u0627\u062e\u0627\u0645 \u0627\u0644\u0623\u0643\u0628\u0631 \u0627\u0644\u0633\u0627\u0628\u0642 \u0644\u0645\u062f\u064a\u0646\u0629 \u0641\u0631\u0627\u0646\u0643\u0641\u0648\u0631\u062a \u0623\u0645 \u0645\u0627\u064a\u0646 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a\u0629\u060c \u0633\u0643\u0646 \u0641\u064a \u0623\u0648\u0627\u062e\u0631 \u0623\u064a\u0627\u0645\u0647 \u0641\u064a \u0623\u0646\u062a\u0648\u064a\u0631\u0628\u060c \u0628\u0644\u062c\u064a\u0643\u0627."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ahron Daum (6. ledna 1951 Bnej Brak \u2013 27. \u010dervna 2018 Antverpy) byl modern\u011b ortodoxn\u00ed rab\u00edn, pedagog, spisovatel a b\u00fdval\u00fd vrchn\u00ed rab\u00edn Frankfurtu nad Mohanem."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u039f \u0386\u03c1\u03bf\u03bd \u039d\u03c4\u03ac\u03bf\u03c5\u03bc (Bnei Brak [\u039c\u03c0\u03bd\u03ad\u03b9 \u039c\u03c0\u03c1\u03b1\u03ba], 6 \u0399\u03b1\u03bd\u03bf\u03c5\u03b1\u03c1\u03af\u03bf\u03c5 1951) \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03bd\u03b1\u03c2 \u0399\u03c3\u03c1\u03b1\u03b7\u03bb\u03b9\u03bd\u03cc\u03c2 \u03c3\u03cd\u03b3\u03c7\u03c1\u03bf\u03bd\u03bf\u03c2 \u03bf\u03c1\u03b8\u03cc\u03b4\u03bf\u03be\u03bf\u03c2 \u03c1\u03b1\u03b2\u03af\u03bd\u03bf\u03c2, \u03b4\u03ac\u03c3\u03ba\u03b1\u03bb\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03b3\u03b3\u03c1\u03b1\u03c6\u03ad\u03b1\u03c2. \u0395\u03af\u03bd\u03b1\u03b9 \u03bf \u03c0\u03c1\u03ce\u03b7\u03bd \u03b1\u03c1\u03c7\u03b9\u03c1\u03b1\u03b2\u03af\u03bd\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03a6\u03c1\u03b1\u03bd\u03ba\u03c6\u03bf\u03cd\u03c1\u03c4\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03c0\u03bb\u03ad\u03bf\u03bd \u03ba\u03b1\u03c4\u03bf\u03b9\u03ba\u03b5\u03af \u03c3\u03c4\u03b7\u03bd \u0391\u03bc\u03b2\u03ad\u03c1\u03c3\u03b1 \u03c4\u03bf\u03c5 \u0392\u03b5\u03bb\u03b3\u03af\u03bf\u03c5."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ahron Daum (Hebrew: \u05d0\u05d4\u05e8\u05df \u05d3\u05d0\u05d5\u05dd; January 6, 1951 \u2013 June 27, 2018) was an Israeli-born Modern-Orthodox rabbi, educator, author, and former chief rabbi of Frankfurt am Main from 1987 to 1993. From 1995 until his death in 2018, he was a lecturer at the Faculty for Comparative Religion in Antwerp, Belgium."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ahron Daum (geboren am 6. Januar 1951 in Bnei Brak, Israel; gestorben am 27. Juni 2018 in Antwerpen) war ein israelischst\u00e4mmiger modern-orthodoxer Rabbiner, Lehrer, Autor und Gemeinderabbiner u. a. in Frankfurt am Main."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ahron Daum (Bnei Brak, Israel, 6 de enero de 1951) es un rabino ortodoxo moderno, educador y autor. Fue rabino mayor de Fr\u00e1ncfort del Meno y residi\u00f3 en Amberes, B\u00e9lgica hasta su fallecimiento."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ahron Daum (n\u00e9 le 6 janvier 1951 et mort le 27 juin 2018 \u00e0 Anvers) est un rabbin moderne-orthodoxe d'origine isra\u00e9lienne, professeur, auteur et ancien grand rabbin de Francfort-sur-le-Main."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ahron Daum (Bnei Brak, 6 gennaio 1951 \u2013 Anversa, 27 giugno 2018) \u00e8 stato un rabbino israeliano, rabbino capo di Francoforte sul Meno."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ahron Daum (Bnei Brak, 6 januari 1951 - Antwerpen, Belgi\u00eb, 27 juni 2018) was een Isra\u00eblische modern-orthodoxe rabbijn, onderwijzer en auteur. Hij was opperrabbijn van Frankfurt am Main."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ahron Daum (ur. 6 stycznia 1951) \u2013 urodzony w Izraelu, rabin, pedagog, pisarz i by\u0142y Frankfurtu nad Menem, obecnie mieszka w Antwerpii, w Belgii."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ahron Daum (nascido em Israel em 6 de janeiro de 1951) \u00e9 um rabino ortodoxo moderno, educador e autor. Foi rabino maior de Frankfurt am Main, e reside atualmente em Antu\u00e9rpia, B\u00e9lgica."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Ahron Daum, f\u00f6dd 6 januari 1951 i Bnei Brak i Israel, d\u00f6d 27 juni 2018 i Antwerpen, var en rabbin, utbildare, f\u00f6rfattare, och f\u00f6re detta \u00f6verrabbin av Frankfurt am Main."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0410\u0440\u043e\u043d \u0414\u0430\u0443\u043c (\u043d\u0430\u0440. 6 \u0441\u0456\u0447\u043d\u044f, 1951, \u0411\u043d\u0435\u0439-\u0411\u0440\u0430\u043a) \u2014 \u0456\u0437\u0440\u0430\u0457\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0441\u0443\u0447\u0430\u0441\u043d\u0438\u0439 \u043e\u0440\u0442\u043e\u0434\u043e\u043a\u0441\u0430\u043b\u044c\u043d\u0438\u0439 \u0440\u0430\u0431\u0438\u043d, \u0443\u0447\u0438\u0442\u0435\u043b\u044c \u0456 \u0430\u0432\u0442\u043e\u0440. \u0412\u0456\u043d \u043a\u043e\u043b\u0438\u0448\u043d\u0456\u0439 \u0433\u043e\u043b\u043e\u0432\u043d\u0438\u0439 \u0440\u0430\u0431\u0438\u043d \u0424\u0440\u0430\u043d\u043a\u0444\u0443\u0440\u0442\u0430-\u043d\u0430-\u041c\u0430\u0439\u043d\u0456, \u0437\u0430\u0440\u0430\u0437 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u0454 \u0432 \u043c\u0456\u0441\u0442\u0456 \u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d, \u0411\u0435\u043b\u044c\u0433\u0456\u044f."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0420\u0430\u0431\u0438 \u0410\u0440\u043e\u043d \u0414\u0430\u0443\u043c (\u0411\u043d\u0435\u0439-\u0411\u0440\u0430\u043a, 6 \u044f\u043d\u0432\u0430\u0440\u044f, 1951) \u0418\u0437\u0440\u0430\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 \u043e\u0440\u0442\u043e\u0434\u043e\u043a\u0441\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0432\u0432\u0438\u043d, \u0443\u0447\u0438\u0442\u0435\u043b\u044c \u0438 \u0430\u0432\u0442\u043e\u0440. \u041e\u043d \u0431\u044b\u0432\u0448\u0438\u0439 \u0433\u043b\u0430\u0432\u043d\u044b\u0439 \u0440\u0430\u0432\u0432\u0438\u043d \u0424\u0440\u0430\u043d\u043a\u0444\u0443\u0440\u0442\u0430-\u043d\u0430-\u041c\u0430\u0439\u043d\u0435, \u0441\u0435\u0439\u0447\u0430\u0441 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u0435\u0442 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d, \u0411\u0435\u043b\u044c\u0433\u0438\u044f."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Rabbi Ahron Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://www.bestjewishstudies.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Rabbi Ahron Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Ahron_Daum_in_Jerusalem.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Daum_elberg.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Bnei_Brak"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2018-06-27"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Bnei_Brak"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1951-01-06"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1951_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2018_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Yeshiva_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Baalei_teshuva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Jewish_theologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Belgian_Ashkenazi_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Belgian_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Haredi_rabbis_in_Europe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_outreach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Judaism_in_Antwerp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Bnei_Brak"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbi_Isaac_Elchanan_Theological_Seminary_semikhah_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Jewish_theologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_London_School_of_Jewish_Studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Religious_Zionist_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Modern_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "40971218"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1107769954"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Converts_to_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Din"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bnei_Brak"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pesach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Lucerne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dayan_(rabbinic_judge)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1951_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2018_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chief_Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modern_Orthodox_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Homiletic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antwerp,_Belgium"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucerne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mainz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ashkenazi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sukkah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frankfurt_am_Main"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Yeshiva_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Baalei_teshuva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Age_of_Enlightenment"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Jewish_theologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Belgian_Ashkenazi_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Belgian_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Haredi_rabbis_in_Europe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_outreach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Judaism_in_Antwerp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wilrijk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_identity"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joods_Actueel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kashrut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kabbalat_Shabbat"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halacha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baal_teshuva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Bnei_Brak"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbi_Isaac_Elchanan_Theological_Seminary_semikhah_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Jewish_theologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_the_London_School_of_Jewish_Studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Religious_Zionist_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Modern_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chanukkah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chief_rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_culture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_holidays"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kabbalah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michelstadt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi_Isaac_Elchanan_Theological_Seminary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shabbat"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Worms,_Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shive"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Faculty_for_Comparative_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Responsa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_History"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jews'_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Av_Beth_Din"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Soloveitchik"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russian-Jewish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mikvah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bnei_Brak,_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minyanim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Klezmer_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Montreux,_Switzerland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/High_Holidays"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Giyur"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_divorce"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_festivals"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baumweg_Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Daum_elberg.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi_Meir_Posen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.bestjewishstudies.com/Diplomas-and-certificates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.bestjewishstudies.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.bestjewishstudies.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.amazon.de/s/ref=ntt_athr_dp_sr_1%3F_encoding=UTF8&field-author=Ahron%20Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0ywx4xn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Ahron_Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/30262732"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1089166818"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q15215308"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p114749922"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0623\u0647\u0631\u0648\u0646_\u062f\u0627\u0648\u0645"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0627\u0647\u0631\u0648\u0646_\u062f\u0627\u0648\u0645"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://bg.dbpedia.org/resource/\u0410\u0440\u043e\u043d_\u0414\u0430\u0443\u043c"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://cs.dbpedia.org/resource/Ahron_Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Ahron_Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://el.dbpedia.org/resource/\u0386\u03c1\u03bf\u03bd_\u039d\u03c4\u03ac\u03bf\u03c5\u03bc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Ahron_Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Ahron_Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05d0\u05d4\u05e8\u05df_\u05d3\u05d0\u05d5\u05dd"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://hu.dbpedia.org/resource/Ahron_Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Ahron_Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ka.dbpedia.org/resource/\u10d0\u10e0\u10dd\u10dc_\u10d3\u10d0\u10e3\u10db\u10d8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://lt.dbpedia.org/resource/Ahron_Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nl.dbpedia.org/resource/Ahron_Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://no.dbpedia.org/resource/Ahron_Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pl.dbpedia.org/resource/Ahron_Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pt.dbpedia.org/resource/Ahron_Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u0414\u0430\u0443\u043c,_\u0410\u0440\u043e\u043d"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sk.dbpedia.org/resource/Ahron_Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sl.dbpedia.org/resource/Ahron_Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sv.dbpedia.org/resource/Ahron_Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://tr.dbpedia.org/resource/Ahron_Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://uk.dbpedia.org/resource/\u0410\u0440\u043e\u043d_\u0414\u0430\u0443\u043c"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yi.dbpedia.org/resource/\u05d0\u05d4\u05e8\u05df_\u05d3\u05d0\u05d5\u05dd"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/XM6H"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Ahron_Daum_in_Jerusalem.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1951-01-06"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Ahron Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Rabbi Ahron Daum in front of the Kotel."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "2019-05-03"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "2018-06-27"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, professor, author, educator"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Francine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/property/website",
+        "object": "http://www.bestjewishstudies.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "1982"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0623\u0647\u0631\u0648\u0646 \u062f\u0627\u0648\u0645 (\u0628\u0627\u0644\u0639\u0628\u0631\u064a\u0629: \u05d0\u05d4\u05e8\u05df \u05d3\u05d0\u05d5\u05dd\u061b \u0627\u0644\u0645\u0648\u0644\u0648\u062f \u0628\u062a\u0627\u0631\u064a\u062e 6 \u064a\u0646\u0627\u064a\u0631\u060c 1951) \u0647\u0648 \u062d\u0627\u062e\u0627\u0645 \u0641\u064a \u060c \u0648\u064f\u0644\u062f \u0641\u064a \u0625\u0633\u0631\u0627\u0626\u064a\u0644 \u0648\u0647\u0648 \u0623\u064a\u0636\u0627\u064b \u0645\u0631\u0628\u064a\u060c \u0648\u0643\u0627\u062a\u0628\u060c \u0648\u0627\u0644\u062d\u0627\u062e\u0627\u0645 \u0627\u0644\u0623\u0643\u0628\u0631 \u0627\u0644\u0633\u0627\u0628\u0642 \u0644\u0645\u062f\u064a\u0646\u0629 \u0641\u0631\u0627\u0646\u0643\u0641\u0648\u0631\u062a \u0623\u0645 \u0645\u0627\u064a\u0646 \u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a\u0629\u060c \u0633\u0643\u0646 \u0641\u064a \u0623\u0648\u0627\u062e\u0631 \u0623\u064a\u0627\u0645\u0647 \u0641\u064a \u0623\u0646\u062a\u0648\u064a\u0631\u0628\u060c \u0628\u0644\u062c\u064a\u0643\u0627."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Ahron Daum (6. ledna 1951 Bnej Brak \u2013 27. \u010dervna 2018 Antverpy) byl modern\u011b ortodoxn\u00ed rab\u00edn, pedagog, spisovatel a b\u00fdval\u00fd vrchn\u00ed rab\u00edn Frankfurtu nad Mohanem."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u039f \u0386\u03c1\u03bf\u03bd \u039d\u03c4\u03ac\u03bf\u03c5\u03bc (Bnei Brak [\u039c\u03c0\u03bd\u03ad\u03b9 \u039c\u03c0\u03c1\u03b1\u03ba], 6 \u0399\u03b1\u03bd\u03bf\u03c5\u03b1\u03c1\u03af\u03bf\u03c5 1951) \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03bd\u03b1\u03c2 \u0399\u03c3\u03c1\u03b1\u03b7\u03bb\u03b9\u03bd\u03cc\u03c2 \u03c3\u03cd\u03b3\u03c7\u03c1\u03bf\u03bd\u03bf\u03c2 \u03bf\u03c1\u03b8\u03cc\u03b4\u03bf\u03be\u03bf\u03c2 \u03c1\u03b1\u03b2\u03af\u03bd\u03bf\u03c2, \u03b4\u03ac\u03c3\u03ba\u03b1\u03bb\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03b3\u03b3\u03c1\u03b1\u03c6\u03ad\u03b1\u03c2. \u0395\u03af\u03bd\u03b1\u03b9 \u03bf \u03c0\u03c1\u03ce\u03b7\u03bd \u03b1\u03c1\u03c7\u03b9\u03c1\u03b1\u03b2\u03af\u03bd\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03a6\u03c1\u03b1\u03bd\u03ba\u03c6\u03bf\u03cd\u03c1\u03c4\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03c0\u03bb\u03ad\u03bf\u03bd \u03ba\u03b1\u03c4\u03bf\u03b9\u03ba\u03b5\u03af \u03c3\u03c4\u03b7\u03bd \u0391\u03bc\u03b2\u03ad\u03c1\u03c3\u03b1 \u03c4\u03bf\u03c5 \u0392\u03b5\u03bb\u03b3\u03af\u03bf\u03c5."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Ahron Daum (Hebrew: \u05d0\u05d4\u05e8\u05df \u05d3\u05d0\u05d5\u05dd; January 6, 1951 \u2013 June 27, 2018) was an Israeli-born Modern-Orthodox rabbi, educator, author, and former chief rabbi of Frankfurt am Main from 1987 to 1993. From 1995 until his death in 2018, he was a lecturer at the Faculty for Comparative Religion in Antwerp, Belgium."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Ahron Daum (geboren am 6. Januar 1951 in Bnei Brak, Israel; gestorben am 27. Juni 2018 in Antwerpen) war ein israelischst\u00e4mmiger modern-orthodoxer Rabbiner, Lehrer, Autor und Gemeinderabbiner u. a. in Frankfurt am Main."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Ahron Daum (Bnei Brak, Israel, 6 de enero de 1951) es un rabino ortodoxo moderno, educador y autor. Fue rabino mayor de Fr\u00e1ncfort del Meno y residi\u00f3 en Amberes, B\u00e9lgica hasta su fallecimiento."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Ahron Daum (n\u00e9 le 6 janvier 1951 et mort le 27 juin 2018 \u00e0 Anvers) est un rabbin moderne-orthodoxe d'origine isra\u00e9lienne, professeur, auteur et ancien grand rabbin de Francfort-sur-le-Main."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Ahron Daum (Bnei Brak, 6 gennaio 1951 \u2013 Anversa, 27 giugno 2018) \u00e8 stato un rabbino israeliano, rabbino capo di Francoforte sul Meno."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Ahron Daum (Bnei Brak, 6 januari 1951 - Antwerpen, Belgi\u00eb, 27 juni 2018) was een Isra\u00eblische modern-orthodoxe rabbijn, onderwijzer en auteur. Hij was opperrabbijn van Frankfurt am Main."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Ahron Daum (ur. 6 stycznia 1951) \u2013 urodzony w Izraelu, rabin, pedagog, pisarz i by\u0142y Frankfurtu nad Menem, obecnie mieszka w Antwerpii, w Belgii."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Ahron Daum (nascido em Israel em 6 de janeiro de 1951) \u00e9 um rabino ortodoxo moderno, educador e autor. Foi rabino maior de Frankfurt am Main, e reside atualmente em Antu\u00e9rpia, B\u00e9lgica."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Ahron Daum, f\u00f6dd 6 januari 1951 i Bnei Brak i Israel, d\u00f6d 27 juni 2018 i Antwerpen, var en rabbin, utbildare, f\u00f6rfattare, och f\u00f6re detta \u00f6verrabbin av Frankfurt am Main."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0410\u0440\u043e\u043d \u0414\u0430\u0443\u043c (\u043d\u0430\u0440. 6 \u0441\u0456\u0447\u043d\u044f, 1951, \u0411\u043d\u0435\u0439-\u0411\u0440\u0430\u043a) \u2014 \u0456\u0437\u0440\u0430\u0457\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0441\u0443\u0447\u0430\u0441\u043d\u0438\u0439 \u043e\u0440\u0442\u043e\u0434\u043e\u043a\u0441\u0430\u043b\u044c\u043d\u0438\u0439 \u0440\u0430\u0431\u0438\u043d, \u0443\u0447\u0438\u0442\u0435\u043b\u044c \u0456 \u0430\u0432\u0442\u043e\u0440. \u0412\u0456\u043d \u043a\u043e\u043b\u0438\u0448\u043d\u0456\u0439 \u0433\u043e\u043b\u043e\u0432\u043d\u0438\u0439 \u0440\u0430\u0431\u0438\u043d \u0424\u0440\u0430\u043d\u043a\u0444\u0443\u0440\u0442\u0430-\u043d\u0430-\u041c\u0430\u0439\u043d\u0456, \u0437\u0430\u0440\u0430\u0437 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u0454 \u0432 \u043c\u0456\u0441\u0442\u0456 \u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d, \u0411\u0435\u043b\u044c\u0433\u0456\u044f."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0420\u0430\u0431\u0438 \u0410\u0440\u043e\u043d \u0414\u0430\u0443\u043c (\u0411\u043d\u0435\u0439-\u0411\u0440\u0430\u043a, 6 \u044f\u043d\u0432\u0430\u0440\u044f, 1951) \u0418\u0437\u0440\u0430\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 \u043e\u0440\u0442\u043e\u0434\u043e\u043a\u0441\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0432\u0432\u0438\u043d, \u0443\u0447\u0438\u0442\u0435\u043b\u044c \u0438 \u0430\u0432\u0442\u043e\u0440. \u041e\u043d \u0431\u044b\u0432\u0448\u0438\u0439 \u0433\u043b\u0430\u0432\u043d\u044b\u0439 \u0440\u0430\u0432\u0432\u0438\u043d \u0424\u0440\u0430\u043d\u043a\u0444\u0443\u0440\u0442\u0430-\u043d\u0430-\u041c\u0430\u0439\u043d\u0435, \u0441\u0435\u0439\u0447\u0430\u0441 \u043f\u0440\u043e\u0436\u0438\u0432\u0430\u0435\u0442 \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 \u0410\u043d\u0442\u0432\u0435\u0440\u043f\u0435\u043d, \u0411\u0435\u043b\u044c\u0433\u0438\u044f."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/30262732"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Ahron_Daum?oldid=1107769954&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "13804"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsEndYear",
+        "object": "2018"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "1982"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Ahron Daum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1951"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "2018"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Ahron_Daum__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ahron_Daum>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Ahron_Daum"
+    }
+]

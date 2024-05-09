@@ -1,0 +1,342 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Elecktra Bionic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Mattia Di Renzo (born May 16, 1994), better known by the stage name Elecktra Bionic, is an Italian drag queen based in Turin, Piedmont. They are best known for winning the first season of Drag Race Italia."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Elecktra Bionic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Elecktra Bionic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Beinasco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Piedmont"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Beinasco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Piedmont"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1994-05-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Drag_Race_Italia_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1994_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Entertainers_from_Turin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "69145254"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123998931"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada's_Drag_Race:_Canada_vs._the_World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Drag_Race_Italia_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beinasco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Turin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Race_(franchise)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Race_Italia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Race_Italia_(season_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Race_Italia_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1994_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Entertainers_from_Turin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Piedmont"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q110263850"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/GXwKZ"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Efn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Notelist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Small"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Italy-stub"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Drag_Race_Italia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1994-05-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Mattia Di Renzo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "Italian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "Drag Race Italia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Mattia Di Renzo (born May 16, 1994), better known by the stage name Elecktra Bionic, is an Italian drag queen based in Turin, Piedmont. They are best known for winning the first season of Drag Race Italia."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Elecktra_Bionic?oldid=1123998931&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "5818"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Mattia Di Renzo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1994"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Elecktra_Bionic__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Elecktra_Bionic>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Elecktra_Bionic"
+    }
+]

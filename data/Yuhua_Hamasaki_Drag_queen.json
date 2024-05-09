@@ -1,0 +1,757 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Yuhua Hamasaki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Yuhua Hamasaki is the stage name of Yuhua Ou, a Chinese-born American drag queen, singer, actor and reality television personality who came to international attention on the tenth season of RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Yuhua Hamasaki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Yuhua Hamasaki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rupaul_Dragcon_2018-152_(41356432394)_(cropped).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Guangdong"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Guangzhou"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Guangzhou, Guangdong, China"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1990-03-01"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Chinese_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Actors_from_Guangzhou"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Asian-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_musicians_of_Chinese_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Chinese_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Pace_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_non-binary_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1990_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_actors_of_Chinese_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Musicians_from_Guangzhou"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_male_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_American_people_of_Asian_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "56663059"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1121920011"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_10)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_11)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_4)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saturday_Night_Live"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Chinese_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blair_St._Clair"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blue_Bloods_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_the_Drag_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hole_(band)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Honey_Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peppermint_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cynthia_Lee_Fontaine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vivacious_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Actors_from_Guangzhou"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Asian-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J-pop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Life_Ball"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mayhem_Miller_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Genderqueer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mon\u00e9t_X_Change"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Mysteries_of_Laura"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_culture_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ankh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aquaria_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Callen-Lorde_Community_Health_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chinese_people_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Club_Kids"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ayumi_Hamasaki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_musicians_of_Chinese_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Chinese_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Pace_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Celebrity_Skin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_non-binary_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trinity_the_Tuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lip_sync"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aja_(entertainer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexis_Michelle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1990_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eureka_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pace_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_actors_of_Chinese_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_LGBT_people_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Guangdong"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Guangzhou"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jaymes_Mansfield"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Musicians_from_Guangzhou"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_American_people_of_Asian_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jessica_Wild"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jiggly_Caliente"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katy_Perry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Laganja_Estranja"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Laverne_Cox"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sutan_Amrull"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Phi_Phi_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/IMDb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mila_Jam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_Magazine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raven_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shade:_Queens_of_NYC"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sherry_Vine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/YouTube"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Carrie_Diaries"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Big_Ang"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dusty_Ray_Bottoms"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.yuhuahamasaki.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.imdb.com/name/nm9720347/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q62435071"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/9UACp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:URL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rupaul_Dragcon_2018-152_(41356432394)_(cropped).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1990-03-01"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Yuhua Ou"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Hamasaki at RuPaul\u2019s DragCon, 2018"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "Pace University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Yuhua Hamasaki is the stage name of Yuhua Ou, a Chinese-born American drag queen, singer, actor and reality television personality who came to international attention on the tenth season of RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Yuhua_Hamasaki?oldid=1121920011&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "15032"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Yuhua Ou"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1990"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Pace_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Yuhua_Hamasaki__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Yuhua_Hamasaki>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Yuhua_Hamasaki"
+    }
+]

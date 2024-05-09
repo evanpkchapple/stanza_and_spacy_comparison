@@ -1,0 +1,492 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatYeshivaUniversityAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Marc Schneier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Marc Schneier (born January 26, 1959) is an American rabbi and president of The Foundation for Ethnic Understanding. Schneier previously served as vice-president of the World Jewish Congress."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Marc Schneier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Marc Schneier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Interreligious-Meeting_-_Mustafa_Ceric_-_Herman_Van-Rompuy-Marc-Schneier_-_Abdujalil_Sajid_-_Brussels_2010.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/FFEU_Imams_and_rabbis.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc_Schneier.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1959-01-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Anti-racism_in_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1959_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Yeshiva_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "12445587"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1112113744"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Qatar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicolas_Muzin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Anti-racism_in_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bi-polar_disorder"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1959_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Council_on_American\u2013Islamic_Relations"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_Farrakhan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Yeshiva_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trump_Administration"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbinical_Council_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hamas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem_Biblical_Zoo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ken_Sunshine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tablet_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nation_of_Islam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Asian_lion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shamsi_Ali"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_Jewish_Congress"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Foundation_for_Ethnic_Understanding"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Interreligious-Meeting_-_Mustafa_Ceric_-_Herman_Van-Rompuy-Marc-Schneier_-_Abdujalil_Sajid_-_Brussels_2010.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:FFEU_Imams_and_rabbis.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.02w66z1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.europa.eu/euodp/jrc-names/Marc_Schneier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/98190358"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Marc_Schneier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1222306182"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q6755866"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05de\u05d0\u05e8\u05e7_\u05e9\u05e0\u05d9\u05d9\u05e8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4rWBR"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:World_Jewish_Congress"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Marc_Schneier.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1959-01-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Marc Schneier (born January 26, 1959) is an American rabbi and president of The Foundation for Ethnic Understanding. Schneier previously served as vice-president of the World Jewish Congress."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/98190358"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Marc_Schneier?oldid=1112113744&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "9895"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1959"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Marc_Schneier__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marc_Schneier>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Marc_Schneier"
+    }
+]

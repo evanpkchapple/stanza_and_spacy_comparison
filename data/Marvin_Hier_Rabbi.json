@@ -1,0 +1,762 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeopleOfPolish-JewishDescent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromNewYorkCity"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Marvin Hier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Marvin Hier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Marvin Hier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rabbi Marvin Hier (* 1939 in New York) ist Vorstand und Gr\u00fcnder des Simon Wiesenthal Center, des angeschlossenen Museum of Tolerance und von Moriah Films, der Filmgesellschaft der Organisation."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Marvin (Moshe Chaim) Hier (born 1939 in New York City) is the dean and founder of the Simon Wiesenthal Center, its Museum of Tolerance and of Moriah, the center's film division."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Marvin (Moch\u00e9 'Ha\u00efm) Hier, n\u00e9 en 1939 \u00e0 New York, est un rabbin orthodoxe am\u00e9ricain. Il est le fondateur du centre Simon-Wiesenthal et du Mus\u00e9e de la tol\u00e9rance \u00e0 Los Angeles. Le 20 janvier 2017, il est invit\u00e9 \u00e0 prendre la parole lors de l'investiture du 45e Pr\u00e9sident des \u00c9tats-unis Donald Trump. Marvin Hier a b\u00e9ni le Pr\u00e9sident Trump dans ces mots :"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Marvin Hier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Marvin Hier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Marvin_Hier,_Gilberto_Bosques,_Larry_A_Mizel.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "New York City, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_film_producers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1939_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Polish-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Zionists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Orthodox_rabbis_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Simon_Wiesenthal_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:The_Holocaust_and_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Producers_of_Best_Documentary_Feature_Academy_Award_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "5211025"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1091864303"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Schindler's_List"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Tolerance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/European_Jewish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holocaust"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Human_rights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Renato_Martino"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Williamson_(bishop)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vancouver"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dean_(education)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi_Jacob_Joseph_School"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_film_producers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Congregation_Schara_Tzedeck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Genocide_(1981_film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Mitterrand"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gaza_Strip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_W._Bush"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Long_Way_Home_(1997_film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lower_East_Side"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simon_Wiesenthal_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Steven_Spielberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bahrain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1939_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Polish-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Larry_Mizel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/War_and_Remembrance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Academy_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2006_Iranian_sumptuary_law_hoax"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Broadcasting_Company"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Europe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_the_Jews_in_Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Herman_Wouk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Forward"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Psalm_137"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Argentina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Zionists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Orthodox_rabbis_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Simon_Wiesenthal_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:The_Holocaust_and_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Producers_of_Best_Documentary_Feature_Academy_Award_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Society_of_Saint_Pius_X"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inauguration_of_Donald_Trump"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newsweek"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Semikhah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosh_yeshiva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/State_of_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ordre_National_du_M\u00e9rite"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Museum_of_Tolerance_and_Human_Dignity"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mendel_Kravitz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.nicktaylor.us/work7.htm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20151224214404/http:/www.wiesenthal.com/site/pp.asp%3Fc=lsKWLbPJLnF&b=4441311"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0d80_w"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.europa.eu/euodp/jrc-names/Marvin_Hier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.europa.eu/euodp/jrc-names/Rabbi_Marvin_Hier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Marvin_Hier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/113550637X"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1147002940"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/300554054"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q1674729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0645\u0627\u0631\u0641\u0646_\u0647\u064a\u064a\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Marvin_Hier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://et.dbpedia.org/resource/Marvin_Hier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Marvin_Hier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05de\u05e8\u05d5\u05d5\u05d9\u05df_\u05d4\u05d0\u05d9\u05d9\u05e8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/eBAR"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:C-SPAN"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_year_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Marvin_Hier,_Gilberto_Bosques,_Larry_A_Mizel.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Hier with Gilberto Bosques and Larry Mizel in 2013"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "2"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rabbi Marvin Hier (* 1939 in New York) ist Vorstand und Gr\u00fcnder des Simon Wiesenthal Center, des angeschlossenen Museum of Tolerance und von Moriah Films, der Filmgesellschaft der Organisation."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Marvin (Moshe Chaim) Hier (born 1939 in New York City) is the dean and founder of the Simon Wiesenthal Center, its Museum of Tolerance and of Moriah, the center's film division."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Marvin (Moch\u00e9 'Ha\u00efm) Hier, n\u00e9 en 1939 \u00e0 New York, est un rabbin orthodoxe am\u00e9ricain. Il est le fondateur du centre Simon-Wiesenthal et du Mus\u00e9e de la tol\u00e9rance \u00e0 Los Angeles. Le 20 janvier 2017, il est invit\u00e9 \u00e0 prendre la parole lors de l'investiture du 45e Pr\u00e9sident des \u00c9tats-unis Donald Trump. Marvin Hier a b\u00e9ni le Pr\u00e9sident Trump dans ces mots : \u00ab Dieu \u00c9ternel, b\u00e9nissez Donald J. Trump et l'Am\u00e9rique, notre grande nation. Guide nous de sorte a ce que nous nous rappelions les paroles des Psaumes ceux qui s\u00e8ment dans les larmes r\u00e9colteront dans la joie, puisque les libert\u00e9s desquels nous profitons ne sont pas accord\u00e9es \u00e9ternellement, et qu'il faut les exiger a chaque g\u00e9n\u00e9ration. B\u00e9nis tous nos alli\u00e9s partout dans le monde, qui partagent notre foi. Sur le fleuve de Babylone nous nous sommes install\u00e9s et l\u00e0-bas nous avons pleur\u00e9 en nous souvenant Sion [...] Si je t'oublie J\u00e9rusalem que tu oublie ma droite. \u00bb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Dean"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/4559224"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Marvin_Hier?oldid=1091864303&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "9892"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1939"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Marvin_Hier__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marvin_Hier>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Marvin_Hier"
+    }
+]

@@ -1,0 +1,762 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q36180"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanMaleNovelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBrooklynCollegeAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatColumbiaUniversityAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatWritersFromNewYorkCity"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromBrooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Novelist110363573"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHebrewUnionCollegeAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishAmericanNovelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Writer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat20th-centuryAmericanNovelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0647\u0631\u0628\u0631\u062a \u062a\u0627\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Herbert Tarr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0647\u0631\u0628\u0631\u062a \u062a\u0627\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Herbert Tarr)\u200f (1929\u060c \u0628\u0631\u0648\u0643\u0644\u064a\u0646 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 - 18 \u0646\u0648\u0641\u0645\u0628\u0631 1993 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629)\u061b \u0631\u0648\u0627\u0626\u064a \u0623\u0645\u0631\u064a\u0643\u064a."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Herbert Tarr (1929 \u2013 November 18, 1993), born Herbert Targovik, was an American Reform rabbi who left his pulpit to become a novelist and humorist, believing he could reach more people that way because \"religion is basically out of touch with people.\""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Herbert Tarr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Herbert Tarr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Herbert_Tarr.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Long_Island"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Roslyn_Heights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Roslyn Heights, Long Island, New York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1993-11-18"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_novelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1993_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1929_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_male_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_male_novelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Brooklyn_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Columbia_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_Union_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Novelists_from_New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_cancer_in_New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_liver_cancer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_novelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_in_the_military"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "37481657"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1091861716"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roslyn_Heights,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biblical"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brendan_Behan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Air_Force"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_humorists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Novelist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_novelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1993_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Military_chaplain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liver_cancer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Long_Island"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Magna_cum_laude"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1929_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_male_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_novelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brooklyn_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Columbia_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_Union_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Novelists_from_New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Buffalo,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Westbury,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College-Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_cancer_in_New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_liver_cancer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_novelists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_in_the_military"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Conversion_of_Chaplain_Cohen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kirkus_Reviews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Literary_fiction"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_community_center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbinic_ordination"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Song_of_Solomon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roslyn_Heights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Herzliah_Hebrew_Teachers_Institute"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.jewishlibraries.org/ajlweb/publications/proceedings/proceedings2002/zucker.pdf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://archive.org/details/conversionofchap00tarr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://archive.org/details/timeforloving00tarr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=A2xbAAAAMAAJ&q=heaven+help+us%7Ctitle=Heaven"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=IDt8AAAACAAJ&q=editions:9GZhkf7ExcsC%7Ctitle=So"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0nb4czn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/269685936"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Herbert_Tarr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q5735724"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0647\u0631\u0628\u0631\u062a_\u062a\u0627\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4m9GA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_book"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_writer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Herbert_Tarr.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1929"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Herbert Targovik"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Herbert Tarr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1993-11-18"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/property/genre",
+        "object": "http://dbpedia.org/resource/Literary_fiction"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/property/imagesize",
+        "object": "200"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/property/notableworks",
+        "object": "Heaven Help Us!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/property/notableworks",
+        "object": "The Conversion of Chaplain Cohen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Novelist, Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0647\u0631\u0628\u0631\u062a \u062a\u0627\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Herbert Tarr)\u200f (1929\u060c \u0628\u0631\u0648\u0643\u0644\u064a\u0646 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 - 18 \u0646\u0648\u0641\u0645\u0628\u0631 1993 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629)\u061b \u0631\u0648\u0627\u0626\u064a \u0623\u0645\u0631\u064a\u0643\u064a."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Herbert Tarr (1929 \u2013 November 18, 1993), born Herbert Targovik, was an American Reform rabbi who left his pulpit to become a novelist and humorist, believing he could reach more people that way because \"religion is basically out of touch with people.\""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/notableWork",
+        "object": "http://dbpedia.org/resource/The_Conversion_of_Chaplain_Cohen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/269685936"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Herbert_Tarr?oldid=1091861716&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "8455"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Herbert Targovik"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/genre",
+        "object": "http://dbpedia.org/resource/Literary_fiction"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Novelist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Herbert_Tarr>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Herbert_Tarr"
+    }
+]

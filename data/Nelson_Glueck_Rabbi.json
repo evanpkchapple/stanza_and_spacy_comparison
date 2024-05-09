@@ -1,0 +1,982 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanArchaeologists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeopleOfGerman-JewishDescent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromCincinnati,Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Anthropologist109796323"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Archeologist109804806"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/HeadOfState110164747"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Negotiator110351874"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/President110467179"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ReligiousLeader110519494"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ReligiousPerson109628382"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Representative110522035"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHolyLandArchaeologists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scientist110560637"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/SocialScientist110619642"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPresidentsOfHebrewUnionCollege"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatReligiousLeadersFromCincinnati,Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Nelson Glueck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Nelson Glueck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Nelson Glueck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Nelson Glueck (* 4. Juni 1900 in Cincinnati, Ohio; \u2020 12. Februar 1971 ebenda) war ein amerikanischer Rabbiner und biblischer Arch\u00e4ologe."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Nelson Glueck (Cincinnati, 4 juin 1900-Cincinnati, 12 f\u00e9vrier 1971) est un arch\u00e9ologue et orientaliste am\u00e9ricain."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Nelson Glueck (June 4, 1900 \u2013 February 12, 1971) was an American rabbi, academic and archaeologist. He served as president of Hebrew Union College from 1947 until his death, and his pioneering work in biblical archaeology resulted in the discovery of 1,500 ancient sites."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Rabbi Nelson Glueck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Rabbi Nelson Glueck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Nelson_Glueck.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Adlai_E._Stevenson,_Dr._Nelson_Glueck,_and_Norman_S._Rabb_1961.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Cincinnati,_Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Cincinnati, Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1971-02-12"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Cincinnati,_Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1900-06-04"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Religious_leaders_from_Cincinnati"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Historians_from_Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_archaeologists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1900_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1971_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_academics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_archaeologists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_German-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_of_the_Office_of_Strategic_Services"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Biblical_archaeologists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Archaeologists_of_the_Near_East"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Presidents_of_Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Jena_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Woodward_High_School_(Cincinnati,_Ohio)_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_Union_College_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Cincinnati"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "11939831"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1118465527"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biblical_archaeology"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Ben-Gurion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Religious_leaders_from_Cincinnati"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Historians_from_Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Archaeology_of_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jordan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ph.D"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_archaeologists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Cincinnati"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Jena"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Inauguration"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Midianite_pottery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cincinnati,_Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Golda_Meir"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nabataean"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Archaeologist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Archaeology"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Professor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Negevite_pottery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1900_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1971_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_academics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_archaeologists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_German-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_of_the_Office_of_Strategic_Services"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Biblical_archaeologists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Irrigation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abba_Eban"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erwin_Rommel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palestine_(region)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edomite_pottery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pottery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College-Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henrietta_Szold"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Archaeologists_of_the_Near_East"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Presidents_of_Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Jena_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Woodward_High_School_(Cincinnati,_Ohio)_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_Union_College_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Cincinnati"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_F._Kennedy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transjordan_(region)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ph.D."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_Gottschalk_(Rabbi)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Negev"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Office_of_Strategic_Services"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prayers_at_United_States_presidential_inaugurations"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Seminary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/State_of_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Northern_Africa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hematologist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judah_Magnes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lithuanian_Jewish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Adlai_E._Stevenson,_Dr._Nelson_Glueck,_and_Norman_S._Rabb_1961.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://ngsba.org/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20111111022839/http:/www.time.com/time/magazine/article/0,9171,875453-1,00.html"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.02rywkn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/119111551"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/10648388"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Nelson_Glueck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q355780"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p068562128"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0646\u064a\u0644\u0633\u0648\u0646_\u0627\u0644\u062d\u0638"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Nelson_Glueck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Nelson_Glueck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05e0\u05dc\u05e1\u05d5\u05df_\u05d2\u05dc\u05d9\u05e7"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://la.dbpedia.org/resource/Nelson_Glueck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/3GpBF"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Convert"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Nelson_Glueck.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1900-06-04"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Glueck in Israel, 1956"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "Charles Jonathan Glueck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1971-02-12"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "B.A., University of Cincinnati, 1920"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "B.H.L., Hebrew Union College, 1918"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "Ph.D. in biblical studies, University of Jena, Germany, 1926 or 1927"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Archaeologist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/parents",
+        "object": "Morris Glueck, a merchant, and Anna Rubin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "--03-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/term",
+        "object": "1948"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/property/title",
+        "object": "President, Hebrew Union College - Jewish Institute of Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Nelson Glueck (* 4. Juni 1900 in Cincinnati, Ohio; \u2020 12. Februar 1971 ebenda) war ein amerikanischer Rabbiner und biblischer Arch\u00e4ologe."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Nelson Glueck (Cincinnati, 4 juin 1900-Cincinnati, 12 f\u00e9vrier 1971) est un arch\u00e9ologue et orientaliste am\u00e9ricain."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Nelson Glueck (June 4, 1900 \u2013 February 12, 1971) was an American rabbi, academic and archaeologist. He served as president of Hebrew Union College from 1947 until his death, and his pioneering work in biblical archaeology resulted in the discovery of 1,500 ancient sites."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/personFunction",
+        "object": "http://dbpedia.org/resource/Nelson_Glueck__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/10648388"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Nelson_Glueck?oldid=1118465527&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "8593"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1900"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1971"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/title",
+        "object": "President, Hebrew Union College -Jewish Institute of Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/University_of_Cincinnati"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/University_of_Jena"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Ph.D."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Archaeologist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Nelson_Glueck__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://dbpedia.org/ontology/spouse",
+        "object": "http://dbpedia.org/resource/Hematologist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nelson_Glueck>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Nelson_Glueck"
+    }
+]

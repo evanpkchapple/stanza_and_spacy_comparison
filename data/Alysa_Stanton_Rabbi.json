@@ -1,0 +1,747 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q82955"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPsychotherapists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatConvertsToJudaismFromPentecostalChristianDenominations"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromCleveland,Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromDenver,Colorado"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Convert109962414"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Expert109617867"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Psychotherapist110489944"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ReligiousLeader110519494"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ReligiousPerson109628382"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHebrewUnionCollegeAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Politician"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Therapist110707233"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAfrican-AmericanReligiousLeaders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alysa Stanton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alysa Stanton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Alysa Stanton (born August 2, 1963) is an American Reform rabbi, and the first African American female rabbi. Ordained on June 6, 2009, in August 2009 she began work as a rabbi at Congregation Bayt Shalom, a small majority-white synagogue in Greenville, North Carolina, making her the first African American rabbi to lead a majority-white congregation. Stanton converted to Judaism at age 24 and first studied and worked as a psychotherapist."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Alysa Stanton (ur. 1964) \u2013 ameryka\u0144ska rabinka konserwatywna. Pierwsza w historii czarnosk\u00f3ra kobieta ordynowana na rabina. Urodzi\u0142a si\u0119 w rodzinie wyznania zielono\u015bwi\u0105tkowego. Wychowa\u0142a si\u0119 w Cleveland w stanie Ohio oraz w Denver w stanie Kolorado. W wieku 24 lat przesz\u0142a na judaizm. Przez wiele lat pracowa\u0142a jako psychoterapeutka. 6 czerwca 2009 zosta\u0142a ordynowana na rabina w Hebrew Union College-Jewish Institute of Religion w Cincinnati. Obecnie s\u0142u\u017cy niewielkiej konserwatywnej kongregacji Bayt Shalom w Greenville w Karolinie P\u00f3\u0142nocnej."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Alysa Stanton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Alysa Stanton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Alysa_Stanton_(4647673095).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Cleveland,_Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Cleveland,_Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1963-08-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_African-American_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_African-American_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Women_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1960s_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_Union_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:African-American_religious_leaders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Religious_leaders_from_Cleveland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:African-American_former_Christians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:African-American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_former_Protestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Converts_to_Judaism_from_Pentecostal_Christian_denominations"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Converts_to_Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Denver"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "23011067"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1114367069"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denver"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Intermountain_Jewish_News"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Timeline_of_women_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_African-American_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_African-American_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colorado"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colorado_State_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbine,_Colorado"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbine_High_School_massacre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conversion_to_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Church_of_God_in_Christ"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moment_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cleveland,_Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1960s_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_Union_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African-American_religious_leaders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Religious_leaders_from_Cleveland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African-American_former_Christians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hazzan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/African_American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African-American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_former_Protestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Converts_to_Judaism_from_Pentecostal_Christian_denominations"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Converts_to_Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greenville,_North_Carolina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College-Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Forward"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Denver"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jet_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Telegraphic_Agency"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Psychotherapy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_African-Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Semicha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eastern_religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Rabbi_Alysa_Stanton_(4647673095).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://blogs.jta.org/telegraph/article/2009/05/17/1005210/first-african-american-female-rabbi-to-take-nc-pulpit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.baytshalom.org/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.ijn.com/denver/1468-roots-of-rabbi-alysa-stantons-journey-in-colorado"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.momentmag.com/Exclusive/2009/2009-08/200908-Post-Racial-Rabbis.html"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.religionnews.com/index.php%3F/tenminutes/10_minutes_with_alysa_stanton1/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.forward.com/articles/118780/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20090521120540/http:/blogs.jta.org/telegraph/article/2009/05/17/1005210/first-african-american-female-rabbi-to-take-nc-pulpit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20090805004830/http:/www.momentmag.com/Exclusive/2009/2009-08/200908-Post-Racial-Rabbis.html"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20120311154330/https:/www.ijn.com/denver/1468-roots-of-rabbi-alysa-stantons-journey-in-colorado"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://blogs.forward.com/sisterhood-blog/134486/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.064m1z0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Alysa_Stanton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q4738715"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0627\u0644\u064a\u0633\u0627_\u0633\u062a\u0627\u0646\u062a\u0648\u0646"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pl.dbpedia.org/resource/Alysa_Stanton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4PAqu"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_news"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_web"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_officeholder"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Alysa_Stanton_(4647673095).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1963-08-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Stanton at the White House"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/Colorado_State_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College-Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Alysa Stanton (born August 2, 1963) is an American Reform rabbi, and the first African American female rabbi. Ordained on June 6, 2009, in August 2009 she began work as a rabbi at Congregation Bayt Shalom, a small majority-white synagogue in Greenville, North Carolina, making her the first African American rabbi to lead a majority-white congregation. Stanton converted to Judaism at age 24 and first studied and worked as a psychotherapist."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Alysa Stanton (ur. 1964) \u2013 ameryka\u0144ska rabinka konserwatywna. Pierwsza w historii czarnosk\u00f3ra kobieta ordynowana na rabina. Urodzi\u0142a si\u0119 w rodzinie wyznania zielono\u015bwi\u0105tkowego. Wychowa\u0142a si\u0119 w Cleveland w stanie Ohio oraz w Denver w stanie Kolorado. W wieku 24 lat przesz\u0142a na judaizm. Przez wiele lat pracowa\u0142a jako psychoterapeutka. 6 czerwca 2009 zosta\u0142a ordynowana na rabina w Hebrew Union College-Jewish Institute of Religion w Cincinnati. Obecnie s\u0142u\u017cy niewielkiej konserwatywnej kongregacji Bayt Shalom w Greenville w Karolinie P\u00f3\u0142nocnej."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Jew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Alysa_Stanton?oldid=1114367069&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "12119"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Colorado_State_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College-Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alysa_Stanton>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Alysa_Stanton"
+    }
+]

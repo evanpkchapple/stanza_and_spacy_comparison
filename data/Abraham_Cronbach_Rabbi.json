@@ -1,0 +1,907 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPacifists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Pacifist110390199"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHebrewUnionCollegeAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishAmericanWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishPacifists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishTheologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Theologian110705615"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Abraham Cronbach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Abraham Cronbach (February 15, 1882 \u2013 April 2, 1965) was an American rabbi and teacher, known as a pacifist. He served as a rabbi for congregations in Indiana and Ohio. Cronbach was one of the founders of the ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Rabbi Abraham Cronbach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Rabbi Abraham Cronbach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Abraham&RoseH.jpeg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RabbiCronbach.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Abraham_Cronbach.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Indianapolis,_Indiana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Cincinnati,_Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Cincinnati,_Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1965-04-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Indianapolis,_Indiana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1882-02-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1882_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1965_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Activists_from_Indiana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_Union_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_pacifists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-interventionism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Cincinnati_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_theologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_pacifists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Indianapolis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Cincinnati"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "9886254"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1120208593"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Council_for_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Jewish_Conference"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berlin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julius_and_Ethel_Rosenberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Cambridge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Cincinnati"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jane_Evans_(feminist)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Valedictorian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1882_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maurice_Davis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cincinnati,_Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Abraham&RoseH.jpeg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/North_American_Federation_of_Temple_Youth"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leo_Baeck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Star_of_David"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Wise_Free_Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clifton,_Cincinnati"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pacifist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Professor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maximilian_Heller"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Austria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1965_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Activists_from_Indiana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_Union_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doctor_of_Divinity"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College_Annual"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Peace_Fellowship"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wissenschaft_des_Judentums"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abraham_Joshua_Heschel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Akron,_Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_Einstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Friends_Service_Committee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Jewish_Committee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Jewish_Congress"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Central_Conference_of_American_Rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haifa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Holocaust"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_pacifists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-interventionism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Cincinnati_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_theologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_pacifists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Indianapolis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Cincinnati"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_Vorspan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hochschule"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/South_Bend,_Indiana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Indianapolis,_Indiana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nathan_Leopold"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nazis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_I"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:RabbiCronbach.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Concentration_camp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emeritus_Professor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Union_for_Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Countercult_movement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Union_of_American_Hebrew_Congregations"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chicago_Federation_of_Synagogues"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cincinnati_Big_Brother's_Association"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isidor_Hoffman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peace_Heroes_Memorial_Society"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://leobaeckhaifa.org/jewish-life/ohel-avraham-synagogue/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.berlin-judentum.de/erziehung/hochschule.htm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.jewishpeacefellowship.org/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.tbe-sb.org/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://leobaeckhaifa.org/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20070113083916/http:/oh002.urj.net/index.htm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.02pvxxk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Abraham_Cronbach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/47692573"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/124374891"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q4668820"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p135614597"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0627\u0628\u0631\u0627\u0647\u0627\u0645_\u0643\u0631\u0648\u0646\u0628\u0627\u062e"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4Kv5t"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Attribution_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cquote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Portal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Abraham_Cronbach.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1882-02-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Rabbi Abraham Cronbach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "Marion Cronbach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1965-04-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi and Professor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/property/parents",
+        "object": "Marcus and Hannah  Cronbach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Rose Hentil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Abraham Cronbach (February 15, 1882 \u2013 April 2, 1965) was an American rabbi and teacher, known as a pacifist. He served as a rabbi for congregations in Indiana and Ohio. Cronbach was one of the founders of the ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/47692573"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Abraham_Cronbach?oldid=1120208593&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "16186"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1882"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1965"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Professor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Abraham_Cronbach__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Abraham_Cronbach>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Abraham_Cronbach"
+    }
+]

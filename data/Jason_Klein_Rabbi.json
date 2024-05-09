@@ -1,0 +1,397 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jason Klein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rabbi Jason Gary Klein became the first openly gay man chosen to head a national rabbinical association of one of the major Jewish denominations in the United States in 2013, when he was chosen as president of the Reconstructionist Rabbinical Association. He was also the first Hillel director to hold the presidency, the chief volunteer position of the organization. As of his election as president, Klein was the executive director of Hillel at UMBC, the University of Maryland, Baltimore County, a post he held from 2006 until 2013. He served as president of the Reconstructionist Rabbinical Association for two years\u2014until 2015. As of July 2013 he became the Director of the Center for Jewish Life at JCP Downtown, the Jewish Community Project of Lower Manhattan, where he served until 2018."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Jason Gary Klein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Jason Gary Klein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Jason_Klein.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1975-05-14"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1975_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Reconstructionist_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "38917309"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1111441548"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Maryland,_Baltimore_County"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1975_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reconstructionist_Rabbinical_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hillel_International"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Temple_Israel_(Minneapolis)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reconstructionist_Rabbinical_Association"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Reconstructionist_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0s8y9mh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Jason_Klein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q16730913"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/dMqa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:For"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Portal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Jason_Klein.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1975-05-14"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Jason Gary Klein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "*Columbia University \n*Reconstructionist Rabbinical College in Wyncote, Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rabbi Jason Gary Klein became the first openly gay man chosen to head a national rabbinical association of one of the major Jewish denominations in the United States in 2013, when he was chosen as president of the Reconstructionist Rabbinical Association. He was also the first Hillel director to hold the presidency, the chief volunteer position of the organization. As of his election as president, Klein was the executive director of Hillel at UMBC, the University of Maryland, Baltimore County, a post he held from 2006 until 2013. He served as president of the Reconstructionist Rabbinical Association for two years\u2014until 2015. As of July 2013 he became the Director of the Center for Jewish Life at JCP Downtown, the Jewish Community Project of Lower Manhattan, where he served until 2018. Since 2018, Klein has served on the clergy and executive team of Temple Israel, Minneapolis, as the Director of Lifelong Learning at Temple Israel, Minneapolis. Klein grew up in East Brunswick and Montclair, both in New Jersey, graduated from Columbia University in 1997, and was ordained by the Reconstructionist Rabbinical College in 2002. He lives in the East Isles neighborhood of Minneapolis."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Jason_Klein?oldid=1111441548&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "6529"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Jason Gary Klein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1975"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Reconstructionist_Rabbinical_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Jason_Klein__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jason_Klein>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Jason_Klein"
+    }
+]

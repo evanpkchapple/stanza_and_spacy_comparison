@@ -1,0 +1,552 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanEmigrantsToSlovakia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Emigrant110051975"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Migrant110314952"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Traveler109629752"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Baruch Myers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0628\u0627\u0631\u0648\u062e \u0645\u0627\u064a\u0631\u0632"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Baruch Myers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0628\u0627\u0631\u0648\u062e \u0645\u0627\u064a\u0631\u0632 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Baruch Myers)\u200f \u0647\u0648 \u062d\u0627\u062e\u0627\u0645 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 2 \u0645\u0627\u064a\u0648 1964 \u0641\u064a \u0623\u0648\u0631\u0627\u0646\u062c \u200f \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rabbi Baruch Myers (born May 2, 1964 in Orange, New Jersey) is a Chabad-Lubavitch Hasidic rabbi. He began his service in Bratislava in 1993. He serves as the Chief Rabbi and head Shliach of Slovakia."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Baruch Myers, n\u00e9 le 2 mai 1964 \u00e0 Orange, dans le New Jersey, est un rabbin slovaque d'origine am\u00e9ricaine, grand-rabbin de Slovaquie."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Baruch Myers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://www.chabadslovakia.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Baruch Myers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Baruch_Myers.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Orange,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Orange,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1964-05-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1964_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Michigan_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_emigrants_to_Slovakia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Slovak_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hasidic_rabbis_in_Europe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "22207984"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1106482421"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bratislava"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jozef_Lupt\u00e1k"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Michigan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chief_Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Slovakia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1964_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Michigan_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cello"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_emigrants_to_Slovakia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Slovak_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hasidic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hasidic_rabbis_in_Europe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cheder"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maplewood,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orange,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chabad_house"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shaliach_(Chabad)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chabad-Lubavitch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chabad_emissary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.chabadslovakia.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.chabadslovakia.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.05q9vnj"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/84135410"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Baruch_Myers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q4865867"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0628\u0627\u0631\u0648\u062e_\u0645\u0627\u064a\u0631\u0632"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0628\u0627\u0631\u0648\u062e_\u0645\u0627\u064a\u0631\u0632"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Baruch_Myers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sk.dbpedia.org/resource/Baruch_Myers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4W39T"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Baruch_Myers.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/University_of_Michigan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "Rabbinical college of America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1964-05-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi & Chabad emissary in Bratislava, Slovakia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/property/predecessor",
+        "object": "Rabbi Izidor Katz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Chana Myers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/property/term",
+        "object": "1993"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/property/title",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/property/website",
+        "object": "http://www.chabadslovakia.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0628\u0627\u0631\u0648\u062e \u0645\u0627\u064a\u0631\u0632 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Baruch Myers)\u200f \u0647\u0648 \u062d\u0627\u062e\u0627\u0645 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 2 \u0645\u0627\u064a\u0648 1964 \u0641\u064a \u0623\u0648\u0631\u0627\u0646\u062c \u200f \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rabbi Baruch Myers (born May 2, 1964 in Orange, New Jersey) is a Chabad-Lubavitch Hasidic rabbi. He began his service in Bratislava in 1993. He serves as the Chief Rabbi and head Shliach of Slovakia."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Baruch Myers, n\u00e9 le 2 mai 1964 \u00e0 Orange, dans le New Jersey, est un rabbin slovaque d'origine am\u00e9ricaine, grand-rabbin de Slovaquie."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/personFunction",
+        "object": "http://dbpedia.org/resource/Baruch_Myers__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/84135410"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Baruch_Myers?oldid=1106482421&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "3037"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1964"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/title",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/University_of_Michigan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Bratislava"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Baruch_Myers__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Slovakia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Myers>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Baruch_Myers"
+    }
+]

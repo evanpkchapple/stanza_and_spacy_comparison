@@ -1,0 +1,747 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q36180"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanNon-fictionWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatWritersOnAntisemitism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatScholarsOfAntisemitism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishAmericanWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Writer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://umbel.org/umbel/rc/Writer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Joseph Telushkin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0422\u0435\u043b\u0443\u0448\u043a\u0438\u043d, \u0414\u0436\u043e\u0437\u0435\u0444"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Joseph Telushkin (born 1948) is an American rabbi, lecturer, and bestselling author of more than 15 books, including volumes about Jewish ethics, Jewish literacy, as well as the book Rebbe, a New York Times bestseller released in June 2014."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0414\u0436\u043e\u0437\u0435\u0444 (\u0419\u043e\u0441\u0435\u0444) \u0422\u0435\u043b\u0443\u0448\u043a\u0438\u043d (\u0430\u043d\u0433\u043b. Joseph Telushkin; \u0440\u043e\u0434. 1948, \u041d\u044c\u044e-\u0419\u043e\u0440\u043a) \u2014 \u0440\u0430\u0432\u0432\u0438\u043d \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0440\u0442\u043e\u0434\u043e\u043a\u0441\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f, \u043b\u0435\u043a\u0442\u043e\u0440 \u0438 \u043f\u0438\u0441\u0430\u0442\u0435\u043b\u044c."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Joseph Telushkin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Joseph Telushkin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Joseph_Telushkin_at_Adath_Israel.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1948_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_non-fiction_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Columbia_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Scholars_of_antisemitism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbi_Isaac_Elchanan_Theological_Seminary_semikhah_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Writers_on_antisemitism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "2075115"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1074186668"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Publishers_Weekly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brandeis-Bardin_Institute"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_Prager"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Lieberman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Nations_High_Commissioner_for_Refugees"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Connie_Mack_III"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ordination"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geneva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Quarrel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andrei_Sakharov"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ant\u00f3nio_Guterres"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Author"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1948_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_non-fiction_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Columbia_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scholars_of_antisemitism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Touched_by_an_Angel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heaven's_Witness"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerome_Cutler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_ethics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_history"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lecturer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allen_Estrin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erica_Brown"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ethics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rebbe_(book)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talk_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbi_Isaac_Elchanan_Theological_Seminary_semikhah_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Writers_on_antisemitism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Book_Council"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/KGB"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Student_Struggle_for_Soviet_Jewry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Soviet_Union"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kirk_Douglas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_Times"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newsweek"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rebbe:_The_life_and_teachings_of_Menachem_M._Schneerson,_the_most_influential_Rabbi_in_Modern_History"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshivah_of_Flatbush"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Jewish_Center_for_Learning_and_Leadership"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva_of_Flatbush"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wall_Street_Journal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Jewish_Book_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_Times_Best_Seller_list"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Rabbi_Joseph_Telushkin_at_Adath_Israel.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=8mJFKnxzlG0C%7Cyear=1987%7Cisbn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=mgU5hp6kda0C%7Clast1=Telushkin%7Cfirst1=Joseph"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=ofxCAAAAIAAJ%7Clast1=Prager%7Cfirst1=Dennis%7Clast2=Telushkin%7Cfirst2=Joseph"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.06kfns"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Joseph_Telushkin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/97140065"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/113447248"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q4454265"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p070945020"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0686\u0648\u0632\u064a\u0641_\u062a\u064a\u0644\u0648\u0634\u0643\u064a\u0646"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05d9\u05d5\u05e1\u05e3_\u05d8\u05dc\u05d5\u05e9\u05e7\u05d9\u05df"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u0422\u0435\u043b\u0443\u0448\u043a\u0438\u043d,_\u0414\u0436\u043e\u0437\u0435\u0444"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://simple.dbpedia.org/resource/Joseph_Telushkin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/48Dob"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_book"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_writer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_year_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Joseph_Telushkin_at_Adath_Israel.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/property/genre",
+        "object": "http://dbpedia.org/resource/Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/property/genre",
+        "object": "http://dbpedia.org/resource/Ethics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, writer, lecturer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Joseph Telushkin (born 1948) is an American rabbi, lecturer, and bestselling author of more than 15 books, including volumes about Jewish ethics, Jewish literacy, as well as the book Rebbe, a New York Times bestseller released in June 2014."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0414\u0436\u043e\u0437\u0435\u0444 (\u0419\u043e\u0441\u0435\u0444) \u0422\u0435\u043b\u0443\u0448\u043a\u0438\u043d (\u0430\u043d\u0433\u043b. Joseph Telushkin; \u0440\u043e\u0434. 1948, \u041d\u044c\u044e-\u0419\u043e\u0440\u043a) \u2014 \u0440\u0430\u0432\u0432\u0438\u043d \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u043e\u0433\u043e \u043e\u0440\u0442\u043e\u0434\u043e\u043a\u0441\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u043d\u0430\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f, \u043b\u0435\u043a\u0442\u043e\u0440 \u0438 \u043f\u0438\u0441\u0430\u0442\u0435\u043b\u044c."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/97140065"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/property/wordnet_type",
+        "object": "http://www.w3.org/2006/03/wn/wn20/instances/synset-writer-noun-1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Joseph_Telushkin?oldid=1074186668&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "9365"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/genre",
+        "object": "http://dbpedia.org/resource/Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/genre",
+        "object": "http://dbpedia.org/resource/Ethics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Lecturer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Joseph_Telushkin>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Joseph_Telushkin"
+    }
+]

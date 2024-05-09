@@ -1,0 +1,517 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/MusicGroup"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLebaneseDragQueens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Aristocrat109807754"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/FemaleAristocrat110083823"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Queen110499355"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/MusicalArtist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDragQueens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bassem Feghali"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0628\u0627\u0633\u0645 \u0641\u063a\u0627\u0644\u064a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0628\u0627\u0633\u0645 \u0641\u063a\u0627\u0644\u064a (21 \u0633\u0628\u062a\u0645\u0628\u0631 1977 -)\u060c \u0645\u0648\u0646\u0648\u0644\u0648\u062c\u0633\u062a \u0644\u0628\u0646\u0627\u0646\u064a."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Bassem Feghali (Arabic: \u0628\u0627\u0633\u0645 \u0641\u063a\u0627\u0644\u064a) is a Lebanese comedian, singer and drag queen."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Bassem Feghali"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "https://web.archive.org/web/20090406004925/http:/www.bassemfeghali.tv/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Bassem Feghali"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Beirut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Lebanon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Beirut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Lebanon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1977-09-21"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1978_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "7801908"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1111539662"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monologist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beirut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1978_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sabah_(singer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elissa_(Lebanese_singer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miss_Lebanon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nancy_Ajram"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Majida_El_Roumi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Asalah_Nasri"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Britney_Spears"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fifi_Abdou"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haifa_Wehbe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lady_Gaga"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lebanon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mariam_Nour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marilyn_Monroe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fairouz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ramadan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shakira"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lebanese_Broadcasting_Corporation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lip_synch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Studio_el_fan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lamita_Franjieh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nawal_Al_Zoughbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20090406004925/http:/www.bassemfeghali.tv/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.026dhks"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q4868054"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0628\u0627\u0633\u0645_\u0641\u063a\u0627\u0644\u064a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0628\u0627\u0633\u0645_\u0641\u063a\u0627\u0644\u0649"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4WWNs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Bassem_Feghali"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_musical_artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1977-09-21"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/property/genre",
+        "object": "Comedy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Actor, comedian, singer, drag queen, costume and make-up artist, dancer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "1996"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0628\u0627\u0633\u0645 \u0641\u063a\u0627\u0644\u064a (21 \u0633\u0628\u062a\u0645\u0628\u0631 1977 -)\u060c \u0645\u0648\u0646\u0648\u0644\u0648\u062c\u0633\u062a \u0644\u0628\u0646\u0627\u0646\u064a."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Bassem Feghali (Arabic: \u0628\u0627\u0633\u0645 \u0641\u063a\u0627\u0644\u064a) is a Lebanese comedian, singer and drag queen."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Comedian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Bassem_Feghali?oldid=1111539662&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "2895"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "1996"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bassem_Feghali>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Bassem_Feghali"
+    }
+]

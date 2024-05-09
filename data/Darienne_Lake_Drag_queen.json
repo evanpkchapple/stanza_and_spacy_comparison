@@ -1,0 +1,452 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Darienne Lake"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Greg Mayer (born November 27, 1971), better known by the stage name Darienne Lake, is a drag queen and television personality. Lake began performing in drag in 1990 in Rochester, New York before rising to prominence after competing on the sixth season of RuPaul's Drag Race, placing fourth."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Darienne Lake"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Darienne Lake"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Darienne_Lake_at_Dragcon_by_dvsross.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52072209842).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Long_Island,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Long Island, New York, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1971-11-27"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1971_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Long_Island"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "40881975"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1115593253"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rochester,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_6)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Darien_Lake"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bianca_Del_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hurricane_Bianca:_From_Russia_with_Hate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ricki_Lake"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/VH1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1971_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Courtney_Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melanoma"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mrs._Kasha_Davis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Ricki_Lake_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Rocky_Horror_Picture_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Long_Island"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Long_Island,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plus-size_model"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Long_Island"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lip_sync"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adore_Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pandora_Boxx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hairspray_(1988_film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/IndieWire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sexual_orientation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Short_film"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul\u2019s_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Darienne_Lake_at_Dragcon_by_dvsross.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://worldofwonder.net/rupauls-dragcon-2016-meet/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q64157294"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/9dUci"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category-inline"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52072209842).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1971-11-27"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Greg Mayer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Lake at RuPaul's DragCon LA in 2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen, television personality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "1990"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Greg Mayer (born November 27, 1971), better known by the stage name Darienne Lake, is a drag queen and television personality. Lake began performing in drag in 1990 in Rochester, New York before rising to prominence after competing on the sixth season of RuPaul's Drag Race, placing fourth."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Darienne_Lake?oldid=1115593253&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "8246"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "1990"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Greg Mayer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1971"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Darienne_Lake__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Darienne_Lake>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Darienne_Lake"
+    }
+]

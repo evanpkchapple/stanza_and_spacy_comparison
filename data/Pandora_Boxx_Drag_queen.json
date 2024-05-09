@@ -1,0 +1,1142 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanFemaleImpersonators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPerformanceArtists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTEntertainersFromTheUnitedStates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatParticipantsInAmericanRealityTelevisionSeries"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromRochester,NewYork"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatRuPaul'sDragRaceContestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Actor109765278"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Aristocrat109807754"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Associate109816771"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/BadPerson109831962"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Contestant109613191"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Deceiver109998101"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Entertainer109616922"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/FemaleAristocrat110083823"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Impersonator110200365"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Participant110401829"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Peer109626238"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Performer110415638"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Queen110499355"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGayActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wrongdoer109633969"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDragQueens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Pandora Boxx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Pandora Boxx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Michael R. Steck (born May 2, 1972), better known by the stage name Pandora Boxx, is an American drag queen, comedian, and reality television personality from Rochester, New York. Boxx competed in the second season of RuPaul's Drag Race, placing fifth and winning Miss Congeniality, and subsequently returned for the first and sixth seasons of RuPaul's Drag Race All Stars. Boxx also appeared on three seasons of the Drag Race spin-off series RuPaul's Drag U."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Pandora Boxx (\u0456\u043c'\u044f \u043f\u0440\u0438 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u0456 \u041c\u0430\u0439\u043a\u043b \u0421\u0442\u0435\u043a (\u0430\u043d\u0433\u043b. Michael Steck; \u0414\u0436\u0435\u0439\u043c\u0441\u0442\u0430\u0443\u043d, \u041d\u044c\u044e-\u0419\u043e\u0440\u043a)) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0430 \u0414\u0440\u0435\u0433-\u043a\u0432\u0456\u043d, \u043a\u043e\u043c\u0456\u043a \u0442\u0430 \u0443\u0447\u0430\u0441\u043d\u0438\u043a \u0440\u0435\u0430\u043b\u0456\u0442\u0456 \u0448\u043e\u0443. \u0411\u0456\u043b\u044c\u0448 \u0432\u0456\u0434\u043e\u043c\u0430 \u0441\u0432\u043e\u0454\u044e \u0443\u0447\u0430\u0441\u0442\u044e \u0432 \u0434\u0440\u0443\u0433\u043e\u043c\u0443 \u0441\u0435\u0437\u043e\u043d\u0456 RuPaul's Drag Race \u0442\u0430 \u043f\u0435\u0440\u0448\u043e\u043c\u0443 \u0441\u0435\u0437\u043e\u043d\u0456 RuPaul's Drag Race: All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Pandora Boxx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Pandora Boxx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Pandora_Boxx_(8-13-14)_(14763882618)_(cropped).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Pandora_Boxx_2014.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rupaul_Dragcon_2018-283_(41377497764).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Jamestown,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Jamestown, New York, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1972-05-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Rochester,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1972_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Jamestown,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_gay_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Olean,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "27440284"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1121783446"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carly_Usdin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Channing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/B_Movie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queer_Eye_(2003_TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rochester,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_10)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_11)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_4)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_6)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_6)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_U"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samantha_Fox"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Murder_mystery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bianca_Del_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blair_St._Clair"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Borgata"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bowery_Ballroom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ricki_Lake_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cover_version"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Match_Game"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melissa_McCarthy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stage_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christine_and_the_Queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Entertainment_Weekly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Give_Me_All_Your_Luvin'"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greek_mythology"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mrs._Kasha_Davis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Real_Housewives_of_Atlanta"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/This_Is_How_We_Do"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mimi_Imfurst"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Logo_TV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTV_Video_Music_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madonna_(entertainer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Comedy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pandora's_box"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Word_play"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Rochester,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Todrick_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willam_Belli"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/AJ_and_the_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adam_Barta"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaska_Thunderfuck_5000"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1972_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eureka_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Film_director"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Jamestown,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nina_Flowers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hedda_Lettuce"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jai_Rodriguez"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jamestown,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jasmine_Masters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeffery_&_Cole_Casserole"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Bitch_Who_Stole_Christmas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snatch_Game"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Are_You_There,_Chelsea%3F"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_gay_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Absolut_Vodka"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kelly_Mantle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bloody_Mary_(cocktail)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Susan_Lucci"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Playwright"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Divine_(performer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Olean,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manila_Luzon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mariah_Paris_Balenciaga"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sonique_(entertainer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spin-off_(media)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St._John_Fisher_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Film_producer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_All_Stars_(season_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/I_Wanna_Have_Some_Fun_(song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miley_Cyrus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Olean,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sharon_Needles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/She's_Living_for_This"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sherry_Vine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christmas_Day"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yara_Sofia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gender-fluid"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Screenwriter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Impersonation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Pandora_Boxx_(8-13-14)_(14763882618)_(cropped).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Rupaul_Dragcon_2018-283_(41377497764).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://pandoraboxx.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0b__rgb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Pandora_Boxx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/0f58df9c-9e13-44fb-b110-f12eeb59b7cb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q7130724"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u067e\u0627\u0646\u062f\u0648\u0631\u0627_\u0628\u0648\u0643\u0633\u0643\u0633"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u067e\u0627\u0646\u062f\u0648\u0631\u0627_\u0628\u0627\u06a9\u0633"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://uk.dbpedia.org/resource/Pandora_Boxx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4tH3C"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/A"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Small"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Tooltip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:URL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Unreliable_source%3F"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Pandora_Boxx_2014.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/St._John_Fisher_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1972-05-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Michael R. Steck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Pandora Boxx performing at the Gay Games Festival Village in Cleveland, OH in 2014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race  \nRuPaul's Drag Race All Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Actor, comedian, drag queen, musician, playwright, reality television personality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/predecessor",
+        "object": "http://dbpedia.org/resource/Nina_Flowers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/successor",
+        "object": "http://dbpedia.org/resource/Yara_Sofia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/title",
+        "object": "Miss Congeniality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/property/yearsactive",
+        "object": "2005"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Michael R. Steck (born May 2, 1972), better known by the stage name Pandora Boxx, is an American drag queen, comedian, and reality television personality from Rochester, New York. Boxx competed in the second season of RuPaul's Drag Race, placing fifth and winning Miss Congeniality, and subsequently returned for the first and sixth seasons of RuPaul's Drag Race All Stars. Boxx also appeared on three seasons of the Drag Race spin-off series RuPaul's Drag U."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Pandora Boxx (\u0456\u043c'\u044f \u043f\u0440\u0438 \u043d\u0430\u0440\u043e\u0434\u0436\u0435\u043d\u043d\u0456 \u041c\u0430\u0439\u043a\u043b \u0421\u0442\u0435\u043a (\u0430\u043d\u0433\u043b. Michael Steck; \u0414\u0436\u0435\u0439\u043c\u0441\u0442\u0430\u0443\u043d, \u041d\u044c\u044e-\u0419\u043e\u0440\u043a)) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0430 \u0414\u0440\u0435\u0433-\u043a\u0432\u0456\u043d, \u043a\u043e\u043c\u0456\u043a \u0442\u0430 \u0443\u0447\u0430\u0441\u043d\u0438\u043a \u0440\u0435\u0430\u043b\u0456\u0442\u0456 \u0448\u043e\u0443. \u0411\u0456\u043b\u044c\u0448 \u0432\u0456\u0434\u043e\u043c\u0430 \u0441\u0432\u043e\u0454\u044e \u0443\u0447\u0430\u0441\u0442\u044e \u0432 \u0434\u0440\u0443\u0433\u043e\u043c\u0443 \u0441\u0435\u0437\u043e\u043d\u0456 RuPaul's Drag Race \u0442\u0430 \u043f\u0435\u0440\u0448\u043e\u043c\u0443 \u0441\u0435\u0437\u043e\u043d\u0456 RuPaul's Drag Race: All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/personFunction",
+        "object": "http://dbpedia.org/resource/Pandora_Boxx__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Pandora_Boxx?oldid=1121783446&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "32051"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2005"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Michael R. Steck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1972"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/title",
+        "object": "Miss Congeniality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/St._John_Fisher_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_6)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Pandora_Boxx__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/predecessor",
+        "object": "http://dbpedia.org/resource/Nina_Flowers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://dbpedia.org/ontology/successor",
+        "object": "http://dbpedia.org/resource/Yara_Sofia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pandora_Boxx>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Pandora_Boxx"
+    }
+]

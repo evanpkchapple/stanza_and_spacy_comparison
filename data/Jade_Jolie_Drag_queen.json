@@ -1,0 +1,497 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jade Jolie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jade Jolie is the stage name of Joshua Green, (born November 2, 1986) an American drag queen and Taylor Swift impersonator known for competing in the fifth season of RuPaul's Drag Race and the fourth season of The Boulet Brothers' Dragula. She featured in Swift\u2019s \"You Need to Calm Down\" music video along with joining her at the 2019 VMA awards in the opening, as well as when Swift received two awards (including video of the year)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Jade Jolie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Jade Jolie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Jade_Jolie_crop.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1986-11-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:The_Boulet_Brothers'_Dragula_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1986_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "39182806"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1115694829"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Puerto_Rico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_5)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_8)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hurricane_Maria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Travolta"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jade_(Mortal_Kombat)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coco_Montrese"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gainesville,_Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miss_Americana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mortal_Kombat"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mimi_Imfurst"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2019_MTV_Video_Music_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angelina_Jolie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Logo_TV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTV_Video_Music_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Pointer_Sisters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Twitter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:The_Boulet_Brothers'_Dragula_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lip_sync"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/AJ_and_the_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alyssa_Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1986_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pandora_Boxx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Taylor_Swift"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Boulet_Brothers'_Dragula"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Boulet_Brothers'_Dragula_(season_4)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snatch_Game"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Phi_Phi_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pornographic_film"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/I'm_So_Excited"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michelle_Visage"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nashville"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nazi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Serena_ChaCha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/You_Need_to_Calm_Down"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_mom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Penny_Tration"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.instagram.com/MissJadeJolie/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/c7748a2e-8208-4950-887b-8a7942ce68e0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q64714883"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/9ePvd"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:The_Boulet_Brothers'_Dragula"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Jade_Jolie_crop.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1986-11-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Joshua Green"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Jolie performing for Nashville Queens for the Cure in 2017"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "The Boulet Brothers' Dragula"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen, performer, impersonator, actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jade Jolie is the stage name of Joshua Green, (born November 2, 1986) an American drag queen and Taylor Swift impersonator known for competing in the fifth season of RuPaul's Drag Race and the fourth season of The Boulet Brothers' Dragula. She featured in Swift\u2019s \"You Need to Calm Down\" music video along with joining her at the 2019 VMA awards in the opening, as well as when Swift received two awards (including video of the year)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Jade_Jolie?oldid=1115694829&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "14361"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Joshua Green"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1986"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/The_Boulet_Brothers'_Dragula"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Jade_Jolie__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jade_Jolie>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Jade_Jolie"
+    }
+]

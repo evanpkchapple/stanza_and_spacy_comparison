@@ -1,0 +1,607 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromGalveston,Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u062c\u064a\u0645\u064a \u0643\u064a\u0633\u0644\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jimmy Kessler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u062c\u064a\u0645\u064a \u0643\u064a\u0633\u0644\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Jimmy Kessler)\u200f \u0647\u0648 \u062d\u0627\u062e\u0627\u0645 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 10 \u062f\u064a\u0633\u0645\u0628\u0631 1945 \u0641\u064a \u0647\u064a\u0648\u0633\u062a\u0646 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "James Lee Kessler (born December 10, 1945), the founder of the Texas Jewish Historical Society, was the first native Texan to serve as rabbi of Congregation B'nai Israel in Galveston, Texas."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RabbiJimmyKessler.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Houston,_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Houston,_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1945-12-10"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1945_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jews_and_Judaism_in_Galveston,_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Galveston,_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Texas_at_Austin_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "13610575"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1093208073"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Sealy_Hospital"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Texas_Medical_Branch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Texas_System"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1945_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Congregation_B'nai_Israel_(Galveston,_Texas)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cincinnati"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Galveston,_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Galveston_National_Laboratory"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Texas_Jewish_Historical_Society"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transitional_Learning_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Masonic_lodge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Houston,_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jews_and_Judaism_in_Galveston,_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_history"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Galveston,_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Handbook_of_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_the_Jews_in_Galveston,_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College-Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tau_Delta_Phi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Texas_at_Austin_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Texas_State_Historical_Association"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doctorate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Freemasonry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chaplain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hillel:_The_Foundation_for_Jewish_Campus_Life"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Regents"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Honorary_Doctorate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Texas_Medical_Branch_at_Galveston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://news.galvestondailynews.com/story.lasso%3Fewcd=7eaab645f086c12b9ee596497d21a777"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://news.galvestondailynews.com/story.lasso%3Fewcd=bb45078939616e945cad5829f4bda69c"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.03cbsrx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/43405661"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Jimmy_Kessler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q6200556"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u062c\u064a\u0645\u064a_\u0643\u064a\u0633\u0644\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u062c\u064a\u0645\u0649_\u0643\u064a\u0633\u0644\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4oYJH"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:BLP_sources"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Clear"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Dead_link"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Portal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RabbiJimmyKessler.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1945-12-10"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "James Lee Kessler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/property/bot",
+        "object": "InternetArchiveBot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Rabbi Jimmy Kessler speaking before the University of Texas System Board of Regents in support of UTMB and John Sealy Hospital."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/property/date",
+        "object": "February 2020"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/property/fixAttempted",
+        "object": "yes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/property/imageSize",
+        "object": "200"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u062c\u064a\u0645\u064a \u0643\u064a\u0633\u0644\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Jimmy Kessler)\u200f \u0647\u0648 \u062d\u0627\u062e\u0627\u0645 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 10 \u062f\u064a\u0633\u0645\u0628\u0631 1945 \u0641\u064a \u0647\u064a\u0648\u0633\u062a\u0646 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "James Lee Kessler (born December 10, 1945), the founder of the Texas Jewish Historical Society, was the first native Texan to serve as rabbi of Congregation B'nai Israel in Galveston, Texas."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Texan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/43405661"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Jimmy_Kessler?oldid=1093208073&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "10425"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "James Lee Kessler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1945"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Jimmy_Kessler__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jimmy_Kessler>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Jimmy_Kessler"
+    }
+]

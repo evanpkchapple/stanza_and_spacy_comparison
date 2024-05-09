@@ -1,0 +1,577 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Ellie Diamond"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Elliot Glen (born 20 December 1998), better known by the stage name Ellie Diamond, a Scottish drag performer most known for competing on the second series of RuPaul's Drag Race UK."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Ellie Diamond"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Ellie Diamond"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Dundee,_Scotland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Dundee,_Scotland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1998-12-20"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Scottish_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1998_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_UK_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Scotland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "66120818"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1122305045"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK_(series_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bimini_Bon_Boulash"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Birmingham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brighton_Centre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Derby_Arena"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pavilion_Theatre_(Bournemouth)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Usher_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venue_Cymru"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mayflower_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/McDonald's"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SEC_Armadillo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Scottish_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Theatre_Oxford"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellie_Goulding"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glasgow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Globe_Theatre,_Stockton-on-Tees"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liverpool"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liverpool_Empire_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_Palladium"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manchester"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manchester_Opera_House"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cliffs_Pavilion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_Hall_Aberdeen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1998_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_UK_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bristol"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bristol_Hippodrome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/British_Vogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aberdeen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_(clothing)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dundee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dundee,_Scotland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edinburgh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Regent_Theatre,_Ipswich"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hannah_Diamond"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Convention_Centre_Wales"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tayce"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Anvil,_Basingstoke"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Guardian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marina_and_The_Diamonds"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Scotland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lawrence_Chaney"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Symphony_Hall,_Birmingham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plymouth_Pavilions"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portsmouth_Guildhall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St_David's_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St_George's_Hall,_Bradford"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newcastle_City_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newcastle_upon_Tyne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Opera_House_Theatre,_Blackpool"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sheffield_City_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nottingham_Royal_Concert_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q105023992"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/Fynvt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/A"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Small"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Unsourced_section"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:UK-entertainer-stub"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1998-12-20"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Elliot Glen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Ellie Diamond at the premiere of Cinderella."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "Scottish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Elliot Glen (born 20 December 1998), better known by the stage name Ellie Diamond, a Scottish drag performer most known for competing on the second series of RuPaul's Drag Race UK."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Ellie_Diamond?oldid=1122305045&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "7546"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Elliot Glen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1998"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Ellie_Diamond__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Ellie_Diamond>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Ellie_Diamond"
+    }
+]

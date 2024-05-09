@@ -1,0 +1,1232 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bob the Drag Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bob the Drag Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bob the Drag Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bob The Drag Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bob the Drag Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bob the Drag Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Bob the Drag Queen (Columbus, 22 de juny de 1986), nom art\u00edstic de Christopher Caldwell, \u00e9s una drag queen, humorista i personalitat televisiva estatunidenca. \u00c9s coneguda per guanyar la vuitena temporada de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Bob the Drag Queen (geboren 22. Juni 1986 in Columbus als Christopher Caldwell), auch bekannt unter dem Namen Caldwell Tidicue, ist eine US-amerikanische Dragqueen, Komikerin, S\u00e4ngerin, Schauspielerin und LGBT-Aktivistin. Bekannt wurde sie vor allem durch ihre Teilnahme an der achten Staffel von RuPaul\u2019s Drag Race, die sie auch gewann. New York listete sie 2019 auf dem achten Platz der zwanzig einflussreichsten Dragqueens in den Vereinigten Staaten."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Christopher D. Caldwell, better known as Bob the Drag Queen, is an American drag queen, comedian, actor, activist, musician, and reality television personality. He is best known for winning the eighth season of RuPaul's Drag Race. As of 2020, he has more than one million followers on Instagram and was the first Black Drag Race queen to reach the milestone. After Drag Race, he pursued acting, appearing in television shows such as High Maintenance (2016), Tales of the City (2019), and A Black Lady Sketch Show (2019). In 2020, he began co-hosting We're Here on HBO alongside fellow Drag Race contestants Eureka O'Hara and Shangela. The series has received acclaim from critics."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Christopher Caldwell (Columbus, Georgia; 22 de junio de 1986), m\u00e1s conocido por su nombre art\u00edstico, Bob the Drag Queen, es un actor, m\u00fasico, drag queen y personalidad televisivo estadounidense, ganador de la octava temporada de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Caldwell Tidicue, n\u00e9 le 22 juin 1986, plus connu sous le pseudonyme de Bob the Drag Queen, est un com\u00e9dien, musicien, drag queen et personnalit\u00e9 t\u00e9l\u00e9vis\u00e9e am\u00e9ricain, principalement connu pour avoir gagn\u00e9 la huiti\u00e8me saison de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Bob the Drag Queen, pseudonimo di Caldwell Tidicue, nato Christopher Caldwell (Columbus, 22 giugno 1986), \u00e8 un attore, cantante, personaggio televisivo, comico e attivista statunitense, noto soprattutto come drag queen. \u00c8 noto al pubblico soprattutto per la sua vittoria dell'ottava edizione del programma Tv RuPaul's Drag Race. Nel giugno 2019 Tidicue viene inserito nella classifica delle drag queen pi\u00f9 influenti d'America."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Bob the Drag Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Bob the Drag Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Caldwell Tidicue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob_The_Drag_Queen_2017.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/DSC05669_(37187846346)_(cropped).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Columbus,_Georgia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Columbus,_Georgia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1986-06-22"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Polyamorous_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_African_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rights_activists_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Pansexual_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_non-binary_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Georgia_(U.S._state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Columbus,_Georgia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1986_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Pansexual_non-binary_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_podcasters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "49304767"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1124653728"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carol_Channing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pride_Month"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queerty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rough_Night"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Celebrity_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_10)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_8)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_9)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_4)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_5)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_terminology"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sasha_Velour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BeBe_Zahara_Benet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Nye"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bianca_Del_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Derrick_Barry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Polyamorous_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peppermint_(entertainer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uzo_Aduba"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Violet_Chachki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Personal_pronouns"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbus,_Georgia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbus_State_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christmas_Queens_3"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clayton_County,_Georgia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coach_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ginger_Minj"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miz_Cracker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monique_Heart"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mon\u00e9t_X_Change"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morrow_High_School_(Georgia)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Trixie_&_Katya_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Vixen_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_culture_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angela_Davis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angels_in_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ann-Margret"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Legendary_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leland_Bobb\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Logo_TV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lucifer_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Straight_Outta_Oz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lesbian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hot_Dance/Electronic_Songs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_African_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rights_activists_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CBS_This_Morning"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Pansexual_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_non-binary_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Georgia_(U.S._state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Columbus,_Georgia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/TiVo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Todrick_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trinity_the_Tuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trixie_Mattel:_Moving_Parts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trixie_Motel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Twin_Falls,_Idaho"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/We're_Here"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/We're_Here_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_My_Dad"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/He_(pronoun)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A_Black_Lady_Sketch_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A_Little_Late_with_Lilly_Singh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaska_Thunderfuck_5000"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1986_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eureka_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Non-binary_gender"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pansexual"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kahanna_Montrese"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_LGBT_people_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reality_television"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/HBO"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/High_Maintenance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tales_of_the_City_(2019_miniseries)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crazy_Eyes_(Orange_Is_the_New_Black)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Boulet_Brothers'_Dragula"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snatch_Game"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ask_Me_Another_(radio_program)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Pansexual_non-binary_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_podcasters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_YouTubers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/KMVT"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katya_Zamolodchikova"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_rights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Laverne_Cox"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monet_X_Change"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bullwhip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Instagram"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kitten_with_a_Whip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shangela"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shea_Coule\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/YouTube"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/She_(pronoun)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shangela_Laquifa_Wadley"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/OutTV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theater"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berkeley_Rep"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:DSC05669_(37187846346)_(cropped).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stand_Out:_An_LGBTQ+_Celebration"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://stereo.com/bobtdq"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://vm.tiktok.com/ZMeSVPxBY/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.amazon.com/Heads-Will-Roll/dp/B07MC9HG4H/ref=sr_1_1%3Fkeywords=Heads+Will+Roll&qid=1557657386&s=gateway&sr=8-1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Bob_the_Drag_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q24287374"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ca.dbpedia.org/resource/Bob_the_Drag_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Bob_the_Drag_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Bob_The_Drag_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u0628\u0627\u0628_\u062f_\u062f\u0631\u06af_\u06a9\u0648\u0626\u06cc\u0646"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Bob_the_Drag_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05d1\u05d5\u05d1_\u05d3\u05d4_\u05d3\u05e8\u05d0\u05d2_\u05e7\u05d5\u05d5\u05d9\u05df"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://hu.dbpedia.org/resource/Bob_a_Drag_Kir\u00e1lyn\u0151"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Bob_the_Drag_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2Hk6i"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Efn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Em"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Instagram"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/A"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:No"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Non-album_singles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Notelist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Small"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Twitter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:URL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Yes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:YouTube"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbreviation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Soundcloud"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Refh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Secret_Celebrity_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Bob_The_Drag_Queen_2017.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/alt",
+        "object": "Bob the Drag Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1986-06-22"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Christopher D. Caldwell"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Bob in 2017"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/id",
+        "object": "6012366"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race  winner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/otherNames",
+        "object": "Caldwell Tidicue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/otherNames",
+        "object": "Kittin Withawhip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/predecessor",
+        "object": "http://dbpedia.org/resource/Violet_Chachki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/successor",
+        "object": "http://dbpedia.org/resource/Sasha_Velour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2009"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Bob the Drag Queen (Columbus, 22 de juny de 1986), nom art\u00edstic de Christopher Caldwell, \u00e9s una drag queen, humorista i personalitat televisiva estatunidenca. \u00c9s coneguda per guanyar la vuitena temporada de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Bob the Drag Queen (geboren 22. Juni 1986 in Columbus als Christopher Caldwell), auch bekannt unter dem Namen Caldwell Tidicue, ist eine US-amerikanische Dragqueen, Komikerin, S\u00e4ngerin, Schauspielerin und LGBT-Aktivistin. Bekannt wurde sie vor allem durch ihre Teilnahme an der achten Staffel von RuPaul\u2019s Drag Race, die sie auch gewann. New York listete sie 2019 auf dem achten Platz der zwanzig einflussreichsten Dragqueens in den Vereinigten Staaten."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Christopher D. Caldwell, better known as Bob the Drag Queen, is an American drag queen, comedian, actor, activist, musician, and reality television personality. He is best known for winning the eighth season of RuPaul's Drag Race. As of 2020, he has more than one million followers on Instagram and was the first Black Drag Race queen to reach the milestone. After Drag Race, he pursued acting, appearing in television shows such as High Maintenance (2016), Tales of the City (2019), and A Black Lady Sketch Show (2019). In 2020, he began co-hosting We're Here on HBO alongside fellow Drag Race contestants Eureka O'Hara and Shangela. The series has received acclaim from critics."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Christopher Caldwell (Columbus, Georgia; 22 de junio de 1986), m\u00e1s conocido por su nombre art\u00edstico, Bob the Drag Queen, es un actor, m\u00fasico, drag queen y personalidad televisivo estadounidense, ganador de la octava temporada de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Caldwell Tidicue, n\u00e9 le 22 juin 1986, plus connu sous le pseudonyme de Bob the Drag Queen, est un com\u00e9dien, musicien, drag queen et personnalit\u00e9 t\u00e9l\u00e9vis\u00e9e am\u00e9ricain, principalement connu pour avoir gagn\u00e9 la huiti\u00e8me saison de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Bob the Drag Queen, pseudonimo di Caldwell Tidicue, nato Christopher Caldwell (Columbus, 22 giugno 1986), \u00e8 un attore, cantante, personaggio televisivo, comico e attivista statunitense, noto soprattutto come drag queen. \u00c8 noto al pubblico soprattutto per la sua vittoria dell'ottava edizione del programma Tv RuPaul's Drag Race. Nel giugno 2019 Tidicue viene inserito nella classifica delle drag queen pi\u00f9 influenti d'America."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Bob_the_Drag_Queen?oldid=1124653728&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "52514"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2009"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/alias",
+        "object": "Caldwell Tidicue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/alias",
+        "object": "Kittin Withawhip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Christopher D. Caldwell"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1986"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/imdbId",
+        "object": "6012366"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Bob_the_Drag_Queen__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/predecessor",
+        "object": "http://dbpedia.org/resource/Violet_Chachki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://dbpedia.org/ontology/successor",
+        "object": "http://dbpedia.org/resource/Sasha_Velour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bob_the_Drag_Queen>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Bob_the_Drag_Queen"
+    }
+]

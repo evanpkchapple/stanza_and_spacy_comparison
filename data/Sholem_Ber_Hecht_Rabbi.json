@@ -1,0 +1,327 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sholem Ber Hecht"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sholem Ber Hecht (born 1946) is an American Chabad rabbi. Hecht is the CEO of the National Committee for the Furtherance of Jewish Education (NCFJE)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Sholem Hecht"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Sholem Hecht"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1946_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Hasidic_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Orthodox_rabbis_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "62895635"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1091518956"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Menachem_Mendel_Schneerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Rivkah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Persian_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Likkutei_Sichos"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Committee_for_the_Furtherance_of_Jewish_Education"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1994_Brooklyn_Bridge_shooting"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crown_Heights_riot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1946_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/East_Flatbush,_Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Forest_Hills,_Queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Hasidic_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Orthodox_rabbis_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chabad"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacob_J._Hecht"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shaliach_(Chabad)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shea_Hecht"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q83421223"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/C6XEq"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_year_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "14"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/property/father",
+        "object": "Rabbi Jacob J. Hecht"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/property/relatives",
+        "object": "http://dbpedia.org/resource/Shea_Hecht"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Sholem Ber Hecht (born 1946) is an American Chabad rabbi. Hecht is the CEO of the National Committee for the Furtherance of Jewish Education (NCFJE)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Sholem_Ber_Hecht?oldid=1091518956&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "7589"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1946"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Sholem_Ber_Hecht__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://dbpedia.org/ontology/relative",
+        "object": "http://dbpedia.org/resource/Shea_Hecht"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sholem_Ber_Hecht>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Sholem_Ber_Hecht"
+    }
+]

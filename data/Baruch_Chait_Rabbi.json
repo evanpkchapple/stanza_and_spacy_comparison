@@ -1,0 +1,552 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/MusicGroup"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Composer109947232"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Entertainer109616922"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Musician110339966"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHasidicEntertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishComposersAndSongwriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishMusicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/MusicalArtist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://umbel.org/umbel/rc/MusicalPerformer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Baruch Chait"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Baruch (Burry) Chait is an Orthodox Jewish rabbi, musician and composer. He is Rosh Yeshiva of the Israeli high school Maarava Machon Rubin."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Baruch Chait"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Baruch Chait"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Books and albums by Baruch Chait in libraries"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hasidic_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hasidic_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Israeli_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_songwriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Haredi_rabbis_in_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rosh_yeshivas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_that_emigrated_to_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "9469981"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1096415673"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosh_Yeshiva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Composer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Rabbis'_Sons"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haredi_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hasidic_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hasidic_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Israeli_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_songwriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gadi_Pollack"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Folk_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kol_Ha'Olam_Kulo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshivas_Rabbeinu_Yisrael_Meir_HaKohen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henoch_Leibowitz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Haredi_rabbis_in_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rosh_yeshivas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_that_emigrated_to_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maarava_Machon_Rubin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Jewish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kol_Salonika"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moshe_Chait"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.028b4_v"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/40903246"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Baruch_Chait"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/aa41b498-b0b3-495f-be40-cd9c8dd93547"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q4865850"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0628\u0627\u0631\u0648\u062e_\u0634\u064a\u062a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05d1\u05e8\u05d5\u05da_\u05d7\u05d9\u05d9\u05d8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4WBpk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Contemporary_Jewish_religious_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_musical_artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:WorldCat"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/property/alias",
+        "object": "Burry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/property/associatedActs",
+        "object": "http://dbpedia.org/resource/The_Rabbis'_Sons"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/property/genre",
+        "object": "http://dbpedia.org/resource/Jewish_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/property/genre",
+        "object": "http://dbpedia.org/resource/Folk_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/property/id",
+        "object": "lccn-n87862699"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, educator, songwriter, composer, author"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "late 1960s-present"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Baruch (Burry) Chait is an Orthodox Jewish rabbi, musician and composer. He is Rosh Yeshiva of the Israeli high school Maarava Machon Rubin."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/40903246"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Baruch_Chait?oldid=1096415673&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "3608"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "1960"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/alias",
+        "object": "Burry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/associatedBand",
+        "object": "http://dbpedia.org/resource/The_Rabbis'_Sons"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/associatedMusicalArtist",
+        "object": "http://dbpedia.org/resource/The_Rabbis'_Sons"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/genre",
+        "object": "http://dbpedia.org/resource/Jewish_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/genre",
+        "object": "http://dbpedia.org/resource/Folk_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Composer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Baruch_Chait>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Baruch_Chait"
+    }
+]

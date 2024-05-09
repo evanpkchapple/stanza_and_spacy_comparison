@@ -1,0 +1,707 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatCanadianDragQueens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatCanadianMaleFilmActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTDramatistsAndPlaywrights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTEntertainersFromCanada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTWritersFromCanada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatMaleActorsFromToronto"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromKingston,Ontario"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Actor109765278"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Aristocrat109807754"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Dramatist110030277"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Entertainer109616922"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/FemaleAristocrat110083823"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Performer110415638"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Queen110499355"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGayActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGayWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat20th-centuryCanadianDramatistsAndPlaywrights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Rusty Ryan (actor)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rusty Ryan was the stage name of Robert Brian Timbrell (December 28, 1947 \u2013 July 28, 2003), a Canadian actor and drag queen. He was a founding member of The Great Impostors, a long-running drag troupe in Toronto, Ontario whose members included Ryan, Tammy Autumn, Michelle DuBarry, Danny Love, Jackie Loren, Terri Stevens, Christian Jefferies and Dale Barnett at different times."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Rusty Ryan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Rusty Ryan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Kingston,_Ontario"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Ontario"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Liverpool,_Nova_Scotia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Nova_Scotia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Liverpool,_Nova_Scotia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Nova_Scotia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2003-07-28"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Kingston,_Ontario"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Ontario"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1947-12-28"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1947_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2003_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_gay_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Male_actors_from_Kingston,_Ontario"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_male_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_male_film_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Toronto"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_dramatists_and_playwrights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Kingston,_Ontario"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Male_actors_from_Toronto"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_dramatists_and_playwrights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_male_dramatists_and_playwrights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "41836515"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1055610605"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canadians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dennis_Timbrell"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1947_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2003_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_gay_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Craig_Russell_(Canadian_actor)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stage_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frankie_Goes_to_Hollywood"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Male_actors_from_Kingston,_Ontario"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liverpool,_Nova_Scotia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Platinum_Blonde_(band)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_male_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_male_film_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Toronto"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_dramatists_and_playwrights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Kingston,_Ontario"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toronto"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/54_(film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Male_actors_from_Toronto"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_(clothing)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nova_Scotia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Outrageous!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jeffrey_Round"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Canadian_dramatists_and_playwrights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_male_dramatists_and_playwrights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kingston,_Ontario"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michelle_DuBarry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ontario"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toronto_Fringe_Festival"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Too_Outrageous"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queer_as_Folk_(North_American_TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0_lc6zc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Rusty_Ryan_(actor)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q16201597"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0631\u0648\u0633\u062a\u0649_\u0631\u064a\u0627\u0646"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/byNB"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Canada-actor-stub"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1947-12-28"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Robert Brian Timbrell"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "2003-07-28"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "The Great Impostors, Outrageous!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "http://dbpedia.org/resource/Canadians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "actor, drag queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rusty Ryan was the stage name of Robert Brian Timbrell (December 28, 1947 \u2013 July 28, 2003), a Canadian actor and drag queen. He was a founding member of The Great Impostors, a long-running drag troupe in Toronto, Ontario whose members included Ryan, Tammy Autumn, Michelle DuBarry, Danny Love, Jackie Loren, Terri Stevens, Christian Jefferies and Dale Barnett at different times. Timbrell was born in Kingston, Ontario on December 28, 1947, the younger brother of politician Dennis Timbrell. He was working as a stockbroker when he first began performing in the 1970s, and was given his drag name by friend and fellow performer Craig Russell. With the Great Impostors, Ryan toured extensively across Canada, giving many smaller communities their first exposure to drag and LGBT culture; in the 1980s, he accompanied Frankie Goes to Hollywood on their North American tour. In 1992, he wrote and performed a one-man play, Driving to Tatamagouche, at the Toronto Fringe Festival. He also had numerous minor roles in television and film. Best known to film audiences for his supporting role as Jimmy the bartender in Outrageous! and its sequel Too Outrageous, he also appeared in the television films The Sins of Dorian Gray and The Wharf Rat, the theatrical film 54, an episode of Queer as Folk and a music video by Platinum Blonde. He died of a heart attack on July 28, 2003 in Liverpool, Nova Scotia, following a performance that was part of his first tour performing comedy out of drag. Following his death, writer Jeffrey Round prepared and released a documentary film, Driving with Rusty."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Rusty_Ryan_(actor)?oldid=1055610605&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "3979"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/stateOfOrigin",
+        "object": "http://dbpedia.org/resource/Canadians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Robert Brian Timbrell"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1947"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "2003"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/Outrageous!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/nationality",
+        "object": "http://dbpedia.org/resource/Canadians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rusty_Ryan_(actor)__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rusty_Ryan_(actor)>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Rusty_Ryan_(actor)"
+    }
+]

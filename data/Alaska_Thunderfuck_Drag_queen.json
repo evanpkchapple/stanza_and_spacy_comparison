@@ -1,0 +1,1682 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alaska Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0627\u0644\u0627\u0633\u0643\u0627 \u062b\u0627\u0646\u062f\u0631\u0641\u0627\u0643"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alaska Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alaska Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alaska Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alaska Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\uc54c\ub798\uc2a4\uce74 \uc36c\ub354\ud37d"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alaska Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alaska Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Alaska Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Alaska Thunderfuck (Erie, 6 de mar\u00e7 de 1985) nom art\u00edstic de Justin Andrew Honard, tamb\u00e9 coneguda pels altres noms art\u00edstics d'Alaska Thunderfuck 5000 o simplement Alaska, \u00e9s una drag queen, artista, i cantant dels Estats Units. Alaska va guanyar notorietat despr\u00e9s de ser finalista en la cinquena temporada de RuPaul's Drag Race. M\u00e9s endavant, el 2016, va ser coronada com la guanyadora de la segona temporada de ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0627\u0644\u0627\u0633\u0643\u0627 \u062b\u0627\u0646\u062f\u0631\u0641\u0627\u0643 5000 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Alaska Thunderfu*k 5000)\u200f (\u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0628\u0627\u0633\u0645 \u0627\u0644\u0627\u0633\u0643\u0627) \u0647\u0648 \u0627\u0633\u0645 \u0627\u0644\u0645\u0633\u0631\u062d \u0644\u0640 \u062c\u0627\u0633\u062a\u0646 \u0623\u0646\u062f\u0631\u0648 \u0647\u0648\u0646\u0627\u0631\u062f \u0648\u0647\u0648 \u062f\u0631\u0627\u0642 \u0643\u0648\u064a\u0646 \u0648\u0645\u063a\u0646\u064a \u0623\u0645\u0631\u064a\u0643\u064a \u0648\u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0628\u0639\u062f \u062d\u0644\u0648\u0644\u0647 \u0641\u064a \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u062b\u0627\u0646\u064a \u0641\u064a \u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u062e\u0627\u0645\u0633 \u0645\u0646 \u0631\u0648\u0628\u0648\u0644 \u062f\u0631\u0627\u0642 \u0631\u064a\u0633 \u0648\u0627\u0644\u0641\u0627\u0626\u0632 \u0641\u064a \u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u062b\u0627\u0646\u064a \u0645\u0646"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Justin Andrew Honard (Erie, Pensilvania; 6 de marzo de 1985) conocido como Alaska Thunderfuck 5000, es una drag queen, artista, y cantante estadounidense.\u200b Alaska gan\u00f3 notoriedad tras ser finalista en la quinta temporada de RuPaul's Drag Race. Tambi\u00e9n, en el 2016, fue coronada como la ganadora de la segunda temporada de RuPaul's Drag Race: All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Alaska Thunderfuck 5000, aussi connu sous le nom d'Alaska Thunderfuck ou Alaska Thunderfvck, ou Alaska 5000, est le nom de sc\u00e8ne de Justin Honard, une drag queen connue pour sa participation \u00e0 l'\u00e9mission de t\u00e9l\u00e9vision RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\uc54c\ub798\uc2a4\uce74 \uc36c\ub354\ud37d(Alaska Thunderfuck, 1985\ub144 3\uc6d4 6\uc77c ~ )\uc740 \ubbf8\uad6d\uc758 \ub4dc\ub798\uadf8 \ud038, \uc74c\uc545\uac00\uc774\ub2e4. \u300a\ub8e8\ud3f4\uc758 \ub4dc\ub798\uadf8 \ub808\uc774\uc2a4\u300b\ub97c \ud1b5\ud574 \uc774\ub984\uc744 \uc54c\ub838\uc73c\uba70 \uc2dc\uc98c 5\uc5d0\uc11c \ucd5c\uc885 2\uc704, \uc62c\uc2a4\ud0c0 \uc2dc\uc98c 2\uc5d0\uc11c\ub294 \uc6b0\uc2b9\uc744 \ud588\ub2e4."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Justin Andrew Honard (Los Angeles 6 maart 1985), beter bekend onder haar artiestennaam Alaska Thunderfuck 5000, maar die voornamelijk bekend als simpelweg Alaska, is een Amerikaanse dragqueen en zangeres. Ze is ook bekend door haar deelname aan het vijfde seizoen en het tweede All Stars-seizoen van RuPaul's Drag Race'."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Alaska Thunderfuck, (egentligen Justin Andrew Honard) \u00e4ven k\u00e4nd som Alaska och Alaska Thunderfuck 5000, f\u00f6dd 6 mars 1985 \u00e4r k\u00e4nd fr\u00e5n femte s\u00e4songen av RuPauls dragrace och \u00e4r en amerikansk dragshowartist och artist."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Justin Andrew Honard (born March 6, 1985) is an American drag queen and recording artist known by the stage name Alaska Thunderfuck 5000, primarily known mononymously as Alaska, from Erie, Pennsylvania. She is best known as the runner-up on the fifth season of RuPaul's Drag Race and the winner of the second season of RuPaul's Drag Race All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Justin Andrew Honard, noto anche con lo pseudonimo di Alaska Thunderfuck 5000 o semplicemente Alaska (Erie, 6 marzo 1985), \u00e8 un personaggio televisivo e drag queen statunitense noto per essere arrivato alla finale della quinta stagione di RuPaul's Drag Race. e per aver vinto la seconda di RuPaul's Drag Race All Stars. Nel giugno 2019, una giuria del New York l'ha inserita al settimo posto nella loro lista delle \"drag queen pi\u00f9 potenti d'America\"."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Justin Andrew Honard, mais conhecido pelo seu nome art\u00edstico de Alaska Thunderfuck, Alaska Thunderfuck 5000 ou Alaska (como era inicialmente conhecido), \u00e9 uma drag queen e artista musical estadunidense. Alaska ficou conhecida por ser uma finalista na quinta temporada de RuPaul's Drag Race e vencedora da segunda temporada de RuPaul's Drag Race All Stars. Em junho de 2019, um painel de jurados da revista New York a elegeu como a s\u00e9tima das \"drag queens mais poderosas dos Estados Unidos\", um ranking com 100 ex-competidoras de Drag Race. Seu primeiro \u00e1lbum de est\u00fadio, Anus, foi lan\u00e7ado em 2015, seguido do lan\u00e7amento de seu segundo \u00e1lbum, Poundcake, em 2016. Seu terceiro \u00e1lbum, Vagina, foi lan\u00e7ado em 2019. Al\u00e9m disso, Alaska \u00e9 parte das AAA Girls, um grupo de drags composto por Willam e Courtne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+        "object": "http://dbpedia.org/resource/The_AAA_Girls"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Alaska Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://alaskathunderfuck.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Alaska Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52073263861).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Alaska_Thunderfuck.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Erie,_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Erie, Pennsylvania, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1985-03-06"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1985_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_French-Canadian_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_gay_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_podcasters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Pittsburgh_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "39162122"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123831078"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Call_My_Life"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cameron_Esposito"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poundcake_(album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Power_(Little_Mix_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Producer_Entertainment_Group"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queerty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxxxy_Andrews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_4)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_5)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_7)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_8)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_4)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul:_What's_the_Tee%3F"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scared_Famous_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Men.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beauty_Marked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blair_St._Clair"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_the_Drag_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Delta_Work"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detox_Icunt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jolene_(song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Little_Mix"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peppermint_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peppermint_(entertainer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ricardo_Montalb\u00e1n_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Pittsburgh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/VH1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vagina_(album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vampire_Fitness"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dopey_(podcast)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Independent_Albums"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Why_Won't_You_Date_Me%3F"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queer_for_Fear:_The_History_of_Queer_Horror"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1985_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Compact_disc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cooked_with_Cannabis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cosmopolitan_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Courtney_Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Craft_Recordings"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(production_company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stage_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christmas_Queens_3"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electronic_dance_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gia_Gunn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gianni_Versace"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ginger_Minj"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grace_Helbig"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miss_Fame"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mononymous_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morgan_le_Fay"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Myspace"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Contemporary_R&B"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Last_Sharknado:_It's_About_Time"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_Celebrity_Apprentice"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Quiet_Room_(2018_film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Rocky_Horror_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Wreckoning_(Willam_Belli_album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dance/Electronic_Albums"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dance/Electronic_Songs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pittsburgh,_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anna_Wintour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anthony_C._Ferrante"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anus_(Alaska_Thunderfuck_5000_album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anus_(album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stormzy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Comedy_Albums"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Felippe_Moraes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brittany_Broski"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_French-Canadian_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Till_Death_Do_Us_Party"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Todrick_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trannyshack"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ts_Madison"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UNHhhh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Watch_What_Happens_Live_with_Andy_Cohen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/We_Are_the_World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Hollywood,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willam_Belli"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Head_over_Heels_(musical)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/@midnight"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Access_All_Areas_Tour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adore_Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alyssa_Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/America's_Next_Top_Model_(season_7)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amethyst_Journey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ana_Matronic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/DWV_(group)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag:_The_Musical"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erie,_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Flula_Borg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicole_Byer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/PG-13_(album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pandora_Boxx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fort_LeBoeuf_School_District"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_download"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles_Gay_and_Lesbian_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hip_hop_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jackie_Beat"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jan_Sport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tammie_Brown"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Bachelorette_(American_TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Boulet_Brothers'_Dragula"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Boulet_Brothers'_Dragula:_Titans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Boulet_Brothers'_Dragula_(season_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Boulet_Brothers'_Dragula_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Golden_Girls"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_gay_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_podcasters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Pittsburgh_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chad_Michaels"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jiggly_Caliente"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jinkx_Monsoon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kandy_Muse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katya_Zamolodchikova"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kesha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lady_Gaga"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Laganja_Estranja"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Las_Culturistas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Latrice_Royale"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Big_Dipper_(rapper)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billboard_charts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_AAA_Girls"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Divine_(performer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dolly_Parton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manila_Luzon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marc_Jacobs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marilyn_Monroe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pop_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_All_Stars_Drag_Race_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_All_Stars_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Instagram"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michelle_Visage"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ROY_G_BIV_BBT"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raja_Gemini"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Red_4_Filth"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sex_and_the_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shane_Dawson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sharon_Needles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shea_Coule\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christeene_Vale"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christmas_Queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christmas_Queens_2"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christmas_Queens_4"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Woodlawn_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yahoo!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Top_Heatseekers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Web_series"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/OutTV_(Canada)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Recording_artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ultratop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hurricane_Bianca_2:_From_Russia_with_Hate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scared_Famous_(2017_U.S._TV_Series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/OutTV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trinity_The_Tuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephanie's_Child"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yekaterina_Petrovna_Zamolodchikova"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lineysha_Sparx"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jer_Ber_Jones"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Concord_Theatricals"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Long-playing_record"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Alaska_Thunderfuck.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sidecar_Records"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://commons.dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/4859154592515843370004"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/db2a4f7c-9c79-46fb-912a-e508fe97b864"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q16029552"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0627\u0644\u0627\u0633\u0643\u0627_\u062b\u0627\u0646\u062f\u0631\u0641\u0627\u0643"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0627\u0644\u0627\u0633\u0643\u0627_\u062b\u0627\u0646\u062f\u0631\u0641\u0627\u0643"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://azb.dbpedia.org/resource/\u0627\u0644\u0627\u0633\u06a9\u0627_\u062a\u0627\u0646\u062f\u0631\u0641\u0627\u06a9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ca.dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u0622\u0644\u0627\u0633\u06a9\u0627_\u062a\u0627\u0646\u062f\u0631\u0641\u0627\u06a9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05d0\u05dc\u05e1\u05e7\u05d4_\u05ea'\u05d0\u05e0\u05d3\u05e8\u05e4\u05d0\u05e7"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ko.dbpedia.org/resource/\uc54c\ub798\uc2a4\uce74_\uc36c\ub354\ud37d"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nl.dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pt.dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://simple.dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sv.dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/aYTF"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:'"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Efn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_artist_discography"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_musical_artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/A"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nominated"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Notelist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Official_website"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:See_also"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Small"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Tooltip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:URL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_American_English"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Wikiquote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Won"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Runner-up"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52073263861).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/1option",
+        "object": "2"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/1optionName",
+        "object": "Collaborative albums"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/artist",
+        "object": "Alaska Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1985-03-06"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Justin Andrew Honard"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Alaska at RuPaul's DragCon in May 2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "University of Pittsburgh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/height",
+        "object": "185.42"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race (season 5) runner-up"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race All Stars (season 2) winner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Recording_artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/otherNames",
+        "object": "Alaska, Alaska Thunderfuck 5000, Alaska 5000, Alaska Thunderfuck, Alaska Thunderfun"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/predecessor",
+        "object": "http://dbpedia.org/resource/Chad_Michaels"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/singles",
+        "object": "25"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/studio",
+        "object": "4"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/successor",
+        "object": "http://dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2006"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Alaska Thunderfuck (Erie, 6 de mar\u00e7 de 1985) nom art\u00edstic de Justin Andrew Honard, tamb\u00e9 coneguda pels altres noms art\u00edstics d'Alaska Thunderfuck 5000 o simplement Alaska, \u00e9s una drag queen, artista, i cantant dels Estats Units. Alaska va guanyar notorietat despr\u00e9s de ser finalista en la cinquena temporada de RuPaul's Drag Race. M\u00e9s endavant, el 2016, va ser coronada com la guanyadora de la segona temporada de ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0627\u0644\u0627\u0633\u0643\u0627 \u062b\u0627\u0646\u062f\u0631\u0641\u0627\u0643 5000 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Alaska Thunderfu*k 5000)\u200f (\u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0628\u0627\u0633\u0645 \u0627\u0644\u0627\u0633\u0643\u0627) \u0647\u0648 \u0627\u0633\u0645 \u0627\u0644\u0645\u0633\u0631\u062d \u0644\u0640 \u062c\u0627\u0633\u062a\u0646 \u0623\u0646\u062f\u0631\u0648 \u0647\u0648\u0646\u0627\u0631\u062f \u0648\u0647\u0648 \u062f\u0631\u0627\u0642 \u0643\u0648\u064a\u0646 \u0648\u0645\u063a\u0646\u064a \u0623\u0645\u0631\u064a\u0643\u064a \u0648\u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0628\u0639\u062f \u062d\u0644\u0648\u0644\u0647 \u0641\u064a \u0627\u0644\u0645\u0631\u0643\u0632 \u0627\u0644\u062b\u0627\u0646\u064a \u0641\u064a \u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u062e\u0627\u0645\u0633 \u0645\u0646 \u0631\u0648\u0628\u0648\u0644 \u062f\u0631\u0627\u0642 \u0631\u064a\u0633 \u0648\u0627\u0644\u0641\u0627\u0626\u0632 \u0641\u064a \u0627\u0644\u0645\u0648\u0633\u0645 \u0627\u0644\u062b\u0627\u0646\u064a \u0645\u0646"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Justin Andrew Honard (born March 6, 1985) is an American drag queen and recording artist known by the stage name Alaska Thunderfuck 5000, primarily known mononymously as Alaska, from Erie, Pennsylvania. She is best known as the runner-up on the fifth season of RuPaul's Drag Race and the winner of the second season of RuPaul's Drag Race All Stars. Honard co-hosts the web series Bro'Laska alongside her brother, Corey Binney. Her first studio album, Anus, was released in 2015, followed by her second album, Poundcake, in 2016, and her third album, Vagina, in 2019. Her fourth album, Red 4 Filth, was released in 2022. Honard is also a part of The AAA Girls, a drag group with Willam and Courtney Act and hosts the podcast Race Chaser with Willam."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Justin Andrew Honard (Erie, Pensilvania; 6 de marzo de 1985) conocido como Alaska Thunderfuck 5000, es una drag queen, artista, y cantante estadounidense.\u200b Alaska gan\u00f3 notoriedad tras ser finalista en la quinta temporada de RuPaul's Drag Race. Tambi\u00e9n, en el 2016, fue coronada como la ganadora de la segunda temporada de RuPaul's Drag Race: All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Alaska Thunderfuck 5000, aussi connu sous le nom d'Alaska Thunderfuck ou Alaska Thunderfvck, ou Alaska 5000, est le nom de sc\u00e8ne de Justin Honard, une drag queen connue pour sa participation \u00e0 l'\u00e9mission de t\u00e9l\u00e9vision RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\uc54c\ub798\uc2a4\uce74 \uc36c\ub354\ud37d(Alaska Thunderfuck, 1985\ub144 3\uc6d4 6\uc77c ~ )\uc740 \ubbf8\uad6d\uc758 \ub4dc\ub798\uadf8 \ud038, \uc74c\uc545\uac00\uc774\ub2e4. \u300a\ub8e8\ud3f4\uc758 \ub4dc\ub798\uadf8 \ub808\uc774\uc2a4\u300b\ub97c \ud1b5\ud574 \uc774\ub984\uc744 \uc54c\ub838\uc73c\uba70 \uc2dc\uc98c 5\uc5d0\uc11c \ucd5c\uc885 2\uc704, \uc62c\uc2a4\ud0c0 \uc2dc\uc98c 2\uc5d0\uc11c\ub294 \uc6b0\uc2b9\uc744 \ud588\ub2e4."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Justin Andrew Honard (Los Angeles 6 maart 1985), beter bekend onder haar artiestennaam Alaska Thunderfuck 5000, maar die voornamelijk bekend als simpelweg Alaska, is een Amerikaanse dragqueen en zangeres. Ze is ook bekend door haar deelname aan het vijfde seizoen en het tweede All Stars-seizoen van RuPaul's Drag Race'."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Justin Andrew Honard, noto anche con lo pseudonimo di Alaska Thunderfuck 5000 o semplicemente Alaska (Erie, 6 marzo 1985), \u00e8 un personaggio televisivo e drag queen statunitense noto per essere arrivato alla finale della quinta stagione di RuPaul's Drag Race. e per aver vinto la seconda di RuPaul's Drag Race All Stars. Nel giugno 2019, una giuria del New York l'ha inserita al settimo posto nella loro lista delle \"drag queen pi\u00f9 potenti d'America\". Justin \u00e8 co-presentatore, insieme a suo fratello Corey Binney, della serie Bro'laska. Il suo primo album, Anus, \u00e8 uscito nel 2015, seguito dal suo secondo album, Poundcake, uscito nel 2016. Il suo terzo album, Vagina, \u00e8 uscito nel 2019. Justin inoltre fa parte de The AAA Girls, un gruppo di drag queen composto da Alaska, Willam Belli e Courtney Act."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Alaska Thunderfuck, (egentligen Justin Andrew Honard) \u00e4ven k\u00e4nd som Alaska och Alaska Thunderfuck 5000, f\u00f6dd 6 mars 1985 \u00e4r k\u00e4nd fr\u00e5n femte s\u00e4songen av RuPauls dragrace och \u00e4r en amerikansk dragshowartist och artist."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Justin Andrew Honard, mais conhecido pelo seu nome art\u00edstico de Alaska Thunderfuck, Alaska Thunderfuck 5000 ou Alaska (como era inicialmente conhecido), \u00e9 uma drag queen e artista musical estadunidense. Alaska ficou conhecida por ser uma finalista na quinta temporada de RuPaul's Drag Race e vencedora da segunda temporada de RuPaul's Drag Race All Stars. Em junho de 2019, um painel de jurados da revista New York a elegeu como a s\u00e9tima das \"drag queens mais poderosas dos Estados Unidos\", um ranking com 100 ex-competidoras de Drag Race. Seu primeiro \u00e1lbum de est\u00fadio, Anus, foi lan\u00e7ado em 2015, seguido do lan\u00e7amento de seu segundo \u00e1lbum, Poundcake, em 2016. Seu terceiro \u00e1lbum, Vagina, foi lan\u00e7ado em 2019. Al\u00e9m disso, Alaska \u00e9 parte das AAA Girls, um grupo de drags composto por Willam e Courtney Act. Honard tamb\u00e9m \u00e9 co-apresentador da webs\u00e9rie Bro'Laska junto a seu irm\u00e3o, Corey Binney."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Alaska_Thunderfuck?oldid=1123831078&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/Person/height",
+        "object": "185.42"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "75766"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2006"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/alias",
+        "object": "Alaska, Alaska Thunderfuck 5000, Alaska 5000, Alaska Thunderfuck, Alaska Thunderfun"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Justin Andrew Honard"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1985"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/height",
+        "object": "1.8542"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/University_of_Pittsburgh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_5)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Recording_artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Alaska_Thunderfuck__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/predecessor",
+        "object": "http://dbpedia.org/resource/Chad_Michaels"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://dbpedia.org/ontology/successor",
+        "object": "http://dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Alaska_Thunderfuck>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Alaska_Thunderfuck"
+    }
+]

@@ -1,0 +1,667 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanActivists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanCentenarians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeopleOfTurkish-JewishDescent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatTurkishCentenarians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatOttomanEmigrantsToTheUnitedStates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromMilas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Centenarian109904208"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Disputant109615465"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Emigrant110051975"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Migrant110314952"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Militant110315837"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Oldster110376523"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Reformer110515194"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Traveler109629752"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Albert Jean Amateau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Albert Jean Amateau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Albert Jean Amateau (geboren am 20. April 1889 in Milas bei Mu\u011fla; gestorben am 9. Februar 1996 in Santa Rosa, Kalifornien) war ein t\u00fcrkischer Rabbiner, Rechtsanwalt, und sozialer Aktivist."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Albert Jean Amateau (April 20, 1889 \u2013 February 9, 1996) was a Turkish rabbi, businessman, lawyer, social activist, and denier of the Armenian genocide."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Albert Jean Amateau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Albert Jean Amateau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Milas_Plain_Panorama.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Ottoman_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Milas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Santa_Rosa,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Santa Rosa, California, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1996-02-09"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Milas, Ottoman Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1889-04-20"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1889_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1996_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_centenarians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Emigrants_from_the_Ottoman_Empire_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Men_centenarians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Turkish_centenarians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Sephardic_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Turkish_Sephardi_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Turkish-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Deniers_of_the_Armenian_genocide"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Ottoman_\u0130zmir/Smyrna"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Milas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "327914"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1107553315"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santa_Rosa,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Senate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arab"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u0130zmir"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1889_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1996_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_centenarians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Emigrants_from_the_Ottoman_Empire_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Men_centenarians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Turkish_centenarians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Turkey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ottoman_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palestine_(region)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Armenian_genocide"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Armenian_genocide_denial"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Sephardic_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Turkish_Sephardi_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Turkish-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Deniers_of_the_Armenian_genocide"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Ottoman_\u0130zmir/Smyrna"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Milas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Theological_Seminary_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Young_Turks"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sephardi_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_I"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lipsync"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Dole"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Turkish_rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sworn_Statement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Milas_Plain_Panorama.JPG"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.01wdd6"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Albert_Jean_Amateau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/55927078"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q4710572"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0627\u0644\u0628\u064a\u0631\u062a_\u0686\u064a\u0627\u0646_\u0627\u0645\u0627\u062a\u064a\u0627\u0648"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://az.dbpedia.org/resource/Alber_Jan_Amato"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Albert_Jean_Amateau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://tr.dbpedia.org/resource/Albert_Jean_Amateau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4MMPG"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/138472777"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:MEast-rabbi-stub"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Milas_Plain_Panorama.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1889-04-20"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1996-02-09"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Activism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "Turkish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, lawyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Albert Jean Amateau (geboren am 20. April 1889 in Milas bei Mu\u011fla; gestorben am 9. Februar 1996 in Santa Rosa, Kalifornien) war ein t\u00fcrkischer Rabbiner, Rechtsanwalt, und sozialer Aktivist."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Albert Jean Amateau (April 20, 1889 \u2013 February 9, 1996) was a Turkish rabbi, businessman, lawyer, social activist, and denier of the Armenian genocide."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/55927078"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Albert_Jean_Amateau?oldid=1107553315&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "3724"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1889"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1996"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Albert_Jean_Amateau__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Albert_Jean_Amateau>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Albert_Jean_Amateau"
+    }
+]

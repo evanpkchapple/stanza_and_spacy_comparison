@@ -1,0 +1,717 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tia Kofi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Lawrence Bolton (born 27 September 1990), better known by the stage name Tia Kofi, is a British drag queen from Clapham, South London. They are best known for competing on the second series of RuPaul's Drag Race UK."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Tia Kofi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Tia Kofi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Tia_Kofi_Heaven.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Essex"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Essex, England, UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1990-09-27"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_UK_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1990_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "66120840"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123880286"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cahill_(group)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK_(series_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK_(series_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brighton_Centre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Derby_Arena"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hufflepuff"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Little_Boots"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pavilion_Theatre_(Bournemouth)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Nottingham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Usher_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vaudeville_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venue_Cymru"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victoria_Scone"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mayflower_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SEC_Armadillo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Theatre_Oxford"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clapham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Globe_Theatre,_Stockton-on-Tees"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Vivienne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liverpool_Empire_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_Palladium"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manchester_Opera_House"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sister,_Sister_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cliffs_Pavilion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Streaming_media"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sum_Ting_Wong_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_Hall_Aberdeen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_UK_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bristol_Hippodrome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Celebrity_Gogglebox"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tia_Mowry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tom_Aspaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heaven_(nightclub)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1990_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dua_Lipa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Essex"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_download"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Regent_Theatre,_Ipswich"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harry_Potter_and_the_Prisoner_of_Azkaban_(film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Convention_Centre_Wales"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tayce"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Anvil,_Basingstoke"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Children_in_Need"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jingle_Bell_Rock"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jodie_Harsh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Symphony_Hall,_Birmingham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_End_theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Don't_Start_Now"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/COVID-19_lockdowns"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plymouth_Pavilions"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portsmouth_Guildhall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/South_London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St_David's_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St_George's_Hall,_Bradford"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kofi_Annan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mick_Jagger"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newcastle_City_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Opera_House_Theatre,_Blackpool"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Secretary-General_of_the_United_Nations"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sheffield_City_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_video"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nottingham_Royal_Concert_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Six_(musical)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mrshll"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Veronica_Green"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pixie_Polite"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/0b564cf0-a85f-42b6-8a47-1a605f67f5a5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q106390975"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/Fx3HE"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Instagram"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/A"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Small"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Twitter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Tia_Kofi_Heaven.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1990-09-27"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Lawrence Bolton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Kofi performing at Heaven, London in June 2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/University_of_Nottingham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Lawrence Bolton (born 27 September 1990), better known by the stage name Tia Kofi, is a British drag queen from Clapham, South London. They are best known for competing on the second series of RuPaul's Drag Race UK."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Tia_Kofi?oldid=1123880286&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "20757"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Lawrence Bolton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1990"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/University_of_Nottingham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Tia_Kofi__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tia_Kofi>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Tia_Kofi"
+    }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Flawless Sabrina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Flawless Sabrina (September 10, 1939 \u2013 November 18, 2017), also known as Mother Flawless Sabrina, was an American LGBT activist, drag queen, performer, and actress, based in New York City. Flawless Sabrina was a pioneer for transgender people and drag queens not only in the mainstream, heterosexual society, but within the gay society as well, where transgender people remained heavily stigmatized. Sabrina lived in New York near Central Park from the 1960s until her death."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Flawless Sabrina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Flawless Sabrina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "New York City, New York, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2017-11-18"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Philadelphia, Pennsylvania, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1939-09-10"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Italian_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1939_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rights_activists_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Manhattan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2017_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "51627396"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1117496556"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Waters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Critics'_Week"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Italian_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/May_1968_events_in_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emcee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Musidora"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Queen_(1968_film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thom_Nickels"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_culture_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_culture_in_Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1968_Cannes_Film_Festival"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zackary_Drucker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Les_Vampires"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1939_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rights_activists_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Manhattan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Center_City,_Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Times_Square"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transgender"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_LGBT_actions_in_the_United_States_prior_to_the_Stonewall_riots"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2017_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Anderson_Tapes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kickstarter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pink_Flamingos"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michelle_Handelman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cameo_appearance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/La_JohnJoseph"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Flawless_Sabrina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q28134914"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2cngz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Portal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1939-09-10"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Jack Doroshow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "2017-11-18"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Activist, actress, drag queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/property/otherNames",
+        "object": "Mother Flawless Sabrina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Flawless Sabrina (September 10, 1939 \u2013 November 18, 2017), also known as Mother Flawless Sabrina, was an American LGBT activist, drag queen, performer, and actress, based in New York City. Flawless Sabrina was a pioneer for transgender people and drag queens not only in the mainstream, heterosexual society, but within the gay society as well, where transgender people remained heavily stigmatized. Sabrina lived in New York near Central Park from the 1960s until her death."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Flawless_Sabrina?oldid=1117496556&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "11298"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/alias",
+        "object": "Mother Flawless Sabrina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Jack Doroshow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1939"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "2017"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Flawless_Sabrina__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Flawless_Sabrina>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Flawless_Sabrina"
+    }
+]

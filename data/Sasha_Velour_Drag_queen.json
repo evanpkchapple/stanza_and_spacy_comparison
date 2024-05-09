@@ -1,0 +1,1252 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sasha Velour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sasha Velour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sasha Velour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sasha Velour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sasha Velour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sasha Velour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0421\u0430\u0448\u0430 \u0412\u0435\u043b\u044e\u0440"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sasha Velour (Berkeley, 25 de juny de 1987) nom art\u00edstic d'Alexander Hedges Steinberg, \u00e9s una drag queen, dissenyadora i il\u00b7lustradora estatunidenca. El seu treball creatiu inclou representacions, publicacions i m\u00fasica amb el seu paper drag. Va obtenir major notorietat amb la seva partici\u00f3 a la novena temporada de RuPaul's Drag Race l'any 2017, de la qual es va al\u00e7ar amb la vict\u00f2ria."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sasha Velour (* 25. Juni 1987 in Berkeley als Alexander \u201eSasha\u201c Hedges Steinberg) ist eine nichtbin\u00e4re US-amerikanische Comiczeichnerin und Dragqueen, die bei ihren Drag-Auftritten oft auf Elemente des Theaters zur\u00fcckgreift. Sie wurde vor allem als Gewinnerin der neunten Staffel von RuPaul\u2019s Drag Race bekannt. 2019 w\u00e4hlte die Zeitschrift New York Velour auf den zw\u00f6lften Platz der zwanzig einflussreichsten Dragqueens in den Vereinigten Staaten."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Alexander Hedges Steinberg (Berkeley, California; 25 de junio de 1987) m\u00e1s conocida por su nombre art\u00edstico Sasha Velour, es una drag queen, dise\u00f1adora e ilustradora estadounidense.\u200b Su trabajo creativo incluye presentaciones, publicaciones y m\u00fasica dentro del drag. Obtuvo mayor notoriedad como ganadora de la novena temporada de RuPaul's Drag Race en 2017.\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Alexander \u00ab Sasha \u00bb Hedges Steinberg, plus connue sous le nom de sc\u00e8ne Sasha Velour, est une actrice, directrice artistique et drag queen am\u00e9ricaine principalement connue pour sa participation \u00e0 la neuvi\u00e8me saison de l'\u00e9mission de t\u00e9l\u00e9r\u00e9alit\u00e9 RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Alexander \"Sasha\" Hedges Steinberg (born June 25, 1987), known professionally as Sasha Velour, is an American drag queen, artist, actor, and stage and television producer, based in Brooklyn, New York. Velour is known for winning the ninth season of RuPaul's Drag Race, her drag revue NightGowns, and her one-queen theatrical work, Smoke & Mirrors."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sasha Velour, pseudonimo di Alexander Hedges Steinberg (Berkeley, 25 giugno 1987), \u00e8 una designer, illustratrice e drag queen statunitense con origini russe. \u00c8 nota al pubblico soprattutto per la sua vittoria nella nona edizione del reality show RuPaul's Drag Race.Nel giugno 2019 Velour viene inserita nella classifica delle drag queen pi\u00f9 influenti d'America."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0425\u0435\u0434\u0436\u0435\u0441 \u0428\u0442\u0430\u0439\u043d\u0431\u0435\u0440\u0433 (\u0430\u043d\u0433\u043b. Alexander Hedges Steinberg; \u0440\u043e\u0434. 25 \u0438\u044e\u043d\u044f 1987, \u0411\u0435\u0440\u043a\u043b\u0438, \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f), \u0431\u043e\u043b\u044c\u0448\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u043a\u0430\u043a \u0421\u0430\u0448\u0430 \u0412\u0435\u043b\u044e\u0440 (\u0430\u043d\u0433\u043b. Sasha Velour) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0434\u0440\u0430\u0433-\u0430\u0440\u0442\u0438\u0441\u0442. \u0423\u0447\u0430\u0441\u0442\u043d\u0438\u043a \u0438 \u043f\u043e\u0431\u0435\u0434\u0438\u0442\u0435\u043b\u044c \u0434\u0435\u0432\u044f\u0442\u043e\u0433\u043e \u0441\u0435\u0437\u043e\u043d\u0430 \u0448\u043e\u0443 \u00ab\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0435 \u0433\u043e\u043d\u043a\u0438 \u0420\u0443 \u041f\u043e\u043b\u0430\u00bb."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Sasha Velour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://sashavelour.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Sasha Velour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Sasha_Velour_in_Bath,_UK.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Sasha_Velour_(cropped).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Berkeley,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Berkeley, California, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1987-06-25"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1987_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_feminists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Russian-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Vassar_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Nightlife_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_comics_creators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Fulbright_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Genderqueer_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Center_for_Cartoon_Studies_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "53982783"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1124932163"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canberra"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Purdue_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queerty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Quibi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_9)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Antonio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saturday_Night_Live"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berkeley,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berlin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Birmingham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_the_Drag_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Josephine_Baker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/People_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peppermint_(entertainer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhode_Island_School_of_Design"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ukrainian_Soviet_Socialist_Republic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_Laboratory_High_School_(Urbana,_Illinois)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Illinois,_Urbana-Champaign"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Illinois_at_Urbana\u2013Champaign"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Urbana,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Variety_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vassar_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vermont"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1987_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mei_Lanfang"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saint_Petersburg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Opera_Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christina_Aguilera"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coccinelle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Warren"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Entertainment_Weekly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Google"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miss_Fame"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Threepenny_Opera"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_culture_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Annie_(musical)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aquaria_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lyft"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Main_Street_Museum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manchuria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manhattan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Smithsonian_Institution"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/So_Emotional"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stonewall_riots"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fulbright_Program"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jos\u00e9_Sarria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Papier-m\u00e2ch\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barbette_(performer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_feminists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Russian-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Vassar_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Broad_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/COVID-19_pandemic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Center_for_Cartoon_Studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Washington,_D.C."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/White_River_Junction,_Vermont"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whitney_Houston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/William_Dorsey_Swann"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lip_sync"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ace_Hotel_Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Nightlife_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aja_(entertainer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexis_Michelle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_comics_creators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dublin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Farrah_Moan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fast_Company"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ang\u00e9lica_Negr\u00f3n"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NightGowns"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Out_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Google_Doodle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_LGBT_people_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_NYC"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rebecca_Riots"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hermitage_Museum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italian_Greyhound"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Izumo_no_Okuni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Janet_Jackson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Terminal_5_(venue)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_A.V._Club"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Bold_Type"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snatch_Game"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Fulbright_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Genderqueer_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Champaign\u2013Urbana_metropolitan_area"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Center_for_Cartoon_Studies_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jiggly_Caliente"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Epperson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kate_McKinnon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Toon_Books"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Staatsoper_Berlin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Divine_(performer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_D._Steinberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marlene_Dietrich"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sophie_Muller"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mercedes-Benz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Netflix"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Art_Dealers_Alliance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Zealand"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oakland_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Opening_Ceremony_(brand)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shea_Coule\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shepherd's_Bush_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yale_University_Press"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Master_of_Fine_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_video"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_Fashion_Week"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_Live_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Slavic_Review"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pirate_Jenny"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Teen_Vogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russian_history"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russian_Jewish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Out100"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stonewall_uprising"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Sasha_Velour_in_Bath,_UK.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/e853ffd9-353d-4666-ab83-96513f1227c3"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q29913296"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ca.dbpedia.org/resource/Sasha_Velour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Sasha_Velour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Sasha_Velour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u0633\u0627\u0634\u0627_\u0648\u0644\u06cc\u0648\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Sasha_Velour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05e1\u05d0\u05e9\u05d4_\u05d5\u05dc\u05d5\u05e8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Sasha_Velour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u0421\u0430\u0448\u0430_\u0412\u0435\u043b\u044e\u0440"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sr.dbpedia.org/resource/\u0421\u0430\u0448\u0430_\u0412\u0435\u043b\u0443\u0440"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2mgMz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:'"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:As_of"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nominated"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Official_website"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:URL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Won"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Sasha_Velour_(cropped).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1987-06-25"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Alexander Hedges Steinberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Velour at RuPaul's DragCon NYC 2017."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/Vassar_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "Center for Cartoon Studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/father",
+        "object": "http://dbpedia.org/resource/Mark_D._Steinberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race  winner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen, artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/predecessor",
+        "object": "http://dbpedia.org/resource/Bob_the_Drag_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/successor",
+        "object": "http://dbpedia.org/resource/Aquaria_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2009"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Sasha Velour (Berkeley, 25 de juny de 1987) nom art\u00edstic d'Alexander Hedges Steinberg, \u00e9s una drag queen, dissenyadora i il\u00b7lustradora estatunidenca. El seu treball creatiu inclou representacions, publicacions i m\u00fasica amb el seu paper drag. Va obtenir major notorietat amb la seva partici\u00f3 a la novena temporada de RuPaul's Drag Race l'any 2017, de la qual es va al\u00e7ar amb la vict\u00f2ria."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Sasha Velour (* 25. Juni 1987 in Berkeley als Alexander \u201eSasha\u201c Hedges Steinberg) ist eine nichtbin\u00e4re US-amerikanische Comiczeichnerin und Dragqueen, die bei ihren Drag-Auftritten oft auf Elemente des Theaters zur\u00fcckgreift. Sie wurde vor allem als Gewinnerin der neunten Staffel von RuPaul\u2019s Drag Race bekannt. 2019 w\u00e4hlte die Zeitschrift New York Velour auf den zw\u00f6lften Platz der zwanzig einflussreichsten Dragqueens in den Vereinigten Staaten."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Alexander Hedges Steinberg (Berkeley, California; 25 de junio de 1987) m\u00e1s conocida por su nombre art\u00edstico Sasha Velour, es una drag queen, dise\u00f1adora e ilustradora estadounidense.\u200b Su trabajo creativo incluye presentaciones, publicaciones y m\u00fasica dentro del drag. Obtuvo mayor notoriedad como ganadora de la novena temporada de RuPaul's Drag Race en 2017.\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Alexander \u00ab Sasha \u00bb Hedges Steinberg, plus connue sous le nom de sc\u00e8ne Sasha Velour, est une actrice, directrice artistique et drag queen am\u00e9ricaine principalement connue pour sa participation \u00e0 la neuvi\u00e8me saison de l'\u00e9mission de t\u00e9l\u00e9r\u00e9alit\u00e9 RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Alexander \"Sasha\" Hedges Steinberg (born June 25, 1987), known professionally as Sasha Velour, is an American drag queen, artist, actor, and stage and television producer, based in Brooklyn, New York. Velour is known for winning the ninth season of RuPaul's Drag Race, her drag revue NightGowns, and her one-queen theatrical work, Smoke & Mirrors."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Sasha Velour, pseudonimo di Alexander Hedges Steinberg (Berkeley, 25 giugno 1987), \u00e8 una designer, illustratrice e drag queen statunitense con origini russe. \u00c8 nota al pubblico soprattutto per la sua vittoria nella nona edizione del reality show RuPaul's Drag Race.Nel giugno 2019 Velour viene inserita nella classifica delle drag queen pi\u00f9 influenti d'America."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440 \u0425\u0435\u0434\u0436\u0435\u0441 \u0428\u0442\u0430\u0439\u043d\u0431\u0435\u0440\u0433 (\u0430\u043d\u0433\u043b. Alexander Hedges Steinberg; \u0440\u043e\u0434. 25 \u0438\u044e\u043d\u044f 1987, \u0411\u0435\u0440\u043a\u043b\u0438, \u041a\u0430\u043b\u0438\u0444\u043e\u0440\u043d\u0438\u044f), \u0431\u043e\u043b\u044c\u0448\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u0435\u043d \u043a\u0430\u043a \u0421\u0430\u0448\u0430 \u0412\u0435\u043b\u044e\u0440 (\u0430\u043d\u0433\u043b. Sasha Velour) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0434\u0440\u0430\u0433-\u0430\u0440\u0442\u0438\u0441\u0442. \u0423\u0447\u0430\u0441\u0442\u043d\u0438\u043a \u0438 \u043f\u043e\u0431\u0435\u0434\u0438\u0442\u0435\u043b\u044c \u0434\u0435\u0432\u044f\u0442\u043e\u0433\u043e \u0441\u0435\u0437\u043e\u043d\u0430 \u0448\u043e\u0443 \u00ab\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0435 \u0433\u043e\u043d\u043a\u0438 \u0420\u0443 \u041f\u043e\u043b\u0430\u00bb."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/property/partner",
+        "object": "Johnny Velour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Sasha_Velour?oldid=1124932163&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "45713"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2009"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Alexander Hedges Steinberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1987"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Vassar_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Center_for_Cartoon_Studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Sasha_Velour__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/predecessor",
+        "object": "http://dbpedia.org/resource/Bob_the_Drag_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://dbpedia.org/ontology/successor",
+        "object": "http://dbpedia.org/resource/Aquaria_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sasha_Velour>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Sasha_Velour"
+    }
+]

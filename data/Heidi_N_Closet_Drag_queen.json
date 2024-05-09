@@ -1,0 +1,577 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Heidi N Closet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Heidi N Closet is the stage name of Trevien Anthonie Cheek, an American drag queen from Ramseur, North Carolina, best known for competing on the twelfth season of RuPaul's Drag Race, where she placed 5th and won the Miss Congeniality award."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Heidi N Closet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Heidi N Closet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Heidi N. Closet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52072213147)_(cropped_-_Heidi_N_Closet).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Ramseur,_North_Carolina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Ramseur,_North_Carolina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1994-09-29"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_African_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1994_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_North_Carolina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Randolph_County,_North_Carolina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "62908099"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1114102606"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queerty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_12)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_13)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_6)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Critical_Role_episodes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rigel_Gemini"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Critical_Role"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madonna:_The_Unauthorized_Rusical"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stacy_Layne_Matthews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_African_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brita_Filter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tiger_King"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/TikTok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/WAP_(song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Waze_&_Odyssey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Widow_Von'Du"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Winston-Salem,_North_Carolina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erasure"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicky_Doll"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nina_West"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Out_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1994_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jackie_Cox_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jaida_Essence_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Bitch_Who_Stole_Christmas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_North_Carolina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Randolph_County,_North_Carolina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LaLa_Ri"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tiger_Queens:_The_Tiger_King_Musical"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/In_Touch_Weekly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ramseur,_North_Carolina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Musical_film"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victoria_%22Porkchop%22_Parker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.northcarolinaeoy.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.theheidincloset.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.youtube.com/watch%3Fv=pw3IHIRJe3k"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q95684565"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/By4av"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Portal_bar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Url"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Refh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52072213147)_(cropped_-_Heidi_N_Closet).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1994-09-29"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Trevien Anthonie Cheek"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Heidi N Closet in 2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/id",
+        "object": "11425378"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen, entertainer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/predecessor",
+        "object": "http://dbpedia.org/resource/Nina_West"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/property/successor",
+        "object": "http://dbpedia.org/resource/LaLa_Ri"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Heidi N Closet is the stage name of Trevien Anthonie Cheek, an American drag queen from Ramseur, North Carolina, best known for competing on the twelfth season of RuPaul's Drag Race, where she placed 5th and won the Miss Congeniality award."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Heidi_N_Closet?oldid=1114102606&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "28733"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Trevien Anthonie Cheek"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1994"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/imdbId",
+        "object": "11425378"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Heidi_N_Closet__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/predecessor",
+        "object": "http://dbpedia.org/resource/Nina_West"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://dbpedia.org/ontology/successor",
+        "object": "http://dbpedia.org/resource/LaLa_Ri"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Heidi_N_Closet>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Heidi_N_Closet"
+    }
+]

@@ -1,0 +1,367 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jonathan Hausman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jonathan H. Hausman (born June 19, 1957) is an American Conservative rabbi. He is the rabbi of Congregation Ahavath Torah in Stoughton, Massachusetts. Hausman grew up in the Bridgeport, Connecticut area. He holds a BA in Judaic Studies, and an MA in International Affairs focusing on the Middle East, from the George Washington University, and a JD from Emory University in addition to Rabbinic ordination from Tifereth Israel Rabbinical Yeshiva. He used to be the rabbi of Congregation Sinai of West Haven, Connecticut."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Jonathan Hausman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Jonathan Hausman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1957-06-19"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1957_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Emory_University_School_of_Law_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Elliott_School_of_International_Affairs_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "26142850"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1056962476"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bridgeport,_Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emory_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/George_Washington_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservative_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stoughton,_Massachusetts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1957_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Emory_University_School_of_Law_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_relations"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacob_M._Appel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Elliott_School_of_International_Affairs_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Middle_East"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ahavath_Torah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judaic_Studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0b6mknm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Jonathan_Hausman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q6273371"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4pEjE"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1957-06-19"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/Emory_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/George_Washington_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jonathan H. Hausman (born June 19, 1957) is an American Conservative rabbi. He is the rabbi of Congregation Ahavath Torah in Stoughton, Massachusetts. Hausman grew up in the Bridgeport, Connecticut area. He holds a BA in Judaic Studies, and an MA in International Affairs focusing on the Middle East, from the George Washington University, and a JD from Emory University in addition to Rabbinic ordination from Tifereth Israel Rabbinical Yeshiva. He used to be the rabbi of Congregation Sinai of West Haven, Connecticut. Hausman is the model for the title character in author Jacob Appel's first mystery novel, Wedding Wipeout: A Rabbi Kappelmacher Mystery, in which Kappelmacher solves murders though \"rabbinic reasoning.\""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Hausman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Jonathan_Hausman?oldid=1056962476&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "2288"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1957"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Emory_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/George_Washington_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Jonathan_Hausman__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jonathan_Hausman>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Jonathan_Hausman"
+    }
+]

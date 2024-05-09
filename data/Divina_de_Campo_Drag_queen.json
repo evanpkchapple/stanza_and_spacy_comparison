@@ -1,0 +1,722 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Divina de Campo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Divina de Campo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Divina de Campo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Divina de Campo (geboren 5. Mai 1984 in Brighouse als Owen Richard Farrow) ist eine britische Dragqueen und S\u00e4ngerin. Bekannt wurde sie vor allem f\u00fcr ihre Teilnahme an der ersten Staffel von RuPaul\u2019s Drag Race UK, bei der sie den zweiten Platz belegte."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Divina de Campo is the stage name of Owen Richard Farrow, an English drag queen, singer, and actor, best known for competing in the first series of RuPaul's Drag Race UK, eventually finishing as runner-up."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Divina de Campo \u00e9 o nome art\u00edstico de Owen Richard Farrow, uma drag queen e cantora brit\u00e2nica mais conhecida por aparecer na primeira temporada do RuPaul's Drag Race UK. Divina foi vice-campe\u00e3 da temporada."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Divina de Campo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "https://www.divinadecampo.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Divina de Campo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Brighouse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/West_Yorkshire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Brighouse, West Yorkshire, England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_educators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_UK_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:British_non-binary_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_Manchester_Metropolitan_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Brighouse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "61574449"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123091895"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Castlefield"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Producer_Entertainment_Group"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK_(series_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boy_George"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brassic_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brighouse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Decoded_(EP)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_educators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vinyl_record"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corby_Cube"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frock4Life"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frock_Destroyers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/God_Shave_the_Queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Pirates_of_Penzance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Voice_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manchester_Metropolitan_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hot_Dance/Electronic_Songs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_UK_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/COVID-19_pandemic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UK_Singles_Chart"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Waze_&_Odyssey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Yorkshire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drive-in"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/8_Out_of_10_Cats"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/All_Together_Now_(British_TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alyssa_Edwards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag:_The_Musical"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Non-binary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palace_Theatre,_Manchester"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:British_non-binary_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leeds_Playhouse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_download"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Importance_of_Being_Earnest"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Groove_Armada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hedwig_and_the_Angry_Inch_(musical)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Big_Questions"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UK_Theatre_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Alumni_of_Manchester_Metropolitan_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chicago_(musical)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Children_in_Need"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Brighouse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jodie_Harsh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Digital_Drag_Fest"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Divine_(performer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portsmouth"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Southsea"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Voice_(UK)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaska_5000"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.divinadecampo.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/beaf14f3-e9e1-456b-8966-b193ea056268"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q47546740"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Divina_de_Campo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pt.dbpedia.org/resource/Divina_de_Campo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4QpDd"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Frock_Destroyers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/A"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Tooltip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Owen Richard Farrow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "Manchester Metropolitan University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "British"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/property/website",
+        "object": "https://www.divinadecampo.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "The Voice UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "All Together Now"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Divina de Campo (geboren 5. Mai 1984 in Brighouse als Owen Richard Farrow) ist eine britische Dragqueen und S\u00e4ngerin. Bekannt wurde sie vor allem f\u00fcr ihre Teilnahme an der ersten Staffel von RuPaul\u2019s Drag Race UK, bei der sie den zweiten Platz belegte."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Divina de Campo is the stage name of Owen Richard Farrow, an English drag queen, singer, and actor, best known for competing in the first series of RuPaul's Drag Race UK, eventually finishing as runner-up."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Divina de Campo \u00e9 o nome art\u00edstico de Owen Richard Farrow, uma drag queen e cantora brit\u00e2nica mais conhecida por aparecer na primeira temporada do RuPaul's Drag Race UK. Divina foi vice-campe\u00e3 da temporada."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Divina_de_Campo?oldid=1123091895&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "25058"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Owen Richard Farrow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Manchester_Metropolitan_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Divina_de_Campo__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Divina_de_Campo>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Divina_de_Campo"
+    }
+]

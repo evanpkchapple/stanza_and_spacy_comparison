@@ -1,0 +1,1632 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Pabllo Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Pabllo Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Pabllo Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Pabllo Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Pabllo Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Pabllo Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\ud30c\ube14\ub8e8 \ube44\ud0c0\ub974"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30d1\u30d6\u30ed\u30fb\u30f4\u30a3\u30bf\u30fc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Pabllo Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Pabllo Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u041f\u0430\u0431\u043b\u043b\u043e \u0412\u0438\u0442\u0442\u0430\u0440"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u041f\u0430\u0431\u043b\u043b\u043e \u0412\u0456\u0442\u0442\u0430\u0440"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Phabullo Rodrigues da Silva (S\u00e3o Luis, estat de Maranh\u00e3o, 1 de novembre de 1993), conegut pel seu nom art\u00edstic Pabllo Vittar, \u00e9s una cantant, drag-queen i presentadora del Brasil. Musicalment, es mou entre el pop i diversos estils propis del Brasil, com el forr\u00f3 i el . Per la seva popularitat al pa\u00eds sud-americ\u00e0, s'ha convertit en una icona gai i \u00e9s conegut pel seu activisme en defensa dels drets LGBT."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Phabullo Rodrigues da Silva, besser bekannt als Pabllo Vittar, (* 1. November 1994 in Santa In\u00eas, Maranh\u00e3o) ist ein brasilianischer S\u00e4nger, Performer und Dragqueen. Vittar ist derzeit die Dragqueen mit den weltweit meisten Followern bei Instagram (11,2 Millionen, Stand: Januar 2021)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Phabullo Rodrigues da Silva, connu sous le nom de Pabllo Vittar, n\u00e9 le 1er novembre 1993 \u00e0 S\u00e3o Lu\u00eds, au Br\u00e9sil, est un chanteur, compositeur et drag queen br\u00e9silien. En 2015, il devient c\u00e9l\u00e8bre dans les m\u00e9dias en raison du succ\u00e8s de son clip \"Open Bar\", une version en langue portugaise de la chanson \"Lean On\" de Major Lazer avec les paroles originales, produite par Bonde do Rol\u00ea et Omulu. En moins de quatre mois, la vid\u00e9o est visionn\u00e9e un million de fois sur YouTube."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Phabullo Rodrigues da Silva (born 1 November 1993), known professionally as Pabllo Vittar (Portuguese pronunciation: [\u02c8pablu vi\u02c8ta\u0281]), is a Brazilian drag queen and singer."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\ud30c\ube14\ub8e8 \ube44\ud0c0\ub974(Pabllo Vittar, 1993\ub144 11\uc6d4 1\uc77c ~ )\ub294 \ube0c\ub77c\uc9c8\uc758 \uc2f1\uc5b4\uc1a1\ub77c\uc774\ud130, \ub4dc\ub798\uadf8 \ud038\uc774\ub2e4. \uba54\uc774\uc800 \ub808\uc774\uc800\uc758 \"Lean On\"\uc758 \ud3ec\ub974\ud22c\uac08\uc5b4 \ubc84\uc804\uace1\uc778 \"Open Bar\" \ubba4\uc9c1\ube44\ub514\uc624\uac00 \ub300\uc131\uacf5\uc744 \uac70\ub450\uba74\uc11c \uc774\ub984\uc744 \uc54c\ub838\ub2e4. 2017\ub144 1\uc6d4 12\uc77c, \ub370\ubdd4 \uc568\ubc94 Vai Passar Mal \uc744 \ubc1c\ub9e4\ud588\ub2e4. 2017\ub144 6\uc6d4, \ub8e8\ud3f4\uacfc \uc5b4\ub3c4\uc5b4 \ub378\ub77c\ub178\ub97c \ub118\uc5b4 \uc804\uc138\uacc4\uc5d0\uc11c \uc778\uc2a4\ud0c0\uadf8\ub7a8 \ud314\ub85c\uc6cc\uac00 \uac00\uc7a5 \ub9ce\uc740 \ub4dc\ub798\uadf8 \ud038\uc774 \ub418\uc5c8\ub2e4. 2017\ub144 7\uc6d4 30\uc77c, \uc544\ub2c8\ud0c0\uc640 \ud568\uaed8 \ucd9c\uc5f0\ud55c \uba54\uc774\uc800 \ub808\uc774\uc800\uc758 \"Sua Cara\" \ubba4\uc9c1\ube44\ub514\uc624\uac00 \uacf5\uac1c\ub418\uc5c8\ub2e4."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Pabllo Vittar, pseudonimo di Phabullo Rodrigues da Silva (S\u00e3o Lu\u00eds, 1\u00ba novembre 1994), \u00e8 un cantante, ballerino, blogger, drag queen e attivista brasiliano."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u30d1\u30d6\u30ed\u30fb\u30f4\u30a3\u30bf\u30fc\uff08\u8461: Pabllo Vittar\uff09\u3001\u672c\u540d\u30d1\u30d6\u30ed\u30fb\u30db\u30c9\u30ea\u30b2\u30b9\u30fb\u30c0\u30fb\u30b7\u30eb\u30f4\u30a1\uff08\u8461: Phabullo Rodrigues da Silva\u30011993\u5e7411\u67081\u65e5 - \uff09\u306f\u3001\u30d6\u30e9\u30b8\u30eb\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3001\u30c9\u30e9\u30a1\u30b0\u30af\u30a4\u30fc\u30f3\u3002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0424\u0430\u0431\u0443\u043b\u0443 \u0420\u043e\u0434\u0440\u0438\u0433\u0438\u0441 \u0434\u0430 \u0421\u0438\u043b\u0432\u0430 \u0410\u0440\u0430\u0443\u0436\u0443 (\u043f\u043e\u0440\u0442. Phabullo Rodrigues da Silva Araujo), \u0431\u043e\u043b\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0439 \u043a\u0430\u043a \u041f\u0430\u0431\u043b\u043b\u043e \u0412\u0438\u0442\u0442\u0430\u0440 (\u043f\u043e\u0440\u0442. Pabllo Vittar; \u0440\u043e\u0434. 1 \u043d\u043e\u044f\u0431\u0440\u044f 1993, \u0421\u0430\u043d-\u041b\u0443\u0438\u0441, \u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f) \u2014 \u0431\u0440\u0430\u0437\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u0438\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c, \u0434\u0440\u044d\u0433-\u043a\u0432\u0438\u043d, \u0430\u0432\u0442\u043e\u0440 \u043f\u0435\u0441\u0435\u043d \u0438 \u0442\u0430\u043d\u0446\u043e\u0440."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Pabllo Vittar, w\u0142a\u015bc. Phabullo Rodrigues da Silva (ur. 1 listopada 1994 w S\u00e3o Lu\u00eds) \u2013 brazylijski piosenkarz, autor tekst\u00f3w i drag queen."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0424\u0430\u0431\u0443\u043b\u0443 \u0420\u043e\u0434\u0440\u0456\u0491\u0456\u0441 \u0434\u0430 \u0421\u0456\u043b\u0432\u0430 \u0410\u0440\u0430\u0443\u0436\u0443 (\u043f\u043e\u0440\u0442. Phabullo Rodrigues da Silva Araujo), \u0431\u0456\u043b\u044c\u0448 \u0432\u0456\u0434\u043e\u043c\u0438\u0439 \u044f\u043a \u041f\u0430\u0431\u043b\u043b\u043e \u0412\u0456\u0442\u0442\u0430\u0440 (\u043f\u043e\u0440\u0442. Pabllo Vittar; \u043d\u0430\u0440. 1 \u043b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u0430 1994, \u0421\u0430\u043d-\u041b\u0443\u0457\u0441, \u0411\u0440\u0430\u0437\u0438\u043b\u0456\u044f) \u2014 \u0431\u0440\u0430\u0437\u0438\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0441\u043f\u0456\u0432\u0430\u043a, \u0434\u0440\u0435\u0433-\u043a\u0432\u0456\u043d, \u043a\u043e\u043c\u043f\u043e\u0437\u0438\u0442\u043e\u0440 \u0456 \u0442\u0430\u043d\u0446\u0456\u0432\u043d\u0438\u043a. \u041f\u0430\u0431\u0431\u043b\u043e \u0412\u0456\u0442\u0442\u0430\u0440 \u0454 \u043d\u0430 \u0434\u0430\u043d\u0438\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u0434\u0440\u0435\u0433-\u043a\u0432\u0456\u043d \u0437 \u043d\u0430\u0439\u0431\u0456\u043b\u044c\u0448\u043e\u044e \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044e \u043f\u0456\u0434\u043f\u0438\u0441\u043d\u0438\u043a\u0456\u0432 \u043d\u0430 \u0406\u043d\u0441\u0442\u0430\u0433\u0440\u0430\u043c\u0456 (11,2 \u043c\u0456\u043b\u044c\u0439\u043e\u043d\u0438, \u0441\u0442\u0430\u043d: \u0441\u0456\u0447\u0435\u043d\u044c 2021)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Phabullo Rodrigues da Silva (S\u00e3o Lu\u00eds, Maranh\u00e3o, 1 de noviembre de 1994), m\u00e1s conocido como Pabllo Vittar, es un cantautor y drag queen brasile\u00f1o. Nacido en S\u00e3o Lu\u00eds y criado en ciudades del interior de Maranh\u00e3o y Par\u00e1, a Vittar le gustaba la m\u00fasica influenciada por su madre y se interes\u00f3 por el arte de las drag queens en su adolescencia. Sus primeras presentaciones profesionales tuvieron lugar en un club nocturno en Uberlandia, Minas Gerais, y gan\u00f3 atenci\u00f3n en Internet luego del lanzamiento de la canci\u00f3n \u00abOpen Bar\u00bb en octubre de 2015. En diciembre del mismo a\u00f1o, se lanz\u00f3 su primer extended play (EP), tambi\u00e9n llamado Open Bar. Al a\u00f1o siguiente, se uni\u00f3 al elenco del programa Amor & Sexo de Rede Globo, haciendo n\u00fameros musicales durante dos temporadas. En 2017, Vittar gan\u00f3 un reconocimiento"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Phabullo Rodrigues da Silva (S\u00e3o Lu\u00eds, 1 de novembro de 1993), conhecido por seu nome art\u00edstico Pabllo Vittar, \u00e9 um cantor e drag queen brasileiro. Por causa de seu sucesso sem precedentes como um artista musical drag queen, Vittar tem sido creditado por influenciar o interesse do p\u00fablico sobre outros artistas musicais que tamb\u00e9m s\u00e3o drag queens, al\u00e9m de artistas trans e travestis. Ele tamb\u00e9m \u00e9 conhecido por seu ativismo em prol dos direitos das pessoas LGBT, pelo qual, em 2019, a revista Time o incluiu em sua lista dos L\u00edderes da Pr\u00f3xima Gera\u00e7\u00e3o. Vittar foi citado pela Forbes como \"a drag queen mais popular do mundo\"."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Pabllo Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "https://pabllovittar.com.br/en/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Pabllo Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Pabllo_Vittar_NPN_Tour_2018-3.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Beyonc\u00e9_at_The_Lion_King_European_Premiere_2019.png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_by_David_Shankbone_cropped.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Pabllo_Vittar_Mercado_Livre_2022.png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/S\u00e3o_Lu\u00eds,_Maranh\u00e3o"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "S\u00e3o Lu\u00eds, Maranh\u00e3o, Brazil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1993-11-01"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_bloggers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_twins"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1993_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Brazilian_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Brazilian_male_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Brazilian_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Male_bloggers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_male_singer-songwriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_writers_from_Brazil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_pop_male_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:MTV_Europe_Music_Award_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_songwriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_S\u00e3o_Lu\u00eds,_Maranh\u00e3o"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Brazilian_male_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_dance_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_in_Latin_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_Brazil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Brazilian_dancers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Brazilian_dancers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_male_dancers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rights_activists_from_Brazil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "53410474"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1121175948"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caetano_Veloso"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caliente_(Lali_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Calvin_Klein_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pride_parade"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pr\u00eamio_Jovem_Brasileiro"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queen_of_Drags"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santa_In\u00eas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Santa_Isabel_do_Par\u00e1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTV_Europe_Music_Award_for_Best_Brazilian_Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tecnobrega"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2020_MTV_Europe_Music_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bella_Hadid"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beyonc\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_most-viewed_online_videos_in_the_first_24_hours"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rihanna"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uberl\u00e2ndia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vai_Anitta"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vai_Passar_Mal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/E_(musical_note)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/111_(Pabllo_Vittar_album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corpo_Sensual"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_bloggers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melhores_do_Ano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gender_expression"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_twins"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electronic_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elis_Regina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elza_Soares"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/F\u00e1bio_Assun\u00e7\u00e3o"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GNT"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_Times"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germany's_Next_Topmodel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germany's_Next_Topmodel_(season_17)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gilberto_Gil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gloria_Groove"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Multishow_Brazilian_Music_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_community"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anitta_(singer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anti_(Rihanna_album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Apple_Music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lemonade_(Beyonc\u00e9_album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liniker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ludmilla_(singer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTV_Europe_Music_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTV_Europe_Music_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTV_Millennial_Awards_Brazil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sua_Cara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Competitive_examination"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zemmoa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Funk_carioca"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1993_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Britney_Spears"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Brazilian_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Brazilian_male_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Brazilian_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Male_bloggers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caxias,_Maranh\u00e3o"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_male_singer-songwriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_writers_from_Brazil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tina_Turner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Todo_Dia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transgender"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/T\u00edmida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whitney_Houston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_pop_male_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/G_(musical_note)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/32nd_GLAAD_Media_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A_For\u00e7a_do_Querer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alcione_Nazareth"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allie_X"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amazon_Prime_Video"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amor_e_Sexo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:MTV_Europe_Music_Award_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cumbia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Extended_play"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Federal_University_of_Uberl\u00e2ndia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Flash_Pose"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brazilian_Carnival"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/British_LGBT_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carimb\u00f3"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Forr\u00f3"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isto\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rock_in_Rio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vocal_range"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/19th_Annual_Latin_Grammy_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Countertenor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thal\u00eda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2019_MTV_Europe_Music_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2019_Premios_Juventud"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aretha_Franklin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_songwriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_S\u00e3o_Lu\u00eds,_Maranh\u00e3o"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Brazilian_male_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_dance_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_in_Latin_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_Brazil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charli_XCX"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Brazilian_dancers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Brazilian_dancers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brazilian_male_dancers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rights_activists_from_Brazil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/K.O._(Pabllo_Vittar_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kanye_West"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lady_Gaga"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lali_Esp\u00f3sito"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lana_Del_Rey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Latin_Grammy_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Latin_Grammy_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lean_On"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Super_Drags"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/S\u00e3o_Lu\u00eds,_Maranh\u00e3o"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dicion\u00e1rio_Cravo_Albin_da_M\u00fasica_Popular_Brasileira"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diplo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donna_Summer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arrocha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maranh\u00e3o"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bonde_do_Rol\u00ea"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bullying"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pop_2_(mixtape)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pop_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portuguese_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sony_Music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/I_Got_It_(Charli_XCX_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/I_Have_Nothing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Indaiatuba"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meus_Pr\u00eamios_Nick"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minas_Gerais"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Naomi_Smalls"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ney_Matogrosso"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/N\u00e3o_Para_N\u00e3o"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/O_Outro_Lado_do_Para\u00edso"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Octave"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Omulu"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sexual_orientation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tecno_brega"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Masculinity"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rodrigues_(surname)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Soprano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Major_Lazer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Multishow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vai_Que_Cola"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transgender_man"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/State_University_of_Minas_Gerais"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dizygotic_twin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ax\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Pabllo_Vittar_NPN_Tour_2018-3.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://pabllovittar.com.br/en/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.dicionariompb.com.br/pabllo-vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/7098152684029523430009"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Pabllo_Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1159553513"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/d9550ac2-7bcf-4655-a3fe-24922e254a74"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q23893181"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://azb.dbpedia.org/resource/\u067e\u0627\u0628\u0644\u0648_\u0648\u06cc\u062a\u0627\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://bg.dbpedia.org/resource/\u041f\u0430\u0431\u043b\u043e_\u0412\u0438\u0442\u0430\u0440"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ca.dbpedia.org/resource/Pabllo_Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Pabllo_Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Pabllo_Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u067e\u0627\u0628\u0644\u0648_\u0648\u06cc\u062a\u0627\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Pabllo_Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05e4\u05d0\u05d1\u05dc\u05d5_\u05d5\u05d9\u05d8\u05d0\u05d0\u05e8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Pabllo_Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ja.dbpedia.org/resource/\u30d1\u30d6\u30ed\u30fb\u30f4\u30a3\u30bf\u30fc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ko.dbpedia.org/resource/\ud30c\ube14\ub8e8_\ube44\ud0c0\ub974"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://mk.dbpedia.org/resource/\u041f\u0430\u0431\u043b\u043e_\u0412\u0438\u0442\u0430\u0440"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pl.dbpedia.org/resource/Pabllo_Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pt.dbpedia.org/resource/Pabllo_Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ro.dbpedia.org/resource/Pabllo_Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u041f\u0430\u0431\u043b\u043b\u043e_\u0412\u0438\u0442\u0442\u0430\u0440"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sr.dbpedia.org/resource/\u041f\u0430\u0431\u043b\u043e_\u0412\u0438\u0442\u0430\u0440"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://tr.dbpedia.org/resource/Pabllo_Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://uk.dbpedia.org/resource/\u041f\u0430\u0431\u043b\u043b\u043e_\u0412\u0456\u0442\u0442\u0430\u0440"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2FX9w"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Portuguese_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Facebook"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_musical_artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Main"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Multiple_image"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nominated"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Pabllo_Vittar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Pending"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Portal_bar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Quote_box"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Win"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:MTV_Europe_Music_Award_for_Best_Brazilian_Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IPA-pt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Pabllo_Vittar_Mercado_Livre_2022.png?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/align",
+        "object": "left"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/align",
+        "object": "right"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/Federal_University_of_Uberl\u00e2ndia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/alt",
+        "object": "Beyonc\u00e9 in a yellow dress"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/alt",
+        "object": "Drag queen RuPaul speaking into a microphone"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1993-11-01"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Phabullo Rodrigues da Silva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Vittar in 2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/footer",
+        "object": "Vittar has cited Beyonc\u00e9  and RuPaul  as two major influences on his work"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/image",
+        "object": "Beyonc\u00e9 at The Lion King European Premiere 2019.png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/image",
+        "object": "RuPaul by David Shankbone cropped.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "songwriter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "drag queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/quote",
+        "object": "\"I think gender doesn't matter to me. If you write 'him,' I'll find it incredible, if you write 'her,' same. But when I get in drag... I won't stand in front of the mirror two hours putting on makeup for someone to call me 'he,' right? Call me 'she'! 'She' is beautiful, 'she' is a singer, 'she' is a drag queen! I like to be called in the feminine.\""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/quote",
+        "object": "\"Pabllo Vittar is a boy. Who is a girl. Who has no gender. Who is not afraid. Who prefers a thousand times to be on a stage than anywhere else in the world.\""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/source",
+        "object": "(Phabullo on \"Who is Pabllo Vittar?\".)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/source",
+        "object": "(Vittar on pronouns)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/totalWidth",
+        "object": "230"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/website",
+        "object": "https://pabllovittar.com.br/en/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/width",
+        "object": "30.0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2015"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Phabullo Rodrigues da Silva (S\u00e3o Luis, estat de Maranh\u00e3o, 1 de novembre de 1993), conegut pel seu nom art\u00edstic Pabllo Vittar, \u00e9s una cantant, drag-queen i presentadora del Brasil. Musicalment, es mou entre el pop i diversos estils propis del Brasil, com el forr\u00f3 i el . Per la seva popularitat al pa\u00eds sud-americ\u00e0, s'ha convertit en una icona gai i \u00e9s conegut pel seu activisme en defensa dels drets LGBT."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Phabullo Rodrigues da Silva, besser bekannt als Pabllo Vittar, (* 1. November 1994 in Santa In\u00eas, Maranh\u00e3o) ist ein brasilianischer S\u00e4nger, Performer und Dragqueen. Vittar ist derzeit die Dragqueen mit den weltweit meisten Followern bei Instagram (11,2 Millionen, Stand: Januar 2021)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Phabullo Rodrigues da Silva (S\u00e3o Lu\u00eds, Maranh\u00e3o, 1 de noviembre de 1994), m\u00e1s conocido como Pabllo Vittar, es un cantautor y drag queen brasile\u00f1o. Nacido en S\u00e3o Lu\u00eds y criado en ciudades del interior de Maranh\u00e3o y Par\u00e1, a Vittar le gustaba la m\u00fasica influenciada por su madre y se interes\u00f3 por el arte de las drag queens en su adolescencia. Sus primeras presentaciones profesionales tuvieron lugar en un club nocturno en Uberlandia, Minas Gerais, y gan\u00f3 atenci\u00f3n en Internet luego del lanzamiento de la canci\u00f3n \u00abOpen Bar\u00bb en octubre de 2015. En diciembre del mismo a\u00f1o, se lanz\u00f3 su primer extended play (EP), tambi\u00e9n llamado Open Bar. Al a\u00f1o siguiente, se uni\u00f3 al elenco del programa Amor & Sexo de Rede Globo, haciendo n\u00fameros musicales durante dos temporadas. En 2017, Vittar gan\u00f3 un reconocimiento al lanzar su \u00e1lbum debut Vai Passar Mal, que recibi\u00f3 la certificaci\u00f3n platino de Pro-M\u00fasica Brasil (PMB) y gener\u00f3 sencillos como \u00abN\u00eaga\u00bb, y \u00abTodo Dia\u00bb. En el mismo a\u00f1o, la drag queen estrena \"Vai Passar Mal: The Mixtape\", en la que aporta una nueva identidad musical. A partir de 2018, lanz\u00f3 nuevos EPs, como Ressuscita y 111, certificados oro por la PMB. Vittar tambi\u00e9n es conocido por su indiferencia hacia los pronombres espec\u00edficos de g\u00e9nero utilizados para dirigirse a \u00e9l y hace apariciones p\u00fablicas con y sin su caracterizaci\u00f3n art\u00edstica. Es reconocido como un \u00edcono de g\u00e9nero fluido, y tambi\u00e9n por influir en el inter\u00e9s p\u00fablico de otras drag queens. Su m\u00fasica suele ser una mezcla de hyperpop y industrial pop con g\u00e9neros variados, incluido brega funky principalmente.\u200b Durante su carrera, Vittar gan\u00f3 un Premio Multishow de M\u00fasica Brasile\u00f1a, un Trofeo APCA, un Premio al mejor del a\u00f1o, un MTV Millennial Award, un MTV Europe Music Awards y fue nominado para un Premio Grammy Latino.\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Phabullo Rodrigues da Silva, connu sous le nom de Pabllo Vittar, n\u00e9 le 1er novembre 1993 \u00e0 S\u00e3o Lu\u00eds, au Br\u00e9sil, est un chanteur, compositeur et drag queen br\u00e9silien. En 2015, il devient c\u00e9l\u00e8bre dans les m\u00e9dias en raison du succ\u00e8s de son clip \"Open Bar\", une version en langue portugaise de la chanson \"Lean On\" de Major Lazer avec les paroles originales, produite par Bonde do Rol\u00ea et Omulu. En moins de quatre mois, la vid\u00e9o est visionn\u00e9e un million de fois sur YouTube."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Phabullo Rodrigues da Silva (born 1 November 1993), known professionally as Pabllo Vittar (Portuguese pronunciation: [\u02c8pablu vi\u02c8ta\u0281]), is a Brazilian drag queen and singer."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\ud30c\ube14\ub8e8 \ube44\ud0c0\ub974(Pabllo Vittar, 1993\ub144 11\uc6d4 1\uc77c ~ )\ub294 \ube0c\ub77c\uc9c8\uc758 \uc2f1\uc5b4\uc1a1\ub77c\uc774\ud130, \ub4dc\ub798\uadf8 \ud038\uc774\ub2e4. \uba54\uc774\uc800 \ub808\uc774\uc800\uc758 \"Lean On\"\uc758 \ud3ec\ub974\ud22c\uac08\uc5b4 \ubc84\uc804\uace1\uc778 \"Open Bar\" \ubba4\uc9c1\ube44\ub514\uc624\uac00 \ub300\uc131\uacf5\uc744 \uac70\ub450\uba74\uc11c \uc774\ub984\uc744 \uc54c\ub838\ub2e4. 2017\ub144 1\uc6d4 12\uc77c, \ub370\ubdd4 \uc568\ubc94 Vai Passar Mal \uc744 \ubc1c\ub9e4\ud588\ub2e4. 2017\ub144 6\uc6d4, \ub8e8\ud3f4\uacfc \uc5b4\ub3c4\uc5b4 \ub378\ub77c\ub178\ub97c \ub118\uc5b4 \uc804\uc138\uacc4\uc5d0\uc11c \uc778\uc2a4\ud0c0\uadf8\ub7a8 \ud314\ub85c\uc6cc\uac00 \uac00\uc7a5 \ub9ce\uc740 \ub4dc\ub798\uadf8 \ud038\uc774 \ub418\uc5c8\ub2e4. 2017\ub144 7\uc6d4 30\uc77c, \uc544\ub2c8\ud0c0\uc640 \ud568\uaed8 \ucd9c\uc5f0\ud55c \uba54\uc774\uc800 \ub808\uc774\uc800\uc758 \"Sua Cara\" \ubba4\uc9c1\ube44\ub514\uc624\uac00 \uacf5\uac1c\ub418\uc5c8\ub2e4."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Pabllo Vittar, pseudonimo di Phabullo Rodrigues da Silva (S\u00e3o Lu\u00eds, 1\u00ba novembre 1994), \u00e8 un cantante, ballerino, blogger, drag queen e attivista brasiliano."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u30d1\u30d6\u30ed\u30fb\u30f4\u30a3\u30bf\u30fc\uff08\u8461: Pabllo Vittar\uff09\u3001\u672c\u540d\u30d1\u30d6\u30ed\u30fb\u30db\u30c9\u30ea\u30b2\u30b9\u30fb\u30c0\u30fb\u30b7\u30eb\u30f4\u30a1\uff08\u8461: Phabullo Rodrigues da Silva\u30011993\u5e7411\u67081\u65e5 - \uff09\u306f\u3001\u30d6\u30e9\u30b8\u30eb\u306e\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3001\u30c9\u30e9\u30a1\u30b0\u30af\u30a4\u30fc\u30f3\u3002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Phabullo Rodrigues da Silva (S\u00e3o Lu\u00eds, 1 de novembro de 1993), conhecido por seu nome art\u00edstico Pabllo Vittar, \u00e9 um cantor e drag queen brasileiro. Por causa de seu sucesso sem precedentes como um artista musical drag queen, Vittar tem sido creditado por influenciar o interesse do p\u00fablico sobre outros artistas musicais que tamb\u00e9m s\u00e3o drag queens, al\u00e9m de artistas trans e travestis. Ele tamb\u00e9m \u00e9 conhecido por seu ativismo em prol dos direitos das pessoas LGBT, pelo qual, em 2019, a revista Time o incluiu em sua lista dos L\u00edderes da Pr\u00f3xima Gera\u00e7\u00e3o. Vittar foi citado pela Forbes como \"a drag queen mais popular do mundo\". Nascido em S\u00e3o Lu\u00eds e criado em cidades do interior do Maranh\u00e3o e do Par\u00e1, Vittar teve seu gosto pela m\u00fasica influenciado pela m\u00e3e e passou a se interessar pela arte das drag queens na adolesc\u00eancia. Suas primeiras apresenta\u00e7\u00f5es profissionais aconteceram numa casa noturna de Uberl\u00e2ndia, Minas Gerais, e ele ganhou aten\u00e7\u00e3o na internet ap\u00f3s o lan\u00e7amento da can\u00e7\u00e3o \"Open Bar\", em outubro de 2015. Em dezembro do mesmo ano, foi lan\u00e7ado seu primeiro extended play (EP), tamb\u00e9m intitulado Open Bar. No ano seguinte, passou a integrar o elenco do programa Amor & Sexo, da TV Globo, fazendo n\u00fameros musicais na atra\u00e7\u00e3o durante duas temporadas. Em 2017, Vittar conseguiu maior reconhecimento ao lan\u00e7ar seu \u00e1lbum de estreia, Vai Passar Mal, que foi certificado com platina pela Pro-M\u00fasica Brasil (PMB) e gerou singles como \"Todo Dia\", \"K.O.\" e \"Corpo Sensual\". Seu segundo e terceiro \u00e1lbuns de est\u00fadio, N\u00e3o Para N\u00e3o (2018) e 111 (2020) foram certificados com platina pela PMB. Referido como um \"emblema de fluidez de g\u00eanero\", Vittar faz apari\u00e7\u00f5es p\u00fablicas com e sem a sua caracteriza\u00e7\u00e3o art\u00edstica e expressou sua prefer\u00eancia pelo tratamento no pronome feminino quando est\u00e1 \"de drag\", mas tamb\u00e9m demonstrou indiferen\u00e7a em rela\u00e7\u00e3o aos pronomes espec\u00edficos de g\u00eanero usados \u200b\u200bpara se dirigir a ele. Sua m\u00fasica \u00e9 geralmente uma mistura de pop com g\u00eaneros variados, incluindo estilos musicais que ele cresceu ouvindo, como tecnomelody, arrocha e forr\u00f3."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0424\u0430\u0431\u0443\u043b\u0443 \u0420\u043e\u0434\u0440\u0438\u0433\u0438\u0441 \u0434\u0430 \u0421\u0438\u043b\u0432\u0430 \u0410\u0440\u0430\u0443\u0436\u0443 (\u043f\u043e\u0440\u0442. Phabullo Rodrigues da Silva Araujo), \u0431\u043e\u043b\u0435\u0435 \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0439 \u043a\u0430\u043a \u041f\u0430\u0431\u043b\u043b\u043e \u0412\u0438\u0442\u0442\u0430\u0440 (\u043f\u043e\u0440\u0442. Pabllo Vittar; \u0440\u043e\u0434. 1 \u043d\u043e\u044f\u0431\u0440\u044f 1993, \u0421\u0430\u043d-\u041b\u0443\u0438\u0441, \u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f) \u2014 \u0431\u0440\u0430\u0437\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u0438\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c, \u0434\u0440\u044d\u0433-\u043a\u0432\u0438\u043d, \u0430\u0432\u0442\u043e\u0440 \u043f\u0435\u0441\u0435\u043d \u0438 \u0442\u0430\u043d\u0446\u043e\u0440."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Pabllo Vittar, w\u0142a\u015bc. Phabullo Rodrigues da Silva (ur. 1 listopada 1994 w S\u00e3o Lu\u00eds) \u2013 brazylijski piosenkarz, autor tekst\u00f3w i drag queen."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0424\u0430\u0431\u0443\u043b\u0443 \u0420\u043e\u0434\u0440\u0456\u0491\u0456\u0441 \u0434\u0430 \u0421\u0456\u043b\u0432\u0430 \u0410\u0440\u0430\u0443\u0436\u0443 (\u043f\u043e\u0440\u0442. Phabullo Rodrigues da Silva Araujo), \u0431\u0456\u043b\u044c\u0448 \u0432\u0456\u0434\u043e\u043c\u0438\u0439 \u044f\u043a \u041f\u0430\u0431\u043b\u043b\u043e \u0412\u0456\u0442\u0442\u0430\u0440 (\u043f\u043e\u0440\u0442. Pabllo Vittar; \u043d\u0430\u0440. 1 \u043b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u0430 1994, \u0421\u0430\u043d-\u041b\u0443\u0457\u0441, \u0411\u0440\u0430\u0437\u0438\u043b\u0456\u044f) \u2014 \u0431\u0440\u0430\u0437\u0438\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0441\u043f\u0456\u0432\u0430\u043a, \u0434\u0440\u0435\u0433-\u043a\u0432\u0456\u043d, \u043a\u043e\u043c\u043f\u043e\u0437\u0438\u0442\u043e\u0440 \u0456 \u0442\u0430\u043d\u0446\u0456\u0432\u043d\u0438\u043a. \u041f\u0430\u0431\u0431\u043b\u043e \u0412\u0456\u0442\u0442\u0430\u0440 \u0454 \u043d\u0430 \u0434\u0430\u043d\u0438\u0439 \u043c\u043e\u043c\u0435\u043d\u0442 \u0434\u0440\u0435\u0433-\u043a\u0432\u0456\u043d \u0437 \u043d\u0430\u0439\u0431\u0456\u043b\u044c\u0448\u043e\u044e \u043a\u0456\u043b\u044c\u043a\u0456\u0441\u0442\u044e \u043f\u0456\u0434\u043f\u0438\u0441\u043d\u0438\u043a\u0456\u0432 \u043d\u0430 \u0406\u043d\u0441\u0442\u0430\u0433\u0440\u0430\u043c\u0456 (11,2 \u043c\u0456\u043b\u044c\u0439\u043e\u043d\u0438, \u0441\u0442\u0430\u043d: \u0441\u0456\u0447\u0435\u043d\u044c 2021)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/7098152684029523430009"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Pabllo_Vittar?oldid=1121175948&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "43193"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2015"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Phabullo Rodrigues da Silva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1993"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/Federal_University_of_Uberl\u00e2ndia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Pabllo_Vittar__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pabllo_Vittar>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Pabllo_Vittar"
+    }
+]

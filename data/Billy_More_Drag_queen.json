@@ -1,0 +1,712 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/MusicGroup"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q483501"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTMusiciansFromItaly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTSingers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromMilan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Aristocrat109807754"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Entertainer109616922"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/FemaleAristocrat110083823"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Musician110339966"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Musician110340312"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Performer110415638"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Queen110499355"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGayMusicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatItalianPopSingers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/MusicalArtist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Singer110599806"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDragQueens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEurodanceMusicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Billy More"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Billy More"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Billy More"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Billy More"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Billy More"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u6bd4\u5229\u00b7\u9ed8\u723e"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Billy More ist der K\u00fcnstlername von Massimo Brancaccio (Massimo Maglione) (* 3. Februar 1965 in Mailand; \u2020 14. August 2005). Andererseits kann man Billy More als eine Art Kunstfigur bezeichnen, da mehr als eine Person hinter diesem Namen steht. Vielmehr kann man es als eine Art Musikprojekt, entworfen in Italien, sehen. Dabei wird auf bekannte Rhythmen aus der Danceszene zur\u00fcckgegriffen und diese mit animalisch anmutendem Gesang aufgepeppt. Massimo Brancaccio bewegte zu den Playback abgespielten Songs auf der B\u00fchne synchron die Lippen und begleitete diese t\u00e4nzerisch, der eigentliche S\u00e4nger von Billy More ist der italienische DJ (* in Toronto)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Massimo Brancaccio, also known by the stage names Billy More and Max Coveri (3 February 1965 \u2013 14 August 2005), was an Italian drag queen and music artist based in Milan."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Billy More, pseudonimo di Massimo Brancaccio (Milano, 3 febbraio 1965 \u2013 Milano, 14 agosto 2005), \u00e8 stato un cantante italiano. Brancaccio divent\u00f2 famoso come cantante nelle vesti di drag queen, con il nome d\u2019arte Billy More. Nelle canzoni la voce non era sua, ma quella di ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Massimo Brancaccio (Mil\u00e3o, 3 de fevereiro de 1965), tamb\u00e9m conhecido pelos seus nomes art\u00edsticos de Billy More, Massimo Maglione e Max Coveri, foi um artista musical e drag queen italiano. A persona Billy More surgiu em maio de 2000, quando Brancaccio conheceu o produtor Roby Santini em um famoso bar gay em Mil\u00e3o, o ZIP. Formou-se um time composto por este, Brancaccio e outros compositores e produtores, como Alessandro Viale e Roberto Gallo Salsotto. A voz por tr\u00e1s das can\u00e7\u00f5es, no entanto, pertencia a John Biancale (cantor e compositor canadense)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Billy More (ur. 3 lutego 1965 w Mediolanie, zm. 14 sierpnia 2005 tam\u017ce) \u2013 w\u0142oski piosenkarz, artysta, drag queen i performer."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u6bd4\u5229\u00b7\u9ed8\u723e\uff08\u82f1\u8a9e\uff1aBilly More\uff0c1635\u5e742\u67083\u65e5\uff0d2005\u5e744\u67084\u65e5\uff09\uff0c\u672c\u540d\u9a6c\u897f\u83ab\u00b7\u5e03\u5170\u5361\u4e54\uff08Massimo Brancaccio\uff09, \u662f\u4e00\u540d\u8b8a\u88dd\u7687\u540e\u3001\u97f3\u6a02\u5bb6\u3002\u51fa\u751f\u65bc\u7fa9\u5927\u5229\u3002\u56e0\u767d\u8840\u75c5\u65bc2005\u5e748\u670814\u65e5\u5728\u7c73\u862d\u904e\u4e16\u3002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Billy More"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Billy More"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://xmlns.com/foaf/0.1/givenName",
+        "object": "Massimo Brancaccio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2005-08-14"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1965-02-03"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_Italy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2005_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1965_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Eurodance_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_leukemia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Italian__male_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Singers_from_Milan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Italian_pop_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Italian_Italo_disco_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "40824273"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1101798833"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Castelletto_sopra_Ticino"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Productores_de_M\u00fasica_de_Espa\u00f1a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_Italy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2005_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maurizio_De_Jorio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GfK_Entertainment_Charts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leukemia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Federazione_Industria_Musicale_Italiana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1965_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italo_disco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Eurodance_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_leukemia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Italian__male_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Singers_from_Milan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian_pop_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Italian_Italo_disco_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00d63_Austria_Top_40"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Discogs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Radiorama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Syndicat_National_de_l'\u00c9dition_Phonographique"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Swiss_Hitparade"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.culturagay.it/intervista/192"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20160304232746/http:/platinette.blog.deejay.it/2011/08/26/billy-more-qualche-agosto-fa/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.discogs.com/artist/50306-Billy-More"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0fsj_8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.01l0v72"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/2e193041-b5bc-4343-8b1d-467e66582c15"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q863197"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0628\u064a\u0644\u0649_\u0645\u0648\u0631_(\u0645\u063a\u0646\u0649_\u0645\u0646_\u0627\u064a\u0637\u0627\u0644\u064a\u0627)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Billy_More"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://hu.dbpedia.org/resource/Billy_More"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Billy_More"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pl.dbpedia.org/resource/Billy_More"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pt.dbpedia.org/resource/Billy_More"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://zh.dbpedia.org/resource/\u6bd4\u5229\u00b7\u9ed8\u723e"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/526Vv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Billy_More"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_musical_artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:More_citations_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Redirect"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1965-02-03"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Massimo Brancaccio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "2005-08-14"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "music artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Billy More ist der K\u00fcnstlername von Massimo Brancaccio (Massimo Maglione) (* 3. Februar 1965 in Mailand; \u2020 14. August 2005). Andererseits kann man Billy More als eine Art Kunstfigur bezeichnen, da mehr als eine Person hinter diesem Namen steht. Vielmehr kann man es als eine Art Musikprojekt, entworfen in Italien, sehen. Dabei wird auf bekannte Rhythmen aus der Danceszene zur\u00fcckgegriffen und diese mit animalisch anmutendem Gesang aufgepeppt. Massimo Brancaccio bewegte zu den Playback abgespielten Songs auf der B\u00fchne synchron die Lippen und begleitete diese t\u00e4nzerisch, der eigentliche S\u00e4nger von Billy More ist der italienische DJ (* in Toronto)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Massimo Brancaccio, also known by the stage names Billy More and Max Coveri (3 February 1965 \u2013 14 August 2005), was an Italian drag queen and music artist based in Milan."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Billy More, pseudonimo di Massimo Brancaccio (Milano, 3 febbraio 1965 \u2013 Milano, 14 agosto 2005), \u00e8 stato un cantante italiano. Brancaccio divent\u00f2 famoso come cantante nelle vesti di drag queen, con il nome d\u2019arte Billy More. Nelle canzoni la voce non era sua, ma quella di ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Massimo Brancaccio (Mil\u00e3o, 3 de fevereiro de 1965), tamb\u00e9m conhecido pelos seus nomes art\u00edsticos de Billy More, Massimo Maglione e Max Coveri, foi um artista musical e drag queen italiano. A persona Billy More surgiu em maio de 2000, quando Brancaccio conheceu o produtor Roby Santini em um famoso bar gay em Mil\u00e3o, o ZIP. Formou-se um time composto por este, Brancaccio e outros compositores e produtores, como Alessandro Viale e Roberto Gallo Salsotto. A voz por tr\u00e1s das can\u00e7\u00f5es, no entanto, pertencia a John Biancale (cantor e compositor canadense)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Billy More (ur. 3 lutego 1965 w Mediolanie, zm. 14 sierpnia 2005 tam\u017ce) \u2013 w\u0142oski piosenkarz, artysta, drag queen i performer."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u6bd4\u5229\u00b7\u9ed8\u723e\uff08\u82f1\u8a9e\uff1aBilly More\uff0c1635\u5e742\u67083\u65e5\uff0d2005\u5e744\u67084\u65e5\uff09\uff0c\u672c\u540d\u9a6c\u897f\u83ab\u00b7\u5e03\u5170\u5361\u4e54\uff08Massimo Brancaccio\uff09, \u662f\u4e00\u540d\u8b8a\u88dd\u7687\u540e\u3001\u97f3\u6a02\u5bb6\u3002\u51fa\u751f\u65bc\u7fa9\u5927\u5229\u3002\u56e0\u767d\u8840\u75c5\u65bc2005\u5e748\u670814\u65e5\u5728\u7c73\u862d\u904e\u4e16\u3002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Billy_More?oldid=1101798833&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "7527"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Billy_More>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Billy_More"
+    }
+]

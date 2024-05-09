@@ -1,0 +1,1497 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatTranslatorsToFrench"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatTranslatorsToSpanish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromJerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Educator110045713"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Essayist110064405"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Linguist110264219"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Politician110450303"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Professional110480253"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliEducators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliEssayists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliNon-fictionWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliSocialists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatIsraeliTranslators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Socialist110618848"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Translator110725280"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Adin Steinsaltz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Adin Steinsaltz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Adin Steinsaltz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Adin Steinsaltz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Adin Steinsaltz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0428\u0442\u0435\u0439\u043d\u0437\u0430\u043b\u044c\u0446, \u0410\u0434\u0438\u043d"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0410\u0434\u0438\u043d \u0428\u0442\u0435\u0439\u043d\u0437\u0430\u043b\u044c\u0446"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Adin Even Isra\u00ebl, n\u00e9 Steinsaltz (en h\u00e9breu : \u05e2\u05d3\u05d9\u05df \u05d0\u05d1\u05df \u05d9\u05e9\u05e8\u05d0\u05dc, \u05e0\u05d5\u05dc\u05d3 \u05e9\u05d8\u05d9\u05d9\u05e0\u05d6\u05dc\u05e5) est un rabbin et auteur isra\u00e9lien n\u00e9 le 11 juillet 1937 \u00e0 J\u00e9rusalem et mort le 7 ao\u00fbt 2020 dans la m\u00eame ville. N\u00e9 dans une famille militante de gauche, il d\u00e9cide de suivre les prescriptions du juda\u00efsme dans son adolescence, et rejoint la mouvance Habad tout en continuant ses \u00e9tudes universitaires. En 1965, il entame (en) et qui lui vaudra le prix Isra\u00ebl en 1988. Il r\u00e9dige ensuite divers ouvrages de pens\u00e9e juive, kabbale et hassidisme qui se caract\u00e9risent par une m\u00eame volont\u00e9 de transmettre les savoirs s\u00e9culaires \u00e0 un lectorat majoritairement s\u00e9culier."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0428\u0442\u0435\u0439\u043d\u0437\u0430\u043b\u044c\u0446, \u0410\u0434\u0438\u043d (\u0438\u0432\u0440. \u200f\u05e9\u05d8\u05d9\u05d9\u05e0\u05d6\u05dc\u05e5\u200f\u200e \u05e2\u05d3\u05d9\u05df\u200f\u200e; 11 \u0438\u044e\u043b\u044f 1937, \u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c \u2014 7 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2020, \u0442\u0430\u043c \u0436\u0435) \u2014 \u0438\u0437\u0440\u0430\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0432\u0432\u0438\u043d, \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0447\u0438\u043a \u0422\u0430\u043b\u043c\u0443\u0434\u0430 \u043d\u0430 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 \u0438\u0432\u0440\u0438\u0442, \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439, \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0438 \u0438\u0441\u043f\u0430\u043d\u0441\u043a\u0438\u0439. \u041b\u0430\u0443\u0440\u0435\u0430\u0442 \u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u043f\u0440\u0435\u043c\u0438\u0438 \u0418\u0437\u0440\u0430\u0438\u043b\u044f \u0437\u0430 1988 \u0433\u043e\u0434. \u041e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u0418\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u0430 \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f \u0438\u0443\u0434\u0430\u0438\u0437\u043c\u0430 \u0438\u043c. \u0410. \u0428\u0442\u0435\u0439\u043d\u0437\u0430\u043b\u044c\u0446\u0430."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0410\u0434\u0438\u043d \u0428\u0442\u0435\u0439\u043d\u0437\u0430\u043b\u044c\u0446 (\u0456\u0432\u0440. \u05e9\u05d8\u05d9\u05d9\u05e0\u05d6\u05dc\u05e5\u200f\u200e \u05e2\u05d3\u05d9\u05df\u200e; 11 \u043b\u0438\u043f\u043d\u044f 1937, \u0404\u0440\u0443\u0441\u0430\u043b\u0438\u043c \u2014 7 \u0441\u0435\u0440\u043f\u043d\u044f 2020, \u0442\u0430\u043c \u0436\u0435) \u2014 \u0456\u0437\u0440\u0430\u0457\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0431\u0438\u043d, \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0430\u0447 \u0422\u0430\u043b\u043c\u0443\u0434\u0443 \u043d\u0430 \u0441\u0443\u0447\u0430\u0441\u043d\u0438\u0439 \u0456\u0432\u0440\u0438\u0442, \u0430\u043d\u0433\u043b\u0456\u0439\u0441\u044c\u043a\u0443, \u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u0443 \u0442\u0430 \u0456\u0441\u043f\u0430\u043d\u0441\u044c\u043a\u0443. \u041b\u0430\u0443\u0440\u0435\u0430\u0442 \u0414\u0435\u0440\u0436\u0430\u0432\u043d\u043e\u0457 \u043f\u0440\u0435\u043c\u0456\u0457 \u0406\u0437\u0440\u0430\u0457\u043b\u044e \u0437\u0430 1988 \u0440\u0456\u043a. \u0417\u0430\u0441\u043d\u043e\u0432\u043d\u0438\u043a \u0406\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u0443 \u0432\u0438\u0432\u0447\u0435\u043d\u043d\u044f \u0456\u0443\u0434\u0430\u0457\u0437\u043c\u0443 \u0456\u043c. \u0410. \u0428\u0442\u0435\u0439\u043d\u0437\u0430\u043b\u044c\u0446\u0430."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rabbi Adin Even-Israel Steinsaltz (11 July 1937 \u2013 7 August 2020) (Hebrew: \u05e2\u05d3\u05d9\u05df \u05d0\u05d1\u05df-\u05d9\u05e9\u05e8\u05d0\u05dc \u05e9\u05d8\u05d9\u05d9\u05e0\u05d6\u05dc\u05e5) was an Israeli Chabad Chasidic rabbi, teacher, philosopher, social critic, author, translator and publisher. Steinsaltz was a recipient of the Israel Prize for Jewish Studies (1988), the President's Medal (2012), and the Yakir Yerushalayim prize (2017). Steinsaltz died in Jerusalem on 7 August 2020, from acute pneumonia."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Adin Steinsaltz (hebr\u00e4isch \u05e2\u05d3\u05d9\u05df \u05d0\u05d1\u05df \u05d9\u05e9\u05e8\u05d0\u05dc \u05e9\u05d8\u05d9\u05d9\u05e0\u05d6\u05dc\u05e5) oder Adin Even Yisrael (geboren am 11. Juli 1937 in Jerusalem; gestorben am 7. August 2020 ebenda) war ein israelischer Rabbiner und j\u00fcdischer Gelehrter, Lehrer, Philosoph und Talmud\u00adkommentator sowie eine Leitfigur der nationalreligi\u00f6sen Bewegung. Er hat rund 60 B\u00fccher und zahlreiche Artikel ver\u00f6ffentlicht. Sein Opus magnum ist eine Bearbeitung und \u00dcbersetzung des Talmuds ins Neuhebr\u00e4ische mit eigenem Kommentar, dank welcher der Talmud breiteren Interessengruppen zug\u00e4nglich gemacht werden konnte. Es erscheint auf Hebr\u00e4isch, Englisch, Franz\u00f6sisch, Russisch und Spanisch und wurde millionenfach verkauft. Das Time Magazin bezeichnete Steinsaltz 1988, im Jahr, als ihm der Israel-Preis verliehen wurde, als \u201eJahrtausendgelehrten\u201c (englisch once"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Adin Even-Israel Steinsaltz (Jerusal\u00e9n, 11 de julio de 1937-Ib., 7 de agosto de 2020)\u200b fue un rabino, profesor, fil\u00f3sofo y escritor jas\u00eddico israel\u00ed. Su se public\u00f3 originalmente en hebreo moderno, con comentarios para facilitar el aprendizaje, y tambi\u00e9n fue traducido al ingl\u00e9s, franc\u00e9s, ruso y espa\u00f1ol.\u200b A partir de 1989, Steinsaltz public\u00f3 varios en hebreo e ingl\u00e9s del Talmud de Babilonia en una edici\u00f3n en ingl\u00e9s y hebreo. El primer volumen de una nueva edici\u00f3n, el Koren Talmud Bavli, sali\u00f3 a luz en mayo de 2012, y desde entonces se ha completado.\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rabbi Adin Even Israel Steinsaltz (in ebraico: \u05e2\u05d3\u05d9\u05df \u05e9\u05d8\u05d9\u05d9\u05e0\u05d6\u05dc\u05e5) o Adin Even Yisrael (in ebraico: \u05e2\u05d3\u05d9\u05df \u05d0\u05d1\u05df \u05d9\u05e9\u05e8\u05d0\u05dc) (Gerusalemme, 11 luglio 1937 \u2013 Gerusalemme, 7 agosto 2020) \u00e8 stato un rabbino e filosofo israeliano, conosciuto comunemente per il suo commento e traduzione del Talmud in ebraico, francese, russo e spagnolo."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Adin Even-Israel Steinsaltz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Adin Even-Israel Steinsaltz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/A._Steinsaltz_Z\u00fcrich.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Koren_Talmud_Bavli.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Adin_Even-Israel_(Steinsaltz)_(cropped).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Adin_Even-Israel_Steinsaltz_-_Steinsaltz_Center.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Mandatory_Palestine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Jerusalem, Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2020-08-07"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Mandatory_Palestine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1937-07-11"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2020_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1937_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_translators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_translators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_non-fiction_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Social_critics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Baalei_teshuva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hasidic_rabbis_in_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hasidic_rabbis_in_Mandatory_Palestine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hasidic_rosh_yeshivas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israel_Prize_Rabbi_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_in_Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_Presidential_Medal_of_Distinction_of_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Talmud_translators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Chabad-Lubavitch_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_educators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_translators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Talmudists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Translators_to_French"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_pneumonia_in_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israel_Prize_in_Jewish_studies_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_translators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Translators_to_Spanish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "3192"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1121616881"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cardinal_(Catholicism)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosh_Yeshiva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elie_Kaunfer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eliezer_Schweid"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Menachem_Mendel_Schneerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Menachem_Mendel_of_Kotzk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2020_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brandeis_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_Israel_Prize_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ursa_Major"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Hartman_(rabbi)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Menachem_Froman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saint_Petersburg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Genizah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mishneh_Torah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Talmud:_The_Steinsaltz_Edition"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elazar_Shach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eliezer_Waldenberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modern_Hebrew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moshe_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aramaic_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lehi_(militant_group)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Levi_Eshkol"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lod"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maimonides"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mandatory_Palestine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shmuel_Wosner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shneur_Zalman_of_Liadi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simcha_Bunim_Alter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zubin_Mehta"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patriarchs_(Bible)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tanakh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tanya_(Judaism)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Avigdor_Nebenzahl"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BBC"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1937_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_translators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_translators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_non-fiction_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Social_critics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Baalei_teshuva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hasidic_rabbis_in_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hasidic_rabbis_in_Mandatory_Palestine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hasidic_rosh_yeshivas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israel_Prize_Rabbi_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_in_Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_Presidential_Medal_of_Distinction_of_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Talmud_translators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aharon_Feldman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tomchei_Temimim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_philosophy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Finance_Minister"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Florida_International_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nir_Barkat"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ovadia_Yosef"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ger_(Hasidic_dynasty)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judy_Feld_Carr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Koren_Publishers_Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/President's_Medal_(Israel)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rebbe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2004_attempt_to_revive_the_Sanhedrin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_University_of_Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Kissinger"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hillel_Zeitlin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Brigades"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel_Prize"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israelis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacob_Neusner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baal_teshuva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tekoa,_Gush_Etzion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Temple_Israel_of_Hollywood"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Chabad-Lubavitch_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_educators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_translators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Talmudists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Translators_to_French"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_pneumonia_in_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israel_Prize_in_Jewish_studies_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_translators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Translators_to_Spanish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chabad"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chaim_Pinchas_Scheinberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Book_Council"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kabbalah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heresy_in_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tract_(literature)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pinchas_Sapir"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Polycythemia_vera"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Soviet_Union"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spanish_Civil_War"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Negev"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aspen_Institute_for_Humanistic_Studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rashi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shimon_Gershon_Rosenberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shimon_Peres"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Woodrow_Wilson_International_Center_for_Scholars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yale_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshivat_Makor_Chaim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yisrael_Alter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yosef_Shalom_Eliashiv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Slonim_(Hasidic_dynasty)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neo-Hasidism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ilana_Kurshan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nissim_Karelitz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shaliach_(Chabad)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosh_yeshiva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bar_Ilan_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modern_attempts_to_revive_the_Sanhedrin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mount_of_Olives_Jewish_Cemetery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talmud"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yakir_Yerushalayim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Babylonian_Talmud"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshivat_Hesder"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Jewish_Book_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben_Gurion_University_of_the_Negev"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Humash"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mishna"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edah_Charedis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:A._Steinsaltz_Z\u00fcrich.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Koren_Talmud_Bavli.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Rabbi_Adin_Even-Israel_Steinsaltz_-_Steinsaltz_Center.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.steinsaltz.org/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://steinsaltz.org/books/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20060725181601/http:/www.bbc.co.uk/religion/realmedia/moses/steinsaltz.ram"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20060901155053/http:/news.fiu.edu/fiumag/winter_05/feature_01.htm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20130927182845/http:/www.korenpub.com/EN/search.php%3Finput=steinsaltz&Search.x=24&Search.y=26&Search=submit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.chabad.org/search/keyword.asp%3Fscope=6198&kid=1170"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.05x088s"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Adin_Steinsaltz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/20963239"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/124764053"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/108913360X"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1090375344"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1090570708"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/538144647707364153407"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/58942682"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q357304"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p07317081X"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0627\u062f\u064a\u0646_\u0633\u062a\u064a\u0646\u0633\u0627\u0644\u062a\u0632"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ceb.dbpedia.org/resource/Adin_Steinsalz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Adin_Steinsaltz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Adin_Steinsaltz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fi.dbpedia.org/resource/Adin_Steinsaltz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Adin_Steinsaltz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05e2\u05d3\u05d9\u05df_\u05d0\u05d1\u05df_\u05d9\u05e9\u05e8\u05d0\u05dc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Adin_Steinsaltz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ro.dbpedia.org/resource/Adin_Steinsaltz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u0428\u0442\u0435\u0439\u043d\u0437\u0430\u043b\u044c\u0446,_\u0410\u0434\u0438\u043d"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://simple.dbpedia.org/resource/Adin_Steinsaltz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://uk.dbpedia.org/resource/\u0410\u0434\u0438\u043d_\u0428\u0442\u0435\u0439\u043d\u0437\u0430\u043b\u044c\u0446"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yi.dbpedia.org/resource/\u05e2\u05d3\u05d9\u05df_\u05e9\u05d8\u05d9\u05d9\u05e0\u05d6\u05d0\u05dc\u05e5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/3HgsG"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Chabad_(Rebbes_and_Chasidim)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Main"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Portal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Small"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nobold"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Spnd"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Script/Hebrew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Adin_Even-Israel_(Steinsaltz)_(cropped).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/restingPlace",
+        "object": "http://dbpedia.org/resource/Mount_of_Olives_Jewish_Cemetery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "Hebrew University of Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1937-07-11"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Adin Steinsaltz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Steinsaltz in 2010"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "Menachem, Amechaye, Esther Sheleg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "2020-08-07"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/honorificPrefix",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "Israeli"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/notableWorks",
+        "object": "The Talmud: The Steinsaltz Edition"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, author"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Sarah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rabbi Adin Even-Israel Steinsaltz (11 July 1937 \u2013 7 August 2020) (Hebrew: \u05e2\u05d3\u05d9\u05df \u05d0\u05d1\u05df-\u05d9\u05e9\u05e8\u05d0\u05dc \u05e9\u05d8\u05d9\u05d9\u05e0\u05d6\u05dc\u05e5) was an Israeli Chabad Chasidic rabbi, teacher, philosopher, social critic, author, translator and publisher. His Steinsaltz edition of the Talmud was originally published in modern Hebrew, with a running commentary to facilitate learning, and has also been translated into English, French, Russian, and Spanish. Beginning in 1989, Steinsaltz published several tractates in Hebrew and English of the Babylonian (Bavli) Talmud in an English-Hebrew edition. The first volume of a new English-Hebrew edition, the Koren Talmud Bavli, was released in May 2012, and has since been brought to completion. Steinsaltz was a recipient of the Israel Prize for Jewish Studies (1988), the President's Medal (2012), and the Yakir Yerushalayim prize (2017). Steinsaltz died in Jerusalem on 7 August 2020, from acute pneumonia."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Adin Steinsaltz (hebr\u00e4isch \u05e2\u05d3\u05d9\u05df \u05d0\u05d1\u05df \u05d9\u05e9\u05e8\u05d0\u05dc \u05e9\u05d8\u05d9\u05d9\u05e0\u05d6\u05dc\u05e5) oder Adin Even Yisrael (geboren am 11. Juli 1937 in Jerusalem; gestorben am 7. August 2020 ebenda) war ein israelischer Rabbiner und j\u00fcdischer Gelehrter, Lehrer, Philosoph und Talmud\u00adkommentator sowie eine Leitfigur der nationalreligi\u00f6sen Bewegung. Er hat rund 60 B\u00fccher und zahlreiche Artikel ver\u00f6ffentlicht. Sein Opus magnum ist eine Bearbeitung und \u00dcbersetzung des Talmuds ins Neuhebr\u00e4ische mit eigenem Kommentar, dank welcher der Talmud breiteren Interessengruppen zug\u00e4nglich gemacht werden konnte. Es erscheint auf Hebr\u00e4isch, Englisch, Franz\u00f6sisch, Russisch und Spanisch und wurde millionenfach verkauft. Das Time Magazin bezeichnete Steinsaltz 1988, im Jahr, als ihm der Israel-Preis verliehen wurde, als \u201eJahrtausendgelehrten\u201c (englisch once-in-a-millennium scholar)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Adin Even-Israel Steinsaltz (Jerusal\u00e9n, 11 de julio de 1937-Ib., 7 de agosto de 2020)\u200b fue un rabino, profesor, fil\u00f3sofo y escritor jas\u00eddico israel\u00ed. Su se public\u00f3 originalmente en hebreo moderno, con comentarios para facilitar el aprendizaje, y tambi\u00e9n fue traducido al ingl\u00e9s, franc\u00e9s, ruso y espa\u00f1ol.\u200b A partir de 1989, Steinsaltz public\u00f3 varios en hebreo e ingl\u00e9s del Talmud de Babilonia en una edici\u00f3n en ingl\u00e9s y hebreo. El primer volumen de una nueva edici\u00f3n, el Koren Talmud Bavli, sali\u00f3 a luz en mayo de 2012, y desde entonces se ha completado.\u200b Steinsaltz fue galardonado con el Premio Israel por estudios jud\u00edos en 1988, la en 2012 y el premio en 2017."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Adin Even Isra\u00ebl, n\u00e9 Steinsaltz (en h\u00e9breu : \u05e2\u05d3\u05d9\u05df \u05d0\u05d1\u05df \u05d9\u05e9\u05e8\u05d0\u05dc, \u05e0\u05d5\u05dc\u05d3 \u05e9\u05d8\u05d9\u05d9\u05e0\u05d6\u05dc\u05e5) est un rabbin et auteur isra\u00e9lien n\u00e9 le 11 juillet 1937 \u00e0 J\u00e9rusalem et mort le 7 ao\u00fbt 2020 dans la m\u00eame ville. N\u00e9 dans une famille militante de gauche, il d\u00e9cide de suivre les prescriptions du juda\u00efsme dans son adolescence, et rejoint la mouvance Habad tout en continuant ses \u00e9tudes universitaires. En 1965, il entame (en) et qui lui vaudra le prix Isra\u00ebl en 1988. Il r\u00e9dige ensuite divers ouvrages de pens\u00e9e juive, kabbale et hassidisme qui se caract\u00e9risent par une m\u00eame volont\u00e9 de transmettre les savoirs s\u00e9culaires \u00e0 un lectorat majoritairement s\u00e9culier."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rabbi Adin Even Israel Steinsaltz (in ebraico: \u05e2\u05d3\u05d9\u05df \u05e9\u05d8\u05d9\u05d9\u05e0\u05d6\u05dc\u05e5) o Adin Even Yisrael (in ebraico: \u05e2\u05d3\u05d9\u05df \u05d0\u05d1\u05df \u05d9\u05e9\u05e8\u05d0\u05dc) (Gerusalemme, 11 luglio 1937 \u2013 Gerusalemme, 7 agosto 2020) \u00e8 stato un rabbino e filosofo israeliano, conosciuto comunemente per il suo commento e traduzione del Talmud in ebraico, francese, russo e spagnolo. Steinsaltz \u00e8 noto come studioso, critico sociale e autore internazionale il cui background include anche un'intensa formazione scientifica. Nel 1988 la rivista Time l'ha nominato \"studioso del millennio\". Rav Adin Steinsaltz, figura di riferimento nel panorama rabbinico mondiale, \u00e8 stata la prima persona ad aver completato una traduzione integrale e un commento del Talmud babilonese in ebraico ed ha avuto il merito di fare studiare il Talmud a migliaia di ebrei in tutto il mondo."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0428\u0442\u0435\u0439\u043d\u0437\u0430\u043b\u044c\u0446, \u0410\u0434\u0438\u043d (\u0438\u0432\u0440. \u200f\u05e9\u05d8\u05d9\u05d9\u05e0\u05d6\u05dc\u05e5\u200f\u200e \u05e2\u05d3\u05d9\u05df\u200f\u200e; 11 \u0438\u044e\u043b\u044f 1937, \u0418\u0435\u0440\u0443\u0441\u0430\u043b\u0438\u043c \u2014 7 \u0430\u0432\u0433\u0443\u0441\u0442\u0430 2020, \u0442\u0430\u043c \u0436\u0435) \u2014 \u0438\u0437\u0440\u0430\u0438\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0432\u0432\u0438\u043d, \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0447\u0438\u043a \u0422\u0430\u043b\u043c\u0443\u0434\u0430 \u043d\u0430 \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u044b\u0439 \u0438\u0432\u0440\u0438\u0442, \u0430\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439, \u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0438 \u0438\u0441\u043f\u0430\u043d\u0441\u043a\u0438\u0439. \u041b\u0430\u0443\u0440\u0435\u0430\u0442 \u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0439 \u043f\u0440\u0435\u043c\u0438\u0438 \u0418\u0437\u0440\u0430\u0438\u043b\u044f \u0437\u0430 1988 \u0433\u043e\u0434. \u041e\u0441\u043d\u043e\u0432\u0430\u0442\u0435\u043b\u044c \u0418\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u0430 \u0438\u0437\u0443\u0447\u0435\u043d\u0438\u044f \u0438\u0443\u0434\u0430\u0438\u0437\u043c\u0430 \u0438\u043c. \u0410. \u0428\u0442\u0435\u0439\u043d\u0437\u0430\u043b\u044c\u0446\u0430."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0410\u0434\u0438\u043d \u0428\u0442\u0435\u0439\u043d\u0437\u0430\u043b\u044c\u0446 (\u0456\u0432\u0440. \u05e9\u05d8\u05d9\u05d9\u05e0\u05d6\u05dc\u05e5\u200f\u200e \u05e2\u05d3\u05d9\u05df\u200e; 11 \u043b\u0438\u043f\u043d\u044f 1937, \u0404\u0440\u0443\u0441\u0430\u043b\u0438\u043c \u2014 7 \u0441\u0435\u0440\u043f\u043d\u044f 2020, \u0442\u0430\u043c \u0436\u0435) \u2014 \u0456\u0437\u0440\u0430\u0457\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0431\u0438\u043d, \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0430\u0447 \u0422\u0430\u043b\u043c\u0443\u0434\u0443 \u043d\u0430 \u0441\u0443\u0447\u0430\u0441\u043d\u0438\u0439 \u0456\u0432\u0440\u0438\u0442, \u0430\u043d\u0433\u043b\u0456\u0439\u0441\u044c\u043a\u0443, \u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u0443 \u0442\u0430 \u0456\u0441\u043f\u0430\u043d\u0441\u044c\u043a\u0443. \u041b\u0430\u0443\u0440\u0435\u0430\u0442 \u0414\u0435\u0440\u0436\u0430\u0432\u043d\u043e\u0457 \u043f\u0440\u0435\u043c\u0456\u0457 \u0406\u0437\u0440\u0430\u0457\u043b\u044e \u0437\u0430 1988 \u0440\u0456\u043a. \u0417\u0430\u0441\u043d\u043e\u0432\u043d\u0438\u043a \u0406\u043d\u0441\u0442\u0438\u0442\u0443\u0442\u0443 \u0432\u0438\u0432\u0447\u0435\u043d\u043d\u044f \u0456\u0443\u0434\u0430\u0457\u0437\u043c\u0443 \u0456\u043c. \u0410. \u0428\u0442\u0435\u0439\u043d\u0437\u0430\u043b\u044c\u0446\u0430."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Teacher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/20963239"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Adin_Steinsaltz?oldid=1121616881&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "45072"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/restingPlace",
+        "object": "http://dbpedia.org/resource/Mount_of_Olives_Jewish_Cemetery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/stateOfOrigin",
+        "object": "http://dbpedia.org/resource/Israelis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Adin Steinsaltz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1937"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "2020"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/nationality",
+        "object": "http://dbpedia.org/resource/Israelis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Adin_Steinsaltz__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Adin_Steinsaltz>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Adin_Steinsaltz"
+    }
+]

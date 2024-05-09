@@ -1,0 +1,812 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Eureka O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Eureka O\u2019Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Eureka O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Eureka O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Eureka O'Hara, nom art\u00edstic de David Huggard (Johnson City, Tennessee, 26 d'agost de 1990), \u00e9s una drag queen dels Estats Units. Va competir a la novena i desena temporades del programa de televisi\u00f3 RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Eureka O\u2019Hara (geboren 26. August 1990 in Johnson City als David Huggard), h\u00e4ufiger nur Eureka genannt, ist eine nichtbin\u00e4re US-amerikanische Dragqueen und S\u00e4ngerin. Bekannt wurde sie durch ihre Teilnahmen an der neunten und zehnten Staffel von RuPaul\u2019s Drag Race sowie der sechsten Staffel des Ablegers RuPaul's Drag Race All Stars f\u00fcr ehemalige Teilnehmerinnen der Hauptserie. Bei letzteren erreichte O\u2019Hara jeweils den zweiten Platz."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "David Huggard, plus connu sous le nom de sc\u00e8ne Eureka! ou pr\u00e9c\u00e9demment Eureka O'Hara, est une drag queen am\u00e9ricaine principalement connue pour sa participation \u00e0 la neuvi\u00e8me saison et \u00e0 la dixi\u00e8me saison de RuPaul's Drag Race ainsi qu'\u00e0 la sixi\u00e8me saison de RuPaul's Drag Race All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Eureka, also known as Eureka O'Hara and Eureka!, is the stage name of David Huggard (born August 26, 1990), an American drag queen and reality television personality. Eureka rose to prominence competing on the ninth and tenth seasons of RuPaul's Drag Race. They were removed from the ninth season of Drag Race due to a knee injury, becoming the first contestant in the history of the show to be sent home due to injury; they were then given an automatic berth to season 10, where they placed as runner-up. In 2021, Eureka competed on the sixth season of RuPaul's Drag Race All Stars, where they once more placed as a runner-up."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Eureka"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Eureka"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Eureka_O'Hara_at_RuPaul's_Dragcon_2017_by_dvsross.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Eureka_july2018_(crop).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Johnson_City,_Tennessee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Johnson City, Tennessee, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1990-08-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_who_detransitioned"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1990_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Johnson_City,_Tennessee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:East_Tennessee_State_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Tennessee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "56663034"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1124343782"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_(RuPaul_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_10)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_11)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_9)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_6)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_Holi-slay_Spectacular"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Secret_Celebrity_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Secret_Celebrity_Drag_Race_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scarlett_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billboard_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_the_Drag_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detransition"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anterior_cruciate_ligament"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johnson_City,_Tennessee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cynthia_Lee_Fontaine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_people_with_non-binary_gender_identities"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cosmopolitan_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Genderqueer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ginger_Minj"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gone_with_the_Wind_(film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thorgy_Thor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dance/Electronic_Songs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aquaria_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Love,_Victor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Makeover"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Body_positivity"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silky_Nutmeg_Ganache"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Singular_they"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zachary_Quinto"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trans_woman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_who_detransitioned"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bristol,_Tennessee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trinity_the_Tuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/We're_Here"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_mother"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_pageantry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/AJ_and_the_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adam_Barta"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aja_(entertainer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Horror_Story:_Double_Feature"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1990_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/East_Tennessee_State_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Farrah_Abraham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ball_culture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reality_television"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/HBO"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Johnson_City,_Tennessee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:East_Tennessee_State_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Non-binary_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charlie_Hides"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Tennessee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jiggly_Caliente"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kameron_Michaels"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kandy_Muse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Divine_(performer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manila_Luzon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Physical_therapy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kylie_Sonique_Love"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ra'Jah_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raja_Gemini"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raven_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shangela"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sarah_Potenza"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Eureka_O'Hara_at_RuPaul's_Dragcon_2017_by_dvsross.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katie_Kadan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.outandaboutnashville.com/story/chat-eureka-o-hara/52140%23.WvEoWmaZPfY%7Ctitle=A"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://eurekatheelephantqueen.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/fd1e4981-2420-45dc-a6fb-52a7b5ee8672"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q53567345"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ca.dbpedia.org/resource/Eureka_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Eureka_O\u2019Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Eureka_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05d9\u05d5\u05e8\u05d9\u05e7\u05d4_\u05d0\u05d5\u05d4\u05e8\u05d4"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/8QqsY"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_news"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category-inline"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:URL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Eureka_july2018_(crop).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1990-08-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "David Huggard"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Eureka performing in 2018"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race All Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "musician"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Eureka O'Hara, nom art\u00edstic de David Huggard (Johnson City, Tennessee, 26 d'agost de 1990), \u00e9s una drag queen dels Estats Units. Va competir a la novena i desena temporades del programa de televisi\u00f3 RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Eureka O\u2019Hara (geboren 26. August 1990 in Johnson City als David Huggard), h\u00e4ufiger nur Eureka genannt, ist eine nichtbin\u00e4re US-amerikanische Dragqueen und S\u00e4ngerin. Bekannt wurde sie durch ihre Teilnahmen an der neunten und zehnten Staffel von RuPaul\u2019s Drag Race sowie der sechsten Staffel des Ablegers RuPaul's Drag Race All Stars f\u00fcr ehemalige Teilnehmerinnen der Hauptserie. Bei letzteren erreichte O\u2019Hara jeweils den zweiten Platz."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Eureka, also known as Eureka O'Hara and Eureka!, is the stage name of David Huggard (born August 26, 1990), an American drag queen and reality television personality. Eureka rose to prominence competing on the ninth and tenth seasons of RuPaul's Drag Race. They were removed from the ninth season of Drag Race due to a knee injury, becoming the first contestant in the history of the show to be sent home due to injury; they were then given an automatic berth to season 10, where they placed as runner-up. In 2021, Eureka competed on the sixth season of RuPaul's Drag Race All Stars, where they once more placed as a runner-up. Since 2020, Eureka has co-hosted We're Here on HBO alongside fellow Drag Race contestants Bob the Drag Queen and Shangela. The series has received acclaim from critics."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "David Huggard, plus connu sous le nom de sc\u00e8ne Eureka! ou pr\u00e9c\u00e9demment Eureka O'Hara, est une drag queen am\u00e9ricaine principalement connue pour sa participation \u00e0 la neuvi\u00e8me saison et \u00e0 la dixi\u00e8me saison de RuPaul's Drag Race ainsi qu'\u00e0 la sixi\u00e8me saison de RuPaul's Drag Race All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Eureka_O'Hara?oldid=1124343782&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "35074"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/stateOfOrigin",
+        "object": "http://dbpedia.org/resource/American_(RuPaul_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "David Huggard"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1990"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_10)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/nationality",
+        "object": "http://dbpedia.org/resource/American_(RuPaul_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Eureka_O'Hara__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eureka_O'Hara>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Eureka_O'Hara"
+    }
+]

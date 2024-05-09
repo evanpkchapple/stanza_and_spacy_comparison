@@ -1,0 +1,977 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatWomen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromCleveland,Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromOceanTownship,MonmouthCounty,NewJersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Disputant109615465"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Female109619168"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Feminist110084635"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Reformer110515194"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishFeminists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Woman110787470"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sally Priesand"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sally Priesand"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Sally Priesand"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u041f\u0440\u0438\u0441\u0430\u043d\u0434, \u0421\u0430\u043b\u043b\u0438"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sally Jane Priesand (born June 27, 1946) is America's first female rabbi ordained by a rabbinical seminary, and the second formally ordained female rabbi in Jewish history, after Regina Jonas. Priesand was ordained by the Hebrew Union College-Jewish Institute of Religion on June 3, 1972, at the Plum Street Temple in Cincinnati. After her ordination she served first as assistant and then as associate rabbi at Stephen Wise Free Synagogue in New York City, and later led Monmouth Reform Temple in Tinton Falls, New Jersey from 1981 until her retirement in 2006. She is featured in numerous books including Rabbis: The Many Faces of Judaism and Fifty Jewish Women who Changed the World."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sally Priesand, n\u00e9e le 27 juin 1946 \u00e0 Cleveland en Ohio, est la premi\u00e8re femme ordonn\u00e9e rabbin aux \u00c9tats-Unis, et la seconde femme ordonn\u00e9e rabbin dans le monde, apr\u00e8s Regina Jonas. Rabbi Priesand appartient au mouvement du juda\u00efsme r\u00e9formiste."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sally Jane Priesand (geboren 27. Juni 1946 in Cleveland, Ohio) ist die erste in den USA formell ordinierte Rabbinerin und nach Regina Jonas, die 1935 von Rabbiner Max Dienemann in Offenbach privat ordiniert wurde, die zweite ordinierte Rabbinerin weltweit. Sie wurde am 3. Juni 1972 am Hebrew Union College \u2013 Jewish Institute of Religion in Cincinnati ordiniert."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0421\u0430\u043b\u043b\u0438 \u041f\u0440\u0438\u0441\u0430\u043d\u0434 (\u0430\u043d\u0433\u043b. Sally Jane Priesand; \u0440\u043e\u0434. 1946) \u2014 \u043f\u0435\u0440\u0432\u0430\u044f \u0432 \u0421\u0428\u0410 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0443\u044e\u0449\u0430\u044f \u0436\u0435\u043d\u0449\u0438\u043d\u0430-\u0440\u0430\u0432\u0432\u0438\u043d, \u0440\u0443\u043a\u043e\u043f\u043e\u043b\u043e\u0436\u0451\u043d\u043d\u0430\u044f \u0440\u0430\u0432\u0432\u0438\u043d\u0441\u043a\u043e\u0439 \u0441\u0435\u043c\u0438\u043d\u0430\u0440\u0438\u0435\u0439, \u0438 \u0432\u0442\u043e\u0440\u043e\u0439 \u0440\u0430\u0432\u0432\u0438\u043d\u043a\u043e\u0439, \u043f\u0440\u043e\u0448\u0435\u0434\u0448\u0435\u0439 \u0441\u043c\u0438\u0445\u0443, \u0432 \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u043e\u0439 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u043f\u043e\u0441\u043b\u0435 \u0420\u0435\u0433\u0438\u043d\u044b \u0419\u043e\u043d\u0430\u0441."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Sally Jane Priesand"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Sally Jane Priesand"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Cleveland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Cleveland, Ohio, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1946-06-27"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish-American_history"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Reform_Jewish_feminists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Women_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Brookdale_Community_College_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1946_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Ocean_Township,_Monmouth_County,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Religious_leaders_from_Cleveland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1972_in_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "1065286"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1112287239"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sara_Hurwitz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Breast_Cancer_Coalition"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Women_of_Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish-American_history"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bat_Mitzvah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bella_Abzug"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bonnie_Tiburzi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston_Terrier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Breast_cancer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hobart_and_William_Smith_Colleges"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Religious_Action_Center_of_Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_House_of_Representatives"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Cincinnati"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Jewish_Archives"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Timeline_of_women_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Reform_Jewish_feminists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Master_of_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cleveland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Blackwell"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geneva,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Good_Housekeeping"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monmouth_County,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservative_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brookdale_Community_College_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lenox_Hill_Hospital"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Wise_Free_Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Photography"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/B'nai_B'rith"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1946_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brookdale_Community_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Ocean_Township,_Monmouth_County,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Religious_leaders_from_Cleveland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1972_in_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tinton_Falls,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Driving_under_the_influence"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wings_Club"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amy_Eilberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Florida_International_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Central_Conference_of_American_Rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kollel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/HUC-JIR"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hadassah_Women's_Zionist_Organization_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College-Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Asbury_Park,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thyroid_cancer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theresienstadt_concentration_camp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rebbetzin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Planned_Parenthood"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Congress_of_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alfred_Gottschalk_(Rabbi)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Council_of_Jewish_Women"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Organization_for_Women"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nelson_Glueck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newton,_Massachusetts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ocean_Township,_Monmouth_County,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ohio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reconstructionist_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sandy_Eisenberg_Sasso"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gun_safety"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Regina_Jonas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Supersisters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Union_for_Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Watercolor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth_Blackwell_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plum_Street_Temple"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Semikha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monmouth_Festival_of_the_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.jwa.org"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.monmouthreformtemple.org/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://archive.org/details/herworkspraisehe00dine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://archive.org/details/herworkspraisehe00dine/page/409"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://archive.org/details/womenrabbisexplo0000unse/page/117"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://archive.org/details/womenwhowouldber00nade/page/148"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://jwa.org/encyclopedia/article/priesand-sally-jane"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://jwa.org/feminism/_html/JWA059.htm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://jwa.org/thisweek/jun/03/1972/sally-priesand/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.jwa.org/feminism/%3Fid=JWA059"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20100528135554/http:/www.huc.edu/newspubs/pressroom/2002/priesand.shtml"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20120616072401/http:/www.monmouthreformtemple.org/aboutus/staff/rabbi%5Fsally%5Fj%5Fpriesand/%23cprRabbi%20Sally%20J.%20Priesand"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.042ych"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q533207"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p151600538"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0633\u0627\u0644\u0649_\u0628\u0631\u064a\u064a\u0633\u0627\u0646\u062f"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://az.dbpedia.org/resource/Salli_Prisand"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Sally_Priesand"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Sally_Priesand"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05e1\u05d0\u05dc\u05d9_\u05e4\u05e8\u05d9\u05e1\u05e0\u05d3"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u041f\u0440\u0438\u0441\u0430\u043d\u0434,_\u0421\u0430\u043b\u043b\u0438"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4iwjj"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Sally_Priesand"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/227586763"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Women_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Blockquote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_book"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1946-06-27"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/property/parents",
+        "object": "Rose Elizabeth  Priesand, Irving Theodore Priesand"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "1972"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Sally Jane Priesand (geboren 27. Juni 1946 in Cleveland, Ohio) ist die erste in den USA formell ordinierte Rabbinerin und nach Regina Jonas, die 1935 von Rabbiner Max Dienemann in Offenbach privat ordiniert wurde, die zweite ordinierte Rabbinerin weltweit. Sie wurde am 3. Juni 1972 am Hebrew Union College \u2013 Jewish Institute of Religion in Cincinnati ordiniert. Priesand arbeitete nach ihrer Ordination zun\u00e4chst an der Stephen Wise Free Synagogue in New York als Assistenzrabbinerin und danach am Beth El-Tempel in Elizabeth, New Jersey. Von 1981 bis zu ihrer Pensionierung im Jahr 2006 war sie Rabbinerin am Monmouth Reform Temple in ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Sally Jane Priesand (born June 27, 1946) is America's first female rabbi ordained by a rabbinical seminary, and the second formally ordained female rabbi in Jewish history, after Regina Jonas. Priesand was ordained by the Hebrew Union College-Jewish Institute of Religion on June 3, 1972, at the Plum Street Temple in Cincinnati. After her ordination she served first as assistant and then as associate rabbi at Stephen Wise Free Synagogue in New York City, and later led Monmouth Reform Temple in Tinton Falls, New Jersey from 1981 until her retirement in 2006. She is featured in numerous books including Rabbis: The Many Faces of Judaism and Fifty Jewish Women who Changed the World."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Sally Priesand, n\u00e9e le 27 juin 1946 \u00e0 Cleveland en Ohio, est la premi\u00e8re femme ordonn\u00e9e rabbin aux \u00c9tats-Unis, et la seconde femme ordonn\u00e9e rabbin dans le monde, apr\u00e8s Regina Jonas. Rabbi Priesand appartient au mouvement du juda\u00efsme r\u00e9formiste."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0421\u0430\u043b\u043b\u0438 \u041f\u0440\u0438\u0441\u0430\u043d\u0434 (\u0430\u043d\u0433\u043b. Sally Jane Priesand; \u0440\u043e\u0434. 1946) \u2014 \u043f\u0435\u0440\u0432\u0430\u044f \u0432 \u0421\u0428\u0410 \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0443\u044e\u0449\u0430\u044f \u0436\u0435\u043d\u0449\u0438\u043d\u0430-\u0440\u0430\u0432\u0432\u0438\u043d, \u0440\u0443\u043a\u043e\u043f\u043e\u043b\u043e\u0436\u0451\u043d\u043d\u0430\u044f \u0440\u0430\u0432\u0432\u0438\u043d\u0441\u043a\u043e\u0439 \u0441\u0435\u043c\u0438\u043d\u0430\u0440\u0438\u0435\u0439, \u0438 \u0432\u0442\u043e\u0440\u043e\u0439 \u0440\u0430\u0432\u0432\u0438\u043d\u043a\u043e\u0439, \u043f\u0440\u043e\u0448\u0435\u0434\u0448\u0435\u0439 \u0441\u043c\u0438\u0445\u0443, \u0432 \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u043e\u0439 \u0438\u0441\u0442\u043e\u0440\u0438\u0438 \u043f\u043e\u0441\u043b\u0435 \u0420\u0435\u0433\u0438\u043d\u044b \u0419\u043e\u043d\u0430\u0441. \u0417\u0432\u0430\u043d\u0438\u0435 \u0440\u0430\u0432\u0432\u0438\u043d\u0430 \u0431\u044b\u043b\u043e \u043f\u0440\u0438\u0441\u0432\u043e\u0435\u043d\u043e \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u043e\u0439 \u0441\u0435\u043c\u0438\u043d\u0430\u0440\u0438\u0435\u0439 Hebrew Union College-Jewish Institute of Religion 3 \u0438\u044e\u043d\u044f 1972 \u0433\u043e\u0434\u0430, \u0432 \u0445\u0440\u0430\u043c\u0435 Plum Street Temple \u0432 \u0426\u0438\u043d\u0446\u0438\u043d\u043d\u0430\u0442\u0438. \u041f\u043e\u0441\u043b\u0435 \u044d\u0442\u043e\u0433\u043e \u041f\u0440\u0438\u0441\u0430\u043d\u0434 \u0437\u0430\u043d\u0438\u043c\u0430\u043b\u0430 \u0434\u043e\u043b\u0436\u043d\u043e\u0441\u0442\u044c \u043f\u043e\u043c\u043e\u0449\u043d\u0438\u0446\u044b \u0440\u0430\u0432\u0432\u0438\u043d\u0430 \u0432 \u0441\u0438\u043d\u0430\u0433\u043e\u0433\u0435 Stephen Wise Free Synagogue \u0432 \u041d\u044c\u044e-\u0419\u043e\u0440\u043a\u0435 \u043d\u0430 \u041c\u0430\u043d\u0445\u044d\u0442\u0442\u0435\u043d\u0435, \u0430 \u0437\u0430\u0442\u0435\u043c \u0432\u043e\u0437\u0433\u043b\u0430\u0432\u043b\u044f\u043b\u0430 \u0445\u0440\u0430\u043c Monmouth Reform Temple \u0432 \u0433\u043e\u0440\u043e\u0434\u0435 , \u0448\u0442\u0430\u0442 \u041d\u044c\u044e-\u0414\u0436\u0435\u0440\u0441\u0438 (\u0441 1981 \u0433\u043e\u0434\u0430 \u0438 \u0434\u043e \u0432\u044b\u0445\u043e\u0434\u0430 \u043d\u0430 \u043f\u0435\u043d\u0441\u0438\u044e 30 \u0438\u044e\u043d\u044f 2006 \u0433\u043e\u0434\u0430)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/property/employer",
+        "object": "Stephen Wise Free Synagogue, Temple Beth El, Lenox Hill Hospital, Monmouth Reform Temple"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/227586763"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Sally_Priesand?oldid=1112287239&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "37076"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsEndYear",
+        "object": "2006"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "1972"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1946"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/employer",
+        "object": "http://dbpedia.org/resource/Lenox_Hill_Hospital"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/employer",
+        "object": "http://dbpedia.org/resource/Stephen_Wise_Free_Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Sally_Priesand__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Sally_Priesand>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Sally_Priesand"
+    }
+]

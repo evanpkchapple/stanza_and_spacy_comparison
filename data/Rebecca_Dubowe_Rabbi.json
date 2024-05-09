@@ -1,0 +1,407 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/DeafPerson109996481"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDeafPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Rebecca Dubowe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rebecca Dubowe is the first deaf woman to be ordained as a rabbi in the United States."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Rebecca Dubowe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Rebecca Dubowe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Los Angeles, California, United States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Deaf_religious_workers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Women_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Deaf_people_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "31439420"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1097635709"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bloomington,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Deaf_religious_workers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Timeline_of_women_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M.A."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kerry_Olitzky"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/B.A."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College_\u2013_Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Jewish_Daily_Forward"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Deaf_people_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Brunswick,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Women's_Rabbinic_Network"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_letters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0gkyznd"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Rebecca_Dubowe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q7301723"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4tqAf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_American_English"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Ublist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rebecca Dubowe is the first deaf woman to be ordained as a rabbi in the United States."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Woman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Rebecca_Dubowe?oldid=1097635709&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "4246"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rebecca_Dubowe__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Rebecca_Dubowe>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Rebecca_Dubowe"
+    }
+]

@@ -1,0 +1,3637 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanActresses"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanBloggers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanDanceMusicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanFemaleImpersonators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanFemaleSingers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanHi-NRGMusicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanHouseMusicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanMaleFilmActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanMaleModels"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanMaleTelevisionActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanMusicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanSingers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanTelevisionTalkShowHosts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTModels"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTMusiciansFromTheUnitedStates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTRightsActivists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTRightsActivistsFromTheUnitedStates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTScreenwriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatMaleActorsFromSanDiego,California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatTommyBoyRecordsArtists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatWritersFromSanDiego,California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromSanDiego,California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatRocketRecordsArtists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Actor109765278"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Actress109767700"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Aristocrat109807754"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Assistant109815790"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/BadPerson109831962"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Blogger109860415"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Deceiver109998101"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Disputant109615465"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Entertainer109616922"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/FemaleAristocrat110083823"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Host110187130"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Impersonator110200365"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Militant110315837"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Model110324560"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Musician110339966"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Musician110340312"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Performer110415638"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Queen110499355"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Reformer110515194"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGayActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGayEntertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGayMusicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGayWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Worker109632518"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wrongdoer109633969"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Screenwriter110564400"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scriptwriter110564905"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Singer110599806"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAfrican-AmericanMaleActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAfrican-AmericanModels"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAfrican-AmericanMusicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAfrican-AmericanTelevisionTalkShowHosts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDragQueens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0631\u0648\u0628\u0648\u0644 \u062a\u0634\u0627\u0631\u0644\u0632"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\ub8e8\ud3f4"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0420\u0443 \u041f\u043e\u043b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u9c81\u4fdd\u7f57"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "RuPaul, nom art\u00edstic de RuPaul Andre Charles (San Diego, Calif\u00f2rnia, 17 de novembre de 1960) \u00e9s un actor, drag-queen, model, m\u00fasic i artista estatunidenc que va fer-se fam\u00f3s a principis de la d\u00e8cada del 1990 en sortir a diversos programes televisius, pel\u00b7l\u00edcules i \u00e0lbums musicals, especialment gr\u00e0cies a l'\u00e8xit de la seva can\u00e7\u00f3 \"Supermodel (You Better Work)\", de 1992. Ha aparegut en diverses s\u00e8ries de televisi\u00f3, i ha presentat els programes The RuPaul Show (1996), RuPaul's Drag Race (2009-present) i RuPaul's Drag U (2010-2012)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "RuPaul (eigentlich RuPaul Andre Charles; * 17. November 1960, San Diego, Kalifornien) ist ein US-amerikanischer Schauspieler, Dance-Musik-S\u00e4nger, Singer-Songwriter und Moderator. Als Drag Queen erlangte er in den 1990er Jahren weltweite Ber\u00fchmtheit. Nach seinem internationalen Durchbruch mit der Single Supermodel (You Better Work) trat er in vielen Fernsehprogrammen und Filmen auf und ver\u00f6ffentlichte mehrere Musik-Alben. Seit 2008 produziert und moderiert RuPaul die Reality TV-Show RuPaul\u2019s Drag Race, f\u00fcr die er im September 2016 mit dem Emmy ausgezeichnet wurde. Vor allem als Drag Queen bekannt, tritt er auch in m\u00e4nnlichen Rollen auf, meistens unter dem Namen RuPaul Charles."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "RuPaul Andre Charles (1960ko azaroak 17a, San Diego) aktore, drag queen, modelo, musikari eta artista estatubatuarra da. 1990eko hamarkada hasieran RuPaul ospetsu bilakatu zen hainbat telebista saio, film eta musika albumetan partaide izanik, 1992an \"Supermodel (You Better Work)\" abestiarekin lortu zuen arrakastaren ondorioz. 2009tik RuPaul's Drag Race telebista saioa ekoiztu eta aurkezten du, 2016tik 2021era sei urte jarraian telerrealitate aurkezle onenaren Emmy saria irabaziz."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "RuPaul (n\u00e9 RuPaul Andre Charles le 17 novembre 1960 \u00e0 San Diego) est une drag-queen am\u00e9ricaine, chanteur de dance, acteur et parolier qui a connu la c\u00e9l\u00e9brit\u00e9 dans les ann\u00e9es 1990, o\u00f9 il est apparu dans plusieurs \u00e9missions de t\u00e9l\u00e9vision, des films ainsi que des albums. Bien que connu principalement pour son apparence de drag queen, RuPaul est apparu \u00e0 plusieurs reprises dans des r\u00f4les masculins, g\u00e9n\u00e9ralement sous le nom de RuPaul Charles. Il est le producteur et le pr\u00e9sentateur de la comp\u00e9tition de t\u00e9l\u00e9 r\u00e9alit\u00e9 RuPaul's Drag Race pour laquelle il a re\u00e7u quatre Primetime Emmy Award en 2016, 2017, 2018 et 2019."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\ub8e8\ud3f4(RuPaul, 1960\ub144 11\uc6d4 17\uc77c ~ )\uc774\ub77c\ub294 \uc774\ub984\uc73c\ub85c \uc798 \uc54c\ub824\uc9c4 \ub8e8\ud3f4 \uc548\ub4dc\ub808 \ucc30\uc2a4(RuPaul Andre Charles)\ub294 \ubbf8\uad6d\uc758 \ub4dc\ub798\uadf8 \ud038, \ubc30\uc6b0, \uac00\uc218\uc774\ub2e4. 2008\ub144\ubd80\ud130 \u300a\ub8e8\ud3f4\uc758 \ub4dc\ub798\uadf8 \ub808\uc774\uc2a4\u300b\ub97c \uc81c\uc791, \uc9c4\ud589\ud574 \uc654\uc73c\uba70 \ub8e8\ud3f4\uc758 \ub4dc\ub798\uadf8 \ub808\uc774\uc2a4\ub85c 2016\ub144 \uc5d0\ubbf8 \ub9ac\uc5bc\ub9ac\ud2f0 \uc1fc \ucd5c\uace0\uc758 \ud638\uc2a4\ud2b8 \uc0c1\uc744 \ubc1b\uc558\ub2e4. \ub8e8\ud3f4\uc740 \uc0cc\ub514\uc5d0\uc774\uace0\uc5d0\uc11c \ub098\uace0 \uc790\ub790\uc73c\uba70, \uacf5\uc5f0 \uc608\uc220\uc5d0 \ub300\ud574 \uacf5\ubd80\ud558\uae30 \uc704\ud574 \uc560\ud2c0\ub780\ud0c0\ub85c \uc774\uc8fc\ud558\uae30\ub3c4 \ud558\uc600\ub2e4. \ub274\uc695\uc73c\ub85c \uac70\uc8fc\uc9c0\ub97c \uc62e\uae34 \ud6c4 \ub8e8\ud3f4\uc740 \ub098\uc774\ud2b8 \ud074\ub7fd \uc2e0\uc744 \uc911\uc2ec\uc73c\ub85c \uc774\ub984\uc744 \uc54c\ub9ac\uae30 \uc2dc\uc791\ud558\uc600\uc73c\uba70 \ud788\ud2b8\uc1a1\uc778 Supermodel(You Better Work)\uc744 \ub0a8\uae34 Supermodel of the World (1993), \uc5d8\ud2bc \uc874\uacfc \ud568\uaed8 \uc0c8\ub85c\uc6b4 \ubc84\uc804\uc758 Don't Go Breaking My Heart(1994) \uc2f1\uae00 \ub4f1\uc744 \ub0b4\uba70 \uc138\uacc4\uc801\uc778 \uc720\uba85\uc138\ub97c \ub5a8\uce58\uae30 \uc2dc\uc791\ud55c\ub2e4."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "RuPaul Andre Charles, znany jako RuPaul (ur. 17 listopada 1960 w San Diego) \u2013 ameryka\u0144ski wokalista, autor tekst\u00f3w do utwor\u00f3w, aktor, drag queen, model i blogger pochodzenia afroameryka\u0144skiego ze strony ojca oraz francuskiego i szwajcarsko-niemieckiego ze strony matki. Ze wzrostem 193 cm przy u\u017cyciu blond peruki ukaza\u0142 nowe oblicze drag w ameryka\u0144skiej sztuce ludowej. W latach 90. jako diva klubowa, zosta\u0142 okrzykni\u0119ty przez DJ-\u00f3w nowojorsk\u0105 \u201ekr\u00f3low\u0105 Manhattanu\u201d. Jest pierwsz\u0105 drag queen w historii, kt\u00f3ra w 2018 otrzyma\u0142a gwiazd\u0119 na s\u0142ynnej Alei Gwiazd w Los Angeles."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "RuPaul Andre Charles, mer k\u00e4nd som bara RuPaul, f\u00f6dd 17 november 1960 i San Diego, Kalifornien, \u00e4r en amerikansk sk\u00e5despelare, dragqueen, fotomodell, f\u00f6rfattare, s\u00e5ngare, l\u00e5tskrivare och programledare."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u9b6f\u4fdd\u7f85\u2027\u5b89\u5fb7\u723e\u2027\u67e5\u723e\u65af\uff08\u82f1\u8a9e\uff1aRuPaul Andre Charles\uff0c1960\u5e7411\u670817\u65e5\uff0d)\uff0c\u85dd\u540d\u9b6f\u4fdd\u7f85\uff08RuPaul\uff09\uff0c\u662f\u4e00\u4f4d\u7f8e\u570b\u7537\u6f14\u54e1\u3001\u6b4c\u624b\u53ca\u8b8a\u88dd\u7687\u540e\u3002 \u81ea2009\u5e74\u4ee5\u6765\uff0c\u4ed6\u88fd\u4f5c\u4e26\u4e3b\u6301\u4e86\u5be6\u5883\u7bc0\u76ee\u7cfb\u5217\u300c\u300d\uff0c\u9019\u500b\u7bc0\u76ee\u57282016\u5e74\u70ba\u4ed6\u8d0f\u5f97\u827e\u7f8e\u734e\u30022019\u5e74\uff0c\u4ed6\u65bcNetflix\u7684\u300a\u300b\u4e2d\u64d4\u4efb\u4e3b\u89d2\uff0c\u98fe\u6f14\u4e00\u4f4d\u8b8a\u88dd\u7687\u540e\u3002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0631\u0648\u0628\u0648\u0644 \u0623\u0646\u062f\u0631\u064a\u0647 \u062a\u0634\u0627\u0631\u0644\u0632 (\u0645\u0646 \u0645\u0648\u0627\u0644\u064a\u062f 17 \u0646\u0648\u0641\u0645\u0628\u0631 1960) \u0647\u0648 \u062f\u0631\u0627\u063a \u0643\u0648\u064a\u0646\u060c \u0648\u0645\u0645\u062b\u0644\u060c \u0648\u0639\u0627\u0631\u0636 \u0627\u0632\u064a\u0627\u0621\u060c \u0648\u0645\u063a\u0646\u064a\u060c \u0648\u0645\u062e\u0631\u062c\u060c \u0648\u0645\u0646\u062a\u062c\u060c \u0648\u0643\u0627\u062a\u0628 \u0627\u063a\u0627\u0646\u064a\u060c \u0648\u0634\u062e\u0635\u064a\u0629 \u062a\u0644\u0641\u0632\u064a\u0648\u0646\u064a\u0629 \u0645\u0639\u0631\u0648\u0641\u0647\u060c \u0648\u0645\u0624\u0644\u0641. \u0641\u064a \u0639\u0627\u0645 2009 \u0642\u0627\u0645 \u0631\u0648\u0628\u0648\u0644 \u0628\u0625\u0646\u062a\u0627\u062c \u0648\u0627\u0633\u062a\u0636\u0627\u0641\u0629 \u0633\u0644\u0633\u0644\u0629 \u0627\u0644\u0645\u0633\u0627\u0628\u0642\u0627\u062a \u0627\u0644\u0648\u0627\u0642\u0639\u064a\u0629 \u0631\u0648\u0628\u0648\u0644 \u062f\u0631\u0627\u0642 \u0631\u064a\u0633\u060c \u0648\u0627\u0644\u062a\u064a \u062d\u0635\u0644 \u0645\u0646\u0647\u0627 \u0639\u0644\u0649 \u062c\u0627\u0626\u0632\u062a\u064a\u0646 \u0645\u0646 \u062c\u0648\u0627\u0626\u0632 \u0627\u064a\u0645\u064a \u0641\u064a \u0639\u0627\u0645\u064a 2016 \u06482017. \u0648\u064a\u0639\u062a\u0628\u0631 \u0631\u0648\u0628\u0648\u0644 \u0623\u0643\u062b\u0631 \u062f\u0631\u0627\u063a \u0643\u0648\u064a\u0646 \u0646\u062c\u0627\u062d\u064b\u0627 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0628\u062c\u0627\u0646\u0628 \u0644\u064a\u062f\u064a \u0628\u0627\u0646\u064a. \u062a\u0645 \u0625\u062f\u0631\u0627\u062c\u0647 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0645\u062c\u0644\u0629 \u062a\u0627\u064a\u0645 \u0627\u0644\u0633\u0646\u0648\u064a\u0629 \u0644\u0623\u0643\u062b\u0631 \u0627\u0644\u0623\u0634\u062e\u0627\u0635 \u062a\u0623\u062b\u064a\u0631\u0627 \u0641\u064a \u0644\u0644\u0639\u0627\u0645 2017."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "RuPaul Andre Charles (San Diego, California; 17 de noviembre de 1960), m\u00e1s conocido como RuPaul, es un drag queen, modelo, actor, cantante, compositor y presentador estadounidense. Desde 2009 ha producido y presentado el programa de telerrealidad llamado RuPaul's Drag Race por el cual recibi\u00f3 premios Primetime Emmy en 2016, 2017, 2018, 2019 y 2020. Es considerado la Drag Queen m\u00e1s exitosa en la historia de Estados Unidos."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rupaul Andre Charles (born November 17, 1960; stylized as RuPaul) is an American drag queen, television personality, actor, musician, and model. Best known for producing, hosting, and judging the reality competition series RuPaul's Drag Race, he has received several accolades, including 12 Primetime Emmy Awards, three GLAAD Media Awards, a Critics' Choice Television Award, two Billboard Music Awards, and a Tony Award. Dubbed the \"Queen of Drag\"."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "RuPaul, pseudonimo di RuPaul Andre Charles (San Diego, 17 novembre 1960), \u00e8 un cantante, attore, personaggio televisivo, conduttore televisivo e doppiatore statunitense, diventato famoso nel mondo dello spettacolo soprattutto come drag queen. RuPaul, per il suo status d'icona, \u00e8 raffigurato da due statue di cera nei musei Madame Tussauds (una a New York e una a San Francisco)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "RuPaul Andre Charles (San Diego, 17 november 1960), beter bekend als RuPaul, is een Amerikaanse dragqueen, acteur, model, auteur, presentator, programmamaker en zanger. RuPaul is geboren en getogen in San Diego en verhuisde later naar Atlanta om podiumkunsten te studeren. Hij vestigde zich in New York, waar hij populair werd in de nachtclubscene. Hij bereikte internationale bekendheid als dragqueen met de hit van zijn album (1993), dat geproduceerd werd door Eric Kupper. Hij nam in 1994 een duet, Don't Go Breaking My Heart, op met Elton John. In 1996 werd hij een woordvoerder van , RuPaul zamelde geld in voor het Mac Aids Fonds en werd het eerste drag supermodel. Hetzelfde jaar begon hij zijn eigen talkshow, , die twee jaar werd uitgezonden. Later presenteerde hij, samen met , het ochten"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0420\u0443 \u041f\u043e\u043b \u0410\u043d\u0434\u0440\u0435 \u0427\u0430\u0440\u043b\u044c\u0437 (\u0430\u043d\u0433\u043b. RuPaul Andre Charles) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0430\u043a\u0442\u0451\u0440, \u0442\u0435\u043b\u0435\u0432\u0435\u0434\u0443\u0449\u0438\u0439, \u0434\u0440\u044d\u0433-\u043a\u0432\u0438\u043d \u0438 \u0430\u0432\u0442\u043e\u0440-\u0438\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c. \u041d\u0430\u0447\u0438\u043d\u0430\u044f \u0441 2009 \u0433\u043e\u0434\u0430 \u043e\u043d \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043f\u0440\u043e\u0434\u044e\u0441\u0435\u0440\u043e\u043c \u0438 \u0432\u0435\u0434\u0443\u0449\u0438\u043c \u0448\u043e\u0443 \u00ab\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0435 \u0433\u043e\u043d\u043a\u0438 \u0420\u0443 \u041f\u043e\u043b\u0430\u00bb, \u0437\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0432\u044b\u0438\u0433\u0440\u0430\u043b \u0440\u0435\u043a\u043e\u0440\u0434\u043d\u044b\u0435 \u0447\u0435\u0442\u044b\u0440\u0435 \u043f\u0440\u0435\u043c\u0438\u0438 \u00ab\u042d\u043c\u043c\u0438\u00bb. \u0412 \u043e\u0442\u043b\u0438\u0447\u0438\u0435 \u043e\u0442 \u043c\u043d\u043e\u0433\u0438\u0445 \u0434\u0440\u044d\u0433-\u043a\u0432\u0438\u043d, \u0420\u0443 \u041f\u043e\u043b \u0442\u0430\u043a\u0436\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0438 \u0441\u0432\u043e\u0439 \u043c\u0443\u0436\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0438\u043a."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "RuPaul Andre Charles (San Diego, 17 de novembro de 1960), mais conhecido como RuPaul ou M\u00e3e das Drags, \u00e9 um ator, drag queen, supermodelo, autor e cantor americano, que tornou-se conhecido nos anos 90 quando apareceu em uma grande variedade de programas televisivos, filmes e \u00e1lbuns musicais. Ele tamb\u00e9m \u00e9 conhecido por seu hit internacional \"Supermodel (You Better Work)\". Previamente, ele havia se fixado na cena das boates de Atlanta e Nova Iorque. Desde 2009, ele produz e apresenta o reality show de competi\u00e7\u00e3o RuPaul's Drag Race, pela qual recebeu quatro pr\u00eamios Emmy, em 2016, 2017, 2018 e 2019, como melhor apresentador de reality show. RuPaul \u00e9 considerado a drag queen mais bem sucedida comercialmente nos Estados Unidos. Em 2017, ele foi inclu\u00eddo na lista anual da revista Time das 100 pes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0420\u0443\u041f\u043e\u043b \u0410\u043d\u0434\u0440\u0435 \u0427\u0430\u0440\u043b\u044c\u0437 (\u0430\u043d\u0433\u043b. RuPaul Andre Charles, \u043d\u0430\u0440. 17 \u043b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u0430 1960 \u0440\u043e\u043a\u0443), \u0432\u0456\u0434\u043e\u043c\u0438\u0439 \u043f\u0440\u043e\u0444\u0435\u0441\u0456\u0439\u043d\u043e \u043f\u0456\u0434 \u0432\u043b\u0430\u0441\u043d\u0438\u043c \u0420\u0443\u041f\u043e\u043b \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0430\u043a\u0442\u043e\u0440, \u0434\u0440\u0435\u0491-\u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0430, \u043c\u043e\u0434\u0435\u043b\u044c, \u0430\u0432\u0442\u043e\u0440, \u0442\u0435\u043b\u0435\u0432\u0456\u0437\u0456\u0439\u043d\u0430 \u043f\u0435\u0440\u0441\u043e\u043d\u0430 \u0442\u0430 \u043c\u0443\u0437\u0438\u043a\u0430\u043d\u0442. \u0417 2009 \u0440\u043e\u043a\u0443 \u0432\u0456\u043d \u0432\u0435\u0434\u0435 \u0442\u0430 \u043f\u0440\u043e\u0434\u044e\u0441\u0443\u0454 \u0434\u0440\u0435\u0491-\u043a\u0432\u0456\u043d \u0440\u0435\u0430\u043b\u0456\u0442\u0456-\u0448\u043e\u0443 , \u0437\u0430 \u044f\u043a\u0435 \u0443 2016 \u0440\u043e\u0446\u0456 \u043e\u0442\u0440\u0438\u043c\u0430\u0432 \u043f\u0440\u0435\u043c\u0456\u044e \u0415\u043c\u043c\u0456."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/2019_California_Hall_of_Fame_Ceremony_01_(cropped2).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_at_Dragcon_2019_by_dvsross.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_by_David_Shankbone.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rupaul-2009_(cropped_to_collar).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/San_Diego,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "San Diego, California, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1960-11-17"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1960_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_male_film_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Articles_containing_video_clips"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Activists_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_bloggers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_male_bloggers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_male_television_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rights_activists_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Primetime_Emmy_Award_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Tommy_Boy_Records_artists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Tony_Award_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Male_television_personalities"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_San_Diego"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_Down_Under"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_house_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Dance-pop_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Club_Kids"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Hi-NRG_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_dance_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_gay_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_gay_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_male_models"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_male_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_television_hosts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_television_talk_show_hosts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_screenwriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_songwriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Male_actors_from_San_Diego"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Musicians_from_Atlanta"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rocket_Records_artists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_models"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Male_models_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "89678"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1124956113"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Canada's_Drag_Race:_Canada_vs._the_World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carmen_Carrera"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Primetime_Emmy_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Project_Runway"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Public-access_television"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roxxxy_Andrews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_UK_vs_the_World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_13)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_4)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_6)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_8)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_9)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_Down_Under"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK_(series_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK_(series_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_U"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Secret_Celebrity_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul:_What's_the_Tee%3F"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul_(talk_show)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul_Is:_Starbooty!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Diego,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sasha_Velour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saturday_Night_Live"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Science-fiction"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Electro_house"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Environmentalist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Remix"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mac_AIDS_Fund"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Opaluma_rupaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BeBe_Zahara_Benet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bea_Arthur"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beenie_Man"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Big_Freedia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billboard_200"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billboard_Music_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BoJack_Horseman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bonnie_Tyler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Born_Naked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bow_Wow_Wow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Democratic_Party_(US)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detox_Icunt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ho_Ho_Ho_(album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hollywood_Walk_of_Fame"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hurricane_Bianca"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_awards_and_nominations_received_by_RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patricia_Field"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Patrick_Henry_High_School_(California)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paul_Jabara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paula's_Party"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peppermint_(entertainer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pete_Burns"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Remember_Me:_Essential,_Vol._1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Republican_Party_(US)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhino_Entertainment"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rick_&_Steve:_The_Happiest_Gay_Couple_in_All_the_World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ugly_Betty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Senate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/VH1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vaginal_Davis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Valentina_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Viacom_(2005\u2013present)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Violet_Chachki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/VoteRiders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Voter_identification_laws_in_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lettin'_It_All_Hang_Out"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lil_Kim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transphobia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Primetime_Emmy_Award_for_Outstanding_Reality-Competition_Program"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1960_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_film_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Articles_containing_video_clips"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cory_Booker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Courtney_Act"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Creole_peoples"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Animals."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Another_Gay_Sequel:_Gays_Gone_Wild"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rupaul's_Go-Go_Box_Classics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sabrina_the_Teenage_Witch_(1996_TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellis_Miah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Essential,_Vol._2"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gender_bender"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(production_company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_number-one_dance_hits_(United_States)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christmas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christmas_Party_(RuPaul_album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Entertainment_Weekly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Environmental_impact_of_hydraulic_fracturing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GLAAD_Media_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GLAAD_Media_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Game_show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_for_Play_Game_Show_Starring_RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_pride"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Genderfluid"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Genderqueer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gia_Gunn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Girlboss_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glamazon_(album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Good_Work_(talk_show)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gottmik"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grace_and_Frankie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Misogyny"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monica_Beverly_Hillz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Muppets_Now"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mystery_Girls"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NASDAQ"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Contemporary_R&B"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Critics'_Choice_Television_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Late_Late_Show_with_James_Corden"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Muppets_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Price_Is_Right_(American_game_show)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Real_O'Neals"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Rosie_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_RuPaul_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Simpsons"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_World's_Best"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Then_and_Now_with_Andy_Cohen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dance-pop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dance/Electronic_Albums"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_community"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_culture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_culture_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pigment"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ant_&_Dec's_Saturday_Night_Takeaway"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lingo_(American_game_show)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lingo_(British_game_show)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Logo_TV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Looking_Good,_Feeling_Gorgeous"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louisiana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Love_Shack"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MAC_Cosmetics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mamaru_(album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Show_Dogs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Siedah_Garrett"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sister,_Sister_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Skin_Wars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Slay_Belles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Starrbooty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zombies_2"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_of_Love_(RuPaul_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Performance-enhancing_drugs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plaza_Theatre_(Atlanta)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Podcast"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Status_quo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trans_woman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hot_Dance_Club_Songs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BBC3"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Back_to_My_Roots"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Backstreet_Boys"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/68th_Primetime_Creative_Arts_Emmy_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Activists_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_bloggers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_bloggers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_television_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rights_activists_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Primetime_Emmy_Award_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Tommy_Boy_Records_artists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Tony_Award_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brigitte_Nielsen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Broad_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bubble_Guppies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/But_I'm_a_Cheerleader"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Butch_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/CBS"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Male_television_personalities"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_San_Diego"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catholic_Church"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Time_100"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/To_Wong_Foo,_Thanks_for_Everything!_Julie_Newmar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Todrick_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tom_Chase"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tommy_Boy_Entertainment"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tommy_Boy_Records"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tony_Award_for_Best_Musical"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tony_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Top_Chef"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trans_man"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trixie_Mattel:_Moving_Parts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Twitter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UK_Singles_Chart"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/WKTU"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Walker,_Texas_Ranger"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Webex"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Werking_Mom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Divina_de_Campo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Documentary_film"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_Down_Under"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GLAAD_Vito_Russo_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gangsta_rap"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ginny_Lemon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glen_Meadmore"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2016_United_States_presidential_election"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2_Broke_Girls"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/AJ_and_the_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A_Mother's_Prayer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A_Strange_Loop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A_Very_Brady_Sequel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adam_Ruins_Everything"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adore_Delano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aja_(entertainer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/All_My_Children"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_(album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Broadcasting_Company"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amphibia_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_house_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Dance-pop_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cyndi_Lauper"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dame_Edna_Everage"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dance_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dangerous_Liaisons_(2005_film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_(clothing)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Race_Holland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Race_Italia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Race_Thailand"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Duran_Duran"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/E!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/EDtv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Earth_to_Ned"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Club_Kids"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Erica_Kane"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Federal_Bureau_of_Investigation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Finding_Your_Roots"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fled"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fortune_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fox_Broadcasting_Company"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Foxy_Lady_(RuPaul_album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fracking"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Hi-NRG_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Breast_implant"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nina_Flowers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nirvana_(band)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Non-binary_gender"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Painted_with_Raven"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pat_Benatar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Celebrity"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Environmental_awareness"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_LGBT_people_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_NYC"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emmy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Face_(U.S._TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Good_Work_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reality_television"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grunge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GuRu_(book)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hachette_Books"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Happy_Endings_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harvey_Beaks"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/HeadCount"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hercules_(1998_TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hillary_Clinton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/It's_Raining_Men"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jealous_of_My_Boogie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Taylor_Dayne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Taylor_Swift"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cover_Girl_(RuPaul_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_American_Music_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Arsenio_Hall_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_B-52's"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Bitch_Who_Stole_Christmas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Brady_Bunch_Movie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Bravest_Knight"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Chew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Comeback_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Ellen_DeGeneres_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Eyes_of_Tammy_Faye_(2000_film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Gong_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Guardian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Soldier_fly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Atlanta,_Georgia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A_Day_in_the_Life_of_Marlon_Bundo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A_Little_Bit_of_Love_(RuPaul_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A_Shade_Shady_(Now_Prance)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_dance_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_gay_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_gay_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_models"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_male_singers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_television_hosts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_television_talk_show_hosts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_screenwriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_songwriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Male_actors_from_San_Diego"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Musicians_from_Atlanta"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rocket_Records_artists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_models"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Champion_(RuPaul_album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Channel_4"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_Barkley"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chi_Chi_LaRue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chicago_Party_Aunt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Male_models_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jiggly_Caliente"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jimmy_Kimmel_Live!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jinkx_Monsoon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Justin_Bieber"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katya_Zamolodchikova"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kelly_Mantle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBTQ"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lady_Bunny"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lady_Gaga"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lady_Gaga_and_the_Muppets_Holiday_Spectacular"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Larry_Tee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billboard_Hot_100"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blog"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blue_in_the_Face"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Supermodel_(You_Better_Work)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Supermodel_of_the_World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Symone_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/TV.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gender_transitioning"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tranny"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Workout_(RuPaul_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Red_Ribbon_Blues"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Who_is_Cletis_Tout%3F"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diana_Ross"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dionne_Warwick"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Disco_house"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donald_Trump"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Autobiography"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martha_Wash"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mary_J._Blige"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Popular_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pornography"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Someone_Great_(film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Son_of_the_Beach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sonique_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cisgender"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pyramid_Club_(New_York)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul:_What's_The_Tee%3F"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Logo_(TV_channel)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ITV_(TV_network)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ITunes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/If_You_Were_a_Woman_(And_I_Was_a_Man)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/In_the_House_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Instagram"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michelle_Visage"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nash_Bridges"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Netflix"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Olivia_Newton-John"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Open_marriage"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Camp_(style)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Red_Hot_(album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Seventh-day_Adventist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shemale"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christmas_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wyoming"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/You're_a_Winner,_Baby"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/You_Need_to_Calm_Down"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Top_Heatseekers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mainstream_media"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_video"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roux"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snapshot_(RuPaul_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talk_show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Variety_show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NewNowNext_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Primetime_Emmy_Award_for_Outstanding_Host_for_a_Reality_or_Reality-Competition_Program"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eurodance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Extra_(acting)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gumbo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Limelight"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Realness_(RuPaul_album)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zombie_Prom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul_discography"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transvestism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Truth_About_Jane"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marijuana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weakest_Link_(U.S._game_show)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Unisex"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wigstock"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wigstock:_The_Movie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rhino_Records"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Life_With_La_Toya"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Female_empowerment"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Port_Charles_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Workin'_It!_RuPaul's_Guide_to_Life,_Liberty,_and_the_Pursuit_of_Style"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billboard_Magazine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_press"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lettin'_It_All_Hang_Out:_An_Autobiography"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_club"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_community"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gender_non-conforming"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kenya_Michaels"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Skits"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Revolucian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_artists_who_reached_number_one_on_the_US_Dance_chart"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glamazon_by_Colorevolution"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Make-up_Art_Cosmetics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mona_Foot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Underground_cinema"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hitpig"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:RuPaul_by_David_Shankbone.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Tiny_Chef_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wiktionary:fabulous"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:RuPaul_at_Dragcon_2019_by_dvsross.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:RuPaul_speaking_about_growing_up_in_California_at_the_2019_California_Hall_of_Fame_induction_ceremony.ogg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Rupaul-2009_(cropped_to_collar).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.01lqf49"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/134816463"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/31213449"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/15257a48-d9f6-4fd1-b30e-323576b15aca"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q705715"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0631\u0648\u0628\u0648\u0644_\u062a\u0634\u0627\u0631\u0644\u0632"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0631\u0648\u0628\u0648\u0644_\u062a\u0634\u0627\u0631\u0644\u0632"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://azb.dbpedia.org/resource/\u0631\u0648\u067e\u0627\u0644"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ca.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ceb.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://da.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://eu.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u0631\u0648\u067e\u0627\u0644"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fi.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://gl.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05e8\u05d5\u05e4\u05d5\u05dc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://hr.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://hu.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ko.dbpedia.org/resource/\ub8e8\ud3f4"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://lt.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nl.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://no.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pl.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pt.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ro.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u0420\u0443_\u041f\u043e\u043b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sco.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sh.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://simple.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sr.dbpedia.org/resource/\u0420\u0443\u043f\u043e\u043b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sv.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://tr.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://uk.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://vi.dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://zh.dbpedia.org/resource/\u9c81\u4fdd\u7f57"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4sU3o"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:'"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_book"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Convert"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Efn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:ISBN"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_musical_artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Main"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Navboxes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Notelist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Official_website"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Pp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Primary_source_inline"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Rp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Rquote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Sisterlinks"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:URL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_Down_Under"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Critics'_Choice_Television_Award_for_Best_Reality_Show_Host"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Secret_Celebrity_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:EmmyAward_RealityHost"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:The_Interviews_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/2019_California_Hall_of_Fame_Ceremony_01_(cropped2).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "http://dbpedia.org/resource/List_of_awards_and_nominations_received_by_RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/b",
+        "object": "no"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1960-11-17"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Rupaul Andre Charles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/c",
+        "object": "Category:RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "RuPaul at the 2019 California Hall of Fame Ceremony in Sacramento, California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/d",
+        "object": "Q705715"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/m",
+        "object": "no"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/mw",
+        "object": "no"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/n",
+        "object": "no"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "author"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "musician"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "model"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "television judge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/relatives",
+        "object": "http://dbpedia.org/resource/Cory_Booker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/s",
+        "object": "no"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/species",
+        "object": "no"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "2017"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Georges LeBar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/title",
+        "object": "http://dbpedia.org/resource/List_of_awards_and_nominations_received_by_RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/v",
+        "object": "no"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/voy",
+        "object": "no"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wikt",
+        "object": "no"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "1982"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0631\u0648\u0628\u0648\u0644 \u0623\u0646\u062f\u0631\u064a\u0647 \u062a\u0634\u0627\u0631\u0644\u0632 (\u0645\u0646 \u0645\u0648\u0627\u0644\u064a\u062f 17 \u0646\u0648\u0641\u0645\u0628\u0631 1960) \u0647\u0648 \u062f\u0631\u0627\u063a \u0643\u0648\u064a\u0646\u060c \u0648\u0645\u0645\u062b\u0644\u060c \u0648\u0639\u0627\u0631\u0636 \u0627\u0632\u064a\u0627\u0621\u060c \u0648\u0645\u063a\u0646\u064a\u060c \u0648\u0645\u062e\u0631\u062c\u060c \u0648\u0645\u0646\u062a\u062c\u060c \u0648\u0643\u0627\u062a\u0628 \u0627\u063a\u0627\u0646\u064a\u060c \u0648\u0634\u062e\u0635\u064a\u0629 \u062a\u0644\u0641\u0632\u064a\u0648\u0646\u064a\u0629 \u0645\u0639\u0631\u0648\u0641\u0647\u060c \u0648\u0645\u0624\u0644\u0641. \u0641\u064a \u0639\u0627\u0645 2009 \u0642\u0627\u0645 \u0631\u0648\u0628\u0648\u0644 \u0628\u0625\u0646\u062a\u0627\u062c \u0648\u0627\u0633\u062a\u0636\u0627\u0641\u0629 \u0633\u0644\u0633\u0644\u0629 \u0627\u0644\u0645\u0633\u0627\u0628\u0642\u0627\u062a \u0627\u0644\u0648\u0627\u0642\u0639\u064a\u0629 \u0631\u0648\u0628\u0648\u0644 \u062f\u0631\u0627\u0642 \u0631\u064a\u0633\u060c \u0648\u0627\u0644\u062a\u064a \u062d\u0635\u0644 \u0645\u0646\u0647\u0627 \u0639\u0644\u0649 \u062c\u0627\u0626\u0632\u062a\u064a\u0646 \u0645\u0646 \u062c\u0648\u0627\u0626\u0632 \u0627\u064a\u0645\u064a \u0641\u064a \u0639\u0627\u0645\u064a 2016 \u06482017. \u0648\u064a\u0639\u062a\u0628\u0631 \u0631\u0648\u0628\u0648\u0644 \u0623\u0643\u062b\u0631 \u062f\u0631\u0627\u063a \u0643\u0648\u064a\u0646 \u0646\u062c\u0627\u062d\u064b\u0627 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0628\u062c\u0627\u0646\u0628 \u0644\u064a\u062f\u064a \u0628\u0627\u0646\u064a. \u062a\u0645 \u0625\u062f\u0631\u0627\u062c\u0647 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0645\u062c\u0644\u0629 \u062a\u0627\u064a\u0645 \u0627\u0644\u0633\u0646\u0648\u064a\u0629 \u0644\u0623\u0643\u062b\u0631 \u0627\u0644\u0623\u0634\u062e\u0627\u0635 \u062a\u0623\u062b\u064a\u0631\u0627 \u0641\u064a \u0644\u0644\u0639\u0627\u0645 2017. \u0648\u0644\u062f \u0631\u0648\u0628\u0648\u0644 \u0648\u062a\u0631\u0639\u0631\u0639 \u0641\u064a \u0633\u0627\u0646 \u062f\u064a\u064a\u063a\u0648 \u0648\u0627\u0646\u062a\u0642\u0644 \u0628\u0639\u062f \u0630\u0644\u0643 \u0625\u0644\u0649 \u0627\u062a\u0644\u0627\u0646\u062a\u0627 \u0644\u062f\u0631\u0627\u0633\u0629 \u0627\u0644\u0641\u0646\u0648\u0646 \u0627\u0644\u0645\u0633\u0631\u062d\u064a\u0629. \u0627\u0633\u062a\u0642\u0631 \u0641\u064a \u0645\u062f\u064a\u0646\u0629 \u0646\u064a\u0648\u064a\u0648\u0631\u0643 \u062d\u064a\u062b \u0623\u0635\u0628\u062d \u0645\u0634\u0647\u0648\u0631\u0627\u064b \u0648\u0645\u0637\u0644\u0648\u0628\u0627\u064b \u0641\u064a \u0627\u0644\u0646\u0648\u0627\u062f\u064a \u0627\u0644\u0644\u064a\u0644\u064a\u0647 \u0643\u0640 \u062f\u0631\u0627\u0642 \u0643\u0648\u064a\u0646. \u0648\u062d\u0642\u0642 \u0631\u0648\u0628\u0648\u0644 \u0634\u0647\u0631\u0629 \u0639\u0627\u0644\u0645\u064a\u0629 \u0643\u0645\u0642\u0644\u062f \u0644\u0644\u0646\u0633\u0627\u0621 \u0645\u0639 \u0625\u0637\u0644\u0627\u0642 \u0623\u0648\u0644 \u0623\u063a\u0646\u064a\u0629 \u0644\u0647 \u201cSupermodel) \u201cYou Better Work)\u060c \u0648\u0627\u0644\u0630\u064a \u062a\u0645 \u062a\u0636\u0645\u064a\u0646\u0647 \u0641\u064a \u0623\u0648\u0644 \u0623\u0644\u0628\u0648\u0645 \u0644\u0647 (Supermodel of the World (1993. \u0641\u064a \u0639\u0627\u0645 1994\u060c \u0623\u0635\u0628\u062d \u0645\u062a\u062d\u062f\u062b\u064b\u0627 \u0628\u0627\u0633\u0645 \u0634\u0631\u0643\u0629 \u0645\u0633\u062a\u062d\u0636\u0631\u0627\u062a \u0627\u0644\u062a\u062c\u0645\u064a\u0644 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0647 Mac Cosmetics \u060c \u0648\u062c\u0645\u0639 \u0627\u0644\u0623\u0645\u0648\u0627\u0644 \u0644\u0635\u0646\u062f\u0648\u0642 Mac AIDS \u0644\u0645\u0631\u0636\u0649 \u0627\u0644\u0627\u064a\u062f\u0632. \u0648\u0641\u064a \u0646\u0641\u0633 \u0627\u0644\u0639\u0627\u0645 \u062d\u0635\u0644 \u0639\u0644\u0649 \u0628\u0631\u0646\u0627\u0645\u062c \u062d\u0648\u0627\u0631\u064a \u062e\u0627\u0635 \u0628\u0647 \u0639\u0644\u0649 \u0642\u0646\u0627\u0629 \u0641\u064a \u0625\u062a\u0634 1 \u0628\u0627\u0633\u0645 The RuPaul Show \u0648\u0627\u0644\u0630\u064a \u0627\u0633\u062a\u0636\u0627\u0641\u0647 \u0644\u0623\u0643\u062b\u0631 \u0645\u0646 100 \u062d\u0644\u0642\u0629\u060c \u0628\u064a\u0646\u0645\u0627 \u0634\u0627\u0631\u0643 \u0641\u064a \u0627\u0633\u062a\u0636\u0627\u0641\u0629 \u0627\u0644\u0628\u0631\u0646\u0627\u0645\u062c \u0627\u0644\u0625\u0630\u0627\u0639\u064a \u0627\u0644\u0635\u0628\u0627\u062d\u064a \u0641\u064a WKTU \u0645\u0639 \u0645\u064a\u0634\u064a\u0644 \u0641\u064a\u0633\u0627\u062c. \u0643\u0627\u0646 \u0646\u062c\u0627\u062d\u0647 \u0645\u0633\u062a\u0645\u0631\u0627\u064b \u0643\u0645\u063a\u0646\u064a \u0648\u0627\u0635\u062f\u0631 14 \u0627\u0644\u0628\u0648\u0645 \u0628\u0645\u0627 \u0641\u064a \u0630\u0644\u0643 Foxy Lady (1996)\u060c Champion (2009)\u060c Glamazon (2011)\u060c Born Naked (2014\u060c \u0648 (American (2017 ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "RuPaul, nom art\u00edstic de RuPaul Andre Charles (San Diego, Calif\u00f2rnia, 17 de novembre de 1960) \u00e9s un actor, drag-queen, model, m\u00fasic i artista estatunidenc que va fer-se fam\u00f3s a principis de la d\u00e8cada del 1990 en sortir a diversos programes televisius, pel\u00b7l\u00edcules i \u00e0lbums musicals, especialment gr\u00e0cies a l'\u00e8xit de la seva can\u00e7\u00f3 \"Supermodel (You Better Work)\", de 1992. Ha aparegut en diverses s\u00e8ries de televisi\u00f3, i ha presentat els programes The RuPaul Show (1996), RuPaul's Drag Race (2009-present) i RuPaul's Drag U (2010-2012)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "RuPaul (eigentlich RuPaul Andre Charles; * 17. November 1960, San Diego, Kalifornien) ist ein US-amerikanischer Schauspieler, Dance-Musik-S\u00e4nger, Singer-Songwriter und Moderator. Als Drag Queen erlangte er in den 1990er Jahren weltweite Ber\u00fchmtheit. Nach seinem internationalen Durchbruch mit der Single Supermodel (You Better Work) trat er in vielen Fernsehprogrammen und Filmen auf und ver\u00f6ffentlichte mehrere Musik-Alben. Seit 2008 produziert und moderiert RuPaul die Reality TV-Show RuPaul\u2019s Drag Race, f\u00fcr die er im September 2016 mit dem Emmy ausgezeichnet wurde. Vor allem als Drag Queen bekannt, tritt er auch in m\u00e4nnlichen Rollen auf, meistens unter dem Namen RuPaul Charles."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "RuPaul Andre Charles (1960ko azaroak 17a, San Diego) aktore, drag queen, modelo, musikari eta artista estatubatuarra da. 1990eko hamarkada hasieran RuPaul ospetsu bilakatu zen hainbat telebista saio, film eta musika albumetan partaide izanik, 1992an \"Supermodel (You Better Work)\" abestiarekin lortu zuen arrakastaren ondorioz. 2009tik RuPaul's Drag Race telebista saioa ekoiztu eta aurkezten du, 2016tik 2021era sei urte jarraian telerrealitate aurkezle onenaren Emmy saria irabaziz."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "RuPaul Andre Charles (San Diego, California; 17 de noviembre de 1960), m\u00e1s conocido como RuPaul, es un drag queen, modelo, actor, cantante, compositor y presentador estadounidense. Desde 2009 ha producido y presentado el programa de telerrealidad llamado RuPaul's Drag Race por el cual recibi\u00f3 premios Primetime Emmy en 2016, 2017, 2018, 2019 y 2020. Es considerado la Drag Queen m\u00e1s exitosa en la historia de Estados Unidos. RuPaul naci\u00f3 y creci\u00f3 en California , despu\u00e9s se mud\u00f3 a Atlanta para estudiar artes esc\u00e9nicas. Se estableci\u00f3 en Nueva York donde se convirti\u00f3 r\u00e1pidamente en una figura popular en los clubes nocturnos. Es muy conocido entre las drag queens por su indiferencia hacia los pronombres utilizados para determinar su g\u00e9nero, utilizando tanto \u00e9l como ella: \u00abYou can call me he. You can call me she. You can call me Regis and Kathie Lee; I don't care! Just as long as you call me\u00bb (\"Puedes decirme \u00e9l. Puedes decirme ella. Puedes llamarme Regis y Kathie Lee. \u00a1No me importa! Siempre y cuando me llames\").\u200b RuPaul adem\u00e1s ha hecho apariciones p\u00fablicas dentro y fuera del drag. En el mundo musical, alcanz\u00f3 popularidad internacional con su canci\u00f3n \"Supermodel (You Better Work)\" de su \u00e1lbum (1993), y especialmente con \"Don't Go Breaking My Heart\", dueto con Elton John. Posteriormente grab\u00f3 otras canciones a d\u00fao con Brigitte Nielsen y Martha Wash. Adem\u00e1s ha publicado dos libros: Lettin' It All Hang Out en 1995 y Workin' It en 2010. En 1999, RuPaul fue galardonado con el premio Vito Russo en los Premios GLAAD Media por su trabajo en la promoci\u00f3n de la igualdad de derechos de la comunidad LGBT. Tuvo un programa de entrevistas en 1996 llamado The RuPaul Show en la cadena VH1. Desde 2009 produce y presenta el concurso televisivo RuPaul's Drag Race; donde realiza la b\u00fasqueda de \"la pr\u00f3xima superestrella drag\", ha producido catorce temporadas e inspirado los programas derivados RuPaul's Drag U y RuPaul's Drag Race: All Stars, los cuales son producidos por World of Wonder para Logo."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rupaul Andre Charles (born November 17, 1960; stylized as RuPaul) is an American drag queen, television personality, actor, musician, and model. Best known for producing, hosting, and judging the reality competition series RuPaul's Drag Race, he has received several accolades, including 12 Primetime Emmy Awards, three GLAAD Media Awards, a Critics' Choice Television Award, two Billboard Music Awards, and a Tony Award. Dubbed the \"Queen of Drag\". Born and raised in San Diego, California, RuPaul later studied performing arts in Atlanta, Georgia. He settled in New York City, where he became a popular fixture on the LGBT nightclub scene. He achieved international fame as a drag queen with the release of his debut single, \"Supermodel (You Better Work)\", which was included on his debut studio album Supermodel of the World (1993). He became a spokesperson for MAC Cosmetics in 1994, raising money for the Mac AIDS Fund and becoming the first drag queen to land a major cosmetics campaign. He later received his own talk show on VH1 called The RuPaul Show, which he hosted for over 100 episodes while co-hosting the morning radio show on WKTU with Michelle Visage. RuPaul's Drag Race was created in 2009 and has gone on to produce fourteen seasons in the United States. The show has also seen success internationally, with several international variants of the show being made, such as RuPaul's Drag Race UK and Canada's Drag Race. This has also inspired several spin-offs of the main show, including RuPaul's Drag U, RuPaul's Drag Race All Stars, and RuPaul's Secret Celebrity Drag Race. He is also featured as a host on other reality television series such as Skin Wars, Good Work, and Gay for Play Game Show Starring RuPaul. RuPaul has made appearances in films such as Crooklyn (1994), The Brady Bunch Movie (1995), To Wong Foo, Thanks for Everything! Julie Newmar (1995), But I'm a Cheerleader (1999), television shows such as Girlboss (2017), Broad City (2017), and Grace and Frankie (2019). He later created and starred in his own Netflix original television series AJ and the Queen (2020). In addition, he has also published three books: Lettin' It All Hang Out (1995), Workin' It! RuPaul's Guide to Life, Liberty, and the Pursuit of Style (2010), and GuRu (2018). RuPaul is considered the most commercially successful drag queen in the United States, with Fortune noting him as \"easily the world's most famous drag queen.\" For his work on RuPaul's Drag Race, he has received 12 Primetime Emmy Awards, becoming the most-awarded person of color in the history of the Primetime Emmys. In 2017, he was included in the annual Time 100 list of the most influential people in the world. Outside of film and television, he also continues to write and record music; he has released fourteen studio albums as of 2022, and received a Tony Award for Best Musical as a producer for the musical A Strange Loop."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "RuPaul (n\u00e9 RuPaul Andre Charles le 17 novembre 1960 \u00e0 San Diego) est une drag-queen am\u00e9ricaine, chanteur de dance, acteur et parolier qui a connu la c\u00e9l\u00e9brit\u00e9 dans les ann\u00e9es 1990, o\u00f9 il est apparu dans plusieurs \u00e9missions de t\u00e9l\u00e9vision, des films ainsi que des albums. Bien que connu principalement pour son apparence de drag queen, RuPaul est apparu \u00e0 plusieurs reprises dans des r\u00f4les masculins, g\u00e9n\u00e9ralement sous le nom de RuPaul Charles. Il est le producteur et le pr\u00e9sentateur de la comp\u00e9tition de t\u00e9l\u00e9 r\u00e9alit\u00e9 RuPaul's Drag Race pour laquelle il a re\u00e7u quatre Primetime Emmy Award en 2016, 2017, 2018 et 2019."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\ub8e8\ud3f4(RuPaul, 1960\ub144 11\uc6d4 17\uc77c ~ )\uc774\ub77c\ub294 \uc774\ub984\uc73c\ub85c \uc798 \uc54c\ub824\uc9c4 \ub8e8\ud3f4 \uc548\ub4dc\ub808 \ucc30\uc2a4(RuPaul Andre Charles)\ub294 \ubbf8\uad6d\uc758 \ub4dc\ub798\uadf8 \ud038, \ubc30\uc6b0, \uac00\uc218\uc774\ub2e4. 2008\ub144\ubd80\ud130 \u300a\ub8e8\ud3f4\uc758 \ub4dc\ub798\uadf8 \ub808\uc774\uc2a4\u300b\ub97c \uc81c\uc791, \uc9c4\ud589\ud574 \uc654\uc73c\uba70 \ub8e8\ud3f4\uc758 \ub4dc\ub798\uadf8 \ub808\uc774\uc2a4\ub85c 2016\ub144 \uc5d0\ubbf8 \ub9ac\uc5bc\ub9ac\ud2f0 \uc1fc \ucd5c\uace0\uc758 \ud638\uc2a4\ud2b8 \uc0c1\uc744 \ubc1b\uc558\ub2e4. \ub8e8\ud3f4\uc740 \uc0cc\ub514\uc5d0\uc774\uace0\uc5d0\uc11c \ub098\uace0 \uc790\ub790\uc73c\uba70, \uacf5\uc5f0 \uc608\uc220\uc5d0 \ub300\ud574 \uacf5\ubd80\ud558\uae30 \uc704\ud574 \uc560\ud2c0\ub780\ud0c0\ub85c \uc774\uc8fc\ud558\uae30\ub3c4 \ud558\uc600\ub2e4. \ub274\uc695\uc73c\ub85c \uac70\uc8fc\uc9c0\ub97c \uc62e\uae34 \ud6c4 \ub8e8\ud3f4\uc740 \ub098\uc774\ud2b8 \ud074\ub7fd \uc2e0\uc744 \uc911\uc2ec\uc73c\ub85c \uc774\ub984\uc744 \uc54c\ub9ac\uae30 \uc2dc\uc791\ud558\uc600\uc73c\uba70 \ud788\ud2b8\uc1a1\uc778 Supermodel(You Better Work)\uc744 \ub0a8\uae34 Supermodel of the World (1993), \uc5d8\ud2bc \uc874\uacfc \ud568\uaed8 \uc0c8\ub85c\uc6b4 \ubc84\uc804\uc758 Don't Go Breaking My Heart(1994) \uc2f1\uae00 \ub4f1\uc744 \ub0b4\uba70 \uc138\uacc4\uc801\uc778 \uc720\uba85\uc138\ub97c \ub5a8\uce58\uae30 \uc2dc\uc791\ud55c\ub2e4."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "RuPaul, pseudonimo di RuPaul Andre Charles (San Diego, 17 novembre 1960), \u00e8 un cantante, attore, personaggio televisivo, conduttore televisivo e doppiatore statunitense, diventato famoso nel mondo dello spettacolo soprattutto come drag queen. Dopo aver raggiunto il successo commerciale negli anni '90, dal 2009 ritrova grande popolarit\u00e0 grazie alla conduzione del programma RuPaul's Drag Race, grazie al quale \u00e8 stato premiato con sei Emmy Awards. Per i suoi contributi alla televisione ha inoltre ricevuto una stella sulla Hollywood Walk of Fame e nel 2017 \u00e8 stato incluso dalla rivista TIME tra le 100 persone pi\u00f9 influenti al mondo. RuPaul, per il suo status d'icona, \u00e8 raffigurato da due statue di cera nei musei Madame Tussauds (una a New York e una a San Francisco)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "RuPaul Andre Charles, znany jako RuPaul (ur. 17 listopada 1960 w San Diego) \u2013 ameryka\u0144ski wokalista, autor tekst\u00f3w do utwor\u00f3w, aktor, drag queen, model i blogger pochodzenia afroameryka\u0144skiego ze strony ojca oraz francuskiego i szwajcarsko-niemieckiego ze strony matki. Ze wzrostem 193 cm przy u\u017cyciu blond peruki ukaza\u0142 nowe oblicze drag w ameryka\u0144skiej sztuce ludowej. W latach 90. jako diva klubowa, zosta\u0142 okrzykni\u0119ty przez DJ-\u00f3w nowojorsk\u0105 \u201ekr\u00f3low\u0105 Manhattanu\u201d. Jest pierwsz\u0105 drag queen w historii, kt\u00f3ra w 2018 otrzyma\u0142a gwiazd\u0119 na s\u0142ynnej Alei Gwiazd w Los Angeles."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "RuPaul Andre Charles (San Diego, 17 november 1960), beter bekend als RuPaul, is een Amerikaanse dragqueen, acteur, model, auteur, presentator, programmamaker en zanger. RuPaul is geboren en getogen in San Diego en verhuisde later naar Atlanta om podiumkunsten te studeren. Hij vestigde zich in New York, waar hij populair werd in de nachtclubscene. Hij bereikte internationale bekendheid als dragqueen met de hit van zijn album (1993), dat geproduceerd werd door Eric Kupper. Hij nam in 1994 een duet, Don't Go Breaking My Heart, op met Elton John. In 1996 werd hij een woordvoerder van , RuPaul zamelde geld in voor het Mac Aids Fonds en werd het eerste drag supermodel. Hetzelfde jaar begon hij zijn eigen talkshow, , die twee jaar werd uitgezonden. Later presenteerde hij, samen met , het ochtendprogramma van radiozender . In de jaren heeft hij meerdere albums uitgebracht en meerdere boeken geschreven. De reality-televisieserie RuPaul's Drag Race, waarin RuPaul wordt gevolgd in zijn zoektocht naar de volgende drag superster, leidde wereldwijd tot een opleving van dragqueens. In 2016 won hij als gastheer van deze serie een Emmy. In 2018 kreeg RuPaul een ster op de Hollywood Walk of Fame."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "RuPaul Andre Charles (San Diego, 17 de novembro de 1960), mais conhecido como RuPaul ou M\u00e3e das Drags, \u00e9 um ator, drag queen, supermodelo, autor e cantor americano, que tornou-se conhecido nos anos 90 quando apareceu em uma grande variedade de programas televisivos, filmes e \u00e1lbuns musicais. Ele tamb\u00e9m \u00e9 conhecido por seu hit internacional \"Supermodel (You Better Work)\". Previamente, ele havia se fixado na cena das boates de Atlanta e Nova Iorque. Desde 2009, ele produz e apresenta o reality show de competi\u00e7\u00e3o RuPaul's Drag Race, pela qual recebeu quatro pr\u00eamios Emmy, em 2016, 2017, 2018 e 2019, como melhor apresentador de reality show. RuPaul \u00e9 considerado a drag queen mais bem sucedida comercialmente nos Estados Unidos. Em 2017, ele foi inclu\u00eddo na lista anual da revista Time das 100 pessoas mais influentes do mundo. \u00c0s vezes apresentado como RuPaul Charles, ele fez alguns pap\u00e9is masculinos. RuPaul se destaca entre drag queens por sua indiferen\u00e7a quanto a seu g\u00eanero podendo ser chamado de \"ele\" ou \"ela\", como ele mesmo disse: \"Voc\u00ea pode me chamar de ele. Voc\u00ea pode me chamar de ela. Voc\u00ea pode me chamar de Regis e Kathie Lee. Eu n\u00e3o ligo! Desde que voc\u00ea me chame.\" Ele apresentou um talk show na VH1 e atualmente apresenta o reality show RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0420\u0443 \u041f\u043e\u043b \u0410\u043d\u0434\u0440\u0435 \u0427\u0430\u0440\u043b\u044c\u0437 (\u0430\u043d\u0433\u043b. RuPaul Andre Charles) \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0430\u043a\u0442\u0451\u0440, \u0442\u0435\u043b\u0435\u0432\u0435\u0434\u0443\u0449\u0438\u0439, \u0434\u0440\u044d\u0433-\u043a\u0432\u0438\u043d \u0438 \u0430\u0432\u0442\u043e\u0440-\u0438\u0441\u043f\u043e\u043b\u043d\u0438\u0442\u0435\u043b\u044c. \u041d\u0430\u0447\u0438\u043d\u0430\u044f \u0441 2009 \u0433\u043e\u0434\u0430 \u043e\u043d \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u043f\u0440\u043e\u0434\u044e\u0441\u0435\u0440\u043e\u043c \u0438 \u0432\u0435\u0434\u0443\u0449\u0438\u043c \u0448\u043e\u0443 \u00ab\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u0438\u0435 \u0433\u043e\u043d\u043a\u0438 \u0420\u0443 \u041f\u043e\u043b\u0430\u00bb, \u0437\u0430 \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u0432\u044b\u0438\u0433\u0440\u0430\u043b \u0440\u0435\u043a\u043e\u0440\u0434\u043d\u044b\u0435 \u0447\u0435\u0442\u044b\u0440\u0435 \u043f\u0440\u0435\u043c\u0438\u0438 \u00ab\u042d\u043c\u043c\u0438\u00bb. \u0420\u0443 \u041f\u043e\u043b \u0440\u043e\u0434\u0438\u043b\u0441\u044f \u0438 \u0432\u044b\u0440\u043e\u0441 \u0432 \u0421\u0430\u043d-\u0414\u0438\u0435\u0433\u043e, \u0430 \u043f\u043e\u0437\u0436\u0435 \u043f\u0435\u0440\u0435\u0435\u0445\u0430\u043b \u0432 \u0410\u0442\u043b\u0430\u043d\u0442\u0443, \u0447\u0442\u043e\u0431\u044b \u043d\u0430\u0447\u0430\u0442\u044c \u0438\u0437\u0443\u0447\u0430\u0442\u044c \u0438\u0441\u043a\u0443\u0441\u0441\u0442\u0432\u043e. \u041e\u043d \u043e\u0431\u043e\u0441\u043d\u043e\u0432\u0430\u043b\u0441\u044f \u0432 \u041d\u044c\u044e-\u0419\u043e\u0440\u043a\u0435, \u0433\u0434\u0435 \u0441\u0442\u0430\u043b \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u043e\u0439 \u0444\u0438\u0433\u0443\u0440\u043e\u0439 \u043d\u0430 \u0441\u0446\u0435\u043d\u0435 \u043d\u043e\u0447\u043d\u044b\u0445 \u043a\u043b\u0443\u0431\u043e\u0432. \u041c\u0438\u0440\u043e\u0432\u0443\u044e \u0438\u0437\u0432\u0435\u0441\u0442\u043d\u043e\u0441\u0442\u044c \u0420\u0443 \u041f\u043e\u043b\u0443 \u0432 \u043e\u0431\u0440\u0430\u0437\u0435 \u0434\u0440\u044d\u0433-\u043a\u0432\u0438\u043d \u043f\u0440\u0438\u043d\u0451\u0441 \u0432\u044b\u043f\u0443\u0441\u043a \u0435\u0433\u043e \u0434\u0435\u0431\u044e\u0442\u043d\u043e\u0433\u043e \u0441\u0438\u043d\u0433\u043b\u0430 \u00abSupermodel (You Better Work)\u00bb, \u0432\u043e\u0448\u0435\u0434\u0448\u0435\u0433\u043e \u0432 \u0434\u0435\u0431\u044e\u0442\u043d\u044b\u0439 \u0430\u043b\u044c\u0431\u043e\u043c Supermodel of the World (1993). \u0412 1996 \u0433\u043e\u0434\u0443 \u043e\u043d \u0441\u0442\u0430\u043b \u043b\u0438\u0446\u043e\u043c \u043a\u043e\u0441\u043c\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0439 \u043c\u0430\u0440\u043a\u0438 \u00abMAC Cosmetics\u00bb, \u043d\u0430\u0447\u0430\u0432 \u0441\u0431\u043e\u0440 \u0434\u0435\u043d\u0435\u0433 \u0434\u043b\u044f \u00abMac AIDS Fund\u00bb \u0438 \u0441\u0442\u0430\u0432 \u043f\u0435\u0440\u0432\u043e\u0439 \u0434\u0440\u044d\u0433-\u043a\u0432\u0438\u043d, \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u0432\u0448\u0435\u0439 \u043a\u0440\u0443\u043f\u043d\u0443\u044e \u043a\u043e\u0441\u043c\u0435\u0442\u0438\u0447\u0435\u0441\u043a\u0443\u044e \u043a\u0430\u043c\u043f\u0430\u043d\u0438\u044e. \u0412 \u043e\u0442\u043b\u0438\u0447\u0438\u0435 \u043e\u0442 \u043c\u043d\u043e\u0433\u0438\u0445 \u0434\u0440\u044d\u0433-\u043a\u0432\u0438\u043d, \u0420\u0443 \u041f\u043e\u043b \u0442\u0430\u043a\u0436\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442 \u0438 \u0441\u0432\u043e\u0439 \u043c\u0443\u0436\u0441\u043a\u043e\u0439 \u043e\u0431\u043b\u0438\u043a."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "RuPaul Andre Charles, mer k\u00e4nd som bara RuPaul, f\u00f6dd 17 november 1960 i San Diego, Kalifornien, \u00e4r en amerikansk sk\u00e5despelare, dragqueen, fotomodell, f\u00f6rfattare, s\u00e5ngare, l\u00e5tskrivare och programledare."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0420\u0443\u041f\u043e\u043b \u0410\u043d\u0434\u0440\u0435 \u0427\u0430\u0440\u043b\u044c\u0437 (\u0430\u043d\u0433\u043b. RuPaul Andre Charles, \u043d\u0430\u0440. 17 \u043b\u0438\u0441\u0442\u043e\u043f\u0430\u0434\u0430 1960 \u0440\u043e\u043a\u0443), \u0432\u0456\u0434\u043e\u043c\u0438\u0439 \u043f\u0440\u043e\u0444\u0435\u0441\u0456\u0439\u043d\u043e \u043f\u0456\u0434 \u0432\u043b\u0430\u0441\u043d\u0438\u043c \u0420\u0443\u041f\u043e\u043b \u2014 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0430\u043a\u0442\u043e\u0440, \u0434\u0440\u0435\u0491-\u043a\u043e\u0440\u043e\u043b\u0435\u0432\u0430, \u043c\u043e\u0434\u0435\u043b\u044c, \u0430\u0432\u0442\u043e\u0440, \u0442\u0435\u043b\u0435\u0432\u0456\u0437\u0456\u0439\u043d\u0430 \u043f\u0435\u0440\u0441\u043e\u043d\u0430 \u0442\u0430 \u043c\u0443\u0437\u0438\u043a\u0430\u043d\u0442. \u0417 2009 \u0440\u043e\u043a\u0443 \u0432\u0456\u043d \u0432\u0435\u0434\u0435 \u0442\u0430 \u043f\u0440\u043e\u0434\u044e\u0441\u0443\u0454 \u0434\u0440\u0435\u0491-\u043a\u0432\u0456\u043d \u0440\u0435\u0430\u043b\u0456\u0442\u0456-\u0448\u043e\u0443 , \u0437\u0430 \u044f\u043a\u0435 \u0443 2016 \u0440\u043e\u0446\u0456 \u043e\u0442\u0440\u0438\u043c\u0430\u0432 \u043f\u0440\u0435\u043c\u0456\u044e \u0415\u043c\u043c\u0456. \u0420\u0443\u041f\u043e\u043b \u0432\u0456\u0434\u043e\u043c\u0438\u0439 \u0437-\u043f\u043e\u043c\u0456\u0436 \u0456\u043d\u0448\u0438\u0445 \u0434\u0440\u0435\u0491-\u043a\u043e\u0440\u043e\u043b\u0435\u0432 \u0441\u0432\u043e\u0454\u044e \u043d\u0435\u0431\u0430\u0439\u0434\u0443\u0436\u0456\u0441\u0442\u044e \u0449\u043e\u0434\u043e \u0433\u0435\u043d\u0434\u0435\u0440\u043d\u043e-\u0441\u043f\u0435\u0446\u0438\u0444\u0456\u0447\u043d\u0438\u0445 \u0437\u0430\u0439\u043c\u0435\u043d\u043d\u0438\u043a\u0456\u0432, \u0432\u0436\u0438\u0432\u0430\u043d\u0438\u0445 \u043f\u0440\u0438 \u0437\u0432\u0435\u0440\u0442\u0430\u043d\u043d\u0456 \u0434\u043e \u043d\u044c\u043e\u0433\u043e \u2014 \u0456 \u00ab\u0432\u0456\u043d\u00bb \u0456 \u00ab\u0432\u043e\u043d\u0430\u00bb \u0432\u0432\u0430\u0436\u0430\u0454 \u043f\u0440\u0438\u0439\u043d\u044f\u0442\u043d\u0438\u043c\u0438, \u044f\u043a \u0432\u043a\u0430\u0437\u0430\u043d\u043e \u0443 \u0439\u043e\u0433\u043e \u0430\u0432\u0442\u043e\u0431\u0456\u043e\u0433\u0440\u0430\u0444\u0456\u0457: \u00ab\u0412\u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u043a\u043b\u0438\u043a\u0430\u0442\u0438 \u043c\u0435\u043d\u0435 \u201e\u0432\u0456\u043d\u201c. \u0412\u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u043a\u043b\u0438\u043a\u0430\u0442\u0438 \u043c\u0435\u043d\u0435 \u201e\u0432\u043e\u043d\u0430\u201c. \u0412\u0438 \u043c\u043e\u0436\u0435\u0442\u0435 \u043a\u043b\u0438\u043a\u0430\u0442\u0438 \u043c\u0435\u043d\u0435 \u0420\u0435\u0434\u0436\u0456\u0441 \u0442\u0430 \u041a\u0435\u0439\u0442\u0456 \u041b\u0456; \u043c\u0435\u043d\u0435 \u043d\u0435 \u043e\u0431\u0445\u043e\u0434\u0438\u0442\u044c! \u0413\u043e\u043b\u043e\u0432\u043d\u0435, \u0449\u043e \u0432\u0438 \u043c\u0435\u043d\u0435 \u043a\u043b\u0438\u0447\u0435\u0442\u0435\u00bb. \u0422\u0430\u043a\u043e\u0436 \u0420\u0443\u041f\u043e\u043b \u0433\u0440\u0430\u0432 \u0447\u043e\u043b\u043e\u0432\u0456\u043a\u0456\u0432 \u0443 \u043a\u0456\u043b\u044c\u043a\u043e\u0445 \u0440\u043e\u043b\u044f\u0445 \u0442\u0430 \u0437'\u044f\u0432\u043b\u044f\u0432\u0441\u044f \u043c\u0456\u0436 \u043b\u044e\u0434\u0435\u0439 \u044f\u043a \u0432 \u0434\u0440\u0435\u0491\u0443, \u0442\u0430\u043a \u0456 \u043f\u043e\u0437\u0430 \u043d\u0438\u043c. \u0423 1999 \u0440\u043e\u0446\u0456 \u0439\u043e\u0433\u043e \u043d\u0430\u0433\u043e\u0440\u043e\u0434\u0438\u043b\u0438 \u043f\u0440\u0435\u043c\u0456\u0454\u044e \u0412\u0456\u0442\u043e \u0420\u0443\u0441\u0441\u043e \u0437\u0430 \u0432\u043d\u0435\u0441\u043e\u043a \u0443 \u043f\u0440\u043e\u0441\u0443\u0432\u0430\u043d\u043d\u044f \u0440\u0456\u0432\u043d\u043e\u0441\u0442\u0456 \u0432\u0441\u0435\u0440\u0435\u0434\u0438\u043d\u0456 \u041b\u0413\u0411\u0422-\u0441\u043f\u0456\u043b\u044c\u043d\u043e\u0442\u0438."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u9b6f\u4fdd\u7f85\u2027\u5b89\u5fb7\u723e\u2027\u67e5\u723e\u65af\uff08\u82f1\u8a9e\uff1aRuPaul Andre Charles\uff0c1960\u5e7411\u670817\u65e5\uff0d)\uff0c\u85dd\u540d\u9b6f\u4fdd\u7f85\uff08RuPaul\uff09\uff0c\u662f\u4e00\u4f4d\u7f8e\u570b\u7537\u6f14\u54e1\u3001\u6b4c\u624b\u53ca\u8b8a\u88dd\u7687\u540e\u3002 \u81ea2009\u5e74\u4ee5\u6765\uff0c\u4ed6\u88fd\u4f5c\u4e26\u4e3b\u6301\u4e86\u5be6\u5883\u7bc0\u76ee\u7cfb\u5217\u300c\u300d\uff0c\u9019\u500b\u7bc0\u76ee\u57282016\u5e74\u70ba\u4ed6\u8d0f\u5f97\u827e\u7f8e\u734e\u30022019\u5e74\uff0c\u4ed6\u65bcNetflix\u7684\u300a\u300b\u4e2d\u64d4\u4efb\u4e3b\u89d2\uff0c\u98fe\u6f14\u4e00\u4f4d\u8b8a\u88dd\u7687\u540e\u3002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/31213449"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/property/wordnet_type",
+        "object": "http://www.w3.org/2006/03/wn/wn20/instances/synset-musician-noun-1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/RuPaul?oldid=1124956113&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "86399"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "1982"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Rupaul Andre Charles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1960"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/award",
+        "object": "http://dbpedia.org/resource/List_of_awards_and_nominations_received_by_RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/RuPaul__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://dbpedia.org/ontology/relative",
+        "object": "http://dbpedia.org/resource/Cory_Booker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/RuPaul>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/RuPaul"
+    }
+]

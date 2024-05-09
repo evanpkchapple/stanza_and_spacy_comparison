@@ -1,0 +1,462 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jody Cohen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jody Cohen (born September 21, 1954) is an American retired rabbi who became the first woman to serve as rabbi for a Jewish congregation in Connecticut. In 1984, she became the first female associate rabbi to serve a Connecticut congregation at Congregation Beth Israel in West Hartford. There she founded Noah's Ark, the first synagogue-run preschool daycare in North America. Cohen went on to serve as solo rabbi at Temple Beth Hillel in South Windsor\u2014another first\u2014from 1989 to 1995. Cohen was an inaugural inductee into the Connecticut Women's Hall of Fame in 1994."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Jody Cohen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Jody Cohen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Newark,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Newark, New Jersey, US"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1954-09-21"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1954_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Women_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_Union_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Mount_Holyoke_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Newark,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "70646089"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1085925523"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1954_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Congregation_Beth_Israel_(West_Hartford,_Connecticut)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greater_Hartford"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mount_Holyoke_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Connecticut_Women's_Hall_of_Fame"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hebrew_Union_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Hartford,_Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/HIV/AIDS"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hartford_College_for_Women"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College_\u2013_Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Mount_Holyoke_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Newark,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/South_Windsor,_Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miami_metropolitan_area"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newark,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Congregation_Beth_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Women's_Rabbinic_Network"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Union_for_Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.cwhf.org/inductees/jody-cohen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q111741266"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/GWtjn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Connecticut_Women's_Hall_of_Fame"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/Mount_Holyoke_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "Connecticut Women's Hall of Fame inductee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1954-09-21"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "First woman rabbi to serve at a Connecticut congregation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jody Cohen (born September 21, 1954) is an American retired rabbi who became the first woman to serve as rabbi for a Jewish congregation in Connecticut. In 1984, she became the first female associate rabbi to serve a Connecticut congregation at Congregation Beth Israel in West Hartford. There she founded Noah's Ark, the first synagogue-run preschool daycare in North America. Cohen went on to serve as solo rabbi at Temple Beth Hillel in South Windsor\u2014another first\u2014from 1989 to 1995. Cohen was an inaugural inductee into the Connecticut Women's Hall of Fame in 1994."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/property/employer",
+        "object": "http://dbpedia.org/resource/Congregation_Beth_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/property/employer",
+        "object": "http://dbpedia.org/resource/Union_for_Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/property/movement",
+        "object": "http://dbpedia.org/resource/Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Jody_Cohen?oldid=1085925523&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "5074"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1954"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/employer",
+        "object": "http://dbpedia.org/resource/Congregation_Beth_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/employer",
+        "object": "http://dbpedia.org/resource/Union_for_Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/Mount_Holyoke_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/award",
+        "object": "http://dbpedia.org/resource/Connecticut_Women's_Hall_of_Fame"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Jody_Cohen__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jody_Cohen>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Jody_Cohen"
+    }
+]

@@ -1,0 +1,1107 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTMusiciansFromJapan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTPeopleFromJapan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatMusiciansFromNagasakiPrefecture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromNagasaki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Actor109765278"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Aristocrat109807754"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Artist109812338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Creator109614315"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Entertainer109616922"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/FemaleAristocrat110083823"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Musician110339966"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Musician110340312"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Performer110415638"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Queen110499355"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGayActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJapaneseMaleFilmActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJapaneseSingers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJapaneseVoiceActors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/MusicalArtist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Singer110599806"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDragQueens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Akihiro Miwa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0623\u0643\u064a\u0647\u064a\u0631\u0648 \u0645\u064a\u0648\u0627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Akihiro Miwa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Akihiro Miwa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Akihiro Miwa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Akihiro Miwa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u7f8e\u8f2a\u660e\u5b8f"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\ubbf8\uc640 \uc544\ud0a4\ud788\ub85c"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Akihiro Miwa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u7f8e\u8f2a\u660e\u5b8f"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Akihiro Maruyama (\u4e38\u5c71 \u660e\u5b8f , Maruyama Akihiro, Nagasaki, Prefectura de Nagasaki, 15 de maig de 1935?), m\u00e9s conegut pel nom art\u00edstic Akihiro Miwa (\u7f8e\u8f2a \u660e\u5b8f , Miwa Akihiro?), \u00e9s un cantant, actor, compositor, autor i drag queen."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0623\u0643\u064a\u0647\u064a\u0631\u0648 \u0645\u064a\u0648\u0627 (\u0628\u0627\u0644\u064a\u0627\u0628\u0627\u0646\u064a\u0629: \u7f8e\u8f2a\u660e\u5b8f) \u0647\u0648 \u0631\u0627\u0626\u062f \u0648\u0645\u063a\u0646 \u0648\u0645\u0624\u0644\u0641 \u0648\u0645\u062e\u0631\u062c \u0648\u0645\u0645\u062b\u0644 \u064a\u0627\u0628\u0627\u0646\u064a\u060c \u0648\u0644\u062f \u0641\u064a 15 \u0645\u0627\u064a\u0648 1935 \u0628\u0646\u0627\u063a\u0627\u0633\u0627\u0643\u064a \u0641\u064a \u0627\u0644\u064a\u0627\u0628\u0627\u0646."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Akihiro Miwa (jap. \u7f8e\u8f2a \u660e\u5b8f, Miwa Akihiro, amtlich: Akihiro Maruyama (\u4e38\u5c71 \u660e\u5b8f, Maruyama Akihiro); * 15. Mai 1935 in Nagasaki, Pr\u00e4fektur Nagasaki) ist ein japanischer S\u00e4nger, Komponist, Schauspieler, Theaterregisseur und Schriftsteller. In der \u00d6ffentlichkeit tritt er als Dragqueen auf."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Akihiro Maruyama (\u4e38\u5c71 \u660e\u5b8f, Maruyama Akihiro) (born May 15, 1935), better known by his stage name Akihiro Miwa (\u7f8e\u8f2a \u660e\u5b8f, Miwa Akihiro), is a Japanese singer, actor, director, composer, author and drag queen."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Akihiro Miwa (\u7f8e\u8f2a \u660e\u5b8f, Miwa Akihiro), n\u00e9 Shingo Maruyama le 15 mai 1935 \u00e0 Nagasaki, est un artiste travesti japonais, chanteur de cabaret transformiste, acteur, auteur-compositeur et \u00e9crivain. Il change son v\u00e9ritable nom en 1971 par Akihiro Maruyama. Ses livres, au nombre d'une vingtaine, comptent parmi les meilleures ventes de librairie."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\ubbf8\uc640 \uc544\ud0a4\ud788\ub85c(\u7f8e\u8f2a \u660e\u5b8f, 1935\ub144 5\uc6d4 15\uc77c ~)\ub294 \uc77c\ubcf8\uc758 \uc2f1\uc5b4\uc1a1\ub77c\uc774\ud130, \uc5f0\ucd9c\uac00, \ubc30\uc6b0\uc774\ub2e4. \ub098\uac00\uc0ac\ud0a4\ud604 \ub098\uac00\uc0ac\ud0a4\uc2dc\uc5d0\uc11c \ud0dc\uc5b4\ub0ac\uc73c\uba70, \ubcf8\uba85\uc740 \ub9c8\ub8e8\uc57c\ub9c8 \uc544\ud0a4\ud788\ub85c(\uc544\uba85: \uc2e0\uace0)\uc774\ub2e4. 1971\ub144\uae4c\uc9c0 \ubcf8\uba85\uc778 \ub9c8\ub8e8\uc57c\ub9c8 \uc544\ud0a4\ud788\ub85c\ub85c \ud65c\ub3d9\ud588\uc73c\uba70. 5\ub0a8\ub9e4 \uc911 \ucc28\ub0a8\uc774\ub2e4."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u7f8e\u8f2a \u660e\u5b8f\uff08\u307f\u308f \u3042\u304d\u3072\u308d\u30011935\u5e74\u3008\u662d\u548c10\u5e74\u30095\u670815\u65e5 - \uff09\u306f\u3001\u65e5\u672c\u306e\u7537\u6027\u6b4c\u624b\u3002 \u307e\u305f\u4ff3\u512a\u30fb\u6f14\u51fa\u5bb6\u30fb\u30bf\u30ec\u30f3\u30c8\u30fb\u58f0\u512a\u30fb\u30b3\u30e1\u30f3\u30c6\u30fc\u30bf\u30fc\u30fb\u30ca\u30ec\u30fc\u30bf\u30fc\u3068\u3057\u3066\u3082\u6d3b\u52d5\u3057\u3066\u3044\u308b\u3002 \u9577\u5d0e\u770c\u9577\u5d0e\u5e02\u51fa\u8eab\u3002\u672c\u540d\u53ca\u30731971\u5e74\u307e\u3067\u306e\u82b8\u540d\u306f\u4e38\u5c71 \u660e\u5b8f\uff08\u307e\u308b\u3084\u307e \u3042\u304d\u3072\u308d\uff09\u3001\u5e7c\u540d\u306f\u81e3\u543e\uff08\u3057\u3093\u3054\uff09\u3002\u611b\u79f0\u306f\u30de\u30eb\u3055\u3093\u3002 \u6d77\u661f\u4e2d\u5b66\u3092\u7d4c\u3066\u56fd\u7acb\u97f3\u697d\u5927\u5b66\u9644\u5c5e\u9ad8\u6821\u4e2d\u9000\u3002\u5144\u3068\u59c9\u3068\u5f1f\u306e\u3044\u308b\u4e94\u4eba\u5144\u5f1f\u306e\u6b21\u7537\u3002\u81ea\u3089\u306e\u500b\u4eba\u4e8b\u52d9\u6240\u3067\u3042\u308b\u3001\u30aa\u30d5\u30a3\u30b9\u30df\u30ef\uff08\u500b\u4eba\u4e8b\u52d9\u6240\uff09\u6240\u5c5e\u3002\u8eab\u9577161cm\u3002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Akihiro Miwa (\u7f8e\u8f2a \u660e\u5b8f, Miwa Akihiro ; Nagasaki, 15 mei 1935) is een bekend Japans acteur en zanger die al sinds de jaren 50 actief is. Akihiro Miwa is openlijk homoseksueel en travestiet. In 2012 deed hij, op 77-jarige leeftijd, voor het eerst mee aan het Japanse oudejaars tv-muziekprogramma (K\u014dhaku Uta Gassen) met het nummer \"Yoitomake no Uta\" (het lied van de Yoitomake). Hij staat bekend om het goed kunnen nadoen van vrouwen. Zijn (in Europa) bekendste rol is uit de film Prinses Mononoke, waar hij de stem van Moro, de wolfgodin en moeder van San deed."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u7f8e\u8f2a\u660e\u5b8f\uff08\u65e5\u8bed\uff1a\u7f8e\u8f2a \u660e\u5b8f\uff0f\u307f\u308f \u3042\u304d\u3072\u308d Miwa Akihiro\uff0c1935\u5e745\u670815\u65e5\uff0d\uff09\u662f\u4e00\u4f4d\u65e5\u672c\u5275\u4f5c\u6b4c\u624b\u517c\u6f14\u54e1\uff0c\u539f\u540d\u4e38\u5c71\u660e\u5b8f\uff08\u65e5\u8bed\uff1a\u4e38\u5c71 \u660e\u5b8f\uff0f\u307e\u308b\u3084\u307e \u3042\u304d\u3072\u308d Maruyama Akihiro\uff09\u30021951\u5e74\u4e3a\u5f53\u6b4c\u624b\u800c\u524d\u5f80\u4e1c\u4eac\uff0c\u5e76\u5728\u94f6\u5ea7\u7684\u8336\u9910\u5385\u6253\u5de5\u65f6\u8ba4\u8bc6\u4f5c\u5bb6\u6c5f\u6237\u5ddd\u4e71\u6b65\u548c\u4e09\u5c9b\u7531\u7eaa\u592b\u7b49\uff0c\u5ddd\u7aef\u5eb7\u6210\u4e5f\u662f\u5176\u597d\u53cb\u4e4b\u4e00\u3002 \u4ed6\u4ee5\u4e00\u8eab\u5973\u6027\u6253\u626e\u6700\u70ba\u4eba\u6240\u719f\u8b58\uff0c\u665a\u5e74\u8d77\u67d3\u300c\u7d14\u9ec3\u8272\u7684\u9577\u9aee\u300d\uff0c\u53ea\u5728\u6f14\u51fa\u7279\u5b9a\u89d2\u8272\u53ca\u5f62\u8c61\u6642\u6234\u4e0a\u5047\u9aee\u6216\u8457\u7537\u88dd\u3002\u6700\u8fd1\u671f\u4f5c\u54c1\u70ba\u5728NHK\u6668\u9593\u5c0f\u8aaa\u9023\u7e8c\u5287\u300a\u82b1\u5b50\u8207\u5b89\u59ae\u300b\u4e2d\u64d4\u4efb\u65c1\u8ff0\u3002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Shingo Maruyama (\u4e38\u5c71 \u65b0\u90f7 Maruyama Shingo?, Nagasaki, Prefectura de Nagasaki, 15 de mayo de 1935), mejor conocido bajo su nombre art\u00edstico de Akihiro Miwa (\u7f8e\u8f2a \u660e\u5b8f Miwa Akihiro?), es un cantante, actor, director, compositor y autor japon\u00e9s. Miwa es abiertamente gay, as\u00ed como tambi\u00e9n un reconocido drag queen cuya caracter\u00edstica m\u00e1s notoria es su brillante cabello amarillo. Miwa tambi\u00e9n compone la mayor parte de su propia m\u00fasica y ha escrito m\u00e1s de veinte libros a lo largo de los a\u00f1os."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Akihiro Miwa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://www.o-miwa.co.jp/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Akihiro Miwa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Akihiro_Miwa_\u7f8e\u8f2a_\u660e\u5b8f.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Nagasaki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Nagasaki_Prefecture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Japan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Nagasaki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Nagasaki Prefecture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1935-05-15"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1935_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Japanese_television_personalities"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_musicians_from_Japan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Japan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_Japan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Actors_from_Nagasaki_Prefecture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Japanese_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Japanese_male_film_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Japanese_male_voice_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Male_voice_actors_from_Nagasaki_Prefecture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Musicians_from_Nagasaki_Prefecture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Nagasaki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hibakusha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "2651795"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1122833466"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_Japan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princess_Mononoke"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_Lizard_(film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howl's_Moving_Castle_(film)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Voice_acting_in_Japan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shuji_Terayama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1935_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ch\u016b\u014d,_Tokyo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ginza"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nagasaki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nagasaki_Prefecture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anime"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arceus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liberal_Democratic_Party_(Japan)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shinz\u014d_Abe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yukio_Mishima"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yvette_Guilbert"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9dith_Piaf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spiritualism_(beliefs)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Takeshis'"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bushido"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Japanese_television_personalities"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_musicians_from_Japan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Japan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_Japan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tokio_(band)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Japanese_militarism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/63rd_NHK_K\u014dhaku_Uta_Gassen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Actors_from_Nagasaki_Prefecture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Japanese_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Japanese_male_film_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Japanese_male_voice_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Male_voice_actors_from_Nagasaki_Prefecture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Musicians_from_Nagasaki_Prefecture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Nagasaki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parco_(retailer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marie_Dubas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edogawa_Rampo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2015_Japanese_military_legislation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hayao_Miyazaki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Japan_Self-Defense_Forces"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Cocteau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Takeshi_Kitano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Atomic_bombings_of_Hiroshima_and_Nagasaki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hibakusha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_Rose_Mansion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Taichi_Kokubun"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yamato-damashii"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pok\u00e9mon:_Arceus_and_the_Jewel_of_Life"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kinji_Fukasaku"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kojiki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kyu_Sakamoto"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shibuya"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nihon_Shoki"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chansons"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shibuya_Jean-Jean"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kuwata_Keisuke"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Post-war_Japan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elisabeth,_Empress_of_Austria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/F\u016bry\u016b_Kokkei-tan:_Sennin_Buraku"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.o-miwa.co.jp/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.07vgp0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Akihiro_Miwa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/255782169"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/314785967"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/123193882X"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/9a558e26-dcb5-456c-bd5e-9388cabc4f43"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/253452616"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q1076203"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0623\u0643\u064a\u0647\u064a\u0631\u0648_\u0645\u064a\u0648\u0627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0627\u0643\u064a\u0647\u064a\u0631\u0648_\u0645\u064a\u0648\u0627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ca.dbpedia.org/resource/Akihiro_Miwa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Akihiro_Miwa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Akihiro_Miwa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Akihiro_Miwa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://gl.dbpedia.org/resource/Akihiro_Miwa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ja.dbpedia.org/resource/\u7f8e\u8f2a\u660e\u5b8f"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ko.dbpedia.org/resource/\ubbf8\uc640_\uc544\ud0a4\ud788\ub85c"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://la.dbpedia.org/resource/Miwa_Akihiro"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nl.dbpedia.org/resource/Akihiro_Miwa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://zh.dbpedia.org/resource/\u7f8e\u8f2a\u660e\u5b8f"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/963c"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nihongo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Transl"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Akihiro_Miwa_\u7f8e\u8f2a_\u660e\u5b8f.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1935-05-15"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/birthname",
+        "object": "Shingo Maruyama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "1940.0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/id",
+        "object": "594271"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Author"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Composer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Director"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Actor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Akihiro Maruyama (\u4e38\u5c71 \u660e\u5b8f , Maruyama Akihiro, Nagasaki, Prefectura de Nagasaki, 15 de maig de 1935?), m\u00e9s conegut pel nom art\u00edstic Akihiro Miwa (\u7f8e\u8f2a \u660e\u5b8f , Miwa Akihiro?), \u00e9s un cantant, actor, compositor, autor i drag queen."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0623\u0643\u064a\u0647\u064a\u0631\u0648 \u0645\u064a\u0648\u0627 (\u0628\u0627\u0644\u064a\u0627\u0628\u0627\u0646\u064a\u0629: \u7f8e\u8f2a\u660e\u5b8f) \u0647\u0648 \u0631\u0627\u0626\u062f \u0648\u0645\u063a\u0646 \u0648\u0645\u0624\u0644\u0641 \u0648\u0645\u062e\u0631\u062c \u0648\u0645\u0645\u062b\u0644 \u064a\u0627\u0628\u0627\u0646\u064a\u060c \u0648\u0644\u062f \u0641\u064a 15 \u0645\u0627\u064a\u0648 1935 \u0628\u0646\u0627\u063a\u0627\u0633\u0627\u0643\u064a \u0641\u064a \u0627\u0644\u064a\u0627\u0628\u0627\u0646."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Akihiro Miwa (jap. \u7f8e\u8f2a \u660e\u5b8f, Miwa Akihiro, amtlich: Akihiro Maruyama (\u4e38\u5c71 \u660e\u5b8f, Maruyama Akihiro); * 15. Mai 1935 in Nagasaki, Pr\u00e4fektur Nagasaki) ist ein japanischer S\u00e4nger, Komponist, Schauspieler, Theaterregisseur und Schriftsteller. In der \u00d6ffentlichkeit tritt er als Dragqueen auf."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Akihiro Maruyama (\u4e38\u5c71 \u660e\u5b8f, Maruyama Akihiro) (born May 15, 1935), better known by his stage name Akihiro Miwa (\u7f8e\u8f2a \u660e\u5b8f, Miwa Akihiro), is a Japanese singer, actor, director, composer, author and drag queen."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Shingo Maruyama (\u4e38\u5c71 \u65b0\u90f7 Maruyama Shingo?, Nagasaki, Prefectura de Nagasaki, 15 de mayo de 1935), mejor conocido bajo su nombre art\u00edstico de Akihiro Miwa (\u7f8e\u8f2a \u660e\u5b8f Miwa Akihiro?), es un cantante, actor, director, compositor y autor japon\u00e9s. Miwa es abiertamente gay, as\u00ed como tambi\u00e9n un reconocido drag queen cuya caracter\u00edstica m\u00e1s notoria es su brillante cabello amarillo. Miwa tambi\u00e9n compone la mayor parte de su propia m\u00fasica y ha escrito m\u00e1s de veinte libros a lo largo de los a\u00f1os. Comenz\u00f3 su carrera profesional en 1952, actuando en varios clubes nocturnos de Tokio e interpretando canciones chanson. Tambi\u00e9n es un firme activista cuyas cr\u00edticas sobre el gobierno, varias cuestiones sociales y la guerra han sido plasmadas en sus libros. Como actor, es conocido por su papel protag\u00f3nico en la pel\u00edcula Black Lizard (1968), Ryuko en Black Rose (1969, ambas dirigidas por Kinji Fukasaku), Moro en La princesa Mononoke (1997) y la Bruja del P\u00e1ramo en El castillo ambulante (2004) de Hayao Miyazaki."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Akihiro Miwa (\u7f8e\u8f2a \u660e\u5b8f, Miwa Akihiro), n\u00e9 Shingo Maruyama le 15 mai 1935 \u00e0 Nagasaki, est un artiste travesti japonais, chanteur de cabaret transformiste, acteur, auteur-compositeur et \u00e9crivain. Il change son v\u00e9ritable nom en 1971 par Akihiro Maruyama. Ses livres, au nombre d'une vingtaine, comptent parmi les meilleures ventes de librairie."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\ubbf8\uc640 \uc544\ud0a4\ud788\ub85c(\u7f8e\u8f2a \u660e\u5b8f, 1935\ub144 5\uc6d4 15\uc77c ~)\ub294 \uc77c\ubcf8\uc758 \uc2f1\uc5b4\uc1a1\ub77c\uc774\ud130, \uc5f0\ucd9c\uac00, \ubc30\uc6b0\uc774\ub2e4. \ub098\uac00\uc0ac\ud0a4\ud604 \ub098\uac00\uc0ac\ud0a4\uc2dc\uc5d0\uc11c \ud0dc\uc5b4\ub0ac\uc73c\uba70, \ubcf8\uba85\uc740 \ub9c8\ub8e8\uc57c\ub9c8 \uc544\ud0a4\ud788\ub85c(\uc544\uba85: \uc2e0\uace0)\uc774\ub2e4. 1971\ub144\uae4c\uc9c0 \ubcf8\uba85\uc778 \ub9c8\ub8e8\uc57c\ub9c8 \uc544\ud0a4\ud788\ub85c\ub85c \ud65c\ub3d9\ud588\uc73c\uba70. 5\ub0a8\ub9e4 \uc911 \ucc28\ub0a8\uc774\ub2e4."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u7f8e\u8f2a \u660e\u5b8f\uff08\u307f\u308f \u3042\u304d\u3072\u308d\u30011935\u5e74\u3008\u662d\u548c10\u5e74\u30095\u670815\u65e5 - \uff09\u306f\u3001\u65e5\u672c\u306e\u7537\u6027\u6b4c\u624b\u3002 \u307e\u305f\u4ff3\u512a\u30fb\u6f14\u51fa\u5bb6\u30fb\u30bf\u30ec\u30f3\u30c8\u30fb\u58f0\u512a\u30fb\u30b3\u30e1\u30f3\u30c6\u30fc\u30bf\u30fc\u30fb\u30ca\u30ec\u30fc\u30bf\u30fc\u3068\u3057\u3066\u3082\u6d3b\u52d5\u3057\u3066\u3044\u308b\u3002 \u9577\u5d0e\u770c\u9577\u5d0e\u5e02\u51fa\u8eab\u3002\u672c\u540d\u53ca\u30731971\u5e74\u307e\u3067\u306e\u82b8\u540d\u306f\u4e38\u5c71 \u660e\u5b8f\uff08\u307e\u308b\u3084\u307e \u3042\u304d\u3072\u308d\uff09\u3001\u5e7c\u540d\u306f\u81e3\u543e\uff08\u3057\u3093\u3054\uff09\u3002\u611b\u79f0\u306f\u30de\u30eb\u3055\u3093\u3002 \u6d77\u661f\u4e2d\u5b66\u3092\u7d4c\u3066\u56fd\u7acb\u97f3\u697d\u5927\u5b66\u9644\u5c5e\u9ad8\u6821\u4e2d\u9000\u3002\u5144\u3068\u59c9\u3068\u5f1f\u306e\u3044\u308b\u4e94\u4eba\u5144\u5f1f\u306e\u6b21\u7537\u3002\u81ea\u3089\u306e\u500b\u4eba\u4e8b\u52d9\u6240\u3067\u3042\u308b\u3001\u30aa\u30d5\u30a3\u30b9\u30df\u30ef\uff08\u500b\u4eba\u4e8b\u52d9\u6240\uff09\u6240\u5c5e\u3002\u8eab\u9577161cm\u3002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Akihiro Miwa (\u7f8e\u8f2a \u660e\u5b8f, Miwa Akihiro ; Nagasaki, 15 mei 1935) is een bekend Japans acteur en zanger die al sinds de jaren 50 actief is. Akihiro Miwa is openlijk homoseksueel en travestiet. In 2012 deed hij, op 77-jarige leeftijd, voor het eerst mee aan het Japanse oudejaars tv-muziekprogramma (K\u014dhaku Uta Gassen) met het nummer \"Yoitomake no Uta\" (het lied van de Yoitomake). Hij staat bekend om het goed kunnen nadoen van vrouwen. Zijn (in Europa) bekendste rol is uit de film Prinses Mononoke, waar hij de stem van Moro, de wolfgodin en moeder van San deed."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u7f8e\u8f2a\u660e\u5b8f\uff08\u65e5\u8bed\uff1a\u7f8e\u8f2a \u660e\u5b8f\uff0f\u307f\u308f \u3042\u304d\u3072\u308d Miwa Akihiro\uff0c1935\u5e745\u670815\u65e5\uff0d\uff09\u662f\u4e00\u4f4d\u65e5\u672c\u5275\u4f5c\u6b4c\u624b\u517c\u6f14\u54e1\uff0c\u539f\u540d\u4e38\u5c71\u660e\u5b8f\uff08\u65e5\u8bed\uff1a\u4e38\u5c71 \u660e\u5b8f\uff0f\u307e\u308b\u3084\u307e \u3042\u304d\u3072\u308d Maruyama Akihiro\uff09\u30021951\u5e74\u4e3a\u5f53\u6b4c\u624b\u800c\u524d\u5f80\u4e1c\u4eac\uff0c\u5e76\u5728\u94f6\u5ea7\u7684\u8336\u9910\u5385\u6253\u5de5\u65f6\u8ba4\u8bc6\u4f5c\u5bb6\u6c5f\u6237\u5ddd\u4e71\u6b65\u548c\u4e09\u5c9b\u7531\u7eaa\u592b\u7b49\uff0c\u5ddd\u7aef\u5eb7\u6210\u4e5f\u662f\u5176\u597d\u53cb\u4e4b\u4e00\u3002 \u4ed6\u4ee5\u4e00\u8eab\u5973\u6027\u6253\u626e\u6700\u70ba\u4eba\u6240\u719f\u8b58\uff0c\u665a\u5e74\u8d77\u67d3\u300c\u7d14\u9ec3\u8272\u7684\u9577\u9aee\u300d\uff0c\u53ea\u5728\u6f14\u51fa\u7279\u5b9a\u89d2\u8272\u53ca\u5f62\u8c61\u6642\u6234\u4e0a\u5047\u9aee\u6216\u8457\u7537\u88dd\u3002\u6700\u8fd1\u671f\u4f5c\u54c1\u70ba\u5728NHK\u6668\u9593\u5c0f\u8aaa\u9023\u7e8c\u5287\u300a\u82b1\u5b50\u8207\u5b89\u59ae\u300b\u4e2d\u64d4\u4efb\u65c1\u8ff0\u3002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/314785967"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Akihiro_Miwa?oldid=1122833466&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "8113"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Shingo Maruyama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1935"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/imdbId",
+        "object": "0594271"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Akihiro_Miwa__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Akihiro_Miwa>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Akihiro_Miwa"
+    }
+]

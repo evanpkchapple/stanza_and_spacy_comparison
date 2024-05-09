@@ -1,0 +1,577 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q36180"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Writer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Moses Vita Ascarelli"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Moses Vita Ascarelli (Hebrew: \u05de\u05e9\u05d4 \u05d9\u05d7\u05d9\u05d0\u05dc \u05e2\u05d6\u05db\u05d0\u05e8\u05d9\u05d0\u05dc, Italian: Mos\u00e8 Vita Ascarelli; 5 April 1826 \u2013 11 December 1889), also known by the pen name Emet le-Ya'akov (Hebrew: \u05d0\u05de\u05ea \u05dc\u05d9\u05e2\u05e7\u05d1), was an Italian physician, rabbi, writer, poet, and translator."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Moses Vita Ascarelli"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Moses Vita Ascarelli"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Rome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Papal_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Rome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Kingdom_of_Italy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Rome, Kingdom of Italy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1889-12-11"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Rome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Papal_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1826-04-05"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Physicians_from_Rome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_Italian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_Italian_physicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Translators_to_Italian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1826_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1889_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_poets"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_translators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Sapienza_University_of_Rome_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Translators_from_Hebrew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_Italian_poets"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:French\u2013Hebrew_translators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Italian_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Rome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Rome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "66277117"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1117000320"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Physicians_from_Rome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_Italian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sapienza_University_of_Rome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talmud_Torah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_Italian_physicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Translators_to_Italian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pen_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1863\u20131875_cholera_pandemic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Armand_L\u00e9vy_(activist)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1826_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1889_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_poets"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adam_Mickiewicz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alliance_Isra\u00e9lite_Universelle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Papal_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel_Moses_Hazan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italian_Peninsula"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hamagid"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italian_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Italian_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_translators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Sapienza_University_of_Rome_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Translators_from_Hebrew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_Italian_poets"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French\u2013Hebrew_translators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Italian_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Rome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Rome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pope_Pius_IX"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kingdom_of_Italy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.jewishencyclopedia.com/articles/1883-ascarelli-moses-vita-jehiel%7Cfirst1=Isidore%7Clast1=Singer%7Cauthor1-link=Isidore"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/164131580"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/97533025"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q104640819"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p301079951"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/CRDWJ"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Ill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_writer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Jewish_Encyclopedia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:R"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/Sapienza_University_of_Rome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/article",
+        "object": "Ascarelli, Moses Vita"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1826-04-05"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1889-12-11"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/first",
+        "object": "Isaac"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/last",
+        "object": "Broyd\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Physician, rabbi, writer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/pages",
+        "object": "163"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "1863"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Allegra Letizia Pontecorvo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/url",
+        "object": "http://www.jewishencyclopedia.com/articles/1883-ascarelli-moses-vita-jehiel|first1=Isidore|last1=Singer|author1-link=Isidore Singer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/volume",
+        "object": "2"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Moses Vita Ascarelli (Hebrew: \u05de\u05e9\u05d4 \u05d9\u05d7\u05d9\u05d0\u05dc \u05e2\u05d6\u05db\u05d0\u05e8\u05d9\u05d0\u05dc, Italian: Mos\u00e8 Vita Ascarelli; 5 April 1826 \u2013 11 December 1889), also known by the pen name Emet le-Ya'akov (Hebrew: \u05d0\u05de\u05ea \u05dc\u05d9\u05e2\u05e7\u05d1), was an Italian physician, rabbi, writer, poet, and translator."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/author2Link",
+        "object": "Isaac Broyd\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/property/pseudonym",
+        "object": "Emet le-Ya'akov"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Moses_Vita_Ascarelli?oldid=1117000320&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "6347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/pseudonym",
+        "object": "Emet le-Ya'akov"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/Sapienza_University_of_Rome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moses_Vita_Ascarelli>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Moses_Vita_Ascarelli"
+    }
+]

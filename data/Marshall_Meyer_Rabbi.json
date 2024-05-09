@@ -1,0 +1,757 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatArgentineHumanRightsActivists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Disputant109615465"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Militant110315837"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Reformer110515194"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDartmouthCollegeAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0645\u0627\u0631\u0634\u0627\u0644 \u0645\u0627\u064a\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Marshall Meyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Marshall T. Meyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Marshall Meyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Marshall Meyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0645\u0627\u0631\u0634\u0627\u0644 \u0645\u0627\u064a\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Marshall Meyer)\u200f \u0647\u0648 \u062d\u0627\u062e\u0627\u0645 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 25 \u0645\u0627\u0631\u0633 1930 \u0641\u064a \u0628\u0631\u0648\u0643\u0644\u064a\u0646 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629\u060c \u0648\u062a\u0648\u0641\u064a \u0641\u064a 29 \u062f\u064a\u0633\u0645\u0628\u0631 1993 \u0641\u064a \u0646\u064a\u0648\u064a\u0648\u0631\u0643 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0628\u0633\u0628\u0628 \u0633\u0631\u0637\u0627\u0646."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Marshall Meyer (New York, 5 febbraio 1910 \u2013 New York, 29 dicembre 1993) \u00e8 stato un rabbino statunitense.\u00c8 stato un attivista per i diritti umani, unico membro straniero della Comisi\u00f3n Nacional sobre la Desaparici\u00f3n de Personas argentina."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Marshall Theodore Meyer (Brooklyn, NY, 25 de mar\u00e7o de 1930 - Nova York, 29 de dezembro de 1993) foi um conhecido rabino conservador norte-americano e ativista de renome internacional dos direitos humanos."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Marshall Theodore Meyer (Brooklyn, Nueva York, 25 de marzo de 1930 - Nueva York, 29 de diciembre de 1993) fue un rabino conservador estadounidense y un reconocido activista internacional de los derechos humanos.\u200b\u200b Naci\u00f3 en Brooklyn, Nueva York y se cri\u00f3 en Norwich, Connecticut.\u200b Denunci\u00f3 fuertemente la administraci\u00f3n de Ronald Reagan por sostener las dictaduras latinoamericanas.\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rabbi Marshall T. Meyer (March 25, 1930 \u2013 December 29, 1993) was an American Conservative rabbi who became a recognized international human rights activist while living and working in Argentina from 1958 to 1984, during the period of the \"Dirty War\" in the 1970s. He was elected by president Ra\u00fal Alfons\u00edn to be one of the members of the National Commission on the Disappearance of Persons.After the restoration of democracy in 1983, Meyer was awarded the nation's highest honor, the Order of the Liberator General San Mart\u00edn, by the new president."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Marshall Meyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Marshall Meyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Movimiento_Jud\u00edo_por_los_DDHH_Marshall_Meyer.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabino_Marshall_Meyer.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "New York City, United States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1993-12-29"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Brooklyn, New York United States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1930-03-25"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Liberator_General_San_Martin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1930_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1993_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_University_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Dartmouth_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_expatriates_in_Argentina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_cancer_in_New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Argentine_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Theological_Seminary_of_America_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "1048212"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1029301230"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Jewish_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_Order_of_the_Liberator_General_San_Martin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_the_Jews_in_Argentina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Human_rights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1930_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cristina_Fern\u00e1ndez_de_Kirchner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Commission_on_the_Disappearance_of_Persons"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1993_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_University_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Comunidad_Bet_El"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservative_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arab\u2013Israeli_conflict"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ashkenazi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ashkenazic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/B'nai_Jeshurun_(Manhattan)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Dartmouth_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Buenos_Aires"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abraham_Joshua_Heschel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Activist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dartmouth_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_expatriates_in_Argentina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norwich,_Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacobo_Timerman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Argentina"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Deaths_from_cancer_in_New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Argentine_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Theological_Seminary_of_America_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Theological_Seminary_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dirty_War"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Order_of_the_Liberator_General_San_Mart\u00edn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ra\u00fal_Alfons\u00edn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Movimiento_Jud\u00edo_por_los_Derechos_Humanos"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Seminario_Rab\u00ednico_Latinoamericano"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/B'nai_Jeshurun_(Manhattan,_New_York)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Movimiento_Jud\u00edo_por_los_DDHH_Marshall_Meyer.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://repository.duke.edu/dc/meyermarshall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.041fz0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/242796321"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Marshall_Meyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q945437"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0645\u0627\u0631\u0634\u0627\u0644_\u0645\u0627\u064a\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0645\u0627\u0631\u0634\u0627\u0644_\u0645\u0627\u064a\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Marshall_Meyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://gl.dbpedia.org/resource/Marshall_Meyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05de\u05e8\u05e9\u05dc_\u05de\u05d0\u05d9\u05d9\u05e8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Marshall_T._Meyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pt.dbpedia.org/resource/Marshall_Meyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/56CRg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabino_Marshall_Meyer.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1930-03-25"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "Anita, Dodi and Gabriel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1993-12-29"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/Dartmouth_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/Jewish_Theological_Seminary_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Naomi Meyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0645\u0627\u0631\u0634\u0627\u0644 \u0645\u0627\u064a\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Marshall Meyer)\u200f \u0647\u0648 \u062d\u0627\u062e\u0627\u0645 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 25 \u0645\u0627\u0631\u0633 1930 \u0641\u064a \u0628\u0631\u0648\u0643\u0644\u064a\u0646 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629\u060c \u0648\u062a\u0648\u0641\u064a \u0641\u064a 29 \u062f\u064a\u0633\u0645\u0628\u0631 1993 \u0641\u064a \u0646\u064a\u0648\u064a\u0648\u0631\u0643 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0628\u0633\u0628\u0628 \u0633\u0631\u0637\u0627\u0646."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Marshall Theodore Meyer (Brooklyn, Nueva York, 25 de marzo de 1930 - Nueva York, 29 de diciembre de 1993) fue un rabino conservador estadounidense y un reconocido activista internacional de los derechos humanos.\u200b\u200b Naci\u00f3 en Brooklyn, Nueva York y se cri\u00f3 en Norwich, Connecticut.\u200b Vivi\u00f3 veinticinco a\u00f1os en la Argentina, en donde cre\u00f3 el Seminario Rab\u00ednico conservador m\u00e1s importante de Latinoam\u00e9rica, del cual salen los principales rabinos conservadores de toda la regi\u00f3n. Fue el l\u00edder de la transformaci\u00f3n cultural m\u00e1s importante de la juder\u00eda latinoamericana del siglo XX y fund\u00f3 m\u00e1s de veinte comunidades jud\u00edas en la Argentina.\u200b\u200b Cuando volvi\u00f3 la vida democr\u00e1tica form\u00f3 parte de la Comisi\u00f3n Nacional sobre la Desaparici\u00f3n de Personas.\u200b Denunci\u00f3 fuertemente la administraci\u00f3n de Ronald Reagan por sostener las dictaduras latinoamericanas.\u200b Su nombre aparece en la lista de \u00abQui\u00e9n es qui\u00e9n\u00bb del \u00abDictionary of International Biography\u00bb.\u200b A\u00f1os despu\u00e9s de su muerte, fue uno de los homenajeados por la presidenta Cristina Fern\u00e1ndez de Kirchner cuando honr\u00f3 a quienes lucharon por el restablecimiento de la democracia.\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rabbi Marshall T. Meyer (March 25, 1930 \u2013 December 29, 1993) was an American Conservative rabbi who became a recognized international human rights activist while living and working in Argentina from 1958 to 1984, during the period of the \"Dirty War\" in the 1970s. He was elected by president Ra\u00fal Alfons\u00edn to be one of the members of the National Commission on the Disappearance of Persons.After the restoration of democracy in 1983, Meyer was awarded the nation's highest honor, the Order of the Liberator General San Mart\u00edn, by the new president. In Argentina Meyer also led the congregation Comunidad Bet El and founded Seminario Rab\u00ednico Latinoamericano, a Conservative Judaism rabbinical school in Buenos Aires that has trained generations of Spanish-speaking rabbis. Rabbi Meyer returned to the United States in 1984 and that year became rabbi of Congregation Bnai Jeshurun in New York City. He was called to revive the congregation of the oldest Ashkenazi synagogue in the city. He was one of those honored by president Cristina Fern\u00e1ndez de Kirchner to those who fought for the restoration of democracy in Argentina."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Marshall Meyer (New York, 5 febbraio 1910 \u2013 New York, 29 dicembre 1993) \u00e8 stato un rabbino statunitense.\u00c8 stato un attivista per i diritti umani, unico membro straniero della Comisi\u00f3n Nacional sobre la Desaparici\u00f3n de Personas argentina."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Marshall Theodore Meyer (Brooklyn, NY, 25 de mar\u00e7o de 1930 - Nova York, 29 de dezembro de 1993) foi um conhecido rabino conservador norte-americano e ativista de renome internacional dos direitos humanos."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/242796321"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Marshall_Meyer?oldid=1029301230&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "8626"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1993"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Dartmouth_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Jewish_Theological_Seminary_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Marshall_Meyer__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marshall_Meyer>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Marshall_Meyer"
+    }
+]

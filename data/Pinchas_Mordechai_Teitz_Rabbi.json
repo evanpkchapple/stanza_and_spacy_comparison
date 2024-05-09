@@ -1,0 +1,977 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Pinchas Mordechai Teitz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rabbi Pinchas Mordechai Teitz (1908\u20131995) was a rabbi, teacher, author, and innovator in creating a modern Torah community in Elizabeth, New Jersey. He excelled in his family's tradition of caring for Jews across the globe in any challenges they faced. A mikvah he built in 1938, a day school he founded in 1941 that grew to more than 900 students, adult education courses that he initiated, the welcome he gave to displaced persons after WWII and to Jews who came from Russia, all became a model for other leaders to implement in their cities and towns."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Pinchas Mordechai Teitz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Pinchas Mordechai Teitz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Pinchas_Mordechai_Teitz.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Subate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Elizabeth,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Elizabeth,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1995-12-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Subate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1908-07-07"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Lithuanian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1995_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1908_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Elizabeth,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Lithuanian-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "59550784"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1104927992"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Belkin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Lithuanian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eliezer_Silver"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bobov_(Hasidic_dynasty)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detroit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hitler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holocaust"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Riga"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ukmerg\u0117"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vaad_Hatzalah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1995_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meir_Simcha_of_Dvinsk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Menachem_Mendel_Kasher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saeima"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eliyahu_David_Rabinowitz-Teomim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eliyahu_Meir_Bloch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elazar_Mayer_Preil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eliyahu_Essas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elizabeth,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/English_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Montreal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mordehai_Dubin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moshe_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anti-Semitism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Appendectomy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berakhot_(tractate)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u012bv\u0101ni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Subate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Rosen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ketubah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baal_Shem_Tov"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1908_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Elizabeth,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bruriah_High_School_for_Girls"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tzitzit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/USSR"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/WEVD"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/WWII"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Displaced_persons_camps_in_post\u2013World_War_II_Europe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_day_school"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kashrut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mikveh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abraham_Isaac_Kook"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ezras_Torah_Fund"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/North_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palestine_(region)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Panev\u0117\u017eys"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Passover"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kollel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vilna_Gaon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rav"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hamodia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Iron_Curtain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tashkent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tefillin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mezuzot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Lithuanian-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chaim_Ozer_Grodzinski"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Educational_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yitzchok_Zilber"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yoma"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mitzvah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yaakov_Kamenetsky"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dovid_Lifshitz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Avraham_Yitzchak_Bloch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Martin_Luther_King_Jr."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Polo_Grounds"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poltava"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Teshuvah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miami"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nazis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Omaha,_Nebraska"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raguva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rav_Teitz_Mesivta_Academy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shechita"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yaakov_Yisrael_Kanievsky"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yehezkel_Abramsky"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshivas_Knesses_Yisrael_(Slabodka)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yiddish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yitzhak_HaLevi_Herzog"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yosef_Yitzchak_Schneersohn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yosef_Eliyahu_Henkin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosh_Hashanah_(tractate)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Simcha_Elberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Union_of_Orthodox_Rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sukkah_(Talmud)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Siddur"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Telz_Yeshiva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talmud"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yechiel_Yaakov_Weinberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parashah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agudath_HaRabbanim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dvinsk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elazar_Menachem_Man_Shach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maharshal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yoreh_Deah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boca_Raton_Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hassidim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mitnagdim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michel_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yosef_Kahaneman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yosef_Rosen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shmuel_Belkin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Soviet_Jewry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mordechai_Yoffe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Avigdor_Balshanek"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ben-Zion_Zilber"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Machon_Tzofnas_Paneiah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Merkaz_HaRabbanim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nissan_Waxman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shimon_Wittenberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Unzer_Shtimme"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vaad_Hapo\u2019el"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.youtube.com/watch%3Fv=75bukizmEdc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.youtube.com/watch%3Fv=gdjQ-UFEO-s"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.yutorah.org/rabbi-mordechai-pinchas-teitz/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://outorah.org/series/2919/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.hebrewbooks.org/3400"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/123934885"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/30457984"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q20056491"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05de\u05e8\u05d3\u05db\u05d9_\u05e4\u05d9\u05e0\u05d7\u05e1_\u05d8\u05d9\u05d9\u05e5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://lv.dbpedia.org/resource/Pin\u010dass_Modehajs_Teics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/vDNr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Ill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Small"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Pinchas_Mordechai_Teitz.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1908-07-07"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1995-12-26"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "Lithuania: Ponevez, Slabodka"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, Educator"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/property/parents",
+        "object": "Rabbi Avraham Binyamin and Shaina Sira Teitz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Bessie  Preil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rabbi Pinchas Mordechai Teitz (1908\u20131995) was a rabbi, teacher, author, and innovator in creating a modern Torah community in Elizabeth, New Jersey. He excelled in his family's tradition of caring for Jews across the globe in any challenges they faced. A mikvah he built in 1938, a day school he founded in 1941 that grew to more than 900 students, adult education courses that he initiated, the welcome he gave to displaced persons after WWII and to Jews who came from Russia, all became a model for other leaders to implement in their cities and towns."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Pinchas_Mordechai_Teitz?oldid=1104927992&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "35431"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1908"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1995"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Yeshivas_Knesses_Yisrael_(Slabodka)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Pinchas_Mordechai_Teitz__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Pinchas_Mordechai_Teitz>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Pinchas_Mordechai_Teitz"
+    }
+]

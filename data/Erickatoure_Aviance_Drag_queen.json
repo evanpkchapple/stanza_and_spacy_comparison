@@ -1,0 +1,562 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Erickatoure Aviance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Erickatoure Aviance (or Ericka Toure Aviance) is an American nightlife personality, club host, clothing designer, fashionista, drag performer, recording artist, dancer, actor, singer and songwriter. She is a member of the House of Aviance, one of the vogue and ballroom houses in the U.S. founded in 1989 by Mother Juan Aviance. It is from this House that she takes her last name from as customary for all ballroom house members."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Erickatoure Aviance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Erickatoure Aviance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Portsmouth,_New_Hampshire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_New_Hampshire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_African_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Nightlife_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Tisch_School_of_the_Arts_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_LGBT_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:House_of_Aviance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "54435782"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1119503704"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Caitlyn_Jenner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Debmar-Mercury"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Detox_Icunt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Portsmouth,_New_Hampshire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_New_Hampshire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/HuffPost"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonny_McGovern"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nightlife"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GLAAD"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Wendy_Williams_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_community"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_culture_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Major_(academic)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coming_out"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_of_Aviance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Makeover_reality_television_series"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trans_woman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_African_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transgender"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transphobic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wendy_Williams"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adam_Joseph"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Nightlife_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/African-American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Extended_play"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ball_culture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nita_Aviance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fashion_design"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nightclub"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_LGBT_people_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Promoter_(entertainment)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Tisch_School_of_the_Arts_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_LGBT_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kevin_Aviance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tisch_School_of_the_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/White_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:House_of_Aviance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portsmouth,_New_Hampshire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Social_media"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michelle_Visage"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scholarship"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vogue_(dance)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mother_Juan_Aviance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jonny_McGovern_Presents:_This_is_NYC,_Bitch!_The_East_Village_Mixtape"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aviance_Records,_LLC"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/21fb6fd0-d622-4865-ac38-7759f3a77bd3"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q31271167"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2uF6G"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Portal_bar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Pull_quote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Ball_culture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/Tisch_School_of_the_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Music, drag, dance and fashion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Nightlife personality, club host, clothing designer, fashionista, actor, drag performer, recording artist, dancer, singer and songwriter."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2001"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Erickatoure Aviance (or Ericka Toure Aviance) is an American nightlife personality, club host, clothing designer, fashionista, drag performer, recording artist, dancer, actor, singer and songwriter. She is a member of the House of Aviance, one of the vogue and ballroom houses in the U.S. founded in 1989 by Mother Juan Aviance. It is from this House that she takes her last name from as customary for all ballroom house members."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Erickatoure_Aviance?oldid=1119503704&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "10527"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2001"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Tisch_School_of_the_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/Dance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Fashion_design"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Promoter_(entertainment)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Erickatoure_Aviance__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Erickatoure_Aviance>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Erickatoure_Aviance"
+    }
+]

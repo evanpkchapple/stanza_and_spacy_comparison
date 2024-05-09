@@ -1,0 +1,802 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Derrick Barry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Derrick Barry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Derrick Prentice Barry (born July 18, 1983) is an American drag performer, Britney Spears impersonator and reality television personality. He is best known for competing on the third season of America's Got Talent (2008), and later the eighth season of RuPaul's Drag Race (2016) and fifth season of RuPaul's Drag Race All Stars (2020)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Derrick Barry est une drag queen am\u00e9ricaine, imitatrice de Britney Spears et personnalit\u00e9 t\u00e9l\u00e9vis\u00e9e. Il est plus connu pour sa participation \u00e0 la troisi\u00e8me saison de la comp\u00e9tition America's Got Talent, puis plus tard \u00e0 la huiti\u00e8me saison de RuPaul's Drag Race et \u00e0 la cinqui\u00e8me saison de RuPaul's Drag Race: All Stars. En juin 2019, New York magazine nomme Derrick Barry l'une des cent drag queen les plus puissantes en Am\u00e9rique."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Derrick Barry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://derrickbarry.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Derrick Barry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Derrick_Barry_and_Bob_the_Drag_Queen_by_dvsross.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rupaul_Dragcon_2018-307_(41377493234).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Modesto,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Modesto, California, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1983-07-18"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Polyamorous_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rights_activists_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1983_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Nevada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_LGBT_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:America's_Got_Talent_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Modesto,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "19057460"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1121612951"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Vegas_Revue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_11)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_14)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_8)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_5)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_Live!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Billboard_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_the_Drag_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/House_of_Blues"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Polyamorous_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Resorts_World_Las_Vegas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vanessa_Vanjie_Mateo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vanjie:_24_Hours_of_Love"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/India_Ferrah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/...Baby_One_More_Time_(song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Will_and_Grace"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chris_Cox_(DJ)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coco_Montrese"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eminem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frank_Marino_(female_impersonator)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_for_Play_Game_Show_Starring_RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germany's_Next_Topmodel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germany's_Next_Topmodel_(season_14)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Modesto,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Talk_(talk_show)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aquaria_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madonna"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silky_Nutmeg_Ganache"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stonewall_Riots"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yvie_Oddly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ava_Max"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rights_activists_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Britney_Spears"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_gay_actors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ti\u00ebsto"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Waking_Up_in_Vegas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/War_on_Everyone"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/We_Made_You"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Willam_Belli"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lip_sync"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alaska_Thunderfuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/America's_Got_Talent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/America's_Got_Talent_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1983_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eureka_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eve_(rapper)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Flamingo_Las_Vegas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Nevada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paris_Hilton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dimitri_Vegas_&_Like_Mike"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kahanna_Montrese"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Asia_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_LGBT_musicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:America's_Got_Talent_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Modesto,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kameron_Michaels"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katy_Perry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kim_Chi_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Tonight_Show"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dig_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Play_(concert_residency)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Polyamory"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Impersonator"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Naomi_Smalls"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rebel_Heart_Tour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shannel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sharknado:_The_4th_Awakens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul_discography"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_performer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Derrick_Barry_and_Bob_the_Drag_Queen_by_dvsross.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://derrickbarry.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q26689598"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u062f\u0631\u06cc\u06a9_\u0628\u0631\u06cc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Derrick_Barry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2W6zR"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category-inline"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Tooltip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:America's_Got_Talent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rupaul_Dragcon_2018-307_(41377493234).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1983-07-18"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Derrick Prentice Barry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Barry at RuPaul's DragCon LA in 2018"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "http://dbpedia.org/resource/America's_Got_Talent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Impersonator"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/website",
+        "object": "http://derrickbarry.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2003"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Derrick Prentice Barry (born July 18, 1983) is an American drag performer, Britney Spears impersonator and reality television personality. He is best known for competing on the third season of America's Got Talent (2008), and later the eighth season of RuPaul's Drag Race (2016) and fifth season of RuPaul's Drag Race All Stars (2020)."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Derrick Barry est une drag queen am\u00e9ricaine, imitatrice de Britney Spears et personnalit\u00e9 t\u00e9l\u00e9vis\u00e9e. Il est plus connu pour sa participation \u00e0 la troisi\u00e8me saison de la comp\u00e9tition America's Got Talent, puis plus tard \u00e0 la huiti\u00e8me saison de RuPaul's Drag Race et \u00e0 la cinqui\u00e8me saison de RuPaul's Drag Race: All Stars. En juin 2019, New York magazine nomme Derrick Barry l'une des cent drag queen les plus puissantes en Am\u00e9rique."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Derrick_Barry?oldid=1121612951&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "26300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2003"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Derrick Prentice Barry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1983"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/America's_Got_Talent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Impersonator"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Derrick_Barry__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Derrick_Barry>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Derrick_Barry"
+    }
+]

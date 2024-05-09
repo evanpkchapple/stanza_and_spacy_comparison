@@ -1,0 +1,627 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Allen Secher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rabbi Allen Secher (born February 14, 1935) is a rabbi, civil and human rights activist,radio host, television producer, actor, author and public speaker."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Allen Secher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Allen Secher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Pittsburgh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Pittsburgh, Pennsylvania, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1935-02-14"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Renewal_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1935_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Whitefish,_Montana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Brandeis_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "55164989"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1106928458"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rod_McKuen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brandeis_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian's_Song"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brian_Schweitzer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bridget_Loves_Bernie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Birney"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Renewal_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peabody_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_B._Spencer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Pittsburgh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Interfaith_marriage"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1935_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maya_Angelou"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chicago_International_Film_Festival"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ordination"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Civil_Rights_Act_of_1964"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Civil_rights_movement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Whitefish,_Montana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eleanor_Roosevelt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Elie_Wiesel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ellen_Burstyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emmy_Award"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Freedom_Riders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Montana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Montana_Public_Radio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morrie_Schwartz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whitefish_Theatre_Company"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antisemitism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Butler,_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Whitefish,_Montana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doctor_of_Divinity"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Coen_Brothers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Irene_Kaufmann_Settlement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Federation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Renewal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albany,_Georgia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alt-right"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Forces_Network"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dalton_Trumbo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/North_Valley_Hospital_(Montana)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Central_Conference_of_American_Rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College-Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel_S._Dresner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Philosophy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Daily_Stormer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Brandeis_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Pennsylvania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Cassavetes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kalispell_Regional_Medical_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tuesdays_with_Morrie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marcus_Welby,_M.D."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pittsburgh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St._Augustine,_Florida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St._Augustine_movement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Civil_and_political_rights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Great_American_Songbook"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Interfaith_dialogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meredith_Baxter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mexico_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Conference_for_Community_and_Justice"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ray_Bradbury"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chabad_house"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Master_of_Social_Work"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/White_nationalism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/I_Never_Saw_Another_Butterfly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Temple_Ahavat_Shalom_Northridge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Concentration_camp_Theresienstadt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://loveliveshereflathead.org/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=hBjE-uhIEZ8C&pg=PA140&lpg=PA140&dq=emmy+Choosing+One%E2%80%99s+Way:+Resistance+in+Auschwitz-Birkenau&source=bl&ots=ASwOWd3lHv&sig=gkD9n0n_-6tV6vyFUXVZjKSGVgM&hl=en&sa=X&ved=0ahUKEwi-hvjz0YzWAhVBj5QKHQcDBroQ6AEILjAC%23v=onepage&q=emmy%20Choosing%20One%E2%80%99s%20Way%3A%20Resistance%20in%20Auschwitz-Birkenau&f=false"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.youtube.com/watch%3Fv=PGd2II2PYGg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q38846837"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/3b4Hf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Isbn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1935-02-14"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/property/birthname",
+        "object": "Allen Secher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, civil and human rights activist, radio host, television producer and director, actor, author and public speaker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "1960.0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rabbi Allen Secher (born February 14, 1935) is a rabbi, civil and human rights activist,radio host, television producer, actor, author and public speaker."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Allen_Secher?oldid=1106928458&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "24299"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "1960"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Allen Secher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1935"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Allen_Secher__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Allen_Secher>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Allen_Secher"
+    }
+]

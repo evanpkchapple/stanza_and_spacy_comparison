@@ -1,0 +1,537 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q36180"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Writer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Simon Nasch\u00e9r"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Sinai Simon Nasch\u00e9r (16 March 1841 \u2013 25 July 1901) was a Hungarian Jewish religious leader and writer."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Sinai Simon Nasch\u00e9r"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Sinai Simon Nasch\u00e9r"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon_Nascher.png"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Liptovsk\u00fd_Mikul\u00e1\u0161"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Kingdom_of_Hungary_(1526\u20131867)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Austria-Hungary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Baja,_Hungary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Austria-Hungary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/Baja,_Hungary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1901-07-25"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Liptovsk\u00fd_Mikul\u00e1\u0161"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Kingdom_of_Hungary_(1526\u20131867)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1841-03-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Slovak_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Baja,_Hungary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1841_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hungarian_writers_in_German"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1901_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hungarian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Berlin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Berlin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Liptovsk\u00fd_Mikul\u00e1\u0161"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "66075480"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "996201365"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berlin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bielsko-Bia\u0142a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Allgemeine_Zeitung_des_Judentums"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Humboldt_University_of_Berlin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mental_health"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Slovak_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liptovsk\u00fd_Mikul\u00e1\u0161"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Baja,_Hungary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leopold_L\u00f6w"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Austria-Hungary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Austrian_Silesia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baja,_Hungary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1841_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hungarian_writers_in_German"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1901_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hungarian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Berlin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Berlin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Liptovsk\u00fd_Mikul\u00e1\u0161"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hochschule_f\u00fcr_die_Wissenschaft_des_Judentums"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kingdom_of_Hungary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kingdom_of_Hungary_(1526\u20131867)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maggid"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Semikhah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gymnasium_(school)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.jewishencyclopedia.com/articles/11327-nascher-sinai-simon%7Cfirst1=Isidore%7Clast1=Singer%7Cfirst2=Ludwig%7Clast2=Venetianer%7Cvolume=9%7Cpage=170"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/5455666%7Ctitle=Der"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=9thRAAAAcAAJ"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=QS0pwQEACAAJ%7Ctitle=Wissenschaftliche"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=n7VUoDoxezcC%7Cpublisher=Louis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=uhPWxe8dzEUC%7Cpublisher=Verlag"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=y8y_Sod0TvcC%7Ctitle=Einflu%C3%9F"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://books.google.com/books%3Fid=zYPtVcHKmRAC"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/137309643"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/81518071"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q94942175"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/ADzb9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_book"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_journal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Ill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_writer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Jewish_Encyclopedia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:R"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Simon_Nascher.png?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/article",
+        "object": "Nascher, Sinai Simon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1841-03-16"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1901-07-25"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/honorificPrefix",
+        "object": "Rabbi Dr."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/imageSize",
+        "object": "200"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/language",
+        "object": "http://dbpedia.org/resource/German_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, writer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/property/url",
+        "object": "http://www.jewishencyclopedia.com/articles/11327-nascher-sinai-simon%7Cfirst1=Isidore%7Clast1=Singer%7Cfirst2=Ludwig%7Clast2=Venetianer%7Cvolume=9%7Cpage=170"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Sinai Simon Nasch\u00e9r (16 March 1841 \u2013 25 July 1901) was a Hungarian Jewish religious leader and writer."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Simon_Nasch\u00e9r?oldid=996201365&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "7537"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/language",
+        "object": "http://dbpedia.org/resource/German_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Simon_Nasch\u00e9r>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Simon_Nasch\u00e9r"
+    }
+]

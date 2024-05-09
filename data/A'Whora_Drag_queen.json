@@ -1,0 +1,742 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "A'Whora"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "George Boyle (born 22 September 1996), better known by the stage name A'Whora, is a British drag queen from Worksop, England. He is best known for competing on the second series of RuPaul's Drag Race UK."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "A'Whora"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "A'Whora"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52073488734).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Worksop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Worksop, England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1996-09-22"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1996_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Nottingham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Streatham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Worksop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_UK_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "66120798"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1122303517"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cardiff"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK_(series_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bimini_Bon-Boulash"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bimini_Bon_Boulash"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Birmingham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brighton_Centre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Derby_Arena"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Little_Mix"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pavilion_Theatre_(Bournemouth)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Usher_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Venue_Cymru"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vogue_Italia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Confetti_(Little_Mix_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mayflower_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melbourne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/SEC_Armadillo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Theatre_Oxford"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Glasgow"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Globe_Theatre,_Stockton-on-Tees"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Official_Big_Top_40"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Only_Way_Is_Essex"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leeds"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liverpool"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liverpool_Empire_Theatre"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_College_of_Fashion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London_Palladium"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manchester"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manchester_Opera_House"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Streatham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cliffs_Pavilion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Music_Hall_Aberdeen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1996_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Nottingham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Streatham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Worksop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_UK_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brisbane"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bristol_Hippodrome"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Celebrity_Ex_on_the_Beach_(British_series_2)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Celebrity_Karaoke_Club"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torquay"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/UK_Singles_Chart"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wellington"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adelaide"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amsterdam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Regent_Theatre,_Ipswich"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/H&M"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/International_Convention_Centre_Wales"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor's_degree"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tayce"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Anvil,_Basingstoke"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Auckland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Lewis_&_Partners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lawrence_Chaney"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sydney"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Symphony_Hall,_Birmingham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mansfield"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Plymouth_Pavilions"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portsmouth_Guildhall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/South_London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Southampton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St_David's_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St_George's_Hall,_Bradford"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ITV2"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ITVBe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kurt_Geiger"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newcastle_City_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newcastle_upon_Tyne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Opera_House_Theatre,_Blackpool"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sheffield"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sheffield_City_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Worksop"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_of_Wonder_(company)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nottingham_Royal_Concert_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Worksop,_England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q105023173"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/Fr5ZK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Instagram"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/A"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Small"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52073488734).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1996-09-22"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "George Boyle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "A'Whora at RuPaul's DragCon LA, 2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2018"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "George Boyle (born 22 September 1996), better known by the stage name A'Whora, is a British drag queen from Worksop, England. He is best known for competing on the second series of RuPaul's Drag Race UK."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/A'Whora?oldid=1122303517&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "11385"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2018"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "George Boyle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1996"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/A'Whora__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'Whora>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/A'Whora"
+    }
+]

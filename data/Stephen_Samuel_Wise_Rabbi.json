@@ -1,0 +1,1532 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanActivists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAustro-HungarianEmigrantsToTheUnitedStates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatColumbiaUniversityAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromBudapest"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromNewYork"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Disputant109615465"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Emigrant110051975"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Migrant110314952"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Militant110315837"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Politician110450303"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Reformer110515194"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ReligiousLeader110519494"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ReligiousPerson109628382"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishAmericanPoliticians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishAmericanWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishReligiousLeaders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Traveler109629752"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0633\u062a\u064a\u0641\u0646 \u0635\u0645\u0648\u0626\u064a\u0644 \u0648\u0627\u064a\u0632"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Stephen Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Stephen Samuel Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Stephen Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Stephen Samuel Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u30b9\u30c6\u30a3\u30fc\u30f4\u30f3\u30fb\u30b5\u30df\u30e5\u30a8\u30eb\u30fb\u30ef\u30a4\u30ba"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Stephen Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Stephen Samuel Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u65af\u8482\u82ac\u00b7\u585e\u7f2a\u5c14\u00b7\u6000\u65af"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0633\u062a\u064a\u0641\u0646 \u0635\u0645\u0648\u0626\u064a\u0644 \u0648\u0627\u064a\u0632 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Stephen Samuel Wise)\u200f \u0647\u0648 \u062d\u0627\u062e\u0627\u0645 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 17 \u0645\u0627\u0631\u0633 1874 \u0641\u064a \u0628\u0648\u062f\u0627\u0628\u0633\u062a \u0641\u064a \u0627\u0644\u0645\u062c\u0631\u060c \u0648\u062a\u0648\u0641\u064a \u0641\u064a 19 \u0623\u0628\u0631\u064a\u0644 1949 \u0641\u064a \u0646\u064a\u0648\u064a\u0648\u0631\u0643 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Stephen Samuel Wise (geboren 17. M\u00e4rz 1874 in Budapest, \u00d6sterreich-Ungarn; gestorben 19. April 1949 in New York City) war ein US-amerikanischer Rabbiner und f\u00fchrender Zionist. Er gr\u00fcndete den J\u00fcdischen Weltkongress und war 1936 bis 1949 dessen erster Pr\u00e4sident."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Stephen Samuel Wise (n\u00e9 Weisz, le 17 mars 1874, d\u00e9c\u00e9d\u00e9 le 19 avril 1949), couramment appel\u00e9 le rabbin Wise, est un rabbin am\u00e9ricain d'origine austro-hongroise et un militant sioniste et des droits civiques, participant au lancement de la National Association for the Advancement of Colored People."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Stephen Samuel Wise (March 17, 1874 \u2013 April 19, 1949) was an early 20th-century American Reform rabbi and Zionist leader in the Progressive Era. Born in Budapest, he was an infant when his family immigrated to New York. He followed his father and grandfather in becoming a rabbi, serving in New York and in Portland, Oregon. Wise was also a founding member of the NAACP."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Stephen Samuel Wise (17 Maret 1874 \u2013 19 April 1949) adalah seorang rabi Reformasi Amerika Serikat awal abad ke-20 dan pemimpin Zionis pada . Lahir di Budapest, ia masih bayi ketika keluarganya berimigrasi ke New York. Ia mengikuti ayah dan kakeknya menjadi rabi, melayani di New York dan Portland, Oregon. Wise juga merupakan anggota pendiri ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Stephen Samuel Wise (Boedapest, 17 maart 1874 \u2013 New York, 19 april 1949) was een Amerikaanse rabbijn. Hij was een vooraanstaand persoon in de zionistische beweging en de eerste voorzitter van het Joods Wereldcongres."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u30b9\u30c6\u30a3\u30fc\u30f4\u30f3\u30fb\u30b5\u30df\u30e5\u30a8\u30eb\u30fb\u30ef\u30a4\u30ba\uff08Stephen Samuel Wise (Weisz Istv\u00e1n S\u00e1muel), 1874\u5e743\u670817\u65e5 - 1949\u5e744\u670819\u65e5\uff09\u306f\u30e9\u30d3\u3067\u3001\u30a2\u30e1\u30ea\u30ab\u306e\u30e6\u30c0\u30e4\u6559\u306b\u304a\u3051\u308b\u6539\u9769\u6d3e\u904b\u52d5\u306e\u6307\u5c0e\u8005\u3002 \u30f4\u30a1\u30a4\u30b9\u5bb6\u306f\u3001\u9996\u5e2d\u30e9\u30d3\u3092\u51fa\u3057\u305f\u30cf\u30f3\u30ac\u30ea\u30fc\u306e\u30e9\u30d3\u4e00\u65cf\u3002\u30d6\u30c0\u30da\u30b7\u30e5\u30c8\u3067\u30e9\u30d3\u30fb\u30a2\u30fc\u30ed\u30f3\u30fb\u30f4\u30a1\u30a4\u30b9\u3092\u7236\u306b\u751f\u307e\u308c\u308b\u3002 (Jewish Institute for Religion) \u3092\u8a2d\u7acb\u3057\u305f\u3002 \u3053\u306e\u5b66\u6821\u306f1950\u5e74\u306b\u30e9\u30d3\u306e\u4e2d\u5fc3\u7684\u306a\u990a\u6210\u6a5f\u95a2\u3001\u30d2\u30fc\u30d6\u30eb\u30fc\u30fb\u30e6\u30cb\u30aa\u30f3\u30fb\u30ab\u30ec\u30c3\u30b8\u3068\u5408\u4f75\u3057\u305f\u3002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u65af\u8482\u82ac\u00b7\u585e\u7f2a\u5c14\u00b7\u6000\u65af\uff08\u82f1\u8a9e\uff1aStephen Samuel Wise\uff0c1874\u5e74\uff0d1949\u5e74\uff09\uff0c\u5308\u7259\u5229\u88d4\u7684\u7f8e\u56fd\u5b97\u6559\u9886\u8896\uff0c\u6fc0\u8fdb\u7684\u72b9\u592a\u590d\u56fd\u4e3b\u4e49\u8005\u4e14\u662f\u7684\u521b\u59cb\u4eba\uff081936\u5e74\uff09\u3002 \u751f\u4e8e\u5965\u5308\u5e1d\u56fd\u65f6\u671f\u7684\u5e03\u8fbe\u4f69\u65af\u3002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Stephen Samuel Wise (17 de marzo de 1874, Budapest, Hungr\u00eda - 19 de abril de 1949, Nueva York, Estados Unidos) fue un rabino reformista, activista pol\u00edtico y l\u00edder sionista estadounidense de origen h\u00fangaro."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Stephen Samuel Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2004/02/skos/core#exactMatch",
+        "object": "http://globalwordnet.org/ili/i97458"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Stephen Samuel Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Wise_800.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephen_Samuel_Wise.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/\u05e7\u05e8\u05d9\u05ea_\u05e2\u05e0\u05d1\u05d9\u05dd_-_\u05d1\u05d9\u05e7\u05d5\u05e8\u05d5_\u05e9\u05dc_\u05e1\u05d8\u05d9\u05e4\u05df_\u05d5\u05d5\u05d9\u05d6.-JNF044680.jpeg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/World_Jewish_Congress_War_Emergency_Conference_Atlantic_City_1944.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Austria-Hungary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Budapest"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Transleithania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/New_York_City,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "New York City, New York, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1949-04-19"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Austria-Hungary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Budapest"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Transleithania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1874-03-17"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_Congress"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Budapest"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1949_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Hungarian-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Austro-Hungarian_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Burials_at_Westchester_Hills_Cemetery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Columbia_College_(New_York)_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1874_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Zionists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_people_in_New_York_(state)_politics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Reform_Zionists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "749954"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1111138840"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saul_Friedl\u00e4nder"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1924_Democratic_National_Convention"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_Congress"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Basel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bates_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Kranzler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Wyman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Democratic_Party_(United_States)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Budapest"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Julian_Mack"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_James_Horatio_Gottheil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rishon_LeZion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_P._Steinmetz_Memorial_Lecture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Invocation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Solomon_ibn_Gabirol"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Congregation_Baith_Israel_Anshei_Emes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Congregation_Beth_Israel_(Portland,_Oregon)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cordell_Hull"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mausoleum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louise_Waterman_Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/City_College_of_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Franklin_D._Roosevelt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/NAACP"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nahum_Goldmann"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Congregation_Rodeph_Sholom_(Manhattan)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservative_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Theodor_Herzl"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anti-Nazi_boycott_of_1933"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arabic_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bergson_Group"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_Brandeis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_S._Wise_Temple"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stephen_Wise_Free_Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zionist_Organization_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doctor_of_humane_letters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Keren_Hayesod"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leo_Motzkin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Austria-Hungary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Balfour_declaration"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1949_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Hungarian-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Austro-Hungarian_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Burials_at_Westchester_Hills_Cemetery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Columbia_College_(New_York)_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Budapest"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transleithania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Westchester_Hills_Cemetery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doctor_of_Philosophy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_College_of_Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_question"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aaron_Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adolf_Hitler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agudath_Harabonim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Al_Smith"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_Einstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alexander_Kohut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Israel_Public_Affairs_Committee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Jewish_Congress"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Jewish_Historical_Society"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1874_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Felix_Frankfurter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Final_Solution"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German-occupied_Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Hirsch_Weiss"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/M\u00f3ric_Fischer_de_Farkash\u00e1zy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Progressive_Era"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haifa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hamidian_massacres"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hastings-on-Hudson,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henry_Abramson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel_Museum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacob_Billikopf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Holocaust"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Federation_of_American_Zionists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Zionists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_people_in_New_York_(state)_politics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Reform_Zionists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerome_Davis_(sociologist)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joel_Elias_Spingarn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Justine_W._Polier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sumner_Welles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Suriname"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zionism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pittsburgh_Platform"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Portland,_Oregon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Social_Gospel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Claire_Mouradian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Howard_Sachar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rafael_Medoff"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Woodrow_Wilson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_Jewish_Congress"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_Zionist_Organization"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Slattery_Report"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/We_Will_Never_Die"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Riegner_Telegram"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gerhart_M_Riegner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/B'nai_Jeshurun_(Manhattan,_New_York)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Committee_on_Armenian_Atrocities"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Independence_Hall_(United_States)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Political_Zionism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Petah_Tikvah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adolph_Jellinek"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isaac_Nachman_Steinberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Zionist_Emergency_Council"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Doctor_Stephen_S._Wise,_Rabbi_of_the_Free_Synagogue,_has_become_a_laborer_in_the_shipbuilding_yards_of_the_Luder_Marine_-_NARA_-_533712.tif"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Rabbi_Wise_800.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:World_Jewish_Congress_War_Emergency_Conference_Atlantic_City_1944.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:\u05e7\u05e8\u05d9\u05ea_\u05e2\u05e0\u05d1\u05d9\u05dd_-_\u05d1\u05d9\u05e7\u05d5\u05e8\u05d5_\u05e9\u05dc_\u05e1\u05d8\u05d9\u05e4\u05df_\u05d5\u05d5\u05d9\u05d6.-JNF044680.jpeg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Herend_Porcelain_Company"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oregon_State_Conference_of_Charities_and_Correction"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peoples'_Forum_of_Oregon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Beth_Israel_Pulpit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Improvement_of_the_Moral_Qualities"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.jewishvirtuallibrary.org/jsource/biography/wise.html"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://library.gwu.edu/ead/k0002.xml"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://jewishhistorylectures.org/2013/05/03/stephen-samuel-wise-and-the-jews-of-america/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.clevelandjewishhistory.net/silver/endnotes.html%23wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20121024062238/http:/www.worldjewishcongress.org/en/biography/51"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.pbs.org/wgbh/amex/holocaust/peopleevents/pandeAMEX101.html"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.jewishencyclopedia.com/view.jsp%3Fartid=216&letter=W"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://digifindingaids.cjh.org/%3FpID=365016"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.03842k"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/117412791"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/10622689"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Stephen_Samuel_Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/178043567"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/183627016"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q1636973"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p117319368"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0633\u062a\u064a\u0641\u0646_\u0635\u0645\u0648\u0626\u064a\u0644_\u0648\u0627\u064a\u0632"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0633\u062a\u064a\u0641\u0646_\u0648\u0627\u064a\u0632_(\u062d\u0627\u062e\u0627\u0645)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Stephen_Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Stephen_Samuel_Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Stephen_Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05e1\u05d8\u05d9\u05d1\u05df_\u05e9\u05de\u05d5\u05d0\u05dc_\u05d5\u05d9\u05d9\u05d6"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://id.dbpedia.org/resource/Stephen_Samuel_Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ja.dbpedia.org/resource/\u30b9\u30c6\u30a3\u30fc\u30f4\u30f3\u30fb\u30b5\u30df\u30e5\u30a8\u30eb\u30fb\u30ef\u30a4\u30ba"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nl.dbpedia.org/resource/Stephen_Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ro.dbpedia.org/resource/Stephen_Samuel_Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://tr.dbpedia.org/resource/Stephen_Samuel_Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://zh.dbpedia.org/resource/\u65af\u8482\u82ac\u00b7\u585e\u7f2a\u5c14\u00b7\u6000\u65af"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/cgJW"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:World_Jewish_Congress"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_book"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Other_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Wikiquote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Gutenberg_author"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Internet_Archive_author"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Stephen_Samuel_Wise.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1874-03-17"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Stephen Samuel Weisz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "Justine W. Polier, James W. Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1949-04-19"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "Columbia University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/id",
+        "object": "Wise,+Stephen+S.+"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, writer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "http://dbpedia.org/resource/Louise_Waterman_Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0633\u062a\u064a\u0641\u0646 \u0635\u0645\u0648\u0626\u064a\u0644 \u0648\u0627\u064a\u0632 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Stephen Samuel Wise)\u200f \u0647\u0648 \u062d\u0627\u062e\u0627\u0645 \u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 17 \u0645\u0627\u0631\u0633 1874 \u0641\u064a \u0628\u0648\u062f\u0627\u0628\u0633\u062a \u0641\u064a \u0627\u0644\u0645\u062c\u0631\u060c \u0648\u062a\u0648\u0641\u064a \u0641\u064a 19 \u0623\u0628\u0631\u064a\u0644 1949 \u0641\u064a \u0646\u064a\u0648\u064a\u0648\u0631\u0643 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Stephen Samuel Wise (geboren 17. M\u00e4rz 1874 in Budapest, \u00d6sterreich-Ungarn; gestorben 19. April 1949 in New York City) war ein US-amerikanischer Rabbiner und f\u00fchrender Zionist. Er gr\u00fcndete den J\u00fcdischen Weltkongress und war 1936 bis 1949 dessen erster Pr\u00e4sident."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Stephen Samuel Wise (17 de marzo de 1874, Budapest, Hungr\u00eda - 19 de abril de 1949, Nueva York, Estados Unidos) fue un rabino reformista, activista pol\u00edtico y l\u00edder sionista estadounidense de origen h\u00fangaro. Su familia emigr\u00f3 a los Estados Unidos cuando \u00e9l era apenas un ni\u00f1o. Estudi\u00f3 en el y obtuvo su doctorado en la Universidad de Columbia el a\u00f1o de 1901 con una formaci\u00f3n de rabino. En 1898 asisti\u00f3 al Segundo Congreso Sionista que dio como resultado la fundaci\u00f3n de la Organizaci\u00f3n Sionista de Am\u00e9rica. En 1907, despu\u00e9s de rehusar un puesto en una congregaci\u00f3n importante debido a la falta de libertad de expresi\u00f3n en el p\u00falpito, fund\u00f3 la Sinagoga Libre. Wise fue un notable miembro del Partido Dem\u00f3crata de los Estados Unidos, y un amigo cercano del presidente Franklin Delano Roosevelt. Wise ayud\u00f3 a lograr que el Gobierno federal estadounidense aprobara la Declaraci\u00f3n Balfour. En 1922 Wise fund\u00f3 el Instituto Jud\u00edo de Religi\u00f3n, un seminario rab\u00ednico reformista, que en 1950 se fusion\u00f3 con el Colegio de la Uni\u00f3n Hebrea (en ingl\u00e9s: Hebrew Union College). Wise era miembro del Congreso Jud\u00edo Mundial."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Stephen Samuel Wise (n\u00e9 Weisz, le 17 mars 1874, d\u00e9c\u00e9d\u00e9 le 19 avril 1949), couramment appel\u00e9 le rabbin Wise, est un rabbin am\u00e9ricain d'origine austro-hongroise et un militant sioniste et des droits civiques, participant au lancement de la National Association for the Advancement of Colored People."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Stephen Samuel Wise (March 17, 1874 \u2013 April 19, 1949) was an early 20th-century American Reform rabbi and Zionist leader in the Progressive Era. Born in Budapest, he was an infant when his family immigrated to New York. He followed his father and grandfather in becoming a rabbi, serving in New York and in Portland, Oregon. Wise was also a founding member of the NAACP."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Stephen Samuel Wise (17 Maret 1874 \u2013 19 April 1949) adalah seorang rabi Reformasi Amerika Serikat awal abad ke-20 dan pemimpin Zionis pada . Lahir di Budapest, ia masih bayi ketika keluarganya berimigrasi ke New York. Ia mengikuti ayah dan kakeknya menjadi rabi, melayani di New York dan Portland, Oregon. Wise juga merupakan anggota pendiri ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Stephen Samuel Wise (Boedapest, 17 maart 1874 \u2013 New York, 19 april 1949) was een Amerikaanse rabbijn. Hij was een vooraanstaand persoon in de zionistische beweging en de eerste voorzitter van het Joods Wereldcongres."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u30b9\u30c6\u30a3\u30fc\u30f4\u30f3\u30fb\u30b5\u30df\u30e5\u30a8\u30eb\u30fb\u30ef\u30a4\u30ba\uff08Stephen Samuel Wise (Weisz Istv\u00e1n S\u00e1muel), 1874\u5e743\u670817\u65e5 - 1949\u5e744\u670819\u65e5\uff09\u306f\u30e9\u30d3\u3067\u3001\u30a2\u30e1\u30ea\u30ab\u306e\u30e6\u30c0\u30e4\u6559\u306b\u304a\u3051\u308b\u6539\u9769\u6d3e\u904b\u52d5\u306e\u6307\u5c0e\u8005\u3002 \u30f4\u30a1\u30a4\u30b9\u5bb6\u306f\u3001\u9996\u5e2d\u30e9\u30d3\u3092\u51fa\u3057\u305f\u30cf\u30f3\u30ac\u30ea\u30fc\u306e\u30e9\u30d3\u4e00\u65cf\u3002\u30d6\u30c0\u30da\u30b7\u30e5\u30c8\u3067\u30e9\u30d3\u30fb\u30a2\u30fc\u30ed\u30f3\u30fb\u30f4\u30a1\u30a4\u30b9\u3092\u7236\u306b\u751f\u307e\u308c\u308b\u3002 (Jewish Institute for Religion) \u3092\u8a2d\u7acb\u3057\u305f\u3002 \u3053\u306e\u5b66\u6821\u306f1950\u5e74\u306b\u30e9\u30d3\u306e\u4e2d\u5fc3\u7684\u306a\u990a\u6210\u6a5f\u95a2\u3001\u30d2\u30fc\u30d6\u30eb\u30fc\u30fb\u30e6\u30cb\u30aa\u30f3\u30fb\u30ab\u30ec\u30c3\u30b8\u3068\u5408\u4f75\u3057\u305f\u3002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u65af\u8482\u82ac\u00b7\u585e\u7f2a\u5c14\u00b7\u6000\u65af\uff08\u82f1\u8a9e\uff1aStephen Samuel Wise\uff0c1874\u5e74\uff0d1949\u5e74\uff09\uff0c\u5308\u7259\u5229\u88d4\u7684\u7f8e\u56fd\u5b97\u6559\u9886\u8896\uff0c\u6fc0\u8fdb\u7684\u72b9\u592a\u590d\u56fd\u4e3b\u4e49\u8005\u4e14\u662f\u7684\u521b\u59cb\u4eba\uff081936\u5e74\uff09\u3002 \u751f\u4e8e\u5965\u5308\u5e1d\u56fd\u65f6\u671f\u7684\u5e03\u8fbe\u4f69\u65af\u3002"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/10622689"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Stephen_Samuel_Wise?oldid=1111138840&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "24865"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Stephen Samuel Weisz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1874"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1949"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/child",
+        "object": "http://dbpedia.org/resource/Justine_W._Polier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Doctor_of_Philosophy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Stephen_Samuel_Wise__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://dbpedia.org/ontology/spouse",
+        "object": "http://dbpedia.org/resource/Louise_Waterman_Wise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Stephen_Samuel_Wise>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Stephen_Samuel_Wise"
+    }
+]

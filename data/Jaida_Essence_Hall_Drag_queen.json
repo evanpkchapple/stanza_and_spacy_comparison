@@ -1,0 +1,822 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jaida Essence Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jaida Essence Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jaida Essence Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jaida Essence Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jaida Essence Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jaida Essence Hall (Milwaukee, 9 de desembre de 1986) nom art\u00edstic de Jared Johnson, una drag queen estatunidenca, coneguda principalment per haver guanyat la dotzena temporada de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jaida Essence Hall (9 de diciembre de 1986), es el nombre art\u00edstico de Jared Johnson, una drag queen estadounidense y personalidad de la telerrealidad m\u00e1s conocida por ganar la duod\u00e9cima temporada de RuPaul's Drag Race, y luego volver a competir en la s\u00e9ptima temporada de RuPaul's. Drag Race All Stars, una temporada con solo ganadoras del programa.\u200b Desde que se emiti\u00f3 su temporada en 2020, Hall ha participado en varias giras nacionales e internacionales junto con otras concursantes de Drag Race, incluidos Werq the World, A Drag Queen Christmas y Drive 'N Drag. En octubre de 2020, Johnson fue una de las artistas que apareci\u00f3 en el Savage X Fenty Fashion Show Vol. 2."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jared Johnson (born December 9, 1986), best known by the stage name Jaida Essence Hall, is an American drag queen and reality television personality best known for winning the twelfth season of RuPaul's Drag Race, and later returning to compete on the seventh season of RuPaul's Drag Race All Stars, an all-winners season. Since her season aired in 2020, Hall has been a staple of several domestic and international tours that feature Drag Race contestants, including Werq the World, A Drag Queen Christmas, and Drive 'N Drag. In October 2020, Johnson was a featured performer in Rihanna's Savage X Fenty Fashion Show Vol. 2."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jared Johnson, plus connu sous le nom de sc\u00e8ne Jaida Essence Hall, est un costumier, maquilleur et drag queen am\u00e9ricain, principalement connu pour avoir gagn\u00e9 la douzi\u00e8me saison de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jaida Essence Hall, pseudonimo di Jared Johnson (Milwaukee, 9 dicembre 1986), \u00e8 un personaggio televisivo e drag queen statunitense vincitore della dodicesima edizione di RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Jaida Essence Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://jaidaehall.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Jaida Essence Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Luck_Be_a_Lady-Treasure_Island_Casino_Welsh,_MN-Flip_Phone_Events.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Milwaukee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Milwaukee, Wisconsin, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1986-12-09"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Queer_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_African_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Milwaukee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1986_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_make-up_artists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "62908111"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123295488"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prince_(musician)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_11)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_12)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_13)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_14)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_6)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_7)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_Live!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beyonce"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bob_Fosse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Destiny's_Child"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Little_Richard"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Resorts_World_Las_Vegas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rihanna"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/VH1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stage_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christina_Aguilera"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_View_(talk_show)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Queer_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Madonna:_The_Unauthorized_Rusical"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silky_Nutmeg_Ganache"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yvie_Oddly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1999_(Prince_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ava_Max"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_African_Americans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/COVID-19_pandemic_in_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Milwaukee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/TikTok"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ti\u00ebsto"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trinity_the_Tuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trixie_Motel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Watch_What_Happens_Live_with_Andy_Cohen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Werq_the_World"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Allis,_Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drive-in"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drive_'N_Drag"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/46th_People's_Choice_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1986_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Wisconsin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eureka_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Flamingo_Las_Vegas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Good_Golly_Miss_Molly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hamburger_Mary's"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heidi_N_Closet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Social_distancing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Attitude_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/A_Drag_Queen_Christmas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_make-up_artists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katy_Perry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Survivor_(Destiny's_Child_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Symone_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Play_(concert_residency)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Green_Light_(Beyonce_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milwaukee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Milwaukee_Bucks"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orville_Peck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shania_Twain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Daily_Show_with_Trevor_Noah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bring_Back_My_Ghouls"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q95684633"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ca.dbpedia.org/resource/Jaida_Essence_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Jaida_Essence_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u062c\u06cc\u062f\u0627_\u0627\u0633\u0646\u0633_\u0647\u0648\u0644"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Jaida_Essence_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Jaida_Essence_Hall"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/BwjY6"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:!"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Official_website"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Small"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:URL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:YouTube"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Luck_Be_a_Lady-Treasure_Island_Casino_Welsh,_MN-Flip_Phone_Events.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1986-12-09"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Jared Johnson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/id",
+        "object": "OSzNQX5zVeg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/predecessor",
+        "object": "http://dbpedia.org/resource/Yvie_Oddly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/successor",
+        "object": "http://dbpedia.org/resource/Symone_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/title",
+        "object": "Meet Jaida Essence Hall: 'The Essence Of Beauty'  RuPaul\u2019s Drag Race Season 12"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race All Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jaida Essence Hall (Milwaukee, 9 de desembre de 1986) nom art\u00edstic de Jared Johnson, una drag queen estatunidenca, coneguda principalment per haver guanyat la dotzena temporada de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jaida Essence Hall (9 de diciembre de 1986), es el nombre art\u00edstico de Jared Johnson, una drag queen estadounidense y personalidad de la telerrealidad m\u00e1s conocida por ganar la duod\u00e9cima temporada de RuPaul's Drag Race, y luego volver a competir en la s\u00e9ptima temporada de RuPaul's. Drag Race All Stars, una temporada con solo ganadoras del programa.\u200b Desde que se emiti\u00f3 su temporada en 2020, Hall ha participado en varias giras nacionales e internacionales junto con otras concursantes de Drag Race, incluidos Werq the World, A Drag Queen Christmas y Drive 'N Drag. En octubre de 2020, Johnson fue una de las artistas que apareci\u00f3 en el Savage X Fenty Fashion Show Vol. 2."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jared Johnson (born December 9, 1986), best known by the stage name Jaida Essence Hall, is an American drag queen and reality television personality best known for winning the twelfth season of RuPaul's Drag Race, and later returning to compete on the seventh season of RuPaul's Drag Race All Stars, an all-winners season. Since her season aired in 2020, Hall has been a staple of several domestic and international tours that feature Drag Race contestants, including Werq the World, A Drag Queen Christmas, and Drive 'N Drag. In October 2020, Johnson was a featured performer in Rihanna's Savage X Fenty Fashion Show Vol. 2."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jared Johnson, plus connu sous le nom de sc\u00e8ne Jaida Essence Hall, est un costumier, maquilleur et drag queen am\u00e9ricain, principalement connu pour avoir gagn\u00e9 la douzi\u00e8me saison de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jaida Essence Hall, pseudonimo di Jared Johnson (Milwaukee, 9 dicembre 1986), \u00e8 un personaggio televisivo e drag queen statunitense vincitore della dodicesima edizione di RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Jaida_Essence_Hall?oldid=1123295488&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "35802"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Jared Johnson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1986"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Jaida_Essence_Hall__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/predecessor",
+        "object": "http://dbpedia.org/resource/Yvie_Oddly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://dbpedia.org/ontology/successor",
+        "object": "http://dbpedia.org/resource/Symone_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jaida_Essence_Hall>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Jaida_Essence_Hall"
+    }
+]

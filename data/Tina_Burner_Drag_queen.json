@@ -1,0 +1,432 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tina Burner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Tina Burner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Kristian Seeber (10 de noviembre de 1980), conocido profesionalmente como Tina Burner, es una artista drag estadounidense m\u00e1s conocida por aparecer en y en la decimotercera temporada de RuPaul's Drag Race. Form\u00f3 parte de una boy band llamada 5th Ring."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Kristian Seeber (born November 10, 1980), known professionally as Tina Burner, is an American drag performer most known for appearing in Shade: Queens of NYC and on the thirteenth season of RuPaul's Drag Race. She was a part of a boy band named 5th Ring."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Tina Burner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Tina Burner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/DragCon_2022-156_(52075297806).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Lowville,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Lowville, New York, USA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Lowville,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "62383405"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1121746479"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_13)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Barracuda_Lounge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Blake_Allen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Graham_Norton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Boy_band"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_culture_in_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lowville,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_(clothing)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_LGBT_people_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_singers_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Lowville,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/IMDb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shade:_Queens_of_NYC"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicolas_Putvinski"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lowville,_NY"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.imdb.com/name/nm6786877/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q105061784"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Tina_Burner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/FSFYG"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/DragCon_2022-156_(52075297806).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Kristian Seeber"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Tina Burner at RuPaul's DragCon LA, 2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Shade: Queens of NYC"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race  7th Place"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Kristian Seeber (10 de noviembre de 1980), conocido profesionalmente como Tina Burner, es una artista drag estadounidense m\u00e1s conocida por aparecer en y en la decimotercera temporada de RuPaul's Drag Race. Form\u00f3 parte de una boy band llamada 5th Ring."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Kristian Seeber (born November 10, 1980), known professionally as Tina Burner, is an American drag performer most known for appearing in Shade: Queens of NYC and on the thirteenth season of RuPaul's Drag Race. She was a part of a boy band named 5th Ring."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Tina_Burner?oldid=1121746479&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "8113"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Kristian Seeber"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/Shade:_Queens_of_NYC"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Tina_Burner__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Tina_Burner>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Tina_Burner"
+    }
+]

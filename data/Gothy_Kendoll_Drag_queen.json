@@ -1,0 +1,397 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Gothy Kendoll"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Gothy Kendoll is the stage name of Samuel David Handley (born 19 June 1997), a drag queen, DJ and OnlyFans creator from Leicester. He is best known for his appearance on the first series of RuPaul's Drag Race UK and for appearing on the first series of the MTV series Celeb Ex in the City. He also released a single \"Switch\" in January 2021."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Gothy Kendoll"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Gothy Kendoll"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Leicester"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Leicestershire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Leicester, Leicestershire, England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1997-06-19"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1997_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:English_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Leicester"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_UK_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:OnlyFans_creators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "61574454"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1122305295"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_UK_(series_1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vinegar_Strokes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1997_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leicester"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leicestershire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:English_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Leicester"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_UK_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Divina_de_Campo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dua_Lipa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ex_on_the_Beach_(British_TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:OnlyFans_creators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Rules"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/OnlyFans"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Twink_(gay_slang)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTV_(UK)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q114355050"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/GoWxe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:LGBT-bio-stub"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1997-06-19"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Samuel David Handley"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "British"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race UK"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "Celeb Ex in the City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Gothy Kendoll is the stage name of Samuel David Handley (born 19 June 1997), a drag queen, DJ and OnlyFans creator from Leicester. He is best known for his appearance on the first series of RuPaul's Drag Race UK and for appearing on the first series of the MTV series Celeb Ex in the City. He also released a single \"Switch\" in January 2021."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Gothy_Kendoll?oldid=1122305295&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "10399"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Samuel David Handley"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1997"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Gothy_Kendoll__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gothy_Kendoll>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Gothy_Kendoll"
+    }
+]

@@ -1,0 +1,767 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatOrientalists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Absentee109757653"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Emigrant110051975"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Exile110071332"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Expert109617867"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Migrant110314952"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Orientalist110383689"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Refugee110516016"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGermanEmigrantsToTheUnitedKingdom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGermanOrientalists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishRefugees"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishTheologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Specialist110631941"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Theologian110705615"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Traveler109629752"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEthnicGermanPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromTheProvinceOfPosen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFrom\u015arem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0623\u0648\u064a\u062c\u0646 \u0645\u062a\u0641\u062e"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Eugen Mittwoch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Eugen Mittwoch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0623\u0648\u064a\u062c\u0646 \u0645\u0650\u062a\u0652\u0641\u064f\u062e (1293 - 1361 \u0647\u200d / 1876 - 1942 \u0645) \u0647\u0648 \u0645\u0633\u062a\u0634\u0631\u0642 \u0623\u0644\u0645\u0627\u0646\u064a\u060c \u0639\u0646\u064a \u0628\u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0639\u0631\u0628 \u0642\u0628\u0644 \u0627\u0644\u0625\u0633\u0644\u0627\u0645. \u0623\u0639\u0627\u062f \u0637\u0628\u0639 \u00ab\u062a\u0627\u0631\u064a\u062e \u0633\u0646\u064a \u0645\u0644\u0648\u0643 \u0627\u0644\u0623\u0631\u0636 \u0648\u0627\u0644\u0623\u0646\u0628\u064a\u0627\u0621\u00bb \u0644\u062d\u0645\u0632\u0629 \u0627\u0644\u0623\u0635\u0641\u0647\u0627\u0646\u064a."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Eugen Mittwoch (geboren am 4. Dezember 1876 in Schrimm bei Posen; gestorben am 8. November 1942 in London) war ein deutscher Orientalist. Er gilt als einer der Begr\u00fcnder der modernen Islamwissenschaften in Deutschland und als bedeutender j\u00fcdischer Gelehrter. Eugen Mittwoch war dar\u00fcber hinaus in beiden Weltkriegen nachrichtendienstlich t\u00e4tig: im Ersten Weltkrieg leitete er von 1916 bis 1918 im Auftrage des Ausw\u00e4rtigen Amtes die Nachrichtenstelle f\u00fcr den Orient, im Zweiten Weltkrieg arbeitete er im Londoner Exil in der von Ernst J\u00e4ckh geleiteten Nahostabteilung des Britischen Informationsministeriums."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Eugen Mittwoch (4 December 1876 \u2013 8 November 1942) was the founder of Modern Islamic Studies in Germany, and at the same time an eminent Jewish scholar."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Eugen Mittwoch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Eugen Mittwoch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Province_of_Posen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Prussia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/\u015arem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "London, England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1942-11-08"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Schrimm, Province of Posen, Prussia, Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1876-12-04"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_\u015arem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1875_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1942_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Researchers_of_Yemenite_Jewry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:German_male_non-fiction_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_emigrants_from_Nazi_Germany_to_the_United_Kingdom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:German_Jewish_theologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:German_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:German_orientalists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_orientalists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_the_Province_of_Posen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:German_emigrants_to_England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "40150640"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1107109353"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Jewish_Joint_Distribution_Committee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Amharic_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Province_of_Posen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prussia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bergen-Belsen_concentration_camp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aliyah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_\u015arem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ivrit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Max_Rudolf_Kaufmann"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Friedrich_Schrader"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ministry_of_Information_(United_Kingdom)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nahum_Goldmann"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shoah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u015arem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frankfurter_Zeitung"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1875_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1942_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Eduard_Sachau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ernst_J\u00e4ckh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Researchers_of_Yemenite_Jewry"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Islamic_studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Armenian_genocide"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_male_non-fiction_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_emigrants_from_Nazi_Germany_to_the_United_Kingdom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_Jewish_theologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_orientalists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_orientalists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_the_Province_of_Posen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_emigrants_to_England"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jihad"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johann_Wolfgang_von_Goethe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Young_Turks"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kristallnacht"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_I"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Imperial_Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Jewish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Falasha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nachrichtenstelle_f\u00fcr_den_Orient"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.jewishvirtuallibrary.org/jsource/judaica/ejud_0002_0014_0_14014.html"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://lissanonline.com/blog/%3Fp=81"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0wk2ctq"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Eugen_Mittwoch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/34782196"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/117065617"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q106013"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p071177760"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0623\u0648\u064a\u062c\u0646_\u0645\u062a\u0641\u062e"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0627\u0648\u064a\u062c\u0646_\u0645\u062a\u0641\u062e"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://azb.dbpedia.org/resource/\u0627\u0648\u06cc\u0642\u0646_\u0645\u06cc\u062a\u0648\u0648\u062e"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Eugen_Mittwoch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u0627\u0648\u06cc\u06af\u0646_\u0645\u06cc\u062a\u0648\u0648\u062e"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/8esA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Ill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "Berlin University, Rabbinical Seminary of Berlin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1876-12-04"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1942-11-08"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "Ph. D., Islamic Studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "Prussian, German, British"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Jewish Theologist, Rabbi, Orientalist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0623\u0648\u064a\u062c\u0646 \u0645\u0650\u062a\u0652\u0641\u064f\u062e (1293 - 1361 \u0647\u200d / 1876 - 1942 \u0645) \u0647\u0648 \u0645\u0633\u062a\u0634\u0631\u0642 \u0623\u0644\u0645\u0627\u0646\u064a\u060c \u0639\u0646\u064a \u0628\u062a\u0627\u0631\u064a\u062e \u0627\u0644\u0639\u0631\u0628 \u0642\u0628\u0644 \u0627\u0644\u0625\u0633\u0644\u0627\u0645. \u0623\u0639\u0627\u062f \u0637\u0628\u0639 \u00ab\u062a\u0627\u0631\u064a\u062e \u0633\u0646\u064a \u0645\u0644\u0648\u0643 \u0627\u0644\u0623\u0631\u0636 \u0648\u0627\u0644\u0623\u0646\u0628\u064a\u0627\u0621\u00bb \u0644\u062d\u0645\u0632\u0629 \u0627\u0644\u0623\u0635\u0641\u0647\u0627\u0646\u064a."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Eugen Mittwoch (geboren am 4. Dezember 1876 in Schrimm bei Posen; gestorben am 8. November 1942 in London) war ein deutscher Orientalist. Er gilt als einer der Begr\u00fcnder der modernen Islamwissenschaften in Deutschland und als bedeutender j\u00fcdischer Gelehrter. Eugen Mittwoch war dar\u00fcber hinaus in beiden Weltkriegen nachrichtendienstlich t\u00e4tig: im Ersten Weltkrieg leitete er von 1916 bis 1918 im Auftrage des Ausw\u00e4rtigen Amtes die Nachrichtenstelle f\u00fcr den Orient, im Zweiten Weltkrieg arbeitete er im Londoner Exil in der von Ernst J\u00e4ckh geleiteten Nahostabteilung des Britischen Informationsministeriums."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Eugen Mittwoch (4 December 1876 \u2013 8 November 1942) was the founder of Modern Islamic Studies in Germany, and at the same time an eminent Jewish scholar."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/property/employer",
+        "object": "Berlin University, American Jewish Joint Distribution Committee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Founder"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/34782196"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Eugen_Mittwoch?oldid=1107109353&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "6566"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1876"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1942"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/employer",
+        "object": "http://dbpedia.org/resource/American_Jewish_Joint_Distribution_Committee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Islamic_studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Eugen_Mittwoch__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Eugen_Mittwoch>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Eugen_Mittwoch"
+    }
+]

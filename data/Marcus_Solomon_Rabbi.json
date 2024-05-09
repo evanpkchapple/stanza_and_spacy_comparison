@@ -1,0 +1,312 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Marcus Solomon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Marcus Solomon is an Australian jurist and rabbi who currently serves as a justice of the Supreme Court of Western Australia. He is the first Orthodox rabbi to serve as a Supreme Court justice in Australia."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Marcus Solomon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Marcus Solomon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Australian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Judges_of_the_Supreme_Court_of_Western_Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "68434498"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1115432032"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Perth"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Western_Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melbourne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Australian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Judges_of_the_Supreme_Court_of_Western_Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kfar_Chabad"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Supreme_Court_of_Western_Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshivah_College,_Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshivah_Gedolah_Zal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tomchei_Tmimim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q108002751"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/FmSQ9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:About"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Post-nominals"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Australia-law-bio-stub"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/University_of_Western_Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/property/honorificPrefix",
+        "object": "Hon. Justice"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "Australian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Judge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Marcus Solomon is an Australian jurist and rabbi who currently serves as a justice of the Supreme Court of Western Australia. He is the first Orthodox rabbi to serve as a Supreme Court justice in Australia."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Marcus_Solomon?oldid=1115432032&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "3950"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/University_of_Western_Australia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Marcus_Solomon__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Judge"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcus_Solomon>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Marcus_Solomon"
+    }
+]

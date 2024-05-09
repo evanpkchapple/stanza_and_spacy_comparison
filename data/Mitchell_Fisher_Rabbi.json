@@ -1,0 +1,507 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mitchell Fisher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Mitchell Salem Fisher (1903/1904 \u2013 March 19, 1990) was an American rabbi who resigned from his active rabbinic position in 1930 because of what he described as \"institutional restraint\" and a separation between preachers and issues in the world. After his resignation, Fisher became a lawyer with a specialization in marriage law. He worked for the in opposition to the German American Bund, served as counsel to the New York Board of Rabbis, and played a significant role in the development of family law in New York."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Mitchell Salem Fisher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Mitchell Salem Fisher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Ewing,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Ewing, New Jersey, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1900s_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1990_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_lawyers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Columbia_Law_School_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "70175702"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1091503640"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mishkan_T'filah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Letter_of_resignation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_Law_School"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Master_of_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ordination"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German_American_Bund"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Congregation_Rodeph_Sholom_(Manhattan)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bachelor_of_Arts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1900s_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1990_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_lawyers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Columbia_Law_School_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doctor_of_Philosophy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abraham_Feinberg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Norman_Thomas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Family_law"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Preacher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prohibition_in_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Temple_Israel_of_the_City_of_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_American_Hebrew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lawyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zionism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marriage_law"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Socialist_Party_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ku_Klux_Klan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_Board_of_Rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ewing,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anti-Nazi_League_(United_States)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Avukah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Home_for_the_Jewish_Aging"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/John_Palmer_Prize"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reconstructionist_Press"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1244946400"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/2774163631437423690007"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/65357145"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q111022352"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p197580653"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/CLbeD"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Quote_box"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_given_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_based_on_age_at_death"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/Columbia_Law_School"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/New_York_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/property/author",
+        "object": "\u2013 Mitchell Salem Fisher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi and lawyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/property/quote",
+        "object": "Preachers enunciate ideals, but these must remain so indefinite, so unpointed, so unchallenging, so completely removed from the real issues of everyday living and struggling, that these ideals become patently and utterly vain. The rabbi becomes an exalted lecturer, entertainer and institution promotion agent."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/property/source",
+        "object": "in his letter of resignation from the rabbinate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/property/width",
+        "object": "250"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Mitchell Salem Fisher (1903/1904 \u2013 March 19, 1990) was an American rabbi who resigned from his active rabbinic position in 1930 because of what he described as \"institutional restraint\" and a separation between preachers and issues in the world. After his resignation, Fisher became a lawyer with a specialization in marriage law. He worked for the in opposition to the German American Bund, served as counsel to the New York Board of Rabbis, and played a significant role in the development of family law in New York."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Mitchell_Fisher?oldid=1091503640&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "6925"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/Columbia_Law_School"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/Jewish_Institute_of_Religion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/New_York_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Lawyer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Mitchell_Fisher__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Mitchell_Fisher>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Mitchell_Fisher"
+    }
+]

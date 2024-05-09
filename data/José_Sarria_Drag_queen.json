@@ -1,0 +1,1407 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTPoliticiansFromTheUnitedStates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLGBTRightsActivistsFromTheUnitedStates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Aristocrat109807754"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Disputant109615465"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/FemaleAristocrat110083823"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Militant110315837"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Politician110450303"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Queen110499355"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Reformer110515194"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGayPoliticians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatDragQueens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPoliticiansFromSanFrancisco,California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u062e\u0648\u0633\u064a\u0647 \u0633\u0627\u0631\u064a\u0627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jos\u00e9 Sarria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jos\u00e9 Sarria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Jos\u00e9 Sarria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jos\u00e9 Julio Sarria (December 13, 1922 \u2013 August 19, 2013), also known as The Grand Mere, Absolute Empress I de San Francisco, and the Widow Norton, was an American political activist from San Francisco, California, who in 1961 became the first openly gay candidate for public office in the United States. He is also remembered for performing as a drag queen at the Black Cat Bar and as the founder of the Imperial Court System."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jos\u00e9 Julio Sarria (S\u00e3o Francisco, 12 de dezembro de 1922 ou 1923 \u2014 Los Ranchos de Albuquerque, 19 de agosto de 2013) foi um drag queen e ativista norte-americano. Conhecida por seus anos de performance no hist\u00f3rico nos anos 1950 e 1960, entretinha clientes com s\u00e1tiras de can\u00e7\u00f5es populares e \u00f3peras enquanto encorajava-os a viver suas vidas o mais abertamente poss\u00edvel."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u062e\u0648\u0633\u064a\u0647 \u062e\u0648\u0644\u064a\u0648 \u0633\u0627\u0631\u064a\u0627 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Jos\u00e9 Sarria)\u200f (13 \u062f\u064a\u0633\u0628\u0645\u0628\u0631 \u0639\u0627\u0645 1932 \u2013 19 \u0623\u063a\u0633\u0637\u0633 \u0639\u0627\u0645 2013) \u0648\u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0623\u064a\u0636\u064b\u0627 \u0628\u0627\u0633\u0645 \u0630\u0627 \u063a\u0631\u0627\u0646\u062f \u0645\u064a\u0631 \u0648\u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u0629 \u0627\u0644\u0646\u0642\u064a\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0641\u064a \u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u064a\u0633\u0643\u0648 \u0648\u0623\u0631\u0645\u0644\u0629 \u0646\u0648\u0631\u062a\u0648\u0646\u060c \u0643\u0627\u0646 \u0646\u0627\u0634\u0637\u064b\u0627 \u0633\u064a\u0627\u0633\u064a\u064b\u0627 \u0623\u0645\u064a\u0631\u0643\u064a\u064b\u0627 \u0645\u0646 \u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u064a\u0633\u0643\u0648\u060c \u0643\u0627\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627\u060c \u0648\u0623\u0635\u0628\u062d \u0641\u064a \u0639\u0627\u0645 1961 \u0623\u0648\u0644 \u0645\u0631\u0634\u062d \u0645\u062b\u0644\u064a \u0627\u0644\u062c\u0646\u0633 \u0639\u0644\u0646\u064b\u0627 \u0644\u0645\u0646\u0635\u0628 \u0639\u0627\u0645 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629. \u0648\u064a\u064f\u0630\u0643\u064e\u0631 \u0623\u064a\u0636\u064b\u0627 \u0644\u0623\u062f\u0627\u0626\u0647 \u0643\u062f\u0631\u0627\u063a \u0643\u0648\u064a\u0646 (\u0645\u0645\u062b\u0644 \u0628\u0644\u0628\u0627\u0633 \u0646\u0633\u0627\u0626\u064a) \u0641\u064a \u062d\u0627\u0646\u0629 \u0627\u0644\u0642\u0637\u0629 \u0627\u0644\u0633\u0648\u062f\u0627\u0621 \u0641\u064a \u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u064a\u0633\u0643\u0648\u060c \u0643\u0627\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627\u060c \u0648\u0643\u0645\u0624\u0633\u0633 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u0644\u0627\u0637 \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064a \u0627\u0644\u0623\u0645\u064a\u0631\u0643\u064a."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Jos\u00e9 Julio Sarria (12 de diciembre de 1922 o 1923 - 19 de agosto de 2013) fue un activista pol\u00edtico de San Francisco (California), que en 1961 se convirti\u00f3 en el primer hombre abiertamente gay que se present\u00f3 candidato a un cargo p\u00fablico en los Estados Unidos. Tambi\u00e9n es recordado por haber sido drag queen en el y como fundador del ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Jos\u00e9 Sarria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Jos\u00e9 Sarria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Jose_Sarria_2010_by_John_Stephen_Dwyer.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Josesarriact.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Sarr1.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Insignia_signal.svg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/San_Francisco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Los_Ranchos_de_Albuquerque,_New_Mexico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Los Ranchos de Albuquerque, New Mexico, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2013-08-19"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "San Francisco, California, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1922-12-13"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_politicians_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_politicians_of_Colombian_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1922_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:United_States_Army_personnel_of_World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:United_States_Army_soldiers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2013_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Activists_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rights_activists_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_LGBT_military_personnel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Los_Ranchos_de_Albuquerque,_New_Mexico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_politicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Politicians_from_San_Francisco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Spanish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_Hispanic_and_Latino_American_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Burials_at_Woodlawn_Memorial_Park_Cemetery_(Colma,_California)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "898417"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1117306309"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/California_Department_of_Alcoholic_Beverage_Control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carmen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pride_Month"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Antonio,_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Chronicle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Pride"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parody"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bogot\u00e1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bohemianism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_politicians_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_politicians_of_Colombian_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Home_economics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joshua_Norton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Union_Square,_San_Francisco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Army_Basic_Training"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Army_Reserve"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Thousand_Days_War"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1922_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:United_States_Army_personnel_of_World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:United_States_Army_soldiers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colma,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colombia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Melvin_Belli"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sacramento,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_monument_(United_States)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neil_Miller_(writer)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Opera"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sting_operation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Embezzlement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Emperor_Norton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Enschede"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Equal_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay_Star_News"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georges_Bizet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/God_Save_the_Queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Grace_Cathedral,_San_Francisco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Montreal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cruising_for_sex"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_View_(talk_show)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/1964_New_York_World's_Fair"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anschluss"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bavaria_Brewery_(Colombia)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/London"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Ranchos_de_Albuquerque,_New_Mexico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Signal_Corps_(United_States_Army)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sisters_of_Perpetual_Indulgence"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Smithsonian_Institution"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stockholm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stonewall_50_\u2013_WorldPride_NYC_2019"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stonewall_Inn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stonewall_National_Monument"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stonewall_riots"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stuart_Milk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halloween"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jos\u00e9_Cisneros"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Sarr1.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marc_Handley_Andrus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Austria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2013_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Activists_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_rights_activists_from_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/To_Wong_Foo,_Thanks_for_Everything!_Julie_Newmar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tuberculosis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Warsaw"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/When_We_Rise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/GLBT_Historical_Society"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harvey_Milk_Foundation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aida"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_LGBT_military_personnel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Expo_'74"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Expo_67"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ballet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Non-profit_organization"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palace_Hotel,_San_Francisco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palm_Springs,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Panama"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beaux_Arts_Ball"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Los_Ranchos_de_Albuquerque,_New_Mexico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kenmore_Square"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tap_dance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Death_penalty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Guatemala_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harvey_Milk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heir_apparent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/HemisFair_'68"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Atlantic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Singing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Art_Agnos"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Asthma"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Attack_on_Pearl_Harbor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_politicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Politicians_from_San_Francisco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Spanish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_Hispanic_and_Latino_American_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hispanic_and_Latino_American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Burials_at_Woodlawn_Memorial_Park_Cemetery_(Colma,_California)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jury_trial"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/KALW"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/LGBT_rights_in_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_Cat_Bar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Svenska_Dagbladet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sweden"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Switzerland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Homophile_movement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Advocate_(LGBT_magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torch_song"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Staff_Sergeant"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Diphtheria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mark_Leno"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Phoenix,_Arizona"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Spokane,_Washington"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mexico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_DeLorenzo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Netherlands"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oakland,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oakland_Museum_of_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RTVE"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rafael_Uribe_Uribe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rainbow_Honor_Walk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Randy_Shilts"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Redwood_City,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Woodlawn_Memorial_Park_Cemetery_(Colma,_California)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World's_fair"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Voting_bloc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_LGBTQ_Wall_of_Honor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Imperial_Court_System"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Solicitation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicole_Murray-Ramirez"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tavern_Guild"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Public_Library"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Word_is_Out:_Stories_of_Some_of_Our_Lives"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Carmel,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beat_Movement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/League_for_Civil_Education"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Society_for_Individual_Rights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vice_unit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/St._Francis_Hotel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_LGBT_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Castro"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Insignia_signal.svg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Josesarriact.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Guy_Strait"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.glbthistory.org"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.03mypk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/43588331"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q3249062"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u062e\u0648\u0633\u064a\u0647_\u0633\u0627\u0631\u064a\u0627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u062e\u0648\u0633\u064a\u0647_\u0633\u0627\u0631\u064a\u0627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Jos\u00e9_Sarria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pt.dbpedia.org/resource/Jos\u00e9_Sarria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://simple.dbpedia.org/resource/Jos\u00e9_Sarria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://vi.dbpedia.org/resource/Jos\u00e9_Sarria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/31GFE"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Convert"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Good_article"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:ISBN"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Portal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:YouTube"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Early_U.S._gay_rights_movement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Jose_Sarria_2010_by_John_Stephen_Dwyer.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1922-12-13"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Jos\u00e9 Julio Sarria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Sarria dines in Kenmore Square, 2010"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "2013-08-19"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "First openly gay candidate for public office in the United States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "LGBT rights activist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "drag queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/otherNames",
+        "object": "Empress Jos\u00e9 I, The Widow Norton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/property/otherNames",
+        "object": "The Nightingale of Montgomery Street"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u062e\u0648\u0633\u064a\u0647 \u062e\u0648\u0644\u064a\u0648 \u0633\u0627\u0631\u064a\u0627 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Jos\u00e9 Sarria)\u200f (13 \u062f\u064a\u0633\u0628\u0645\u0628\u0631 \u0639\u0627\u0645 1932 \u2013 19 \u0623\u063a\u0633\u0637\u0633 \u0639\u0627\u0645 2013) \u0648\u0627\u0644\u0645\u0639\u0631\u0648\u0641 \u0623\u064a\u0636\u064b\u0627 \u0628\u0627\u0633\u0645 \u0630\u0627 \u063a\u0631\u0627\u0646\u062f \u0645\u064a\u0631 \u0648\u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u0629 \u0627\u0644\u0646\u0642\u064a\u0629 \u0627\u0644\u0623\u0648\u0644\u0649 \u0641\u064a \u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u064a\u0633\u0643\u0648 \u0648\u0623\u0631\u0645\u0644\u0629 \u0646\u0648\u0631\u062a\u0648\u0646\u060c \u0643\u0627\u0646 \u0646\u0627\u0634\u0637\u064b\u0627 \u0633\u064a\u0627\u0633\u064a\u064b\u0627 \u0623\u0645\u064a\u0631\u0643\u064a\u064b\u0627 \u0645\u0646 \u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u064a\u0633\u0643\u0648\u060c \u0643\u0627\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627\u060c \u0648\u0623\u0635\u0628\u062d \u0641\u064a \u0639\u0627\u0645 1961 \u0623\u0648\u0644 \u0645\u0631\u0634\u062d \u0645\u062b\u0644\u064a \u0627\u0644\u062c\u0646\u0633 \u0639\u0644\u0646\u064b\u0627 \u0644\u0645\u0646\u0635\u0628 \u0639\u0627\u0645 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629. \u0648\u064a\u064f\u0630\u0643\u064e\u0631 \u0623\u064a\u0636\u064b\u0627 \u0644\u0623\u062f\u0627\u0626\u0647 \u0643\u062f\u0631\u0627\u063a \u0643\u0648\u064a\u0646 (\u0645\u0645\u062b\u0644 \u0628\u0644\u0628\u0627\u0633 \u0646\u0633\u0627\u0626\u064a) \u0641\u064a \u062d\u0627\u0646\u0629 \u0627\u0644\u0642\u0637\u0629 \u0627\u0644\u0633\u0648\u062f\u0627\u0621 \u0641\u064a \u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u064a\u0633\u0643\u0648\u060c \u0643\u0627\u0644\u064a\u0641\u0648\u0631\u0646\u064a\u0627\u060c \u0648\u0643\u0645\u0624\u0633\u0633 \u0644\u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u0644\u0627\u0637 \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064a \u0627\u0644\u0623\u0645\u064a\u0631\u0643\u064a. \u0643\u0627\u0646 \u062e\u0648\u0633\u064a\u0647 \u0633\u0627\u0631\u064a\u0627 \u0627\u0628\u0646 \u062e\u0648\u0644\u064a\u0648 \u0633\u0627\u0631\u064a\u0627 \u0648\u0645\u0627\u0631\u064a\u0627 \u062f\u0648\u0644\u0648\u0631\u064a\u0633 \u0645\u0627\u0644\u062f\u0648\u0646\u0627\u062f\u0648\u060c \u0648\u0644\u0645 \u064a\u062a\u0632\u0648\u062c \u0648\u0627\u0644\u062f\u0627\u0647 \u0623\u0628\u062f\u064b\u0627 \u0648\u0644\u0645 \u064a\u0628\u062f\u0650 \u0648\u0627\u0644\u062f\u0647 \u0623\u064a \u0627\u0647\u062a\u0645\u0627\u0645 \u0628\u062d\u064a\u0627\u0629 \u0627\u0628\u0646\u0647. \u0641\u064a \u0627\u0644\u0628\u062f\u0627\u064a\u0629 \u0631\u0628\u064e\u0651\u062a \u0645\u0627\u0631\u064a\u0627 \u0627\u0628\u0646\u0647\u0627 \u0644\u0648\u062d\u062f\u0647\u0627\u060c \u0648\u0644\u0643\u0646 \u0639\u0646\u062f\u0645\u0627 \u0623\u0635\u0628\u062d \u0630\u0644\u0643 \u0635\u0639\u0628\u064b\u0627 \u062c\u062f\u064b\u0627 \u0639\u0644\u064a\u0647\u0627 \u0648\u0636\u0639\u062a\u0647 \u062a\u062d\u062a \u0631\u0639\u0627\u064a\u0629 \u0648\u0627\u0644\u062f\u064a\u0646 \u0622\u062e\u0631\u064a\u0646. \u0648\u0643\u0644\u0627\u0647\u0645\u0627 \u0645\u0639 \u0648\u0627\u0644\u062f\u062a\u0647 \u062a\u0633\u0627\u0647\u0644\u0648\u0627 \u0645\u0639 \u0627\u0647\u062a\u0645\u0627\u0645\u0647 \u0627\u0644\u0645\u0628\u0643\u0631 \u0628\u0627\u0631\u062a\u062f\u0627\u0621 \u0645\u0644\u0627\u0628\u0633 \u0627\u0644\u0641\u062a\u064a\u0627\u062a. \u0623\u0638\u0647\u0631 \u0633\u0627\u0631\u064a\u0627 \u0627\u0646\u062c\u0630\u0627\u0628\u064b\u0627 \u0644\u0644\u063a\u0627\u062a\u060c \u0645\u0627 \u0642\u0627\u062f\u0647 \u0625\u0644\u0649 \u0623\u0648\u0644 \u0639\u0644\u0627\u0642\u0629 \u0631\u0648\u0645\u0646\u0633\u064a\u0629 \u062c\u062f\u0651\u064a\u0629 \u0645\u0639 \u0631\u062c\u0644 \u0622\u062e\u0631. \u062f\u0631\u064e\u0651\u0633 \u0633\u0627\u0631\u064a\u0627 \u0628\u0648\u0644 \u0643\u0648\u0644\u064a\u0634\u060c \u0648\u0647\u0648 \u0628\u0627\u0631\u0648\u0646 \u0623\u0633\u062a\u0631\u0627\u0644\u064a \u0647\u0631\u0628 \u0645\u0646 \u0627\u0644\u0646\u0627\u0632\u064a\u064a\u0646\u060c \u0648\u0648\u0642\u0639 \u0633\u0627\u0631\u064a\u0627 \u0648\u0643\u0648\u0644\u064a\u0634 \u0641\u064a \u062d\u0628 \u0628\u0639\u0636\u0647\u0645\u0627\u060c \u0648\u0635\u0645\u062f\u062a \u0639\u0644\u0627\u0642\u062a\u0647\u0645\u0627 \u062d\u062a\u0649 \u0642\u064f\u062a\u0644 \u0643\u0648\u0644\u064a\u0634 \u0648\u0627\u0628\u0646\u0647 \u0641\u064a \u062d\u0627\u062f\u062b \u0633\u064a\u0627\u0631\u0629 \u0641\u064a \u0639\u0627\u0645 1974. \u062e\u062f\u0645 \u0633\u0627\u0631\u064a\u0627 \u0641\u064a \u062c\u064a\u0634 \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0623\u062b\u0646\u0627\u0621 \u0627\u0644\u062d\u0631\u0628 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629 \u0627\u0644\u062b\u0627\u0646\u064a\u0629\u060c \u0648\u0628\u0639\u062f \u062a\u0633\u0631\u064a\u062d\u0647 \u062f\u0631\u0633 \u0644\u064a\u0635\u0628\u062d \u0645\u0639\u0644\u0645\u064b\u0627\u060c \u0648\u062a\u0631\u062f\u062f \u0625\u0644\u0649 \u062d\u0627\u0646\u0629 \u0627\u0644\u0642\u0637\u0629 \u0627\u0644\u0633\u0648\u062f\u0627\u0621\u060c \u0648\u0627\u0644\u062a\u0642\u0649 \u0627\u0644\u0646\u0627\u062f\u0644 \u062c\u064a\u0645\u064a \u0645\u0648\u0631 \u0627\u0644\u0630\u064a \u0648\u0635\u0641\u0647 \u0633\u0627\u0631\u064a\u0627 \u0628\u0623\u0646\u0647 \u00ab\u062d\u0628 \u062d\u064a\u0627\u062a\u0647\u00bb. \u0639\u064f\u064a\u064e\u0651\u0646 \u0633\u0627\u0631\u064a\u0627 \u0646\u0627\u062f\u0644\u064b\u0627 \u0644\u0644\u0643\u0648\u0643\u062a\u064a\u0644. \u0628\u0639\u062f \u0625\u062f\u0627\u0646\u062a\u0647 \u0628\u062a\u0647\u0645\u0629 \u0623\u062e\u0644\u0627\u0642\u064a\u0629\u060c \u0628\u062f\u0623 \u0633\u0627\u0631\u064a\u0627 \u064a\u0624\u062f\u064a \u062f\u0648\u0631 \u0627\u0644\u062f\u0631\u0627\u063a \u0643\u0648\u064a\u0646 \u0628\u0639\u062f \u0623\u0646 \u0623\u062f\u0631\u0643 \u0623\u0646\u0647 \u0644\u0627 \u064a\u064f\u0645\u0643\u0646 \u0623\u0646 \u064a\u0635\u0628\u062d \u0645\u062f\u0631\u0650\u0651\u0633\u064b\u0627 \u0645\u0639\u062a\u064e\u0645\u064e\u062f\u064b\u0627\u060c \u0648\u0628\u062f\u0623 \u064a\u0638\u0647\u0631 \u0628\u0627\u0646\u062a\u0638\u0627\u0645 \u0641\u064a \u0627\u0644\u062d\u0627\u0646\u0629. \u0643\u0627\u0646 \u0633\u0627\u0631\u064a\u0627 \u0645\u0646 \u0623\u0648\u0644 \u0627\u0644\u0646\u0627\u0634\u0637\u064a\u0646 \u0641\u064a \u0645\u062c\u062a\u0645\u0639 \u0627\u0644\u0645\u064a\u0645 \u00ab\u0625\u0644 \u062c\u064a \u0628\u064a \u062a\u064a\u00bb (\u0645\u062b\u0644\u064a\u064a/\u0627\u062a \u0627\u0644\u062c\u0646\u0633 \u0648\u0645\u0632\u062f\u0648\u062c\u064a \u0627\u0644\u062a\u0648\u062c\u0647 \u0627\u0644\u062c\u0646\u0633\u064a \u0648\u0627\u0644\u0639\u0627\u0628\u0631\u064a\u0646 \u062c\u0646\u0633\u064a\u064b\u0627) \u0648\u0634\u0627\u0631\u0643 \u0641\u064a \u062a\u0623\u0633\u064a\u0633 \u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0627\u0644\u0645\u0646\u0638\u0645\u0627\u062a \u0627\u0644\u0645\u062b\u0644\u064a\u0629\u060c \u0628\u0645\u0627 \u0641\u064a \u0630\u0644\u0643 \u0631\u0627\u0628\u0637\u0629 \u0627\u0644\u062a\u0639\u0644\u064a\u0645 \u0627\u0644\u0645\u062f\u0646\u064a \u0648\u062c\u0645\u0639\u064a\u0629 \u0627\u0644\u062d\u0627\u0646\u0627\u062a \u0648\u062c\u0645\u0639\u064a\u0629 \u062d\u0642\u0648\u0642 \u0627\u0644\u0641\u0631\u062f. \u0623\u0635\u0628\u062d \u0633\u0627\u0631\u064a\u0627 \u0623\u0648\u0644 \u0645\u0631\u0634\u062d \u0639\u0644\u0646\u064a \u0645\u062b\u0644\u064a \u0627\u0644\u062c\u0646\u0633 \u0644\u0645\u0646\u0635\u0628 \u0639\u0627\u0645 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629 \u0639\u0646\u062f\u0645\u0627 \u062a\u0631\u0634\u062d \u0644\u0645\u062c\u0644\u0633 \u0627\u0644\u0645\u0634\u0631\u0641\u064a\u0646 \u0641\u064a \u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u064a\u0633\u0643\u0648 \u0641\u064a \u0639\u0627\u0645 1961. \u0648\u0641\u064a \u0639\u0627\u0645 1964 \u0623\u0639\u0644\u0646 \u0633\u0627\u0631\u064a\u0627 \u0646\u0641\u0633\u0647 \u0628\u0627\u0633\u0645 \u00ab\u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u0629 \u062e\u0648\u0633\u064a\u0647 \u0627\u0644\u0623\u0648\u0644\u0649\u060c \u0623\u0631\u0645\u0644\u0629 \u0646\u0648\u0631\u062a\u0648\u0646\u00bb \u0648\u0623\u0633\u0633 \u0646\u0638\u0627\u0645 \u0627\u0644\u0628\u0644\u0627\u0637 \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064a \u0627\u0644\u0630\u064a \u0646\u0645\u0649 \u0648\u062a\u0637\u0648\u0631 \u0644\u064a\u0635\u0628\u062d \u062c\u0645\u0639\u064a\u0629\u064b \u062f\u0648\u0644\u064a\u0629\u064b \u0644\u0644\u0645\u0646\u0638\u0645\u0627\u062a \u0627\u0644\u062e\u064a\u0631\u064a\u0629. \u0628\u0639\u062f \u0625\u063a\u0644\u0627\u0642 \u062d\u0627\u0646\u0629 \u0627\u0644\u0642\u0637 \u0627\u0644\u0623\u0633\u0648\u062f \u0641\u064a \u0639\u0627\u0645 1964\u060c \u062a\u0648\u062c\u0647 \u0633\u0627\u0631\u064a\u0627 \u0644\u0644\u0639\u0645\u0644 \u0645\u0639 \u0635\u0627\u062d\u0628 \u0627\u0644\u0645\u0637\u0639\u0645 \u0628\u064a\u064a\u0631 \u0628\u0627\u0631\u0643\u0631\u060c \u0625\u0630 \u0623\u062f\u0627\u0631 \u0627\u0644\u0627\u062b\u0646\u0627\u0646 \u0645\u0637\u0627\u0639\u0645 \u0641\u0631\u0646\u0633\u064a\u0629 \u0641\u064a \u0627\u0644\u0645\u0639\u0627\u0631\u0636 \u0627\u0644\u0639\u0627\u0644\u0645\u064a\u0629\u060c \u0648\u0628\u064a\u0646\u0645\u0627 \u0643\u0627\u0646 \u0633\u0627\u0631\u064a\u0627 \u0641\u064a \u0627\u0644\u0645\u0639\u0631\u0636 \u0627\u0644\u0639\u0627\u0644\u0645\u064a \u0641\u064a \u0646\u064a\u0648\u064a\u0648\u0631\u0643 \u0639\u0627\u0645 1964 \u0639\u0644\u0645 \u0628\u0623\u0646 \u062c\u064a\u0645\u064a \u0645\u0648\u0631 \u0642\u062f \u0627\u0646\u062a\u062d\u0631. \u0639\u0645\u0644 \u0633\u0627\u0631\u064a\u0627 \u0641\u064a \u0627\u0644\u0639\u062f\u064a\u062f \u0645\u0646 \u0627\u0644\u0645\u0639\u0627\u0631\u0636 \u0642\u0628\u0644 \u0623\u0646 \u064a\u062a\u0642\u0627\u0639\u062f \u0641\u064a \u0639\u0627\u0645 1974\u060c \u0648\u0639\u0627\u062f \u0625\u0644\u0649 \u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u064a\u0633\u0643\u0648 \u0628\u0639\u062f \u0627\u0644\u0639\u064a\u0634 \u0645\u0639 \u0628\u0627\u0631\u0643\u0631 \u0641\u064a \u0641\u064a\u0646\u064a\u0643\u0633 \u0641\u064a \u0648\u0644\u0627\u064a\u0629 \u0623\u0631\u064a\u0632\u0648\u0646\u0627\u060c \u0648\u0627\u0633\u062a\u0645\u0631 \u0628\u062d\u0643\u0645 \u0627\u0644\u0628\u0644\u0627\u0637\u0627\u062a \u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631\u064a\u0629 \u0645\u062f\u0629 43 \u0639\u0627\u0645\u064b\u0627 \u0642\u0628\u0644 \u0623\u0646 \u064a\u062a\u0646\u0627\u0632\u0644 \u0641\u064a \u0639\u0627\u0645 2007. \u0623\u0639\u0627\u062f\u062a \u0645\u062f\u064a\u0646\u0629 \u0633\u0627\u0646 \u0641\u0631\u0627\u0646\u0633\u064a\u0633\u0643\u0648 \u062a\u0633\u0645\u064a\u0629 \u0642\u0633\u0645 \u0645\u0646 \u0627\u0644\u0634\u0627\u0631\u0639 \u0627\u0644\u0633\u0627\u062f\u0633 \u0639\u0634\u0631 \u0628\u0627\u0633\u0645 \u0633\u0627\u0631\u064a\u0627 \u062a\u0643\u0631\u064a\u0645\u064b\u0627 \u0644\u062d\u064a\u0627\u062a\u0647 \u0627\u0644\u0645\u0644\u064a\u0626\u0629 \u0628\u0627\u0644\u0646\u0634\u0627\u0637\u0627\u062a."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jos\u00e9 Julio Sarria (12 de diciembre de 1922 o 1923 - 19 de agosto de 2013) fue un activista pol\u00edtico de San Francisco (California), que en 1961 se convirti\u00f3 en el primer hombre abiertamente gay que se present\u00f3 candidato a un cargo p\u00fablico en los Estados Unidos. Tambi\u00e9n es recordado por haber sido drag queen en el y como fundador del . Era hijo de Julio Sarria y Mar\u00eda Dolores Maldonado. Sus padres no se casaron y el padre no mostr\u00f3 ning\u00fan inter\u00e9s en la vida del hijo. Mar\u00eda inicialmente crio sola a su hijo, pero cuando aumentaron las dificultades, tuvo que dejarlo con otra pareja. Tanto la madre como esta nueva pareja no se opusieron a su inter\u00e9s por vestirse con ropa de ni\u00f1a. Sarria mostraba inter\u00e9s por las lenguas, lo que llev\u00f3 a su primer romance serio con un hombre: Sarria ense\u00f1aba a Paul Kolish, un bar\u00f3n austr\u00edaco que hab\u00eda huido de los nazis. Sarria y Kolish se enamoraron y su relaci\u00f3n dur\u00f3 hasta que Kolish y su hijo murieron en un accidente de autom\u00f3vil en 1947. Sirvi\u00f3 en el ej\u00e9rcito de los Estados Unidos durante la II Guerra Mundial. Despu\u00e9s de ser licenciado, estudi\u00f3 para convertirse en profesor y frecuent\u00f3 el bar Black Cat. All\u00ed conoci\u00f3 a Jimmy Moore, a quien describi\u00f3 como \u00abel amor de su vida\u00bb. Fue contratado como camarero de cocteles. Despu\u00e9s de una condena por cuestiones morales, se dio cuenta de ya no podr\u00eda convertirse en profesor, comenzando a actuar de travestido de forma habitual en el Black Cat. Fue uno de los primeros activistas LGBT, siendo cofundador de varias organizaciones hom\u00f3filas, incluyendo la , la y la . Se convirti\u00f3 en el primer candidato abiertamente gay a presentarse a un cargo p\u00fablico en los Estados Unidos cuando se present\u00f3 para el en 1961. En 1964 se declar\u00f3 \u00abEmperatriz Jos\u00e9 I, viuda de Norton\u00bb y fund\u00f3 el , que creci\u00f3 para convertirse en una asociaci\u00f3n internacional de organizaciones de beneficencia. Tras el cierre del Black Cat en 1964, trabaj\u00f3 con el restaurador Pierre Parker. Ambos gestionaban restaurantes franceses en exposiciones universales. Durante la Feria Mundial de Nueva York de 1964, le lleg\u00f3 la noticia de que Jimmy Moore se hab\u00eda suicidado. Trabaj\u00f3 en varias exposiciones m\u00e1s, antes de retirarse en 1974. Tras vivir con Parker en Phoenix (Arizona) durante varios a\u00f1os, volvi\u00f3 a San Francisco. Continu\u00f3 reinando sobre las Cortes durante 43 a\u00f1os, antes de abdicar en 2007. En homenaje a su activismo, la ciudad de San Francisco renombr\u00f3 una secci\u00f3n de la calle 16 en su honor."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jos\u00e9 Julio Sarria (December 13, 1922 \u2013 August 19, 2013), also known as The Grand Mere, Absolute Empress I de San Francisco, and the Widow Norton, was an American political activist from San Francisco, California, who in 1961 became the first openly gay candidate for public office in the United States. He is also remembered for performing as a drag queen at the Black Cat Bar and as the founder of the Imperial Court System."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Jos\u00e9 Julio Sarria (S\u00e3o Francisco, 12 de dezembro de 1922 ou 1923 \u2014 Los Ranchos de Albuquerque, 19 de agosto de 2013) foi um drag queen e ativista norte-americano. Conhecida por seus anos de performance no hist\u00f3rico nos anos 1950 e 1960, entretinha clientes com s\u00e1tiras de can\u00e7\u00f5es populares e \u00f3peras enquanto encorajava-os a viver suas vidas o mais abertamente poss\u00edvel."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Activist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Jos\u00e9_Sarria?oldid=1117306309&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "47402"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/alias",
+        "object": "The Nightingale of Montgomery Street"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/alias",
+        "object": "Empress Jos\u00e9 I, The WidowNorton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Jos\u00e9 Julio Sarria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1922"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "2013"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Jos\u00e9_Sarria__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/LGBT"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Jos\u00e9_Sarria>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Jos\u00e9_Sarria"
+    }
+]

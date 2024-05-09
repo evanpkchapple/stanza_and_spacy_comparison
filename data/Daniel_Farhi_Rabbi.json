@@ -1,0 +1,452 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Daniel Farhi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Daniel Farhi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Daniel Farhi (18 November 1941 \u2013 23 August 2021) was a French liberal rabbi."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Daniel Farhi est un rabbin lib\u00e9ral fran\u00e7ais n\u00e9 le 18 novembre 1941 \u00e0 Paris et mort le 23 ao\u00fbt 2021 \u00e0 Nice."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Daniel Farhi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Daniel Farhi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel_Farhi.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Paris"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Nice"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Nice, France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2021-08-23"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Paris, France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1941-11-18"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:2021_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:French_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1941_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Officiers_of_the_L\u00e9gion_d'honneur"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Knights_of_the_Ordre_national_du_M\u00e9rite"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:French_people_of_Turkish-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Clergy_from_Paris"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:French_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "68572796"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1124305937"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Union_Lib\u00e9rale_Isra\u00e9lite_de_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:2021_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beate_Klarsfeld"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Besan\u00e7on"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Holocaust"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liberal_Jewish_Movement_of_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1941_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ordre_national_du_M\u00e9rite"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Legion_of_Honour"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u0130zmir"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Auschwitz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Officiers_of_the_L\u00e9gion_d'honneur"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Knights_of_the_Ordre_national_du_M\u00e9rite"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Paris"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_people_of_Turkish-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halakha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Clergy_from_Paris"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nice"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Serge_Klarsfeld"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanhedrin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Semikhah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sons_and_Daughters_of_Jewish_Deportees_from_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Righteous_Among_the_Nations"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/143345346"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/56756179"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q3014021"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Daniel_Farhi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://simple.dbpedia.org/resource/Daniel_Farhi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://vo.dbpedia.org/resource/Daniel_Farhi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2oFeq"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Ill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Daniel_Farhi.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1941-11-18"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Farhi in 2008"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "2021-08-23"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Daniel Farhi (18 November 1941 \u2013 23 August 2021) was a French liberal rabbi."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Daniel Farhi est un rabbin lib\u00e9ral fran\u00e7ais n\u00e9 le 18 novembre 1941 \u00e0 Paris et mort le 23 ao\u00fbt 2021 \u00e0 Nice."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Daniel_Farhi?oldid=1124305937&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "4692"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1941"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "2021"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Daniel_Farhi__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Daniel_Farhi>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Daniel_Farhi"
+    }
+]

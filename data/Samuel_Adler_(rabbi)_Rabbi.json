@@ -1,0 +1,1002 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPeopleOfGerman-JewishDescent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromRhenishHesse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Emigrant110051975"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Migrant110314952"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatGermanEmigrantsToTheUnitedStates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Traveler109629752"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatEthnicGermanPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromWorms,Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0635\u0645\u0648\u0626\u064a\u0644 \u0623\u062f\u0644\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Samuel Adler (Rabbiner)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Samuel Adler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Samuel Adler (rabbi)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u0635\u0645\u0648\u0626\u064a\u0644 \u0623\u062f\u0644\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Samuel Adler\u061b \u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a\u0629: Samuel Adler)\u060c \u0647\u0648 \u062d\u0627\u062e\u0627\u0645 \u0623\u0644\u0645\u0627\u0646\u064a \u0648\u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 3 \u062f\u064a\u0633\u0645\u0628\u0631 1809 \u0641\u064a \u0641\u0648\u0631\u0645\u0633 \u0641\u064a \u0623\u0644\u0645\u0627\u0646\u064a\u0627\u060c \u0648\u062a\u0648\u0641\u064a \u0641\u064a 9 \u064a\u0648\u0646\u064a\u0648 1891 \u0641\u064a \u0646\u064a\u0648\u064a\u0648\u0631\u0643 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Samuel Adler (geboren am 3. Dezember 1809 in Worms; gestorben am 9. Juni 1891 in New York) war ein deutsch-amerikanischer Rabbiner und Protagonist des Liberalen Judentums."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Samuel Adler (December 3, 1809 \u2013 June 9, 1891) was a leading German-American Reform rabbi, Talmudist, and author."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Samuel Adler (Worms, 3 dicembre 1809 \u2013 New York City, 9 giugno 1891) \u00e8 stato un rabbino e talmudista tedesco naturalizzato statunitense, appartenente alla corrente riformata. Dopo il diploma al gymnasium di Francoforte sul Meno, Adler entr\u00f2 nel 1831 all'Universit\u00e0 di Bonn e pi\u00f9 tardi a quella di Gie\u00dfen dove, nel 1836, si laure\u00f2 in filosofia. Il suo primo incarico ufficiale fu quello di predicatore ed assistente rabbino a Worms. Nel 1842 fu eletto rabbino delle congregazioni ebraiche di Alzey e tale rimase fino al 1857, quando fu chiamato a guidare la congregazione Emanu-El di New York, incarico che mantenne fino al 1874. Nel 1854 fu eletto rabbino e predicatore dalla congregazione riformata di Leopoli ma declin\u00f2 l'incarico."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Samuel Adler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Samuel Adler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/SamuelAdler.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Confederation_of_the_Rhine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Worms,_Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "New York City, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1891-06-09"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Confederation_of_the_Rhine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Worms,_Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1809-12-03"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1891_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_German-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:German_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Rhenish_Hesse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1809_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:German_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Bonn_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Worms,_Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "1174000"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1122103869"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Protestantism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/More_judaico"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sadduceeism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Bonn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Giessen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torah_study"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cincinnati"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/German_American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Greece"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Confederation_of_the_Rhine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Congregation_Emanu-El_of_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manhattan,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mechitza"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1891_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_German-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Rhenish_Hesse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Catholicism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tzedakah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Doctor_of_Philosophy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_emancipation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_history"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alzey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Felix_Adler_(professor)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Goldman\u2013Sachs_family"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Bible"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hetty_Goldman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Society_for_Ethical_Culture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ashkenazi_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1809_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:19th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:German_Reform_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Bonn_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Salem_Fields_Cemetery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Disabilities_(Jewish)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Rabbis_from_Worms,_Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Philosophy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Classics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Middle_East"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbinic_literature"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Worms,_Germany"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gustav_Gottheil"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gymnasium_(school)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Higher_criticism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talmud"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Role_of_women_in_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn_(New_York,_N.Y.)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Frankfurt-am-Main"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Oriental_languages"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leo_Merzbacher"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.jewishencyclopedia.com/view.jsp%3Fartid=830&letter=A"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://nbn-resolving.de/urn:nbn:de:hebis:30-180013481007"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://babel.hathitrust.org/cgi/pt%3Fid=mdp.49015002282318&view=1up&seq=240"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.taylorfrancis.com/books/9781000090864"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.04dgbk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/116008393"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/37656209"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Samuel_Adler_(rabbi)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q95297"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ar.dbpedia.org/resource/\u0635\u0645\u0648\u0626\u064a\u0644_\u0623\u062f\u0644\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0635\u0645\u0648\u0626\u064a\u0644_\u0627\u062f\u0644\u0631_(\u062d\u0627\u062e\u0627\u0645)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Samuel_Adler_(Rabbiner)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05e9\u05de\u05d5\u05d0\u05dc_\u05d0\u05d3\u05dc\u05e8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Samuel_Adler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/561ez"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_book"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Find_a_Grave"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Other_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Portal_bar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Sfn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death-date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:JewishEncyclopedia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:BDA1906"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/SamuelAdler.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/restingPlace",
+        "object": "http://dbpedia.org/resource/Salem_Fields_Cemetery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/restingPlace",
+        "object": "http://dbpedia.org/resource/Brooklyn_(New_York,_N.Y.)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/accessDate",
+        "object": "2020-11-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/University_of_Bonn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/University_of_Giessen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1809-12-03"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "http://dbpedia.org/resource/Felix_Adler_(professor)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "Isaac Adler ,"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "Sarah Adler Goldman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/citizenship",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "--06-09"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/Doctor_of_Philosophy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/Oriental_languages"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/father",
+        "object": "Isaac Adler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "http://dbpedia.org/resource/German_American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/page",
+        "object": "59"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/page",
+        "object": "194"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/page",
+        "object": "199"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/quote",
+        "object": "An article about his son."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/relatives",
+        "object": "http://dbpedia.org/resource/Hetty_Goldman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Henrietta Frankfurter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/title",
+        "object": "Adler, Samuel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/url",
+        "object": "http://www.jewishencyclopedia.com/view.jsp%3Fartid=830&letter=A"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/url",
+        "object": "https://babel.hathitrust.org/cgi/pt%3Fid=mdp.49015002282318&view=1up&seq=240"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/volume",
+        "object": "1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/year",
+        "object": "1901"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/year",
+        "object": "1906"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wstitle",
+        "object": "Adler, Samuel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u0635\u0645\u0648\u0626\u064a\u0644 \u0623\u062f\u0644\u0631 (\u0628\u0627\u0644\u0625\u0646\u062c\u0644\u064a\u0632\u064a\u0629: Samuel Adler\u061b \u0628\u0627\u0644\u0623\u0644\u0645\u0627\u0646\u064a\u0629: Samuel Adler)\u060c \u0647\u0648 \u062d\u0627\u062e\u0627\u0645 \u0623\u0644\u0645\u0627\u0646\u064a \u0648\u0623\u0645\u0631\u064a\u0643\u064a\u060c \u0648\u0644\u062f \u0641\u064a 3 \u062f\u064a\u0633\u0645\u0628\u0631 1809 \u0641\u064a \u0641\u0648\u0631\u0645\u0633 \u0641\u064a \u0623\u0644\u0645\u0627\u0646\u064a\u0627\u060c \u0648\u062a\u0648\u0641\u064a \u0641\u064a 9 \u064a\u0648\u0646\u064a\u0648 1891 \u0641\u064a \u0646\u064a\u0648\u064a\u0648\u0631\u0643 \u0641\u064a \u0627\u0644\u0648\u0644\u0627\u064a\u0627\u062a \u0627\u0644\u0645\u062a\u062d\u062f\u0629."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Samuel Adler (geboren am 3. Dezember 1809 in Worms; gestorben am 9. Juni 1891 in New York) war ein deutsch-amerikanischer Rabbiner und Protagonist des Liberalen Judentums."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Samuel Adler (December 3, 1809 \u2013 June 9, 1891) was a leading German-American Reform rabbi, Talmudist, and author."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Samuel Adler (Worms, 3 dicembre 1809 \u2013 New York City, 9 giugno 1891) \u00e8 stato un rabbino e talmudista tedesco naturalizzato statunitense, appartenente alla corrente riformata. Dopo il diploma al gymnasium di Francoforte sul Meno, Adler entr\u00f2 nel 1831 all'Universit\u00e0 di Bonn e pi\u00f9 tardi a quella di Gie\u00dfen dove, nel 1836, si laure\u00f2 in filosofia. Il suo primo incarico ufficiale fu quello di predicatore ed assistente rabbino a Worms. Nel 1842 fu eletto rabbino delle congregazioni ebraiche di Alzey e tale rimase fino al 1857, quando fu chiamato a guidare la congregazione Emanu-El di New York, incarico che mantenne fino al 1874. Nel 1854 fu eletto rabbino e predicatore dalla congregazione riformata di Leopoli ma declin\u00f2 l'incarico."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/citizenship",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/37656209"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Samuel_Adler_(rabbi)?oldid=1122103869&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "9830"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/restingPlace",
+        "object": "http://dbpedia.org/resource/Salem_Fields_Cemetery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/restingPlace",
+        "object": "http://dbpedia.org/resource/Brooklyn_(New_York,_N.Y.)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/stateOfOrigin",
+        "object": "http://dbpedia.org/resource/German_American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1809"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1891"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/child",
+        "object": "http://dbpedia.org/resource/Felix_Adler_(professor)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Doctor_of_Philosophy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Oriental_languages"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/nationality",
+        "object": "http://dbpedia.org/resource/German_American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Samuel_Adler_(rabbi)__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/relative",
+        "object": "http://dbpedia.org/resource/Hetty_Goldman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Samuel_Adler_(rabbi)>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Samuel_Adler_(rabbi)"
+    }
+]

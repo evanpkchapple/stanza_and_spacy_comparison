@@ -1,0 +1,427 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Marcia Prager"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Marcia Prager is an American rabbi, teacher and spiritual leader. She was Director and Dean of the Aleph Ordination Program (now Emerita), and rabbi of the P'nai Or Jewish Renewal community in West Mount Airy, Philadelphia. Prager was the founding rabbi of a sister congregation, P'nai Or of Princeton, New Jersey, where she served for thirteen years. She is a graduate of the Reconstructionist Rabbinical College in Philadelphia where she received rabbinic ordination in 1989. In 1990, she also received personal semikhah from Rabbi Zalman Schachter-Shalomi (Reb Zalman) with whom she worked to advance the Jewish Renewal movement until his death in 2014."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Marcia Prager"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://marciaprager.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Marcia Prager"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Queens, New York, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Renewal_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Women_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_Renewal_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Reconstructionist_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "62715362"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1109719408"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pratt_Institute"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Princeton,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosh_Hashanah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meeting_for_worship"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Renewal_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nusach_(Jewish_music)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mount_Airy,_Philadelphia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Letty_Cottin_Pogrebin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stony_Brook_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zalman_Schachter-Shalomi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pendle_Hill_Quaker_Center_for_Study_and_Contemplation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Machzor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hazzan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isabella_Freedman_Jewish_Retreat_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Renewal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reconstructionist_Rabbinical_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Group_psychotherapy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Forward"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_prayer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_Renewal_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Reconstructionist_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Interfaith_dialogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shabbat"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yiddish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yom_Kippur"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Semikhah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Siddur"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_spirituality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Daven"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tikkun_Magazine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jack_Kessler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://dlti.org/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://marciaprager.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://aleph.org/ordinations"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q11988105"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nn.dbpedia.org/resource/Marcia_Prager"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://no.dbpedia.org/resource/Marcia_Prager"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/EZ3H"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Ubl"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "http://dbpedia.org/resource/Jack_Kessler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/property/website",
+        "object": "http://marciaprager.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Marcia Prager is an American rabbi, teacher and spiritual leader. She was Director and Dean of the Aleph Ordination Program (now Emerita), and rabbi of the P'nai Or Jewish Renewal community in West Mount Airy, Philadelphia. Prager was the founding rabbi of a sister congregation, P'nai Or of Princeton, New Jersey, where she served for thirteen years. She is a graduate of the Reconstructionist Rabbinical College in Philadelphia where she received rabbinic ordination in 1989. In 1990, she also received personal semikhah from Rabbi Zalman Schachter-Shalomi (Reb Zalman) with whom she worked to advance the Jewish Renewal movement until his death in 2014. Her work involves exploration of Jewish prayer and spiritual practice. Towards that end, she authored and edited the P\u2019nai Or Siddur for Shabbat and Machzor for Rosh Hashanah and Yom Kippur, which she designed to support a deeper worship experience. Many of the Hebrew prayers have been translated into English in a way they can be sung to the prayer's nusach (melody). She is co-director with Rabbi Shawn Zevit of the Davvenen' Leadership Training Institute (DLTI), a two-year training program for rabbis, cantors and lay leaders in public prayer. Daven is a Yiddish word for Jewish prayer. She has been quoted for her Jewish Renewal-inspired teachings. Her book The Path of Blessing: Experiencing the Energy and Abundance of the Divine aims to provide an introduction to Jewish Renewal. Her other publications include the chapter \u201cLive With the Times: Spiritual Direction and the Cycle of Holy Time,\u201d in Jewish Spiritual Direction: An Innovative Guide from Traditional and Contemporary Sources and \u201cFriendship Counts Most,\u201d the epilogue chapter in Interfaith Dialogue at the Grass Roots.Prager has worked to promote Jewish inter-denominational and interfaith dialogue, teaching classes in Jewish spirituality in Philadelphia and at Isabella Freedman Jewish Retreat Center in Connecticut, as well as at Quaker Meetings including Pendle Hill Quaker Center for Study and Contemplation in Pennsylvania. Upon completing her rabbinic studies, she did additional training in individual, family and group psychotherapy.On Tikkun Magazine's 25th anniversary in 2011, Rabbi Prager was awarded the Tikkun Prize in recognition for her work with the Aleph Ordination Program. She was included in Letty Cottin Pogrebin's 2007 list The Other Fifty Rabbis in America, and in a 2010 list of \"America's most inspiring rabbis\" by The Forward."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Marcia_Prager?oldid=1109719408&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "9185"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Marcia_Prager__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://dbpedia.org/ontology/spouse",
+        "object": "http://dbpedia.org/resource/Jack_Kessler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Marcia_Prager>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Marcia_Prager"
+    }
+]

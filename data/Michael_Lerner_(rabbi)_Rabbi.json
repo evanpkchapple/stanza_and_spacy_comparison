@@ -1,0 +1,1392 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanAnti\u2013IraqWarActivists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanAnti\u2013VietnamWarActivists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanPacifists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatColumbiaUniversityAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Disputant109615465"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Leader109623038"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Militant110315837"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Pacifist110390199"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Reformer110515194"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ReligiousLeader110519494"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/ReligiousPerson109628382"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishPacifists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishReligiousLeaders"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Michael Lerner (rabi)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Michael Lerner (rabbi)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Michael Lerner (born 1943) is an American political activist, the editor of Tikkun, a progressive Jewish interfaith magazine based in Berkeley, California, and the rabbi of Beyt Tikkun Synagogue in Berkeley."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Michael Lerner adalah seorang aktivis politik, dan editor , sebuah majalah Yahudi dan yang terkemuka yang berbasis di Berkeley, California. Lerner memperoleh gelar B.A. dari Universitas Columbia dan belajar di . Ia menjadi mahasiswa kesayangan Abraham Joshua Heschel. Sementara di Seminari, Lerner terpilih sebagai presiden Atid di tingkat nasional, yaitu organisasi perguruan tinggi dari ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Michael Lerner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Michael Lerner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Michael_Lerner_-_Cropped.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Newark,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Newark, New Jersey, US"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_peace_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1943_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_anti\u2013Vietnam_War_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_magazine_editors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_political_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Columbia_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_academics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_California,_Berkeley_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Activists_from_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Activists_from_the_San_Francisco_Bay_Area"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_anti\u2013Iraq_War_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Religion_and_politics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Sonoma_State_University_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Weequahic_High_School_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:New_American_Movement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli\u2013Palestinian_peace_process"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_pacifists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_anti-racism_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_pacifists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Newark,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_Renewal_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "180192"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1121643343"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Bay_Area"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_Chronicle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco_State_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Motu_proprio"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Network_of_Spiritual_Progressives"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_College_of_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beyt_Tikkun_Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Progressivism_in_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Berkeley,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_peace_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_din"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Peter_Gabel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Religious_pluralism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Richard_Goldstone"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_Court_of_Appeals_for_the_Ninth_Circuit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_Synagogue_of_Conservative_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Washington"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ALEPH:_Alliance_for_Jewish_Renewal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gandhi,_King,_Ikeda_Community_Builders_Prize"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Social_philosophy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Contempt_of_court"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cornel_West"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chicago_Seven"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nativism_(politics)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christianity"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cindy_Sheehan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Code_Pink"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gaza_Strip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gaza_War_(2008\u201309)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morehouse_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Muhammad_Ali"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Muslim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservative_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Crimes_against_humanity"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Anti-Defamation_League"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antisemitism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liberalism_in_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Clinical_psychology"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Union_steward"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_right"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2003_invasion_of_Iraq"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1943_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_anti\u2013Vietnam_War_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_magazine_editors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_political_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Columbia_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_academics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_California,_Berkeley_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Buddhist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/C-SPAN"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Activists_from_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Activists_from_the_San_Francisco_Bay_Area"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_anti\u2013Iraq_War_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tikkun_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tridentine_Mass"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trinity_College_(Connecticut)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Washington_State_Legislature"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weequahic_High_School"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/West_Bank"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/East_Bay_(San_Francisco_Bay_Area)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Renewal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Activist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Religion_and_politics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Israel_Public_Affairs_Committee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Sonoma_State_University_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Weequahic_High_School_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Editor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ethics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Federal_Correctional_Institution,_Terminal_Island"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/First_Lady_of_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:New_American_Movement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Far_Brook_School"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Left-wing_politics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Psychodynamics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Progressivism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Good_Friday_Prayer_for_the_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli\u2013Palestinian_peace_process"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halakha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hamas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hartford,_Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hillary_Clinton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Islamophobia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/J._Edgar_Hoover"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Jewish_Exponent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weequahic,_Newark"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Atlanta"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_pacifists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_anti-racism_activists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_pacifists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Newark,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jurisprudence"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Larry_King_Live"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Susan_Stern"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Homophobia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zionism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Director_of_the_Federal_Bureau_of_Investigation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_Renewal_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bully_pulpit"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Political_philosophy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sonoma_State_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Free_Speech_Movement"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palestinian_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michael_Justesen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/National_Institute_of_Mental_Health"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Newark,_New_Jersey"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Occupy_Oakland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rachel_Corrie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yom_Kippur"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Magazine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Riot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Seattle_Liberation_Front"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Social_psychology"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sociology"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Weather_Underground"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ethnocentrism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Left_Hand_of_God_(book)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Psychotherapy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Summorum_Pontificum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Washington_Supreme_Court"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Self-hating_Jew"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Diego_Jewish_Journal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wright_Institute"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roger_Lippman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Semicha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Palestinian_state"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Students_for_a_Democratic_Society_(1960_organization)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Pedro,_Los_Angeles,_California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/War_crimes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Act_Now_to_Stop_War_and_End_Racism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_Anti-Semitism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zionists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geneva_Accords_(2003)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Interfaith"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Goldstone_report"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meet_the_Press_with_Tim_Russert"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.tikkun.org/rabbi-michael-lerner/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.018lgh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Michael_Lerner_(rabbi)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/120194716"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/113723670"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1139721275"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q6981284"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p070946809"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0645\u0627\u064a\u0643\u0644_\u0644\u064a\u0631\u0646\u0631"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05de\u05d9\u05d9\u05e7\u05dc_\u05dc\u05e8\u05e0\u05e8_(\u05e8\u05d1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://id.dbpedia.org/resource/Michael_Lerner_(rabi)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://nn.dbpedia.org/resource/Michael_Lerner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4sRfZ"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:BLP_sources"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:C-SPAN"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_year_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Weather_Underground"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Rabbi_Michael_Lerner_-_Cropped.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/Wright_Institute"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Lerner at Occupy Oakland, November 2011"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "Akiva Jeremiah Lerner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Editor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "1998"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "2014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "2015"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Cat Zavis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Deborah Kohn-Lerner"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Nan Fink"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Michael Lerner (born 1943) is an American political activist, the editor of Tikkun, a progressive Jewish interfaith magazine based in Berkeley, California, and the rabbi of Beyt Tikkun Synagogue in Berkeley."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Michael Lerner adalah seorang aktivis politik, dan editor , sebuah majalah Yahudi dan yang terkemuka yang berbasis di Berkeley, California. Lerner memperoleh gelar B.A. dari Universitas Columbia dan belajar di . Ia menjadi mahasiswa kesayangan Abraham Joshua Heschel. Sementara di Seminari, Lerner terpilih sebagai presiden Atid di tingkat nasional, yaitu organisasi perguruan tinggi dari ."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/employer",
+        "object": "http://dbpedia.org/resource/Beyt_Tikkun_Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/employer",
+        "object": "http://dbpedia.org/resource/Tikkun_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/property/employer",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Activist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/113723670"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Michael_Lerner_(rabbi)?oldid=1121643343&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "40861"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1943"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/employer",
+        "object": "http://dbpedia.org/resource/Beyt_Tikkun_Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/employer",
+        "object": "http://dbpedia.org/resource/Tikkun_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/University_of_California,_Berkeley"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/Wright_Institute"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Michael_Lerner_(rabbi)__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Editor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Michael_Lerner_(rabbi)>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Michael_Lerner_(rabbi)"
+    }
+]

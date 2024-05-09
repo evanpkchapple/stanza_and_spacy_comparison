@@ -1,0 +1,397 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Susan Schnur"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Susan Schnur (born April 21, 1951) is an American rabbi, psychologist, editor, and writer of children's books. Schnur was ordained by the Reconstructionist Rabbinical College in 1982, making her among the first 12 Reconstructionist rabbis and among the first 61 female rabbis in the world. She received a Masters in Creative Writing from the Johns Hopkins Writing Seminars and a Doctorate in Psychology from Rutgers University."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Susan Schnur"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Susan Schnur"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Reconstructionist_Jewish_feminists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1951_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Women_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_editors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_feminists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_ethicists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Reconstructionist_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "61500737"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1113503584"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosh_Hashanah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Reconstructionist_Jewish_feminists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lilith_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1951_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rutgers_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geoffrey_Claussen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Women_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Musar_literature"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_New_York_Times"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bank_Street_College_of_Education"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_editors"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_feminists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_feminism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johns_Hopkins_Writing_Seminars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Forgiveness"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Psychologist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reconstructionist_Rabbinical_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_ethicists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Reconstructionist_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reconstructionist_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tashlich"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Johns_Hopkins_Writing_Seminar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q66459264"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/ArYba"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Judaism-bio-stub"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:US-activist-stub"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_year_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Feminism-activist-stub"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/property/awards",
+        "object": "Best Children's Books of the Year list, Bank Street College of Education, 2011, for Tashlich at Turtle Rock"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "Degree in psychology at Rutgers University, 2007"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "Degree in Creative Writing at the Johns Hopkins Writing Seminar,"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "Ordained as Reconstructionist Rabbi at Reconstructionist Rabbinical College, 1982,"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, psychologist, writer and editor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Susan Schnur (born April 21, 1951) is an American rabbi, psychologist, editor, and writer of children's books. Schnur was ordained by the Reconstructionist Rabbinical College in 1982, making her among the first 12 Reconstructionist rabbis and among the first 61 female rabbis in the world. She received a Masters in Creative Writing from the Johns Hopkins Writing Seminars and a Doctorate in Psychology from Rutgers University. Schnur has written for many publications, and formerly wrote a weekly column for the New York Times. She has served as editor of Lilith since 1995. She has described herself as a \"recovering rabbi\" for whom Lilith is a \"paper pulpit\" from which she preaches Jewish feminism. Through Lilith, she has said, she and her co-editors \"helped to transform Judaism into something beautiful and plausible for thousands of Jewish women.\" Schnur has been widely noted for her writings on forgiveness, which show how gender matters in discussions of forgiveness and which breaks down rigid distinctions between forgiving and not forgiving. Geoffrey Claussen identifies Schnur as a contributor to modern musar literature."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/property/employer",
+        "object": "Lilith magazine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Susan_Schnur?oldid=1113503584&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "10442"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1951"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/employer",
+        "object": "http://dbpedia.org/resource/Lilith_(magazine)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/award",
+        "object": "http://dbpedia.org/resource/Bank_Street_College_of_Education"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Rutgers_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Reconstructionist_Rabbinical_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/Johns_Hopkins_Writing_Seminar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Psychologist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Susan_Schnur__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Susan_Schnur>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Susan_Schnur"
+    }
+]

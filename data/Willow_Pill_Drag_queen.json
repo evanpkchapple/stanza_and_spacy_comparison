@@ -1,0 +1,537 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Willow Pill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Willow Pill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Willow Pill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Willow Patterson, conocida con el nombre art\u00edstico de Willow Pill, es una artista drag estadounidense. Es conocida por ser la ganadora de la temporada 14 de RuPaul's Drag Race en 2022. Es la hermana drag de Yvie Oddly, quien fue la ganadora de la temporada 11 de Drag Race, lo que las convirti\u00f3 en las primeras hermanas drag en ganar temporadas regulares del programa."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Willow Patterson, plus connue sous le nom de sc\u00e8ne Willow Pill, est une drag queen am\u00e9ricaine principalement connue pour sa participation \u00e0 la quatorzi\u00e8me saison de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Willow Patterson, known by the stage name Willow Pill (born 1995), is an American drag performer. She is best known as the winner of season 14 of RuPaul's Drag Race in 2022."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Willow Pill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Willow Pill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/DragCon_2022-129_(52074253637).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52073264228).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Denver,_Colorado"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Denver, Colorado, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Colorado_State_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1995_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Transgender_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Denver"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Colorado"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "69421423"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1112475264"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_14)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_4)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beyonc\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denver"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Colorado_State_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_winners"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vanessa_Van_Cartier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Colorado_State_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gimme!_Gimme!_Gimme!_(A_Man_After_Midnight)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Missy_Elliott"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Critics'_Choice_Real_TV_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lady_Camden"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Angele_Anang"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MTV_Movie_&_TV_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Denver,_Colorado"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yvie_Oddly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Femme"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kerri_Colby"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transgender"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trinity_the_Tuck"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/ABBA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1995_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Transgender_drag_performers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cystinosis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Race_(franchise)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Non-binary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gwen_Stefani"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jasmine_Kennedie"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Telephone_(song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snatch_Game"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Denver"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Colorado"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/KGNU"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lady_Gaga"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Symone_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bosco_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kornbread_Jet\u00e9"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kylie_Sonique_Love"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:DragCon_2022-129_(52074253637).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q111302344"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Willow_Pill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u0648\u06cc\u0644\u0648_\u067e\u06cc\u0644"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Willow_Pill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://hu.dbpedia.org/resource/Willow_Pill"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/GPLmp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category-inline"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Won"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_year_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/RuPaul_DragCon_2022_(52073264228).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Willow Pill at RuPaul's DragCon LA, 2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/property/predecessor",
+        "object": "http://dbpedia.org/resource/Symone_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/property/television",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Willow Patterson, conocida con el nombre art\u00edstico de Willow Pill, es una artista drag estadounidense. Es conocida por ser la ganadora de la temporada 14 de RuPaul's Drag Race en 2022. Es la hermana drag de Yvie Oddly, quien fue la ganadora de la temporada 11 de Drag Race, lo que las convirti\u00f3 en las primeras hermanas drag en ganar temporadas regulares del programa."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Willow Patterson, plus connue sous le nom de sc\u00e8ne Willow Pill, est une drag queen am\u00e9ricaine principalement connue pour sa participation \u00e0 la quatorzi\u00e8me saison de RuPaul's Drag Race."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Willow Patterson, known by the stage name Willow Pill (born 1995), is an American drag performer. She is best known as the winner of season 14 of RuPaul's Drag Race in 2022."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Willow_Pill?oldid=1112475264&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "13524"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1995"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Willow_Pill__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://dbpedia.org/ontology/predecessor",
+        "object": "http://dbpedia.org/resource/Symone_(drag_queen)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Willow_Pill>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Willow_Pill"
+    }
+]

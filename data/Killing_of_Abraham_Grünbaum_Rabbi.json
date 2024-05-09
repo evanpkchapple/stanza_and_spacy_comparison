@@ -1,0 +1,392 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Abraham Gr\u00fcnbaum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Killing of Abraham Gr\u00fcnbaum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Abraham Gr\u00fcnbaum (geboren 1930 in Tomasz\u00f3w, Polen; gestorben am 7. Juni 2001 in Z\u00fcrich) war ein israelischer Rabbiner und Leiter einer orthodoxen Jeschiwa in Israel. Er war ein \u00dcberlebender der Schoa. Sein gewaltsamer Tod in Z\u00fcrich blieb unaufgekl\u00e4rt."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Abraham Gr\u00fcnbaum (* 1930 in Poland, \u2020 June 7th 2001 in Zurich) was an orthodox rabbi and leader of a yeshiva in Bnei Brak. His death is one of the currently unsolved murder cases in Switzerland. Gr\u00fcnbaum survived World War 2 in a work camp in Siberia, while his parents have been murdered in his native Poland."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Abraham Gr\u00fcnbaum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Abraham Gr\u00fcnbaum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/2003/01/geo/wgs84_pos#lat",
+        "object": "47.37073135375977"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/2003/01/geo/wgs84_pos#long",
+        "object": "8.52830982208252"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Z\u00fcrich"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Z\u00fcrich, Switzerland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "2001-06-07"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Male_murder_victims"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Israeli_Rosh_yeshivas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Unsolved_murders_in_Switzerland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Polish_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "67282014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1066689058"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bnei_Brak"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_unsolved_murders_(21st_century)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Z\u00fcrich"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Male_murder_victims"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Israeli_Rosh_yeshivas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Unsolved_murders_in_Switzerland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Haaretz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Polish_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Poland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zurich"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Meter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maariv"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Swiss_Francs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nationalsozialistischer_Untergrund"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/June_7th"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.haaretz.com/1.5219107"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q330030"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Abraham_Gr\u00fcnbaum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05d0\u05d1\u05e8\u05d4\u05dd_\u05d2\u05e8\u05d9\u05e0\u05d1\u05d5\u05d9\u05dd_(\u05e8\u05d1)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/33Mr8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Rabbi-stub"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Coord"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Notability"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "2001-06-07"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Victim of unsolved murder"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "orthodox rabbi and leader of a yeshiva in Bnei Brak"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.georss.org/georss/point",
+        "object": "47.37073 8.52831"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Abraham Gr\u00fcnbaum (geboren 1930 in Tomasz\u00f3w, Polen; gestorben am 7. Juni 2001 in Z\u00fcrich) war ein israelischer Rabbiner und Leiter einer orthodoxen Jeschiwa in Israel. Er war ein \u00dcberlebender der Schoa. Sein gewaltsamer Tod in Z\u00fcrich blieb unaufgekl\u00e4rt."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Abraham Gr\u00fcnbaum (* 1930 in Poland, \u2020 June 7th 2001 in Zurich) was an orthodox rabbi and leader of a yeshiva in Bnei Brak. His death is one of the currently unsolved murder cases in Switzerland. Gr\u00fcnbaum survived World War 2 in a work camp in Siberia, while his parents have been murdered in his native Poland."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/property/deathCause",
+        "object": "Homicide by shooting"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Killing_of_Abraham_Gr\u00fcnbaum?oldid=1066689058&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "3271"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "2001"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Bnei_Brak"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Yeshiva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Killing_of_Abraham_Gr\u00fcnbaum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Killing_of_Abraham_Gr\u00fcnbaum>",
+        "predicate": "http://www.w3.org/2003/01/geo/wgs84_pos#geometry",
+        "object": "POINT(8.5283098220825 47.37073135376)"
+    }
+]

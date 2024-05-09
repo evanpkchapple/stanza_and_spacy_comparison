@@ -1,0 +1,1572 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatWritersFromParis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromGeneva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromLot(department)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPeopleFromMontreal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Academician109759069"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Adult109605289"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Educator110045713"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Historian110177150"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Professional110480253"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFrenchScholars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHistoriansOfEurope"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHistoriansOfFrance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHistoriansOfJewsAndJudaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHistoriansOfTheFrenchRevolution"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHumanitiesAcademics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishCanadianWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishHistorians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Wikicat20th-centuryFrenchWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFrenchAcademics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFrenchHistorians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFrenchPeopleOfSwissDescent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatFrenchPeopleOfWorldWarII"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "David Feuerwerker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "David Feuerwerker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "David Feuerwerker (October 2, 1912 \u2013 June 20, 1980) was a French Jewish rabbi and professor of Jewish history who was effective in the resistance to German occupation the Second World War. He was completely unsuspected until six months before the war ended, when he fled to Switzerland and his wife and baby went underground in France. The French government cited him for his bravery with several awards. After the war, he and his wife re-established the Jewish community of Lyon. He settled in Paris, teaching at the Sorbonne. In 1966, he and his family, grown to six children, moved to Montreal, where he developed a department of Jewish studies at the University of Montreal."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "David Feuerwerker est un rabbin et professeur d\u2019histoire juive fran\u00e7ais (Gen\u00e8ve, le 2 octobre 1912 \u2013 Montr\u00e9al, le 20 juin 1980). Membre distingu\u00e9 de l\u2019arm\u00e9e fran\u00e7aise, maintes fois d\u00e9cor\u00e9 pour ses faits de R\u00e9sistance et son travail dans la Marine nationale dont il a fond\u00e9 l'aum\u00f4nerie, il s\u2019impose comme l\u2019une des grandes figures du juda\u00efsme fran\u00e7ais d\u2019apr\u00e8s-guerre, officiant pendant une douzaine d'ann\u00e9es \u00e0 la synagogue de la rue des Tournelles et participant \u00e0 la vie intellectuelle du pays par ses cercles d\u2019\u00e9tudes, conf\u00e9rences et publications. il introduit l\u2019h\u00e9breu moderne comme langue \u00e9trang\u00e8re au baccalaur\u00e9at en France (et \u00e0 l'\u00e9tranger). Il est aussi, apr\u00e8s son d\u00e9part pour Montr\u00e9al, l\u2019une des grandes voix de la communaut\u00e9 juive francophone du Canada."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+        "object": "http://dbpedia.org/resource/Feuerwerker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "David Feuerwerker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "David Feuerwerker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Geneva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Montreal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Montreal, Quebec, Canada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1980-06-20"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Geneva, Switzerland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1912-10-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:French_people_of_Austrian-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Paris_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Swiss_emigrants_to_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Humanities_academics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1912_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1980_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Historians_of_Europe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Canadian_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Officiers_of_the_L\u00e9gion_d'honneur"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Montreal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Paris"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_Croix_de_Guerre_1939\u20131945_(France)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_French_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_people_of_Romanian-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:French_people_of_Swiss_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Universit\u00e9_de_Montr\u00e9al_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:French_Hebraists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:French_people_of_Romanian-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_French_historians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:French_Army_personnel_of_World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:French_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:French_Resistance_members"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_historians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:University_of_Paris_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Winners_of_the_Prix_Broquette-Gonin_(literature)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jews_in_the_French_resistance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Historians_of_the_French_Revolution"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Geneva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Canadian_people_of_Austrian-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:French_scholars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:\u00c9cole_pratique_des_hautes_\u00e9tudes_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "12091908"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1116006304"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cardinal_(Catholicism)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/B'nei_Noah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Premier_of_Quebec"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Prime_Minister_of_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/P\u00e8re_Marie-Beno\u00eet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Romania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rue_de_la_Victoire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talmud_Torah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Benoit_Mandelbrot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Din"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bitche"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bizerte"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bnei_Brak"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Departments_of_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Deportation"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aramaic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Joseph_Kessel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ren\u00e9_L\u00e9vesque"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Robert_Aron"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_people_of_Austrian-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Paris"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Universit\u00e9_de_Montr\u00e9al"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Urbana,_Illinois"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Victor_Hugo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Donna_F._Ryan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/15th_arrondissement_of_Paris"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Paris_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Corr\u00e8ze"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Creuse"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Louis_Kahn_(admiral)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ch\u00e2teauroux"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Swiss_emigrants_to_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Mauriac"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_Forces_of_the_Interior"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_Navy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Geneva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Georges_Duhamel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gestapo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Montreal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Montr\u00e9al"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moshe_Dayan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moshe_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/La_Roquette_Prisons"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Antoinette_Feuerwerker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Liberation_of_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lot_(department)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lyon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Strasbourg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Suez_Crisis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Humanities_academics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9douard_Herriot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Fran\u00e7ois_Perroux"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Henri_Baruk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Austria-Hungary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Avrohom_Yeshaya_Karelitz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1912_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1980_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Historians_of_Europe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Canadian_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Officiers_of_the_L\u00e9gion_d'honneur"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Montreal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Paris"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brive-la-Gaillarde"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Burgenland"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aharon_Rokeach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tunisia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Division_(military)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drancy_internment_camp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Croix_de_guerre_1939-1945_(France)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hazzan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_history"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_music"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/9th_arrondissement_of_Paris"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Acad\u00e9mie_Fran\u00e7aise"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agoudas_Hakehilos_Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ailette_(river)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aisne_(river)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Algeria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aliyah_Bet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alsace"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Recipients_of_the_Croix_de_Guerre_1939\u20131945_(France)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_French_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_people_of_Romanian-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_people_of_Swiss_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Universit\u00e9_de_Montr\u00e9al_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cuba"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edmond_Fleg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Edmond_Michelet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Andr\u00e9_Spire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_Hebraists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_people_of_Romanian-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lyc\u00e9e_F\u00e9nelon,_Paris"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Roman_Catholic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gurs"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/HIAS"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ha\u00efm_Brezis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jacques_Soustelle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Drapeau"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Wahl"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baccalaur\u00e9at"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Siebengemeinden"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_French_historians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_Army_personnel_of_World_War_II"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_Resistance_members"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_historians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:University_of_Paris_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Winners_of_the_Prix_Broquette-Gonin_(literature)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jews_in_the_French_resistance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Historians_of_the_French_Revolution"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Geneva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Charles_de_Gaulle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Canadian_people_of_Austrian-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_scholars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:\u00c9cole_pratique_des_hautes_\u00e9tudes_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Le_Monde"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Synagogue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Syriac_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Szolem_Mandelbrojt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jean_Cassou"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Samuel_Jacob_Rubinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/L\u00e9gion_d'honneur"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Divonne-les-Bains"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Artillery"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pierre-Marie_Gerlier"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pierre_Mend\u00e8s_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pinhas_Hirschprung"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Place_des_Vosges"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_Academy_of_Sciences"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ph.D."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Neuilly-sur-Seine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Raymond_Aron"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Second_World_War"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Seine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Semitic_languages"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shechita"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yad_Vashem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/H\u00f4tel-Dieu_de_Paris"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Le_Marais"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Semikhah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/\u00c9cole_pratique_des_hautes_\u00e9tudes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sanhedria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moshe_Koussevitzky"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lyc\u00e9e_Henri-IV"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Legion_of_Honor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Righteous_Among_the_Nations"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sighet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brive"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States_National_Academy_of_Sciences"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_Liberation_Medal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_R\u00e9sistance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Radio-Canada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arc_de_Triomphe_de_l'\u00c9toile"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/R\u00e9sistance"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maramure\u015f"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chazon_Ish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Navy_base"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbinical_court"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Croix_du_combattant_volontaire_1939\u20131945"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ecole_Pratique_des_Hautes_Etudes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Noahide"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wikt:front_page"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.synaneuilly.com/historique.htm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://fr.wikipedia.org/w/index.php%3Ftitle=Synagogue_de_la_rue_des_Tournelles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://judaisme.sdv.fr/perso/dirige/loup/loup.htm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20110224065516/http:/www.synaneuilly.com/historique.htm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.02vpkq6"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/46760866"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/David_Feuerwerker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q3017893"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p189162457"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u062f\u064a\u0641\u064a\u062f_\u0627\u0644\u0627\u0644\u0639\u0627\u0628_\u0627\u0644\u0646\u0627\u0631\u064a\u0647"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/David_Feuerwerker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05d3\u05d5\u05d3_\u05e4\u05d9\u05d9\u05e8\u05d5\u05d5\u05e8\u05e7\u05e8"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/2o4Dh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:ISBN"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:More_footnotes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Quote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:SS"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:See_also"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Webarchive"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Overly_detailed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Holocaust_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/restingPlace",
+        "object": "Jerusalem, Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1912-10-02"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "Atara, Natania, Elie, Hillel, Emmanuel, Benjamine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/date",
+        "object": "2011-02-24"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1980-06-20"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "France, Canada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, Historian"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/parents",
+        "object": "Jacob Feuerwerker and Regina Neufeld"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "http://dbpedia.org/resource/Antoinette_Feuerwerker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/property/url",
+        "object": "https://web.archive.org/web/20110224065516/http:/www.synaneuilly.com/historique.htm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "David Feuerwerker (October 2, 1912 \u2013 June 20, 1980) was a French Jewish rabbi and professor of Jewish history who was effective in the resistance to German occupation the Second World War. He was completely unsuspected until six months before the war ended, when he fled to Switzerland and his wife and baby went underground in France. The French government cited him for his bravery with several awards. After the war, he and his wife re-established the Jewish community of Lyon. He settled in Paris, teaching at the Sorbonne. In 1966, he and his family, grown to six children, moved to Montreal, where he developed a department of Jewish studies at the University of Montreal."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "David Feuerwerker est un rabbin et professeur d\u2019histoire juive fran\u00e7ais (Gen\u00e8ve, le 2 octobre 1912 \u2013 Montr\u00e9al, le 20 juin 1980). Membre distingu\u00e9 de l\u2019arm\u00e9e fran\u00e7aise, maintes fois d\u00e9cor\u00e9 pour ses faits de R\u00e9sistance et son travail dans la Marine nationale dont il a fond\u00e9 l'aum\u00f4nerie, il s\u2019impose comme l\u2019une des grandes figures du juda\u00efsme fran\u00e7ais d\u2019apr\u00e8s-guerre, officiant pendant une douzaine d'ann\u00e9es \u00e0 la synagogue de la rue des Tournelles et participant \u00e0 la vie intellectuelle du pays par ses cercles d\u2019\u00e9tudes, conf\u00e9rences et publications. il introduit l\u2019h\u00e9breu moderne comme langue \u00e9trang\u00e8re au baccalaur\u00e9at en France (et \u00e0 l'\u00e9tranger). Il est aussi, apr\u00e8s son d\u00e9part pour Montr\u00e9al, l\u2019une des grandes voix de la communaut\u00e9 juive francophone du Canada."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/46760866"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/David_Feuerwerker?oldid=1116006304&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "23420"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/restingPlace",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/restingPlace",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1912"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1980"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/David_Feuerwerker__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://dbpedia.org/ontology/spouse",
+        "object": "http://dbpedia.org/resource/Antoinette_Feuerwerker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/David_Feuerwerker>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/David_Feuerwerker"
+    }
+]

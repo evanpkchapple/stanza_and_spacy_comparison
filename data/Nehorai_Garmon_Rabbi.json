@@ -1,0 +1,427 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q36180"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Writer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Nehorai Garmon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Nehorai Garmon (Hebrew: \u05e0\u05d4\u05d5\u05e8\u05d0\u05d9 \u05d2\u05f3\u05e8\u05de\u05d5\u05df; c.\u20091682\u20131760) was a rabbi and poet from Ottoman Tripolitania. Born in Tripoli, Garmon went to Tunis at the age of twenty, and studied Talmud under Isaac Lumbroso, whom he succeeded in the rabbinate. He was the author of Yeter ha-Baz, published posthumously in Livorno in 1787, consisting of novell\u00e6 on the Talmud and on Maimonides' Mishneh Torah. Printed with the work are eleven poems of the author, and the novell\u00e6 of his son \u1e24ayyim (d. 1781). Garmon lost a large part of his writings in an attack on the Jewish quarter."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Nehorai Garmon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Nehorai Garmon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Tripoli,_Libya"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Ottoman_Tripolitania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Tunis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/Ottoman_Tripolitania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "Tunis, Ottoman Tripolitania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Tripoli,_Libya"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Ottoman_Tripolitania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1760_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:18th-century_poets_from_the_Ottoman_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:18th-century_rabbis_from_the_Ottoman_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Hebrew-language_poets"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Tripoli"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Tunis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1680s_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "67570171"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1115581393"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Novella"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Livorno"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Maimonides"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tripoli,_Libya"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tunis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isaac_Lumbroso"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ottoman_Tripolitania"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hara_(Tunis)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1760_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:18th-century_poets_from_the_Ottoman_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:18th-century_rabbis_from_the_Ottoman_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Hebrew-language_poets"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Tripoli"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Tunis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1680s_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pogrom"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talmud"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.jewishencyclopedia.com/articles/6518%7Cfirst1=Gotthard%7Clast1=Deutsch%7Cfirst2=M.%7Clast2=Seligsohn%7Cvolume=5%7Cpage=573"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.hebrewbooks.org/20148%7Clanguage=he"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/137073070"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/204145542442096640711"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/308276228"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/81314127"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q106695393"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p407046321"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/AJB5N"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Judaism-bio-stub"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Circa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_book"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_writer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Jewish_Encyclopedia"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:R"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/article",
+        "object": "Garmon, Nehorai"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1760"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/language",
+        "object": "http://dbpedia.org/resource/Hebrew_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/nativeName",
+        "object": "\u05e0\u05d4\u05d5\u05e8\u05d0\u05d9 \u05d2\u05f3\u05e8\u05de\u05d5\u05df\u200e"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/nativeNameLang",
+        "object": "he"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, poet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/property/url",
+        "object": "https://www.jewishencyclopedia.com/articles/6518%7Cfirst1=Gotthard%7Clast1=Deutsch%7Cfirst2=M.%7Clast2=Seligsohn%7Cvolume=5%7Cpage=573"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Nehorai Garmon (Hebrew: \u05e0\u05d4\u05d5\u05e8\u05d0\u05d9 \u05d2\u05f3\u05e8\u05de\u05d5\u05df; c.\u20091682\u20131760) was a rabbi and poet from Ottoman Tripolitania. Born in Tripoli, Garmon went to Tunis at the age of twenty, and studied Talmud under Isaac Lumbroso, whom he succeeded in the rabbinate. He was the author of Yeter ha-Baz, published posthumously in Livorno in 1787, consisting of novell\u00e6 on the Talmud and on Maimonides' Mishneh Torah. Printed with the work are eleven poems of the author, and the novell\u00e6 of his son \u1e24ayyim (d. 1781). Garmon lost a large part of his writings in an attack on the Jewish quarter."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Nehorai_Garmon?oldid=1115581393&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "3073"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/language",
+        "object": "http://dbpedia.org/resource/Hebrew_language"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nehorai_Garmon>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Nehorai_Garmon"
+    }
+]

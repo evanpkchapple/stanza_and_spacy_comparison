@@ -1,0 +1,367 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Howard Apfel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Howard Apfel is an American-Israeli Rabbi and Cardiologist practicing medicine at Columbia University Medical Center."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Howard Apfel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Howard Apfel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_pediatric_cardiologists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Modern_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "26278125"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1088277751"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Year_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_University_Medical_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_pediatric_cardiologists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Albert_Einstein_College_of_Medicine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alpha_Omega_Alpha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Journal_of_Halacha_and_Contemporary_Society"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halacha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Modern_Orthodox_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Summa_cum_laude"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Touro_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Physicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi_Isaac_Elchanan_Theological_Seminary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cardiologist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshivat_Shaalvim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Columbia_Presbyterian_Medical_Center"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gruss_Kollel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hilchot_Shabbat"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Schneider_Children\u2019s_Hospital"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshivat_Mevaseret_Tzion"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0b77knq"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Howard_Apfel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q5918982"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4n8u7"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:BLP_sources"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Multiple_issues"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Notability"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "Columbia University Medical Center."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi\nCardiologist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Howard Apfel is an American-Israeli Rabbi and Cardiologist practicing medicine at Columbia University Medical Center."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Howard_Apfel?oldid=1088277751&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "6711"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Cardiologist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Howard_Apfel__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Howard_Apfel>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Howard_Apfel"
+    }
+]

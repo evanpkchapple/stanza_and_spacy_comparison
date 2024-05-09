@@ -1,0 +1,562 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Nicky Doll"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Nicky Doll"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Nicky Doll"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Karl Sanchez, m\u00e1s conocido bajo su nombre art\u00edstico Nicky Doll, es una drag queen francesa que ejerce principalmente en Estados Unidos. Es principalmente conocida por haber participado en la duod\u00e9cima temporada de RuPaul's Drag Race y ser la presentadora de Drag Race Francia, la edici\u00f3n francesa de la misma franquicia.\u200b\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Nicky Doll is the stage name of Karl Sanchez (born 14 March 1991), a French drag queen based in New York City, known for being a competitor on the twelfth season of RuPaul's Drag Race ultimately placing 10th. Since 2022, Nicky Doll has been a judge and the main host of Drag Race France."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Karl Sanchez, plus connu sous le nom de sc\u00e8ne Nicky Doll, est une drag queen fran\u00e7aise exer\u00e7ant principalement aux \u00c9tats-Unis et surtout connue pour avoir particip\u00e9 \u00e0 la douzi\u00e8me saison de RuPaul's Drag Race et comme pr\u00e9sentatrice de Drag Race France."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Nicky Doll"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Nicky Doll"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicky_Doll_2022.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Marseille,_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Marseille,_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1991-03-14"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_artists_from_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Entertainers_from_Marseille"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1991_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Drag_Race_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:French_make-up_artists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:French_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "62908131"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1112096716"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Problem_(Ariana_Grande_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_12)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_7)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/San_Francisco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Saturday_Night_Live"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_artists_from_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Entertainers_from_Marseille"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pete_Davidson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dahlia_Sin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/VH1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vogue_Paris"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Collectivity_of_Saint_Martin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/French_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Gay"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Morocco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1991_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_Race_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicki_Minaj"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Drag_Race_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_make-up_artists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heart_to_Break"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Heidi_N_Closet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ariana_Grande"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:French_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kim_Petras"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Iggy_Azalea"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Marseille,_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bring_Back_My_Ghouls"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://www.nickydoll.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q95478879"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Nicky_Doll"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Nicky_Doll"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://sr.dbpedia.org/resource/\u041d\u0438\u043a\u0438_\u0414\u043e\u043b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/BynwY"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:IMDb_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/a"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Portal_bar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:URL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Drag_Race_France"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Nicky_Doll_2022.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1991-03-14"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Karl Sanchez"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Nicky Doll in New York City, May 2022"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "French-Spanish"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen, entertainer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2009"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Karl Sanchez, m\u00e1s conocido bajo su nombre art\u00edstico Nicky Doll, es una drag queen francesa que ejerce principalmente en Estados Unidos. Es principalmente conocida por haber participado en la duod\u00e9cima temporada de RuPaul's Drag Race y ser la presentadora de Drag Race Francia, la edici\u00f3n francesa de la misma franquicia.\u200b\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Nicky Doll is the stage name of Karl Sanchez (born 14 March 1991), a French drag queen based in New York City, known for being a competitor on the twelfth season of RuPaul's Drag Race ultimately placing 10th. Since 2022, Nicky Doll has been a judge and the main host of Drag Race France."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Karl Sanchez, plus connu sous le nom de sc\u00e8ne Nicky Doll, est une drag queen fran\u00e7aise exer\u00e7ant principalement aux \u00c9tats-Unis et surtout connue pour avoir particip\u00e9 \u00e0 la douzi\u00e8me saison de RuPaul's Drag Race et comme pr\u00e9sentatrice de Drag Race France."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Nicky_Doll?oldid=1112096716&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "14262"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2009"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Karl Sanchez"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1991"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Nicky_Doll__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Nicky_Doll>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Nicky_Doll"
+    }
+]

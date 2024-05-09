@@ -1,0 +1,747 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "BenDeLaCreme"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "BenDeLaCreme"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "BenDeLaCreme (born September 24, 1981) is the stage persona of Benjamin H. Putnam, an American drag queen, burlesque performer, and actor based in Seattle, Washington. He is known for being a contestant on the sixth season of RuPaul's Drag Race and the third season of RuPaul's Drag Race: All Stars. He is also known for his solo shows Ready To Be Committed, Terminally Delightful, Inferno A-Go-Go and Cosmos, and as co-creator and host of burlesque revues Freedom Fantasia and Homo for the Holidays."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Benjamin Putnam, plus connu sous le nom de sc\u00e8ne BenDeLaCreme, est un acteur, danseur new burlesque et drag queen am\u00e9ricain, principalement connu pour avoir particip\u00e9 \u00e0 la sixi\u00e8me saison de RuPaul's Drag Race et \u00e0 la troisi\u00e8me saison de RuPaul's Drag Race: All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "BenDeLaCreme"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://xmlns.com/foaf/0.1/homepage",
+        "object": "http://bendelacreme.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "BenDeLaCreme"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/BenDeLaCreme_(cropped).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/BenDeLaCreme_All_Stars_1.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Litchfield,_Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Litchfield,_Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1981-09-24"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Washington_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1981_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Place_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:School_of_the_Art_Institute_of_Chicago_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Male_actors_from_Seattle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "42258008"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123972167"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Capitol_Hill_(TV_series)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_burlesque"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queerty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_5)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_6)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_7)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_6)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_7)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/School_of_the_Art_Institute_of_Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Varla_Jean_Merman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/BeBe_Zahara_Benet"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Washington_(state)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Litchfield,_Connecticut"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Litchfield_High_School_(Litchfield,_Connecticut)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Queer_for_Fear:_The_History_of_Queer_Horror"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1981_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Place_of_birth_missing_(living_people)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Stage_name"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ginger_Minj"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ann_Miller"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Persona_(psychology)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:School_of_the_Art_Institute_of_Chicago_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Trixie_Mattel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_king"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Male_actors_from_Seattle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_(clothing)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dragging_the_Classics:_The_Brady_Bunch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_The_Brady_Bunch_characters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Happiest_Season"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ivy_Winters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Snatch_Game"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jinkx_Monsoon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katya_Zamolodchikova"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kennedy_Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wes_Hurley"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Burlesque"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_All_Stars_(season_3)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Seattle"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Seattle,_Washington"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shangela"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Christmas_Queens_2"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/MAC_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Revue"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Waxie_Moon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Waxie_Moon_in_Fallen_Jewel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pin-up_girl"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wikt:cr\u00e8me_de_la_cr\u00e8me"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chicago_Kings"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:BenDeLaCreme_All_Stars_1.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Atomic_Bombshells"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://bendelacreme.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0zgh0jc"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/BenDeLaCreme"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://musicbrainz.org/artist/e92feda7-f2b4-4648-93c2-5e0840525372"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q21592085"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://azb.dbpedia.org/resource/\u0628\u0646\u062f\u0644\u0627\u06a9\u0631\u06cc\u0645"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u0628\u0646\u062f\u0644\u0627\u06a9\u0631\u06cc\u0645"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/BenDeLaCreme"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://tr.dbpedia.org/resource/BenDeLaCreme"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/23Nn3"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_musical_artist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/A"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Nominated"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Tooltip"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Won"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/BenDeLaCreme_(cropped).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1981-09-24"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Benjamin H. Putnam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "BenDeLaCreme performing in 2014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/education",
+        "object": "http://dbpedia.org/resource/School_of_the_Art_Institute_of_Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race  \nRuPaul's Drag Race All Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Burlesque performer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag performer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/predecessor",
+        "object": "http://dbpedia.org/resource/Ivy_Winters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/successor",
+        "object": "http://dbpedia.org/resource/Katya_Zamolodchikova"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/title",
+        "object": "Miss Congeniality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/property/website",
+        "object": "http://bendelacreme.com/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "BenDeLaCreme (born September 24, 1981) is the stage persona of Benjamin H. Putnam, an American drag queen, burlesque performer, and actor based in Seattle, Washington. He is known for being a contestant on the sixth season of RuPaul's Drag Race and the third season of RuPaul's Drag Race: All Stars. He is also known for his solo shows Ready To Be Committed, Terminally Delightful, Inferno A-Go-Go and Cosmos, and as co-creator and host of burlesque revues Freedom Fantasia and Homo for the Holidays."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Benjamin Putnam, plus connu sous le nom de sc\u00e8ne BenDeLaCreme, est un acteur, danseur new burlesque et drag queen am\u00e9ricain, principalement connu pour avoir particip\u00e9 \u00e0 la sixi\u00e8me saison de RuPaul's Drag Race et \u00e0 la troisi\u00e8me saison de RuPaul's Drag Race: All Stars."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/personFunction",
+        "object": "http://dbpedia.org/resource/BenDeLaCreme__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/BenDeLaCreme?oldid=1123972167&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "17595"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Benjamin H. Putnam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1981"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/title",
+        "object": "Miss Congeniality"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/education",
+        "object": "http://dbpedia.org/resource/School_of_the_Art_Institute_of_Chicago"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/American_burlesque"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/BenDeLaCreme__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/predecessor",
+        "object": "http://dbpedia.org/resource/Ivy_Winters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://dbpedia.org/ontology/successor",
+        "object": "http://dbpedia.org/resource/Katya_Zamolodchikova"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/BenDeLaCreme>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/BenDeLaCreme"
+    }
+]

@@ -1,0 +1,612 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q82955"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatUgandanPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Politician"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Gershom Sizomu"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Gershom Sizomu"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Gershom Sizomu (born 1972) is a Ugandan rabbi serving the Abayudaya, a Baganda community in eastern Uganda near the town of Mbale who practice Judaism. Sizomu is the first native-born black rabbi in Sub-Saharan Africa. He is also the first chief rabbi of Uganda. Sizomu is a member of the Ugandan Parliament."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Gershom Sizomu (ur. 18 lutego 1969) \u2013 ugandyjski rabin konserwatywny, s\u0142u\u017c\u0105cy czarnosk\u00f3rej spo\u0142eczno\u015bci \u017cydowskiej w wiosce niedaleko . Jest pierwszym rodowitym, czarnosk\u00f3rym rabinem w Afryce Subsaharyjskiej oraz pierwszym naczelnym rabinem Ugandy i cz\u0142onkiem parlamentu.."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Abayudaya,_Uganda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Abayudaya,_Uganda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1969-02-18"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Islamic_University_in_Uganda_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Ugandan_politicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1972_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Ugandan_politicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Abayudaya"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Chief_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Ugandan_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Mbale_District"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "20421342"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1027457583"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Jewish_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Islamic_University_in_Uganda_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2011_Ugandan_general_election"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uganda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_University_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Ugandan_politicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mbale"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservative_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Arab"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sukkah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sukkot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ziegler_School_of_Rabbinic_Studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Banana"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Africa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1972_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nigeria"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Parliament_of_Uganda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Islamic_University_in_Uganda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Baganda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abayudaya"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_Ugandan_politicians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Abayudaya"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Chief_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Ugandan_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kenya"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Wine"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zionist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/South_Africa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Idi_Amin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Mbale_District"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Passover_Seder"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Abayudaya,_Uganda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Matzoh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Be'chol_Lashon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Bungokho"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20061017175726/http:/wildfoto.com/uganda.html"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20081211184236/http:/thejewsofuganda.org/history.php"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://news.bbc.co.uk/2/shared/spl/hi/picture_gallery/05/africa_uganda0s_jewish_community/html/1.stm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20081011231518/http:/www.ajula.edu/Content/ContentUnit.asp%3FCID=1713&u=7296&t=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.04zy5pk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Gershom_Sizomu"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q368665"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pl.dbpedia.org/resource/Gershom_Sizomu"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yi.dbpedia.org/resource/\u05d2\u05e8\u05e9\u05d5\u05dd_\u05e1\u05d9\u05d6\u05d0\u05de\u05d5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/3QNC5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_officeholder"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_dmy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "http://dbpedia.org/resource/American_Jewish_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "Islamic University In Uganda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1969-02-18"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Gershom Sizomu"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/property/citizenship",
+        "object": "Uganda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Chief rabbi of Uganda, politics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "Ugandan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Teacher, rabbi, politician"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/property/residence",
+        "object": "Abayudaya, Uganda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/property/title",
+        "object": "Honorable"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Gershom Sizomu (born 1972) is a Ugandan rabbi serving the Abayudaya, a Baganda community in eastern Uganda near the town of Mbale who practice Judaism. Sizomu is the first native-born black rabbi in Sub-Saharan Africa. He is also the first chief rabbi of Uganda. Sizomu is a member of the Ugandan Parliament."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Gershom Sizomu (ur. 18 lutego 1969) \u2013 ugandyjski rabin konserwatywny, s\u0142u\u017c\u0105cy czarnosk\u00f3rej spo\u0142eczno\u015bci \u017cydowskiej w wiosce niedaleko . Jest pierwszym rodowitym, czarnosk\u00f3rym rabinem w Afryce Subsaharyjskiej oraz pierwszym naczelnym rabinem Ugandy i cz\u0142onkiem parlamentu.. W latach 2003\u20132008 studiowa\u0142 w Ziegler School of Rabbinic Studies przy American Jewish University w Los Angeles, po czym otrzyma\u0142 smich\u0119 rabinack\u0105. W lipcu 2008 roku w pod jego nadzorem i kilku innych konserwatywnych rabin\u00f3w ze Stan\u00f3w Zjednoczonych dokonano masowej konwersji na judaizm 250 os\u00f3b z Ugandy, Kenii, Republiki Po\u0142udniowej Afryki i Nigerii."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Gershom_Sizomu?oldid=1027457583&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "6398"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Gershom Sizomu"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/American_Jewish_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/Islamic_University_in_Uganda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/residence",
+        "object": "http://dbpedia.org/resource/Uganda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/residence",
+        "object": "http://dbpedia.org/resource/Abayudaya"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://dbpedia.org/ontology/termPeriod",
+        "object": "http://dbpedia.org/resource/Gershom_Sizomu__Tenure__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Gershom_Sizomu>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Gershom_Sizomu"
+    }
+]

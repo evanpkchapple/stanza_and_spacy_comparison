@@ -1,0 +1,602 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanEthicists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatAmericanTheologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatLivingPeople"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Alumnus109786338"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Communicator109610660"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Ethicist110065066"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Philosopher110423589"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatHarvardUniversityAlumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishAmericanWriters"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishTheologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Writer110794014"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Theologian110705615"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatPhilosophersOfJudaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatProcessTheologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Bradley Shavit Artson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Bradley Shavit \"Brad\" Artson (born 1959) is an American rabbi, author and speaker. He holds the Abner and Roslyn Goldstine Dean's Chair of the Ziegler School of Rabbinic Studies at the American Jewish University in Los Angeles, California, where he is also Vice-President. He supervises the Louis and Judith Miller Introduction to Judaism Program and provides educational and religious oversight for two Camp Ramah campuses, Ojai and Monterey Bay. He is Dean of the Zacharias Frankel College at the University of Potsdam in Germany, ordaining Conservative/Masorti rabbis for Europe."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/BradArtson.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "San Francisco, California"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Process_theologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1959_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_University_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Clergy_from_San_Francisco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Harvard_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Theological_Seminary_of_America_semikhah_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Philosophers_of_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_theologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_ethicists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "7673913"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1118044372"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Jewish_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_philosophy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Process_theologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/David_Ellenson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1959_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_University_faculty"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Clergy_from_San_Francisco"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservative_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Miller_Introduction_to_Judaism_Program"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ziegler_School_of_Rabbinic_Studies"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Harvard_College_alumni"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_American_writers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leadership_Council_of_Conservative_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/List_of_American_philosophers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Alan_Cranston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_Union_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Harvard_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/The_Jewish_Journal_of_Greater_Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:21st-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Conservative_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_Theological_Seminary_of_America_semikhah_recipients"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Philosophers_of_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Jewish_theologians"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_ethicists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Theological_Seminary_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Zacharias_Frankel_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/University_of_Potsdam"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torah_Aura_Productions"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_Lights"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.jadio.org/artson.shtml"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://jewishjournal.com/culture/religion/185793/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.bradartson.com"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.walkingwith.org"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20100814204158/http:/www.ajula.edu/Content/ContentUnit.asp%3FCID=187&u=6277&t=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0268hyb"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/11550461"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Bradley_Shavit_Artson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/1044566760"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q4955032"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/4bFSn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_year_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/BradArtson.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/property/almaMater",
+        "object": "Harvard College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Bradley and Elana Shavit Artson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Rabbi, author, speaker"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Bradley Shavit \"Brad\" Artson (born 1959) is an American rabbi, author and speaker. He holds the Abner and Roslyn Goldstine Dean's Chair of the Ziegler School of Rabbinic Studies at the American Jewish University in Los Angeles, California, where he is also Vice-President. He supervises the Louis and Judith Miller Introduction to Judaism Program and provides educational and religious oversight for two Camp Ramah campuses, Ojai and Monterey Bay. He is Dean of the Zacharias Frankel College at the University of Potsdam in Germany, ordaining Conservative/Masorti rabbis for Europe."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/11550461"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Bradley_Shavit_Artson?oldid=1118044372&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "7330"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1959"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/almaMater",
+        "object": "http://dbpedia.org/resource/Harvard_College"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Bradley_Shavit_Artson__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Bradley_Shavit_Artson>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Bradley_Shavit_Artson"
+    }
+]

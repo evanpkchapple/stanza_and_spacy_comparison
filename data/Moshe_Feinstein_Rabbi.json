@@ -1,0 +1,1577 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatBibleCommentators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatSovietEmigrantsToTheUnitedStates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/CausalAgent100007347"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Emigrant110051975"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Expert109617867"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Intellectual109621545"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/LivingThing100004258"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Migrant110314952"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Object100002684"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Observer110369528"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Organism100004475"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Person100007846"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Philosopher110423589"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/PhysicalEntity100001930"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/WikicatJewishPhilosophers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActor"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/YagoLegalActorGeo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Scholar110557854"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Traveler109629752"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/class/yago/Whole100003553"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Moshe Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Moshe Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Mosh\u00e9 Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Moshe Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Moshe Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Moshe Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "Moshe Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0424\u0430\u0439\u043d\u0448\u0442\u0435\u0439\u043d, \u041c\u043e\u0448\u0435"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "\u0424\u0430\u0439\u043d\u0448\u0442\u0435\u0439\u043d \u041c\u043e\u0448\u0435"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Rabbi Moshe Feinstein (geboren 3. M\u00e4rz 1895 in Usda nahe Minsk; gestorben 23. M\u00e4rz 1986 in New York) war ein weltber\u00fchmter litauischer orthodoxer Rabbi, f\u00fchrende halachische Kapazit\u00e4t, und zu seinen Lebzeiten de facto die h\u00f6chste rabbinische Autorit\u00e4t (Gadol Hador) der Orthodoxie Nordamerikas."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Moshe Feinstein (en hebreo: \u05de\u05e9\u05d4 \u05e4\u05d9\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df) (Gobernaci\u00f3n de Minsk, 3 de marzo de 1895 - Nueva York, 23 de marzo de 1986), fue un rabino ortodoxo, un erudito de la ley jud\u00eda, la Halaj\u00e1 y un Posek, (una persona que toma decisiones), est\u00e1 considerado como una autoridad por los jud\u00edos ortodoxos de Am\u00e9rica, que se refieren a \u00e9l simplemente como Rev Moshe. Sus decisiones jur\u00eddicas son ampliamente citadas en la literatura rab\u00ednica.\u200b\u200b\u200b\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Le Rav Moshe Feinstein (h\u00e9breu : \u05de\u05e9\u05d4 \u05e4\u05d9\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df), dit Harav Moshe ou Reb Mo\u00efshe, est un rabbin et Rosh Yeshiva haredi lituanien du XXe si\u00e8cle (3 mars 1895 - 23 mars 1986). \u00c9minent talmudiste et d\u00e9cisionnaire en mati\u00e8re de Loi juive, son expertise en Halakha, mondialement reconnue, en a fait de facto l'autorit\u00e9 rabbinique supr\u00eame pour les Juifs orthodoxes. il fut pr\u00e9sident de la Moetzes Gedolei HaTorah."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Moshe Feinstein \u2013 in ebraico: \u05de\u05e9\u05d4 \u05e4\u05d9\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df\u200e?, noto anche come Rabbi Moshe, Rav Moshe, Reb Moshe (Voblasc' di Minsk, 3 marzo 1895 \u2013 New York, 23 marzo 1986), ebreo ortodosso, studioso della Halakhah e rinomato Posek (decisore), stimato come l'autorit\u00e0 suprema de facto degli ebrei ortodossi d'America, che si riferiscono a lui semplicemente col titolo \"Reb Moshe\". Le sue decisioni giuridiche sono vastamente citate nella letteratura rabbinica."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Moshe Feinstein (ur. 3 marca 1895 w Uzda, zm. 23 marca 1986 w Nowym Jorku) \u2013 by\u0142 ortodoksyjnym rabinem, uczonym i posekiem, znanym ze swojej wiedzy w Halacha. Najwi\u0119kszy halachicki autorytet drugiej po\u0142owy XX wieku w Ameryce, jak i poza jej granicami."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u041c\u043e\u0448\u0435 (\u041c\u043e\u0439\u0448\u0435) \u0424\u0430\u0439\u043d\u0448\u0442\u0435\u0439\u043d (1895, \u0423\u0437\u0434\u0430, \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u041c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f \u2014 1986, \u041d\u044c\u044e-\u0419\u043e\u0440\u043a) \u2014 \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0438\u0439 \u0433\u0430\u043b\u0430\u0445\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u0440\u0438\u0442\u0435\u0442 \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u043e\u0433\u043e \u043d\u0430\u0440\u043e\u0434\u0430 \u0432\u0442\u043e\u0440\u043e\u0439 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u044b XX \u0432\u0435\u043a\u0430 \u0432 \u0446\u0435\u043b\u043e\u043c \u0438 \u0435\u0432\u0440\u0435\u0439\u0441\u0442\u0432\u0430 \u0410\u043c\u0435\u0440\u0438\u043a\u0438 \u0432 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438, \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 \u0421\u043e\u044e\u0437\u0430 \u043e\u0440\u0442\u043e\u0434\u043e\u043a\u0441\u0430\u043b\u044c\u043d\u044b\u0445 \u0440\u0430\u0432\u0432\u0438\u043d\u043e\u0432 \u0438 \u043f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u044c \u0421\u043e\u0432\u0435\u0442\u0430 \u0437\u043d\u0430\u0442\u043e\u043a\u043e\u0432 \u0422\u043e\u0440\u044b \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0446\u0435\u043d\u0442\u0440\u0430 \u0410\u0433\u0443\u0434\u0434\u0430\u0442 \u0418\u0441\u0440\u0430\u044d\u043b\u044c, \u0413\u043b\u0430\u0432\u0430 \u0438\u0435\u0448\u0438\u0432\u044b \u00ab\u041c\u0435\u0441\u0438\u0432\u0442\u0430 \u0422\u0438\u0444\u0435\u0440\u0435\u0441 \u0419\u0435\u0440\u0443\u0448\u0430\u043b\u0430\u0438\u043c\u00bb \u0432 \u041d\u044c\u044e-\u0419\u043e\u0440\u043a\u0435."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "\u041c\u043e\u0448\u0435 \u0424\u0430\u0439\u043d\u0448\u0442\u0435\u0439\u043d (3 \u0431\u0435\u0440\u0435\u0437\u043d\u044f 1895, \u0423\u0437\u0434\u0430 \u2014 23 \u0431\u0435\u0440\u0435\u0437\u043d\u044f 1986, \u041d\u044c\u044e-\u0419\u043e\u0440\u043a) \u2014 \u043d\u0430\u0439\u0431\u0456\u043b\u044c\u0448\u0438\u0439 \u0433\u0430\u043b\u0430\u0445\u0456\u0447\u043d\u0438\u0439 \u0430\u0432\u0442\u043e\u0440\u0438\u0442\u0435\u0442 \u0434\u0440\u0443\u0433\u043e\u0457 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u0438 XX \u0441\u0442\u043e\u043b\u0456\u0442\u0442\u044f \u0432 \u0446\u0456\u043b\u043e\u043c\u0443 \u0442\u0430 \u0454\u0432\u0440\u0435\u0439\u0441\u0442\u0432\u0430 \u0410\u043c\u0435\u0440\u0438\u043a\u0438 \u0437\u043e\u043a\u0440\u0435\u043c\u0430, \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 \u0421\u043e\u044e\u0437\u0443 \u043e\u0440\u0442\u043e\u0434\u043e\u043a\u0441\u0430\u043b\u044c\u043d\u0438\u0445 \u0440\u0430\u0431\u0438\u043d\u0456\u0432 \u0456 \u0433\u043e\u043b\u043e\u0432\u0430 \u0420\u0430\u0434\u0438 \u043c\u0443\u0434\u0440\u0435\u0446\u0456\u0432 \u0422\u043e\u0440\u0438 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u043e\u0433\u043e \u0446\u0435\u043d\u0442\u0440\u0443 \u00ab\u0410\u0491\u0443\u0434\u0430\u0442 \u0406\u0441\u0440\u0430\u0435\u043b\u044c\u00bb. \u0413\u043b\u0430\u0432\u0430 \u0454\u0448\u0438\u0432\u0438 \u00ab\u041c\u0435\u0442\u0456\u0432\u0442\u0430 \u0422\u0456\u0444\u0435\u0440\u0435\u0442 \u0404\u0440\u0443\u0448\u0430\u043b\u0430\u0439\u043c\u00bb \u0432 \u041d\u044c\u044e-\u0419\u043e\u0440\u043a\u0443."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Moshe Feinstein (Hebrew: \u05de\u05e9\u05d4 \u05e4\u05f2\u05b7\u05e0\u05e9\u05d8\u05d9\u05d9\u05df; Lithuanian pronunciation: Moshe Faynshteyn; English: Moses Feinstein; March 3, 1895 \u2013 March 23, 1986) was an American Orthodox rabbi, scholar, and posek (authority on halakha\u2014Jewish law). He has been called the most famous Orthodox Jewish legal authority of the twentieth century and his rulings are often referenced in contemporary rabbinic literature. Feinstein served as president of the Union of Orthodox Rabbis, Chairman of the Council of the Moetzes Gedolei HaTorah of the Agudath Israel of America, and head of Mesivtha Tifereth Jerusalem in New York."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "Moshe Feinstein (bahasa Ibrani: \u05de\u05e9\u05d4 \u05e4\u05f2\u05b7\u05e0\u05e9\u05d8\u05d9\u05d9\u05df\u200e; pengucapan Lituania: Moshe Faynshteyn; bahasa Inggris: Moses Feinstein; 3 Maret 1895 \u2013 23 Maret 1986) adalah seorang rabi, cendekiawan, dan (otoritas atas halakha\u2014hukum Yahudi) Ortodoks Amerika Serikat. Ia disebut sebagai otoritas hukum Yahudi Ortodoks terkenal pada abad kedua puluh dan aturan-aturannya sering kali durjuk dalam kontemporer. Feinstein menjabat sebagai presiden , Ketua Dewan dari , dan kepala di New York."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+        "object": "http://dbpedia.org/resource/List_of_rulings_by_Moshe_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "Moshe Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "Moshe Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2003/01/geo/wgs84_pos#lat",
+        "object": "31.79999923706055"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2003/01/geo/wgs84_pos#long",
+        "object": "35.18333435058594"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/\u05d4\u05d2\u05d0\u05d5\u05df_\u05e8\u05d1\u05d9_\u05de\u05e9\u05d4_\u05e4\u05d9\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df_\u05e2\u05dc_\u05dc\u05d9\u05de\u05d5\u05d3_\u05de\u05e9\u05e0\u05d4_\u05d9\u05d5\u05de\u05d9\u05ea_\u05d5\u05dc\u05d9\u05de\u05d5\u05d3_\u05d4\u05dc\u05db\u05d4_\u05d9\u05d5\u05de\u05d9\u05ea.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Reb_Moshe_Feinstein.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Crop-\u05de\u05d9\u05d9\u05e1\u05d3_\u05dc\u05d9\u05de\u05d5\u05d3_\u05de\u05e9\u05e0\u05d4_\u05d9\u05d5\u05de\u05d9\u05ea_\u05d4\u05dc\u05db\u05d4_\u05d9\u05d5\u05de\u05d9\u05ea_\u05e8\u05d1\u05d9_\u05d9\u05d5\u05e0\u05d4_\u05e9\u05d8\u05e0\u05e6\u05dc_\u05de\u05e9\u05de\u05d0\u05dc_\u05e2\u05dd_\u05e8\u05d1\u05d9_\u05de\u05e9\u05d4_\u05e4\u05d9\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df_\u05d1\u05d0\u05de\u05e6\u05e2.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Grave_of_Moses_Feinstein.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/\u05e8\u05d1\u05d9_\u05d9\u05d5\u05e0\u05d4_\u05e9\u05d8\u05e0\u05e6\u05dc_\u05d1\u05d7\u05d5\u05e4\u05d4_\u05e2\u05dd_\u05e8\u05d1\u05d9_\u05de\u05e9\u05d4_\u05e4\u05d9\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Belarus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Uzda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Russian_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Minsk_Governorate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/deathPlace",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/deathPlace",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/deathDate",
+        "object": "1986-03-23"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Uzda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Russian_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "http://dbpedia.org/resource/Minsk_Governorate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1895-03-03"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1895_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Uzda_District"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_Igumensky_Uyezd"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Moshe_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1986_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Belarusian-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Bible_commentators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Belarusian_Haredi_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Burials_at_Har_HaMenuchot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_Haredi_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Authors_of_books_on_Jewish_law"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Jewish_medical_ethics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Moetzes_Gedolei_HaTorah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Orthodox_rabbis_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Soviet_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Manhattan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Russian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_from_the_Lower_East_Side"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "6187180"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1114253222"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ephraim_Greenblatt"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lower_East_Side,_Manhattan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moshe_Dovid_Tendler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belarus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Belz_(Hasidic_dynasty)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Biology"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_midrash"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lithuanian_Jews"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Uzda"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Leviticus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1895_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Memphis,_Tennessee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Russian_Empire"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chicago_Rabbinical_Council"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Uzda_District"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Posek"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_Igumensky_Uyezd"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minsk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Minsk_Governorate"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Monsey,_New_York"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moses"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moshe_David_Tendler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moshe_Teitelbaum_(Satmar)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Conservative_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Moshe_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hoboken,_NJ"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lyuban,_Belarus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Manhattan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Chinuch_Atzmai"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shlomo_Zalman_Auerbach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shraga_Moshe_Kalmanowitz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Slutsk"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mechitza"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1986_deaths"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_American_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_people_of_Belarusian-Jewish_descent"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Bible_commentators"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aharon_Rokeach"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Belarusian_Haredi_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Burials_at_Har_HaMenuchot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Torah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem_Talmud"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Adar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Agudath_Israel_of_America"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Aharon_Kotler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nisson_Alpert"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isaiah_Horowitz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Journal_of_Halacha_and_Contemporary_Society"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kensington,_Brooklyn"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shimon_Eider"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reuven_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vilna_Gaon"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Reform_Judaism"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halakha"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Har_HaMenuchot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Hebrew_calendar"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Isser_Zalman_Meltzer"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jackie_Mason"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talmid_Chacham"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talmudic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Tennessee"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Association_of_Orthodox_Jewish_Scientists"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_Haredi_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Authors_of_books_on_Jewish_law"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Jewish_medical_ethics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Moetzes_Gedolei_HaTorah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Orthodox_rabbis_from_New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Soviet_emigrants_to_the_United_States"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Writers_from_Manhattan"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:20th-century_Russian_rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_from_the_Lower_East_Side"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jerusalem,_Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lanham,_MD"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Moetzes_Gedolei_HaTorah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dovid_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dovid_Lifshitz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Avraham_Yoffen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Avrohom_Blumenkrantz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Soviet_Union"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/New_York_City"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Orthodox_Union"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbi_Isaac_Elchanan_Theological_Seminary"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbinic_literature"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rashi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sefer_(Hebrew)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva_University"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mesivtha_Tifereth_Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rishonim"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Union_of_Orthodox_Rabbis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yom-Tov_Lipmann_Heller"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rosh_yeshiva"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Concordia_University_(Quebec)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Talmud"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pesach_Pruskin"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Halachic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/History_of_responsa"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yeshiva_of_Staten_Island"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shklov"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Rabbinics"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yitzchak_Zev_Soloveitchik"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Igrot_Moshe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Jewish_law_and_history_on_smoking"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Union_of_Orthodox_Rabbis_of_the_United_States_and_Canada"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Faye_Shisgal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Pesach_Chaim_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shifra_Tendler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yaakov_Yitzchak_Ruderman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Beth_Medrash_Ltorah_V'Lhorah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Cong._Ahavath_Achim_of_Flatbush"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Crop-\u05de\u05d9\u05d9\u05e1\u05d3_\u05dc\u05d9\u05de\u05d5\u05d3_\u05de\u05e9\u05e0\u05d4_\u05d9\u05d5\u05de\u05d9\u05ea_\u05d4\u05dc\u05db\u05d4_\u05d9\u05d5\u05de\u05d9\u05ea_\u05e8\u05d1\u05d9_\u05d9\u05d5\u05e0\u05d4_\u05e9\u05d8\u05e0\u05e6\u05dc_\u05de\u05e9\u05de\u05d0\u05dc_\u05e2\u05dd_\u05e8\u05d1\u05d9_\u05de\u05e9\u05d4_\u05e4\u05d9\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df_\u05d1\u05d0\u05de\u05e6\u05e2.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:\u05e8\u05d1\u05d9_\u05d9\u05d5\u05e0\u05d4_\u05e9\u05d8\u05e0\u05e6\u05dc_\u05d1\u05d7\u05d5\u05e4\u05d4_\u05e2\u05dd_\u05e8\u05d1\u05d9_\u05de\u05e9\u05d4_\u05e4\u05d9\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df.JPG"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Michel_Barenbaum"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mordecai_Tendler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Timkovichi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yaakov_Kantrowitz"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Grave_of_Moses_Feinstein.jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:\u05d4\u05d2\u05d0\u05d5\u05df_\u05e8\u05d1\u05d9_\u05de\u05e9\u05d4_\u05e4\u05d9\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df_\u05e2\u05dc_\u05dc\u05d9\u05de\u05d5\u05d3_\u05de\u05e9\u05e0\u05d4_\u05d9\u05d5\u05de\u05d9\u05ea_\u05d5\u05dc\u05d9\u05de\u05d5\u05d3_\u05d4\u05dc\u05db\u05d4_\u05d9\u05d5\u05de\u05d9\u05ea.JPG"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.psak.org/"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://judaism.stackexchange.com/questions/57624/which-sections-of-igros-moshe-are-in-which-volumes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "https://web.archive.org/web/20071202190259/http:/www.huc.edu/faculty/faculty/washofsky/responsaandtheartofwriting.pdf"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.chareidi.org/archives5761/tezave/features.htm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.rabbimeirbaalhaneis.com/Rabbi%20Moshe%20Feinstein.asp"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://hebrewbooks.org"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageExternalLink",
+        "object": "http://www.ou.org/about/judaism/rabbis/feinstein.htm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://rdf.freebase.com/ns/m.0fvtlh"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yago-knowledge.org/resource/Moshe_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/130300535"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://viaf.org/viaf/70033441"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://d-nb.info/gnd/105409571X"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q1391598"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://data.bibliotheken.nl/id/thes/p191682217"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://arz.dbpedia.org/resource/\u0645\u0648\u0634_\u0641\u064a\u0646\u0633\u062a\u064a\u0646"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://be.dbpedia.org/resource/\u041c\u043e\u0448\u044d_\u0424\u0430\u0439\u043d\u0448\u0442\u044d\u0439\u043d"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://de.dbpedia.org/resource/Moshe_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://es.dbpedia.org/resource/Mosh\u00e9_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fa.dbpedia.org/resource/\u0645\u0648\u0634\u0647_\u0641\u06cc\u0646\u0634\u062a\u0627\u06cc\u0646"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://fr.dbpedia.org/resource/Moshe_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://he.dbpedia.org/resource/\u05de\u05e9\u05d4_\u05e4\u05d9\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://id.dbpedia.org/resource/Moshe_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://it.dbpedia.org/resource/Moshe_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://pl.dbpedia.org/resource/Moshe_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://ru.dbpedia.org/resource/\u0424\u0430\u0439\u043d\u0448\u0442\u0435\u0439\u043d,_\u041c\u043e\u0448\u0435"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://uk.dbpedia.org/resource/\u0424\u0430\u0439\u043d\u0448\u0442\u0435\u0439\u043d_\u041c\u043e\u0448\u0435"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://yi.dbpedia.org/resource/\u05de\u05e9\u05d4_\u05e4\u05d9\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/QMus"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Moetzes_Gedolei_HaTorah"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Authority_control"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Citation_needed"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_book"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_thesis"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Cite_web"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Coord"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:ISBN"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:See_also"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Death_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commentators_on_the_Jerusalem_Talmud"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Reb_Moshe_Feinstein.jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/restingPlace",
+        "object": "http://dbpedia.org/resource/Har_HaMenuchot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/restingPlace",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/restingPlace",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1895-03-03"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "Moshe Feinstein at his desk in the bais medrash of Mesivtha Tifereth Jerusalem."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "http://dbpedia.org/resource/Reuven_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "http://dbpedia.org/resource/Dovid_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "http://dbpedia.org/resource/Faye_Shisgal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "http://dbpedia.org/resource/Pesach_Chaim_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/children",
+        "object": "http://dbpedia.org/resource/Shifra_Tendler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/deathDate",
+        "object": "1986-03-23"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/honorificPrefix",
+        "object": "Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/imageSize",
+        "object": "250"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "Igros Moshe, various rulings in Jewish law"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Posek"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/otherNames",
+        "object": "Rav Moshe, Reb Moshe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/spouse",
+        "object": "Shima Kustanovitch"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.georss.org/georss/point",
+        "object": "31.8 35.183333"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/restingPlacePosition",
+        "object": "http://dbpedia.org/resource/Moshe_Feinstein__restingPlacePosition__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Rabbi Moshe Feinstein (geboren 3. M\u00e4rz 1895 in Usda nahe Minsk; gestorben 23. M\u00e4rz 1986 in New York) war ein weltber\u00fchmter litauischer orthodoxer Rabbi, f\u00fchrende halachische Kapazit\u00e4t, und zu seinen Lebzeiten de facto die h\u00f6chste rabbinische Autorit\u00e4t (Gadol Hador) der Orthodoxie Nordamerikas."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Moshe Feinstein (en hebreo: \u05de\u05e9\u05d4 \u05e4\u05d9\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df) (Gobernaci\u00f3n de Minsk, 3 de marzo de 1895 - Nueva York, 23 de marzo de 1986), fue un rabino ortodoxo, un erudito de la ley jud\u00eda, la Halaj\u00e1 y un Posek, (una persona que toma decisiones), est\u00e1 considerado como una autoridad por los jud\u00edos ortodoxos de Am\u00e9rica, que se refieren a \u00e9l simplemente como Rev Moshe. Sus decisiones jur\u00eddicas son ampliamente citadas en la literatura rab\u00ednica.\u200b\u200b\u200b\u200b"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Moshe Feinstein (Hebrew: \u05de\u05e9\u05d4 \u05e4\u05f2\u05b7\u05e0\u05e9\u05d8\u05d9\u05d9\u05df; Lithuanian pronunciation: Moshe Faynshteyn; English: Moses Feinstein; March 3, 1895 \u2013 March 23, 1986) was an American Orthodox rabbi, scholar, and posek (authority on halakha\u2014Jewish law). He has been called the most famous Orthodox Jewish legal authority of the twentieth century and his rulings are often referenced in contemporary rabbinic literature. Feinstein served as president of the Union of Orthodox Rabbis, Chairman of the Council of the Moetzes Gedolei HaTorah of the Agudath Israel of America, and head of Mesivtha Tifereth Jerusalem in New York. Widely acclaimed in the Orthodox world for his gentleness and compassion, Feinstein is commonly referred to simply as \"Reb Moshe\" (or \"Rav Moshe\")."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Le Rav Moshe Feinstein (h\u00e9breu : \u05de\u05e9\u05d4 \u05e4\u05d9\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df), dit Harav Moshe ou Reb Mo\u00efshe, est un rabbin et Rosh Yeshiva haredi lituanien du XXe si\u00e8cle (3 mars 1895 - 23 mars 1986). \u00c9minent talmudiste et d\u00e9cisionnaire en mati\u00e8re de Loi juive, son expertise en Halakha, mondialement reconnue, en a fait de facto l'autorit\u00e9 rabbinique supr\u00eame pour les Juifs orthodoxes. il fut pr\u00e9sident de la Moetzes Gedolei HaTorah."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Moshe Feinstein (bahasa Ibrani: \u05de\u05e9\u05d4 \u05e4\u05f2\u05b7\u05e0\u05e9\u05d8\u05d9\u05d9\u05df\u200e; pengucapan Lituania: Moshe Faynshteyn; bahasa Inggris: Moses Feinstein; 3 Maret 1895 \u2013 23 Maret 1986) adalah seorang rabi, cendekiawan, dan (otoritas atas halakha\u2014hukum Yahudi) Ortodoks Amerika Serikat. Ia disebut sebagai otoritas hukum Yahudi Ortodoks terkenal pada abad kedua puluh dan aturan-aturannya sering kali durjuk dalam kontemporer. Feinstein menjabat sebagai presiden , Ketua Dewan dari , dan kepala di New York. Banyak disambut di dunia Ortodoks karena keberanian dan ketaatannya, Feinstein umum disebut sebagai \"Reb Moshe\" (atau \"Rav Moshe\")."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Moshe Feinstein \u2013 in ebraico: \u05de\u05e9\u05d4 \u05e4\u05d9\u05d9\u05e0\u05e9\u05d8\u05d9\u05d9\u05df\u200e?, noto anche come Rabbi Moshe, Rav Moshe, Reb Moshe (Voblasc' di Minsk, 3 marzo 1895 \u2013 New York, 23 marzo 1986), ebreo ortodosso, studioso della Halakhah e rinomato Posek (decisore), stimato come l'autorit\u00e0 suprema de facto degli ebrei ortodossi d'America, che si riferiscono a lui semplicemente col titolo \"Reb Moshe\". Le sue decisioni giuridiche sono vastamente citate nella letteratura rabbinica."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "Moshe Feinstein (ur. 3 marca 1895 w Uzda, zm. 23 marca 1986 w Nowym Jorku) \u2013 by\u0142 ortodoksyjnym rabinem, uczonym i posekiem, znanym ze swojej wiedzy w Halacha. Najwi\u0119kszy halachicki autorytet drugiej po\u0142owy XX wieku w Ameryce, jak i poza jej granicami."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u041c\u043e\u0448\u0435 (\u041c\u043e\u0439\u0448\u0435) \u0424\u0430\u0439\u043d\u0448\u0442\u0435\u0439\u043d (1895, \u0423\u0437\u0434\u0430, \u0441\u043e\u0432\u0440\u0435\u043c\u0435\u043d\u043d\u0430\u044f \u041c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f \u2014 1986, \u041d\u044c\u044e-\u0419\u043e\u0440\u043a) \u2014 \u043a\u0440\u0443\u043f\u043d\u0435\u0439\u0448\u0438\u0439 \u0433\u0430\u043b\u0430\u0445\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u0440\u0438\u0442\u0435\u0442 \u0435\u0432\u0440\u0435\u0439\u0441\u043a\u043e\u0433\u043e \u043d\u0430\u0440\u043e\u0434\u0430 \u0432\u0442\u043e\u0440\u043e\u0439 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u044b XX \u0432\u0435\u043a\u0430 \u0432 \u0446\u0435\u043b\u043e\u043c \u0438 \u0435\u0432\u0440\u0435\u0439\u0441\u0442\u0432\u0430 \u0410\u043c\u0435\u0440\u0438\u043a\u0438 \u0432 \u0447\u0430\u0441\u0442\u043d\u043e\u0441\u0442\u0438, \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 \u0421\u043e\u044e\u0437\u0430 \u043e\u0440\u0442\u043e\u0434\u043e\u043a\u0441\u0430\u043b\u044c\u043d\u044b\u0445 \u0440\u0430\u0432\u0432\u0438\u043d\u043e\u0432 \u0438 \u043f\u0440\u0435\u0434\u0441\u0435\u0434\u0430\u0442\u0435\u043b\u044c \u0421\u043e\u0432\u0435\u0442\u0430 \u0437\u043d\u0430\u0442\u043e\u043a\u043e\u0432 \u0422\u043e\u0440\u044b \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0433\u043e \u0446\u0435\u043d\u0442\u0440\u0430 \u0410\u0433\u0443\u0434\u0434\u0430\u0442 \u0418\u0441\u0440\u0430\u044d\u043b\u044c, \u0413\u043b\u0430\u0432\u0430 \u0438\u0435\u0448\u0438\u0432\u044b \u00ab\u041c\u0435\u0441\u0438\u0432\u0442\u0430 \u0422\u0438\u0444\u0435\u0440\u0435\u0441 \u0419\u0435\u0440\u0443\u0448\u0430\u043b\u0430\u0438\u043c\u00bb \u0432 \u041d\u044c\u044e-\u0419\u043e\u0440\u043a\u0435."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "\u041c\u043e\u0448\u0435 \u0424\u0430\u0439\u043d\u0448\u0442\u0435\u0439\u043d (3 \u0431\u0435\u0440\u0435\u0437\u043d\u044f 1895, \u0423\u0437\u0434\u0430 \u2014 23 \u0431\u0435\u0440\u0435\u0437\u043d\u044f 1986, \u041d\u044c\u044e-\u0419\u043e\u0440\u043a) \u2014 \u043d\u0430\u0439\u0431\u0456\u043b\u044c\u0448\u0438\u0439 \u0433\u0430\u043b\u0430\u0445\u0456\u0447\u043d\u0438\u0439 \u0430\u0432\u0442\u043e\u0440\u0438\u0442\u0435\u0442 \u0434\u0440\u0443\u0433\u043e\u0457 \u043f\u043e\u043b\u043e\u0432\u0438\u043d\u0438 XX \u0441\u0442\u043e\u043b\u0456\u0442\u0442\u044f \u0432 \u0446\u0456\u043b\u043e\u043c\u0443 \u0442\u0430 \u0454\u0432\u0440\u0435\u0439\u0441\u0442\u0432\u0430 \u0410\u043c\u0435\u0440\u0438\u043a\u0438 \u0437\u043e\u043a\u0440\u0435\u043c\u0430, \u043f\u0440\u0435\u0437\u0438\u0434\u0435\u043d\u0442 \u0421\u043e\u044e\u0437\u0443 \u043e\u0440\u0442\u043e\u0434\u043e\u043a\u0441\u0430\u043b\u044c\u043d\u0438\u0445 \u0440\u0430\u0431\u0438\u043d\u0456\u0432 \u0456 \u0433\u043e\u043b\u043e\u0432\u0430 \u0420\u0430\u0434\u0438 \u043c\u0443\u0434\u0440\u0435\u0446\u0456\u0432 \u0422\u043e\u0440\u0438 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u043e\u0433\u043e \u0446\u0435\u043d\u0442\u0440\u0443 \u00ab\u0410\u0491\u0443\u0434\u0430\u0442 \u0406\u0441\u0440\u0430\u0435\u043b\u044c\u00bb. \u0413\u043b\u0430\u0432\u0430 \u0454\u0448\u0438\u0432\u0438 \u00ab\u041c\u0435\u0442\u0456\u0432\u0442\u0430 \u0422\u0456\u0444\u0435\u0440\u0435\u0442 \u0404\u0440\u0443\u0448\u0430\u043b\u0430\u0439\u043c\u00bb \u0432 \u041d\u044c\u044e-\u0419\u043e\u0440\u043a\u0443."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/property/employer",
+        "object": "http://dbpedia.org/resource/Mesivtha_Tifereth_Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://purl.org/linguistics/gold/hypernym",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://schema.org/sameAs",
+        "object": "http://viaf.org/viaf/70033441"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/Moshe_Feinstein?oldid=1114253222&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "20737"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/restingPlace",
+        "object": "http://dbpedia.org/resource/Har_HaMenuchot"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/restingPlace",
+        "object": "http://dbpedia.org/resource/Israel"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/restingPlace",
+        "object": "http://dbpedia.org/resource/Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/alias",
+        "object": "Rav Moshe, Reb Moshe"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1895"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/deathYear",
+        "object": "1986"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/employer",
+        "object": "http://dbpedia.org/resource/Mesivtha_Tifereth_Jerusalem"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/child",
+        "object": "http://dbpedia.org/resource/Reuven_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/child",
+        "object": "http://dbpedia.org/resource/Dovid_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/child",
+        "object": "http://dbpedia.org/resource/Faye_Shisgal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/child",
+        "object": "http://dbpedia.org/resource/Pesach_Chaim_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/child",
+        "object": "http://dbpedia.org/resource/Shifra_Tendler"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Posek"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Rabbi"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Moshe_Feinstein__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/Moshe_Feinstein"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/Moshe_Feinstein>",
+        "predicate": "http://www.w3.org/2003/01/geo/wgs84_pos#geometry",
+        "object": "POINT(35.183334350586 31.799999237061)"
+    }
+]
