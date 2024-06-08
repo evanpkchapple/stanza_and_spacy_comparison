@@ -1,0 +1,627 @@
+[
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.w3.org/2002/07/owl#Thing"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://xmlns.com/foaf/0.1/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.ontologydesignpatterns.org/ont/dul/DUL.owl#NaturalPerson"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q19088"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q215627"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q5"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://www.wikidata.org/entity/Q729"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Animal"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Eukaryote"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://dbpedia.org/ontology/Species"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+        "object": "http://schema.org/Person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#label",
+        "object": "A'keria C. Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://www.w3.org/2000/01/rdf-schema#comment",
+        "object": "A'keria Chanel Davenport (born March 1, 1988) is the stage name of Gregory D'Wayne, an American drag queen best known for competing on the eleventh season of RuPaul's Drag Race (2019) and the sixth season of RuPaul's Drag Race All Stars (2021). As a professional entertainer, she has won several national titles in drag pageantry systems, including Miss Black Universe in 2017. Davenport was recognized by Dallas Voice as a Texan of the Year in 2019."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://xmlns.com/foaf/0.1/name",
+        "object": "A'keria Chanel Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/name",
+        "object": "A'keria Chanel Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dragcon-2_(47937194626).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://xmlns.com/foaf/0.1/depiction",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dragcon2-SAT-147_(47937164867)_(cropped).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Dallas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/birthPlace",
+        "object": "http://dbpedia.org/resource/Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/birthPlace",
+        "object": "Dallas, Texas, U.S."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/birthDate",
+        "object": "1988-03-01"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:1988_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Entertainers_from_Dallas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Entertainers_from_Houston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:People_who_detransitioned"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://purl.org/dc/terms/subject",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageID",
+        "object": "60072915"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageRevisionID",
+        "object": "1123020816"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race:_Untucked"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_(season_11)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars_(season_6)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Scarlet_Envy"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Honey_Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Juice_(Lizzo_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vanessa_Vanjie_Mateo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Living_people"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sahara_Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Mon\u00e9t_X_Change"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dallas_Voice"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/2019_MTV_Video_Music_Awards"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lizzo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Los_Angeles"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Shuga_Cain"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Silky_Nutmeg_Ganache"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Yvie_Oddly"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Strut_(Sheena_Easton_song)"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:1988_births"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:African-American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:American_drag_queens"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Entertainers_from_Dallas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Entertainers_from_Houston"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:Gay_entertainers"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:LGBT_people_from_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:People_who_detransitioned"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_All_Stars_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Category:RuPaul's_Drag_Race_contestants"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Brooke_Lynn_Hytes"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/COVID-19_pandemic"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Lip_sync"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/American_Horror_Story"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Dallas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ball_culture"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Nicki_Minaj"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul's_DragCon_LA"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Taylor_Swift"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Asia_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Katy,_Texas"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kennedy_Davenport"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Black_Lives_Matter"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Digital_Drag_Fest"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/RuPaul\u2019s_DragCon_NYC"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Kylie_Sonique_Love"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Ra'Jah_O'Hara"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Sheena_Easton"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/You_Need_to_Calm_Down"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Transgender_woman"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/Vanessa_Mateo"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageWikiLink",
+        "object": "http://dbpedia.org/resource/File:Dragcon-2_(47937194626).jpg"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "http://www.wikidata.org/entity/Q64157495"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://www.w3.org/2002/07/owl#sameAs",
+        "object": "https://global.dbpedia.org/id/9KtPm"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Abbr"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Commons_category-inline"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Infobox_person"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:N/A"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Reflist"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Short_description"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:URL"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Use_mdy_dates"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Win"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:Birth_date_and_age"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/wikiPageUsesTemplate",
+        "object": "http://dbpedia.org/resource/Template:RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/thumbnail",
+        "object": "http://commons.wikimedia.org/wiki/Special:FilePath/Dragcon2-SAT-147_(47937164867)_(cropped).jpg?width=300"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/birthDate",
+        "object": "1988-03-01"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/birthName",
+        "object": "Gregory D'Wayne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/caption",
+        "object": "A'keria C. Davenport in 2019"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race  contestant"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/knownFor",
+        "object": "RuPaul's Drag Race All Stars  contestant"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/nationality",
+        "object": "American"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": ""
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/occupation",
+        "object": "Drag queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/property/yearsActive",
+        "object": "2011"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/abstract",
+        "object": "A'keria Chanel Davenport (born March 1, 1988) is the stage name of Gregory D'Wayne, an American drag queen best known for competing on the eleventh season of RuPaul's Drag Race (2019) and the sixth season of RuPaul's Drag Race All Stars (2021). As a professional entertainer, she has won several national titles in drag pageantry systems, including Miss Black Universe in 2017. Davenport was recognized by Dallas Voice as a Texan of the Year in 2019."
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://www.w3.org/ns/prov#wasDerivedFrom",
+        "object": "http://en.wikipedia.org/wiki/A'keria_C._Davenport?oldid=1123020816&ns=0"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/wikiPageLength",
+        "object": "26707"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/activeYearsStartYear",
+        "object": "2011"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/birthName",
+        "object": "Gregory D'Wayne"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/birthYear",
+        "object": "1988"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/knownFor",
+        "object": "http://dbpedia.org/resource/RuPaul's_Drag_Race_All_Stars"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/Drag_queen"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://dbpedia.org/ontology/occupation",
+        "object": "http://dbpedia.org/resource/A'keria_C._Davenport__PersonFunction__1"
+    },
+    {
+        "subject": "<http://dbpedia.org/resource/A'keria_C._Davenport>",
+        "predicate": "http://xmlns.com/foaf/0.1/isPrimaryTopicOf",
+        "object": "http://en.wikipedia.org/wiki/A'keria_C._Davenport"
+    }
+]
