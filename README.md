@@ -118,6 +118,5 @@ print("Silhouette Coefficient: %0.3f" % metrics.silhouette_score(X_train_vec, pr
 
 ## Important Notes
 
-- **Absolute Paths**: Make sure to use absolute paths for all file operations as relative paths may cause issues.
 - **Time-Consuming Operations**: Some operations, particularly those involving large datasets and batch processing, can be time-consuming.
 
